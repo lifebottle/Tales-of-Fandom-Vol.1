@@ -1,0 +1,42 @@
+
+<SceneText>
+  <FriendlyName>Conversation_0364</FriendlyName>
+  <Strings>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset>0x126d71</PointerOffset>
+      <JapaneseText>ただ？</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x126d78</PointerOffset>
+      <JapaneseText>いいお天気だなーって思って。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x126d95</PointerOffset>
+      <JapaneseText>ふっ、……そうだね。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x126daa</PointerOffset>
+      <JapaneseText>いいお天気だ。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

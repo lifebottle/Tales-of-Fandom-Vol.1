@@ -1,0 +1,42 @@
+
+<SceneText>
+  <FriendlyName>Conversation_0308</FriendlyName>
+  <Strings>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset>0xf58e1</PointerOffset>
+      <JapaneseText>信じない</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0xf58eb</PointerOffset>
+      <JapaneseText>そっか、わかった！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0xf58fe</PointerOffset>
+      <JapaneseText>――みんな、今日はここまでにして帰ろう。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0xf5927</PointerOffset>
+      <JapaneseText>坊ちゃん、こいつの言う事を信じるん</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

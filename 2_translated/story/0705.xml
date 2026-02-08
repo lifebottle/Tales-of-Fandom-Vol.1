@@ -1,0 +1,50 @@
+
+<SceneText>
+  <FriendlyName>Conversation_0705</FriendlyName>
+  <Strings>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset>0x214fa2</PointerOffset>
+      <JapaneseText>そうね。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x214faf</PointerOffset>
+      <JapaneseText>でも、晶霊爆弾がしゃがんでいれば</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x214fd0</PointerOffset>
+      <JapaneseText>火傷しないっていうのは</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x214fea</PointerOffset>
+      <JapaneseText>さすがに気がつかなかったわ。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x215009</PointerOffset>
+      <JapaneseText>しゃがんでいると……？</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

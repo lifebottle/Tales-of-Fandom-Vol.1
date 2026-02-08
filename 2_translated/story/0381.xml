@@ -1,0 +1,18 @@
+
+<SceneText>
+  <FriendlyName>Conversation_0381</FriendlyName>
+  <Strings>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset>0x131b17</PointerOffset>
+      <JapaneseText>ミントの家。荷物を運ばなきゃならない</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

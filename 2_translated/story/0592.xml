@@ -1,0 +1,42 @@
+
+<SceneText>
+  <FriendlyName>Conversation_0592</FriendlyName>
+  <Strings>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset>0x1c0780</PointerOffset>
+      <JapaneseText>私の名前はプリムラ・ロッソ！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1c079f</PointerOffset>
+      <JapaneseText>インフェリアが誇る叡智の殿堂、</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1c07be</PointerOffset>
+      <JapaneseText>ミンツ大学で光晶霊術を専攻中の１７歳。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1c07e6</PointerOffset>
+      <JapaneseText>私、推理小説の「探偵さん」</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

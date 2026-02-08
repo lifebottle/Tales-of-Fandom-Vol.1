@@ -1,0 +1,26 @@
+
+<SceneText>
+  <FriendlyName>Conversation_1197</FriendlyName>
+  <Strings>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset>0x312695</PointerOffset>
+      <JapaneseText>あまつさえ格闘家なんて……、</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x3126b2</PointerOffset>
+      <JapaneseText>ヒロインっぽくないかな？　……ってさ。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

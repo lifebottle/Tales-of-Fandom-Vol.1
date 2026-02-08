@@ -1,0 +1,18 @@
+
+<SceneText>
+  <FriendlyName>Conversation_1154</FriendlyName>
+  <Strings>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset>0x2ff85b</PointerOffset>
+      <JapaneseText>おーい、クラースのだんな！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

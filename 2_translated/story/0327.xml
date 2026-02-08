@@ -1,0 +1,18 @@
+
+<SceneText>
+  <FriendlyName>Conversation_0327</FriendlyName>
+  <Strings>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset>0x1021fa</PointerOffset>
+      <JapaneseText>村を守ることを第一に考える</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

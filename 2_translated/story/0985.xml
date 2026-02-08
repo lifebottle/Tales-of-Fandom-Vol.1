@@ -1,0 +1,42 @@
+
+<SceneText>
+  <FriendlyName>Conversation_0985</FriendlyName>
+  <Strings>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset>0x2aa493</PointerOffset>
+      <JapaneseText>はぁい！　みなさんお待たせいたしました！テイルズ杯争奪ウィス決定戦でえっす！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x2aa4e1</PointerOffset>
+      <JapaneseText>各組の様子はこのアーチェさんがしっかり</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x2aa508</PointerOffset>
+      <JapaneseText>中継しちゃうからお聞き逃しなく〜♪</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x2aa52c</PointerOffset>
+      <JapaneseText>えーと、まずはクレス・ルーティ組からね。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

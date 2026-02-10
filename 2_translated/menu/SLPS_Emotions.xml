@@ -1,0 +1,45 @@
+<MenuText>
+  <Strings>
+    <Section>SLPS_Emotions</Section>
+    <Entry>
+      <PointerOffset>0xd5424</PointerOffset>
+      <JapaneseText>ジャンル</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0xd5430</PointerOffset>
+      <JapaneseText>パロディー</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0xd543c</PointerOffset>
+      <JapaneseText>ナンセンス</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0xd5448</PointerOffset>
+      <JapaneseText>ほのぼの</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0xd5454</PointerOffset>
+      <JapaneseText>シリアス</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</MenuText>

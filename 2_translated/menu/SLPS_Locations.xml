@@ -1,0 +1,109 @@
+<MenuText>
+  <Strings>
+    <Section>SLPS_Locations</Section>
+	<Entry>
+	  <PointerOffset>0xd548c</PointerOffset>
+	  <JapaneseText>風景・昼</JapaneseText>
+	  <EnglishText></EnglishText>
+	  <Notes/>
+	  <Id>1</Id>
+	  <Status>To Do</Status>
+	</Entry>
+	<Entry>
+	  <PointerOffset>0xd5498</PointerOffset>
+	  <JapaneseText>風景・夜</JapaneseText>
+	  <EnglishText></EnglishText>
+	  <Notes/>
+	  <Id>2</Id>
+	  <Status>To Do</Status>
+	</Entry>
+	<Entry>
+	  <PointerOffset>0xd54a4</PointerOffset>
+	  <JapaneseText>建物・昼</JapaneseText>
+	  <EnglishText></EnglishText>
+	  <Notes/>
+	  <Id>3</Id>
+	  <Status>To Do</Status>
+	</Entry>
+	<Entry>
+	  <PointerOffset>0xd54b0</PointerOffset>
+	  <JapaneseText>建物・夜</JapaneseText>
+	  <EnglishText></EnglishText>
+	  <Notes/>
+	  <Id>4</Id>
+	  <Status>To Do</Status>
+	</Entry>
+	<Entry>
+	  <PointerOffset>0xd54bc</PointerOffset>
+	  <JapaneseText>火山地帯</JapaneseText>
+	  <EnglishText></EnglishText>
+	  <Notes/>
+	  <Id>5</Id>
+	  <Status>To Do</Status>
+	</Entry>
+	<Entry>
+	  <PointerOffset>0xd54c8</PointerOffset>
+	  <JapaneseText>洞窟入口</JapaneseText>
+	  <EnglishText></EnglishText>
+	  <Notes/>
+	  <Id>6</Id>
+	  <Status>To Do</Status>
+	</Entry>
+	<Entry>
+	  <PointerOffset>0xd54d4</PointerOffset>
+	  <JapaneseText>砂漠の町</JapaneseText>
+	  <EnglishText></EnglishText>
+	  <Notes/>
+	  <Id>7</Id>
+	  <Status>To Do</Status>
+	</Entry>
+	<Entry>
+	  <PointerOffset>0xd54e0</PointerOffset>
+	  <JapaneseText>遺跡の扉</JapaneseText>
+	  <EnglishText></EnglishText>
+	  <Notes/>
+	  <Id>8</Id>
+	  <Status>To Do</Status>
+	</Entry>
+	<Entry>
+	  <PointerOffset>0xd54ec</PointerOffset>
+	  <JapaneseText>ログハウス</JapaneseText>
+	  <EnglishText></EnglishText>
+	  <Notes/>
+	  <Id>9</Id>
+	  <Status>To Do</Status>
+	</Entry>
+	<Entry>
+	  <PointerOffset>0xd54f8</PointerOffset>
+	  <JapaneseText>Ｋスタジアム</JapaneseText>
+	  <EnglishText></EnglishText>
+	  <Notes/>
+	  <Id>10</Id>
+	  <Status>To Do</Status>
+	</Entry>
+	<Entry>
+	  <PointerOffset>0xd5508</PointerOffset>
+	  <JapaneseText>パーティー会場</JapaneseText>
+	  <EnglishText></EnglishText>
+	  <Notes/>
+	  <Id>11</Id>
+	  <Status>To Do</Status>
+	</Entry>
+	<Entry>
+	  <PointerOffset>0xd5518</PointerOffset>
+	  <JapaneseText>カフェテリア</JapaneseText>
+	  <EnglishText></EnglishText>
+	  <Notes/>
+	  <Id>12</Id>
+	  <Status>To Do</Status>
+	</Entry>
+	<Entry>
+	  <PointerOffset>0xd5528</PointerOffset>
+	  <JapaneseText>遺跡内部</JapaneseText>
+	  <EnglishText></EnglishText>
+	  <Notes/>
+	  <Id>13</Id>
+	  <Status>To Do</Status>
+	</Entry>
+  </Strings>
+</MenuText>

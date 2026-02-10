@@ -1,0 +1,245 @@
+<MenuText>
+  <Strings>
+    <Section>SLPS_Menu</Section>
+    <Entry>
+      <PointerOffset>0xbb4</PointerOffset>
+      <JapaneseText>しおりの新規作成</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0xbdc</PointerOffset>
+      <JapaneseText>宝石の思い出〜アミィ編</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0xbf8</PointerOffset>
+      <JapaneseText>宝石の思い出〜クレス編</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0xc14</PointerOffset>
+      <JapaneseText>エピローグ</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0xc30</PointerOffset>
+      <JapaneseText>リリスがんばります！</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0xc4c</PointerOffset>
+      <JapaneseText>晶霊探偵！</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes/>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0xc91</PointerOffset>
+      <JapaneseText>シーンジャンプ</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes/>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0xca0</PointerOffset>
+      <JapaneseText>しおりの作成</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes/>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0xcb9</PointerOffset>
+      <JapaneseText>しおりの作成</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes/>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0xccc</PointerOffset>
+      <JapaneseText>どこにしおりを作成しますか？</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes/>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+	<Entry>
+      <PointerOffset>0x2d750</PointerOffset>
+      <JapaneseText>カオドラファイル・</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes/>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+	<Entry>
+      <PointerOffset>0x2d794</PointerOffset>
+      <JapaneseText>テイルズオブファンダム　ユーザーファイル</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes/>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+	<Entry>
+      <PointerOffset>0x2d7f8</PointerOffset>
+      <JapaneseText>題名評価作者題材：人気位率％歳以下代上．</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes/>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+	<Entry>
+	   <PointerOffset>0x2d824</PointerOffset>
+	   <JapaneseText>０１２３４５６７８９審査中人気名作</JapaneseText>
+	   <EnglishText>0123456789 / Under Review / Popular / Masterpiece</EnglishText>
+	   <Notes/>
+	   <Id>14</Id>
+	   <Status>To Do</Status>
+	</Entry>
+	<Entry>
+	   <PointerOffset>0x2db38</PointerOffset>
+	   <JapaneseText>００：００</JapaneseText>
+	   <EnglishText>00:00</EnglishText>
+	   <Notes/>
+	   <Id>15</Id>
+	   <Status>To Do</Status>
+	</Entry>
+	<Entry>
+	   <PointerOffset>0xd4cdc</PointerOffset>
+	   <JapaneseText>０１２３４５６７８９−</JapaneseText>
+	   <EnglishText>0123456789-</EnglishText>
+	   <Notes/>
+	   <Id>16</Id>
+	   <Status>To Do</Status>
+	</Entry>
+	<Entry>
+	   <PointerOffset>0xd5534</PointerOffset>
+	   <JapaneseText>通常カット</JapaneseText>
+	   <EnglishText></EnglishText>
+	   <Notes/>
+	   <Id>17</Id>
+	   <Status>To Do</Status>
+	</Entry>
+	<Entry>
+	   <PointerOffset>0xd5540</PointerOffset>
+	   <JapaneseText>文字だけカット</JapaneseText>
+	   <EnglishText></EnglishText>
+	   <Notes/>
+	   <Id>18</Id>
+	   <Status>To Do</Status>
+	</Entry>
+	<Entry>
+	   <PointerOffset>0xd5550</PointerOffset>
+	   <JapaneseText>擬音文字カット</JapaneseText>
+	   <EnglishText></EnglishText>
+	   <Notes/>
+	   <Id>19</Id>
+	   <Status>To Do</Status>
+	</Entry>
+	<Entry>
+	   <PointerOffset>0xd5560</PointerOffset>
+	   <JapaneseText>オールスター</JapaneseText>
+	   <EnglishText></EnglishText>
+	   <Notes/>
+	   <Id>20</Id>
+  <Status>To Do</Status>
+	</Entry>
+	<Entry>
+	   <PointerOffset>0xd5570</PointerOffset>
+	   <JapaneseText>キャラクタ</JapaneseText>
+	   <EnglishText></EnglishText>
+	   <Notes/>
+	   <Id>21</Id>
+	   <Status>To Do</Status>
+	</Entry>
+	<Entry>
+	   <PointerOffset>0xd557c</PointerOffset>
+	   <JapaneseText>セリフ前</JapaneseText>
+	   <EnglishText></EnglishText>
+	   <Notes/>
+	   <Id>22</Id>
+	   <Status>To Do</Status>
+	</Entry>
+	<Entry>
+	   <PointerOffset>0xd5588</PointerOffset>
+	   <JapaneseText>セリフ後</JapaneseText>
+	   <EnglishText></EnglishText>
+	   <Notes/>
+	   <Id>23</Id>
+	   <Status>To Do</Status>
+	</Entry>
+	<Entry>
+	   <PointerOffset>0xd5594</PointerOffset>
+	   <JapaneseText>メッセージ</JapaneseText>
+	   <EnglishText></EnglishText>
+	   <Notes/>
+	   <Id>24</Id>
+	   <Status>To Do</Status>
+	</Entry>
+	<Entry>
+	   <PointerOffset>0xd55a0</PointerOffset>
+	   <JapaneseText>単色（明）</JapaneseText>
+	   <EnglishText></EnglishText>
+	   <Notes/>
+	   <Id>25</Id>
+	   <Status>To Do</Status>
+	</Entry>
+	<Entry>
+	   <PointerOffset>0xd55ac</PointerOffset>
+	   <JapaneseText>単色（暗）</JapaneseText>
+	   <EnglishText></EnglishText>
+	   <Notes/>
+	   <Id>26</Id>
+	   <Status>To Do</Status>
+	</Entry>
+	<Entry>
+	   <PointerOffset>0xd55b8</PointerOffset>
+	   <JapaneseText>新規カットの挿入</JapaneseText>
+	   <EnglishText></EnglishText>
+	   <Notes/>
+	   <Id>27</Id>
+	   <Status>To Do</Status>
+	</Entry>
+	<Entry>
+	   <PointerOffset>0xd55cc</PointerOffset>
+	   <JapaneseText>編集中カットの削除</JapaneseText>
+	   <EnglishText></EnglishText>
+	   <Notes/>
+	   <Id>28</Id>
+	   <Status>To Do</Status>
+	</Entry>
+	<Entry>
+	   <PointerOffset>0xd55e0</PointerOffset>
+	   <JapaneseText>プレビュー</JapaneseText>
+	   <EnglishText></EnglishText>
+	   <Notes/>
+	   <Id>29</Id>
+	   <Status>To Do</Status>
+	</Entry>
+	<Entry>
+	   <PointerOffset>0xd55ec</PointerOffset>
+	   <JapaneseText>基本設定の変更</JapaneseText>
+	   <EnglishText></EnglishText>
+	   <Notes/>
+	   <Id>30</Id>
+	   <Status>To Do</Status>
+	</Entry>
+	</Strings>
+</MenuText>

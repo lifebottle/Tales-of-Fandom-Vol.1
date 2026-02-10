@@ -1,0 +1,61 @@
+<MenuText>
+  <Strings>
+    <Section>SLPS_Games</Section>
+    <Entry>
+      <PointerOffset>0xd5460</PointerOffset>
+      <JapaneseText>ファンタジア</JapaneseText>
+      <EnglishText>Phantasia</EnglishText>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0xd5470</PointerOffset>
+      <JapaneseText>デスティニー</JapaneseText>
+      <EnglishText>Destiny</EnglishText>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0xd5480</PointerOffset>
+      <JapaneseText>エターニア</JapaneseText>
+      <EnglishText>Eternia</EnglishText>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+	<Entry>
+      <PointerOffset>0xd5610</PointerOffset>
+      <JapaneseText>ＴＯＥ１</JapaneseText>
+      <EnglishText>TOE 1</EnglishText>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+	</Entry>
+	<Entry>
+      <PointerOffset>0xd561c</PointerOffset>
+      <JapaneseText>ＴＯＥ２</JapaneseText>
+      <EnglishText>TOE 2</EnglishText>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+	</Entry>
+	<Entry>
+      <PointerOffset>0xd5628</PointerOffset>
+      <JapaneseText>ＴＯＰ１</JapaneseText>
+      <EnglishText>TOP 1</EnglishText>
+      <Notes/>
+      <Id>6</Id>
+      <Status>To Do</Status>
+	</Entry>
+	<Entry>
+      <PointerOffset>0xd5634</PointerOffset>
+      <JapaneseText>ＴＯＰ２</JapaneseText>
+      <EnglishText>TOP 2</EnglishText>
+      <Notes/>
+      <Id>7</Id>
+      <Status>To Do</Status>
+	</Entry>
+  </Strings>
+</MenuText>

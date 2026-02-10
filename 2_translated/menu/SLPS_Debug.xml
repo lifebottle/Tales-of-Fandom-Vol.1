@@ -1,0 +1,29 @@
+<MenuText>
+  <Strings>
+    <Section>SLPS_Debug</Section>
+    <Entry>
+      <PointerOffset>0xe19</PointerOffset>
+      <JapaneseText>軸宍雫七叱執失嫉室悉湿漆疾質実蔀篠偲柴芝屡蕊縞舎写射捨赦斜煮社紗者謝車遮蛇邪借勺尺杓灼酒</JapaneseText>
+      <EnglishText>Kanji glyph test string (font check)</EnglishText>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0xe75</PointerOffset>
+      <JapaneseText>爵而耳自蒔辞識汐鹿式腫</JapaneseText>
+      <EnglishText>Kanji glyph test string (font check)</EnglishText>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0xe91</PointerOffset>
+      <JapaneseText>射捨赦斜叱執失嫉室悉湿漆疾質実蔀篠偲柴灼</JapaneseText>
+      <EnglishText>Kanji glyph test string (font check)</EnglishText>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</MenuText>

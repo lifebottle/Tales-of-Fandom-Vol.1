@@ -1,4 +1,3 @@
-
 <SceneText>
   <FriendlyName>Conversation_0008</FriendlyName>
   <Strings>
@@ -6,34 +5,34 @@
     <Entry>
       <PointerOffset>0x50fa5</PointerOffset>
       <JapaneseText>やん！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText> Gotcha!</EnglishText>
+      <Notes> Not sure what this is supposed to mean lol (ciel)</Notes>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>0x50fad</PointerOffset>
       <JapaneseText>はっ、はっ、はっ……。</JapaneseText>
-      <EnglishText> </EnglishText>
+      <EnglishText> Hahaha...</EnglishText>
       <Notes> </Notes>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>0x50fc4</PointerOffset>
       <JapaneseText>まったく……。</JapaneseText>
-      <EnglishText> </EnglishText>
+      <EnglishText> Seriously...</EnglishText>
       <Notes> </Notes>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>0x50fd3</PointerOffset>
       <JapaneseText>ふふ……ねえ、お兄ちゃん、覚えてる？</JapaneseText>
-      <EnglishText> </EnglishText>
+      <EnglishText> Hehe... hey, Chester. do you remember?</EnglishText>
       <Notes> </Notes>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

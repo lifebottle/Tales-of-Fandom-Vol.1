@@ -1,15 +1,15 @@
 <MenuText>
   <Strings>
     <Section>Character Names</Section>
-	<Entry>
+    <Entry>
       <PointerOffset>0xd5640</PointerOffset>
       <JapaneseText>メルディ</JapaneseText>
       <EnglishText></EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
-	<Entry>
+    <Entry>
       <PointerOffset>0xd564c</PointerOffset>
       <JapaneseText>チャット</JapaneseText>
       <EnglishText></EnglishText>
@@ -17,7 +17,7 @@
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
-	<Entry>
+    <Entry>
       <PointerOffset>0xd5658</PointerOffset>
       <JapaneseText>フォッグ</JapaneseText>
       <EnglishText></EnglishText>
@@ -25,7 +25,7 @@
       <Id>3</Id>
       <Status>To Do</Status>
     </Entry>
-	<Entry>
+    <Entry>
       <PointerOffset>0xd5664</PointerOffset>
       <JapaneseText>クィッキー</JapaneseText>
       <EnglishText></EnglishText>
@@ -33,7 +33,7 @@
       <Id>4</Id>
       <Status>To Do</Status>
     </Entry>
-	<Entry>
+    <Entry>
       <PointerOffset>0xd5670</PointerOffset>
       <JapaneseText>プリムラ</JapaneseText>
       <EnglishText></EnglishText>
@@ -41,7 +41,7 @@
       <Id>5</Id>
       <Status>To Do</Status>
     </Entry>
-	<Entry>
+    <Entry>
       <PointerOffset>0xd567c</PointerOffset>
       <JapaneseText>アルジェント</JapaneseText>
       <EnglishText></EnglishText>
@@ -49,7 +49,7 @@
       <Id>6</Id>
       <Status>To Do</Status>
     </Entry>
-	<Entry>
+    <Entry>
       <PointerOffset>0xd568c</PointerOffset>
       <JapaneseText>ヒューラ</JapaneseText>
       <EnglishText></EnglishText>
@@ -57,7 +57,7 @@
       <Id>7</Id>
       <Status>To Do</Status>
     </Entry>
-	<Entry>
+    <Entry>
       <PointerOffset>0xd5698</PointerOffset>
       <JapaneseText>クレス小</JapaneseText>
       <EnglishText></EnglishText>
@@ -65,7 +65,7 @@
       <Id>8</Id>
       <Status>To Do</Status>
     </Entry>
-	<Entry>
+    <Entry>
       <PointerOffset>0xd56a4</PointerOffset>
       <JapaneseText>アーチェ</JapaneseText>
       <EnglishText></EnglishText>
@@ -73,7 +73,7 @@
       <Id>9</Id>
       <Status>To Do</Status>
     </Entry>
-	<Entry>
+    <Entry>
       <PointerOffset>0xd56b0</PointerOffset>
       <JapaneseText>チェスター</JapaneseText>
       <EnglishText></EnglishText>
@@ -81,7 +81,7 @@
       <Id>10</Id>
       <Status>To Do</Status>
     </Entry>
-	<Entry>
+    <Entry>
       <PointerOffset>0xd56bc</PointerOffset>
       <JapaneseText>チェスター小</JapaneseText>
       <EnglishText></EnglishText>
@@ -89,7 +89,7 @@
       <Id>11</Id>
       <Status>To Do</Status>
     </Entry>
-	<Entry>
+    <Entry>
       <PointerOffset>0xd56cc</PointerOffset>
       <JapaneseText>アミィ小</JapaneseText>
       <EnglishText></EnglishText>

@@ -1,4 +1,3 @@
-
 <SceneText>
   <FriendlyName>Conversation_0005</FriendlyName>
   <Strings>
@@ -6,66 +5,66 @@
     <Entry>
       <PointerOffset>0x50dee</PointerOffset>
       <JapaneseText>あるけど、この村の方が好き。</JapaneseText>
-      <EnglishText> </EnglishText>
+      <EnglishText> And there are other places to go, but I like this village best.</EnglishText>
       <Notes> </Notes>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>0x50e0b</PointerOffset>
       <JapaneseText>あたし、きっとここで結婚して、</JapaneseText>
-      <EnglishText> </EnglishText>
+      <EnglishText> I can see myself settling down here,</EnglishText>
       <Notes> </Notes>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>0x50e2a</PointerOffset>
       <JapaneseText>たくさんの子供に囲まれて、</JapaneseText>
-      <EnglishText> </EnglishText>
+      <EnglishText> surrounded by lots of children.</EnglishText>
       <Notes> </Notes>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>0x50e45</PointerOffset>
       <JapaneseText>それで、幸せなおばあちゃんになるの。</JapaneseText>
-      <EnglishText> </EnglishText>
+      <EnglishText> And then, growing old in peace.</EnglishText>
       <Notes> </Notes>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>0x50e6a</PointerOffset>
       <JapaneseText>クレスとか？</JapaneseText>
-      <EnglishText> </EnglishText>
+      <EnglishText> With Cress, you mean?</EnglishText>
       <Notes> </Notes>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>0x50e77</PointerOffset>
       <JapaneseText>や、やだ……そんなの、わかんないよ。</JapaneseText>
-      <EnglishText> </EnglishText>
+      <EnglishText> N-no...! I mean, we don't know how things will turn out.</EnglishText>
       <Notes> </Notes>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>0x50e9c</PointerOffset>
       <JapaneseText>あ、でもお兄ちゃんは、きっとずーっと</JapaneseText>
-      <EnglishText> </EnglishText>
+      <EnglishText> Oh, but I'm pretty sure you'll be single forever.</EnglishText>
       <Notes> </Notes>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>0x50ec1</PointerOffset>
       <JapaneseText>独身ね。素直さんじゃないから。</JapaneseText>
-      <EnglishText> </EnglishText>
+      <EnglishText> You're no good at being open and honest.</EnglishText>
       <Notes> </Notes>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

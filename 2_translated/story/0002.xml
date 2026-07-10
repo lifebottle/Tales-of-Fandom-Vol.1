@@ -1,4 +1,3 @@
-
 <SceneText>
   <FriendlyName>Conversation_0002</FriendlyName>
   <Strings>
@@ -6,10 +5,10 @@
     <Entry>
       <PointerOffset>0x50b80</PointerOffset>
       <JapaneseText>バークライト家</JapaneseText>
-      <EnglishText> </EnglishText>
+      <EnglishText> The Barklight House</EnglishText>
       <Notes> </Notes>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

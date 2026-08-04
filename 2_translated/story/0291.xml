@@ -3,27 +3,30 @@
   <FriendlyName>Conversation_0291</FriendlyName>
   <Strings>
     <Section>Speaker</Section>
+  </Strings>
+  <Strings>
+    <Section>Main</Section>
     <Entry>
-      <PointerOffset>946532</PointerOffset>
+      <PointerOffset>0xe7164</PointerOffset>
       <JapaneseText>ないぞ。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>946541</PointerOffset>
+      <PointerOffset>0xe716d</PointerOffset>
       <JapaneseText>クレスは自分の意志で参加を決めたのだ。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>946580</PointerOffset>
+      <PointerOffset>0xe7194</PointerOffset>
       <JapaneseText>……わかっているな、クレス。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>

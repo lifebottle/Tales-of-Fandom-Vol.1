@@ -3,11 +3,14 @@
   <FriendlyName>Conversation_0677</FriendlyName>
   <Strings>
     <Section>Speaker</Section>
+  </Strings>
+  <Strings>
+    <Section>Main</Section>
     <Entry>
-      <PointerOffset>2054139</PointerOffset>
+      <PointerOffset>0x1f57fb</PointerOffset>
       <JapaneseText>名探</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>

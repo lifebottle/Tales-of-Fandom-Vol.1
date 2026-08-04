@@ -3,59 +3,62 @@
   <FriendlyName>Conversation_0456</FriendlyName>
   <Strings>
     <Section>Speaker</Section>
+  </Strings>
+  <Strings>
+    <Section>Main</Section>
     <Entry>
-      <PointerOffset>1473008</PointerOffset>
+      <PointerOffset>0x1679f0</PointerOffset>
       <JapaneseText>リリスのガッツ</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>1473026</PointerOffset>
+      <PointerOffset>0x167a02</PointerOffset>
       <JapaneseText>ペスカトーレ、ペスカトーレと。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>1473057</PointerOffset>
+      <PointerOffset>0x167a21</PointerOffset>
       <JapaneseText>勝算はあるのか？</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>1473074</PointerOffset>
+      <PointerOffset>0x167a32</PointerOffset>
       <JapaneseText>どうだろ。まあ、なんとかなるでしょ。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>3</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>1473111</PointerOffset>
+      <PointerOffset>0x167a57</PointerOffset>
       <JapaneseText>何度も作ったことあるし。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>4</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>1473136</PointerOffset>
+      <PointerOffset>0x167a70</PointerOffset>
       <JapaneseText>たぶん特定の食材の選び方が、</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>5</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>1473165</PointerOffset>
+      <PointerOffset>0x167a8d</PointerOffset>
       <JapaneseText>勝敗を左右することになると思うの。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>6</Id>
       <Status>To Do</Status>
     </Entry>

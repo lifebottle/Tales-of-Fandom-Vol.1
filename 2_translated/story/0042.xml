@@ -3,27 +3,30 @@
   <FriendlyName>Conversation_0042</FriendlyName>
   <Strings>
     <Section>Speaker</Section>
+  </Strings>
+  <Strings>
+    <Section>Main</Section>
     <Entry>
-      <PointerOffset>366988</PointerOffset>
+      <PointerOffset>0x5998c</PointerOffset>
       <JapaneseText>家に案内してやろう。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>367009</PointerOffset>
+      <PointerOffset>0x599a1</PointerOffset>
       <JapaneseText>寝るぐらいは出来るように</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>367034</PointerOffset>
+      <PointerOffset>0x599ba</PointerOffset>
       <JapaneseText>掃除をしたほうがいい。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>

@@ -3,43 +3,46 @@
   <FriendlyName>Conversation_0534</FriendlyName>
   <Strings>
     <Section>Speaker</Section>
+  </Strings>
+  <Strings>
+    <Section>Main</Section>
     <Entry>
-      <PointerOffset>1708082</PointerOffset>
+      <PointerOffset>0x1a1032</PointerOffset>
       <JapaneseText>はい。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>1708089</PointerOffset>
+      <PointerOffset>0x1a1039</PointerOffset>
       <JapaneseText>デバッグ「クレスに勝った」</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>1708117</PointerOffset>
+      <PointerOffset>0x1a1055</PointerOffset>
       <JapaneseText>デバッグ「クレスと相打ち」</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>1708145</PointerOffset>
+      <PointerOffset>0x1a1071</PointerOffset>
       <JapaneseText>でも……おたまに負けたのは、</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>3</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>1708174</PointerOffset>
+      <PointerOffset>0x1a108e</PointerOffset>
       <JapaneseText>やっぱりショックですよ。はああ〜……。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>4</Id>
       <Status>To Do</Status>
     </Entry>

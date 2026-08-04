@@ -2,59 +2,62 @@
   <FriendlyName>Conversation_0006</FriendlyName>
   <Strings>
     <Section>Speaker</Section>
+  </Strings>
+  <Strings>
+    <Section>Main</Section>
     <Entry>
-      <PointerOffset>331488</PointerOffset>
+      <PointerOffset>0x50ee0</PointerOffset>
       <JapaneseText>バーカ。</JapaneseText>
       <EnglishText> Dummy.</EnglishText>
-      <Notes> </Notes>
+      <Notes/>
       <Id>0</Id>
       <Status>Edited</Status>
     </Entry>
     <Entry>
-      <PointerOffset>331497</PointerOffset>
+      <PointerOffset>0x50ee9</PointerOffset>
       <JapaneseText>兄ちゃんはな、これでももてるんだぜ。</JapaneseText>
       <EnglishText> I'll have you know I'm pretty popular, myself.</EnglishText>
-      <Notes> </Notes>
+      <Notes/>
       <Id>1</Id>
       <Status>Edited</Status>
     </Entry>
     <Entry>
-      <PointerOffset>331534</PointerOffset>
+      <PointerOffset>0x50f0e</PointerOffset>
       <JapaneseText>えー、嘘ばっかり。</JapaneseText>
       <EnglishText> No way, you're lying!</EnglishText>
-      <Notes> </Notes>
+      <Notes/>
       <Id>2</Id>
       <Status>Edited</Status>
     </Entry>
     <Entry>
-      <PointerOffset>331553</PointerOffset>
+      <PointerOffset>0x50f21</PointerOffset>
       <JapaneseText>タマネギが食べられなーいなんて、</JapaneseText>
       <EnglishText> You act like a little kid all the time</EnglishText>
-      <Notes> </Notes>
+      <Notes/>
       <Id>3</Id>
       <Status>Edited</Status>
     </Entry>
     <Entry>
-      <PointerOffset>331586</PointerOffset>
+      <PointerOffset>0x50f42</PointerOffset>
       <JapaneseText>子供みたいなこと言ってる人のところにくる</JapaneseText>
       <EnglishText> and cry about how much you hate onions.</EnglishText>
-      <Notes> </Notes>
+      <Notes/>
       <Id>4</Id>
       <Status>Edited</Status>
     </Entry>
     <Entry>
-      <PointerOffset>331627</PointerOffset>
+      <PointerOffset>0x50f6b</PointerOffset>
       <JapaneseText>お嫁さんなんかいませんよー。</JapaneseText>
       <EnglishText>There's not a girl on the planet who'd marry you.</EnglishText>
-      <Notes> </Notes>
+      <Notes/>
       <Id>5</Id>
       <Status>Edited</Status>
     </Entry>
     <Entry>
-      <PointerOffset>331656</PointerOffset>
+      <PointerOffset>0x50f88</PointerOffset>
       <JapaneseText>うるせえ！</JapaneseText>
       <EnglishText> Hey, shut up!</EnglishText>
-      <Notes> </Notes>
+      <Notes/>
       <Id>6</Id>
       <Status>Edited</Status>
     </Entry>

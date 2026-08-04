@@ -3,19 +3,22 @@
   <FriendlyName>Conversation_1098</FriendlyName>
   <Strings>
     <Section>Speaker</Section>
+  </Strings>
+  <Strings>
+    <Section>Main</Section>
     <Entry>
-      <PointerOffset>3047385</PointerOffset>
+      <PointerOffset>0x2e7fd9</PointerOffset>
       <JapaneseText>って！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>3047392</PointerOffset>
+      <PointerOffset>0x2e7fe0</PointerOffset>
       <JapaneseText>やだよーだ。だめって言われると余</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>

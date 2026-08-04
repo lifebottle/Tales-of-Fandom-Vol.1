@@ -3,19 +3,22 @@
   <FriendlyName>Conversation_1021</FriendlyName>
   <Strings>
     <Section>Speaker</Section>
+  </Strings>
+  <Strings>
+    <Section>Main</Section>
     <Entry>
-      <PointerOffset>2915399</PointerOffset>
+      <PointerOffset>0x2c7c47</PointerOffset>
       <JapaneseText>『まさかチェスターさんもクレスさんを村祭りに誘いに来たとか……。』</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2915466</PointerOffset>
+      <PointerOffset>0x2c7c8a</PointerOffset>
       <JapaneseText>『こうしてはいられません！』</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>

@@ -3,27 +3,30 @@
   <FriendlyName>Conversation_0729</FriendlyName>
   <Strings>
     <Section>Speaker</Section>
+  </Strings>
+  <Strings>
+    <Section>Main</Section>
     <Entry>
-      <PointerOffset>2207175</PointerOffset>
+      <PointerOffset>0x21adc7</PointerOffset>
       <JapaneseText>教室</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2207180</PointerOffset>
+      <PointerOffset>0x21adcc</PointerOffset>
       <JapaneseText>『人がセイファートの御業に挑む』</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2207213</PointerOffset>
+      <PointerOffset>0x21aded</PointerOffset>
       <JapaneseText>たぶん教室のことよね。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>

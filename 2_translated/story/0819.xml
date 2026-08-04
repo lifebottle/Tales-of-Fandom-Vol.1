@@ -3,27 +3,30 @@
   <FriendlyName>Conversation_0819</FriendlyName>
   <Strings>
     <Section>Speaker</Section>
+  </Strings>
+  <Strings>
+    <Section>Main</Section>
     <Entry>
-      <PointerOffset>2403027</PointerOffset>
+      <PointerOffset>0x24aad3</PointerOffset>
       <JapaneseText>えっ？</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2403039</PointerOffset>
+      <PointerOffset>0x24aadf</PointerOffset>
       <JapaneseText>乱暴に扱うと煙が出る、か。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2403068</PointerOffset>
+      <PointerOffset>0x24aafc</PointerOffset>
       <JapaneseText>不良品もたまには悪くないわね、</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>

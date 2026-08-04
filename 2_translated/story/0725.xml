@@ -3,67 +3,70 @@
   <FriendlyName>Conversation_0725</FriendlyName>
   <Strings>
     <Section>Speaker</Section>
+  </Strings>
+  <Strings>
+    <Section>Main</Section>
     <Entry>
-      <PointerOffset>2201351</PointerOffset>
+      <PointerOffset>0x219707</PointerOffset>
       <JapaneseText>はあ。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2201358</PointerOffset>
+      <PointerOffset>0x21970e</PointerOffset>
       <JapaneseText>シルフの君……。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2201378</PointerOffset>
+      <PointerOffset>0x219722</PointerOffset>
       <JapaneseText>も〜〜〜〜！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2201395</PointerOffset>
+      <PointerOffset>0x219733</PointerOffset>
       <JapaneseText>人ひとりの運命がかかってるんだから</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>3</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2201430</PointerOffset>
+      <PointerOffset>0x219756</PointerOffset>
       <JapaneseText>なんとか思い出してよぉ〜〜！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>4</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2201461</PointerOffset>
+      <PointerOffset>0x219775</PointerOffset>
       <JapaneseText>彼の口癖は、こう。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>5</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2201480</PointerOffset>
+      <PointerOffset>0x219788</PointerOffset>
       <JapaneseText>『恋は失われるが、愛はその逆』。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>6</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2201514</PointerOffset>
+      <PointerOffset>0x2197aa</PointerOffset>
       <JapaneseText>ああ、シルフの君……。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>7</Id>
       <Status>To Do</Status>
     </Entry>

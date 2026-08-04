@@ -2,8 +2,11 @@
   <FriendlyName>Conversation_0008</FriendlyName>
   <Strings>
     <Section>Speaker</Section>
+  </Strings>
+  <Strings>
+    <Section>Main</Section>
     <Entry>
-      <PointerOffset>331685</PointerOffset>
+      <PointerOffset>0x50fa5</PointerOffset>
       <JapaneseText>やん！</JapaneseText>
       <EnglishText> Gotcha!</EnglishText>
       <Notes> Not sure what this is supposed to mean lol (ciel)</Notes>
@@ -11,26 +14,26 @@
       <Status>Problematic</Status>
     </Entry>
     <Entry>
-      <PointerOffset>331693</PointerOffset>
+      <PointerOffset>0x50fad</PointerOffset>
       <JapaneseText>はっ、はっ、はっ……。</JapaneseText>
       <EnglishText> Hahaha...</EnglishText>
-      <Notes> </Notes>
+      <Notes/>
       <Id>1</Id>
       <Status>Edited</Status>
     </Entry>
     <Entry>
-      <PointerOffset>331716</PointerOffset>
+      <PointerOffset>0x50fc4</PointerOffset>
       <JapaneseText>まったく……。</JapaneseText>
       <EnglishText> Seriously...</EnglishText>
-      <Notes> </Notes>
+      <Notes/>
       <Id>2</Id>
       <Status>Edited</Status>
     </Entry>
     <Entry>
-      <PointerOffset>331731</PointerOffset>
+      <PointerOffset>0x50fd3</PointerOffset>
       <JapaneseText>ふふ……ねえ、お兄ちゃん、覚えてる？</JapaneseText>
       <EnglishText> Hehe... hey, Chester. do you remember?</EnglishText>
-      <Notes> </Notes>
+      <Notes/>
       <Id>3</Id>
       <Status>Edited</Status>
     </Entry>

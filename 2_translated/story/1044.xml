@@ -3,67 +3,70 @@
   <FriendlyName>Conversation_1044</FriendlyName>
   <Strings>
     <Section>Speaker</Section>
+  </Strings>
+  <Strings>
+    <Section>Main</Section>
     <Entry>
-      <PointerOffset>2961859</PointerOffset>
+      <PointerOffset>0x2d31c3</PointerOffset>
       <JapaneseText>ハ〜イ、スタン！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2961876</PointerOffset>
+      <PointerOffset>0x2d31d4</PointerOffset>
       <JapaneseText>その手に持ってるの、な〜に〜？</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2961908</PointerOffset>
+      <PointerOffset>0x2d31f4</PointerOffset>
       <JapaneseText>オベロナミンＣだけど？</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2961931</PointerOffset>
+      <PointerOffset>0x2d320b</PointerOffset>
       <JapaneseText>『売り値は２５ガルド。よしっ！』</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>3</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2961964</PointerOffset>
+      <PointerOffset>0x2d322c</PointerOffset>
       <JapaneseText>スーパーアップルグミと交換したげるわ！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>4</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2962003</PointerOffset>
+      <PointerOffset>0x2d3253</PointerOffset>
       <JapaneseText>スーパーって……それ、</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>5</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2962026</PointerOffset>
+      <PointerOffset>0x2d326a</PointerOffset>
       <JapaneseText>普通のアップルグミじゃないか！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>6</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2962057</PointerOffset>
+      <PointerOffset>0x2d3289</PointerOffset>
       <JapaneseText>あら、バレたー？</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>7</Id>
       <Status>To Do</Status>
     </Entry>

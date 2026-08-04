@@ -3,35 +3,38 @@
   <FriendlyName>Conversation_0746</FriendlyName>
   <Strings>
     <Section>Speaker</Section>
+  </Strings>
+  <Strings>
+    <Section>Main</Section>
     <Entry>
-      <PointerOffset>2244999</PointerOffset>
+      <PointerOffset>0x224187</PointerOffset>
       <JapaneseText>ふふふ。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2245008</PointerOffset>
+      <PointerOffset>0x224190</PointerOffset>
       <JapaneseText>ありがとう、シルフの君！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2245035</PointerOffset>
+      <PointerOffset>0x2241ab</PointerOffset>
       <JapaneseText>この……！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2245046</PointerOffset>
+      <PointerOffset>0x2241b6</PointerOffset>
       <JapaneseText>いい加減にしないと晶霊術を――</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>3</Id>
       <Status>To Do</Status>
     </Entry>

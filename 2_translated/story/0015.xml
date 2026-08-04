@@ -3,67 +3,70 @@
   <FriendlyName>Conversation_0015</FriendlyName>
   <Strings>
     <Section>Speaker</Section>
+  </Strings>
+  <Strings>
+    <Section>Main</Section>
     <Entry>
-      <PointerOffset>335342</PointerOffset>
+      <PointerOffset>0x51dee</PointerOffset>
       <JapaneseText>あるけど、この村の方が好き。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>335371</PointerOffset>
+      <PointerOffset>0x51e0b</PointerOffset>
       <JapaneseText>あたし、きっとここで結婚して、</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>335402</PointerOffset>
+      <PointerOffset>0x51e2a</PointerOffset>
       <JapaneseText>たくさんの子供に囲まれて、</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>335429</PointerOffset>
+      <PointerOffset>0x51e45</PointerOffset>
       <JapaneseText>それで、幸せなおばあちゃんになるの。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>3</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>335466</PointerOffset>
+      <PointerOffset>0x51e6a</PointerOffset>
       <JapaneseText>クレスとか？</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>4</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>335479</PointerOffset>
+      <PointerOffset>0x51e77</PointerOffset>
       <JapaneseText>や、やだ……そんなの、わかんないよ。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>5</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>335516</PointerOffset>
+      <PointerOffset>0x51e9c</PointerOffset>
       <JapaneseText>あ、でもお兄ちゃんは、きっとずーっと</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>6</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>335553</PointerOffset>
+      <PointerOffset>0x51ec1</PointerOffset>
       <JapaneseText>独身ね。素直さんじゃないから。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>7</Id>
       <Status>To Do</Status>
     </Entry>

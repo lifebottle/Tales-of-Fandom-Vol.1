@@ -3,83 +3,86 @@
   <FriendlyName>Conversation_0664</FriendlyName>
   <Strings>
     <Section>Speaker</Section>
+  </Strings>
+  <Strings>
+    <Section>Main</Section>
     <Entry>
-      <PointerOffset>2013958</PointerOffset>
+      <PointerOffset>0x1ebb06</PointerOffset>
       <JapaneseText>よーし、</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2013967</PointerOffset>
+      <PointerOffset>0x1ebb0f</PointerOffset>
       <JapaneseText>さっそくキールに連絡してみよっと！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2014003</PointerOffset>
+      <PointerOffset>0x1ebb33</PointerOffset>
       <JapaneseText>…………。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2014018</PointerOffset>
+      <PointerOffset>0x1ebb42</PointerOffset>
       <JapaneseText>……誰だ？</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>3</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2014033</PointerOffset>
+      <PointerOffset>0x1ebb51</PointerOffset>
       <JapaneseText>やっほー！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>4</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2014044</PointerOffset>
+      <PointerOffset>0x1ebb5c</PointerOffset>
       <JapaneseText>私だよ。プリムラだよ！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>5</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2014070</PointerOffset>
+      <PointerOffset>0x1ebb76</PointerOffset>
       <JapaneseText>プリムラ！？　いったいどうして――</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>6</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2014106</PointerOffset>
+      <PointerOffset>0x1ebb9a</PointerOffset>
       <JapaneseText>細かい話はあとあと！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>7</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2014130</PointerOffset>
+      <PointerOffset>0x1ebbb2</PointerOffset>
       <JapaneseText>あなたがなんて言おうと、私、</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>8</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2014159</PointerOffset>
+      <PointerOffset>0x1ebbcf</PointerOffset>
       <JapaneseText>事件を調べることにしたから！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>9</Id>
       <Status>To Do</Status>
     </Entry>

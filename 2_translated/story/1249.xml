@@ -3,131 +3,134 @@
   <FriendlyName>Conversation_1249</FriendlyName>
   <Strings>
     <Section>Speaker</Section>
+  </Strings>
+  <Strings>
+    <Section>Main</Section>
     <Entry>
-      <PointerOffset>3291811</PointerOffset>
+      <PointerOffset>0x323aa3</PointerOffset>
       <JapaneseText>男の人はパンツ洗ってもらうと喜ぶか！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>3291848</PointerOffset>
+      <PointerOffset>0x323ac8</PointerOffset>
       <JapaneseText>よ〜〜し！！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>3291861</PointerOffset>
+      <PointerOffset>0x323ad5</PointerOffset>
       <JapaneseText>キ〜〜〜〜ル〜〜〜〜〜♪</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>3291886</PointerOffset>
+      <PointerOffset>0x323aee</PointerOffset>
       <JapaneseText>ん？　なんか用か？</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>3</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>3291905</PointerOffset>
+      <PointerOffset>0x323b01</PointerOffset>
       <JapaneseText>キールがパンツちょうだいよ〜♪</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>4</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>3291936</PointerOffset>
+      <PointerOffset>0x323b20</PointerOffset>
       <JapaneseText>な、なにを言いだすんだ！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>5</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>3291961</PointerOffset>
+      <PointerOffset>0x323b39</PointerOffset>
       <JapaneseText>なんで怒るよ〜？</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>6</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>3291978</PointerOffset>
+      <PointerOffset>0x323b4a</PointerOffset>
       <JapaneseText>パンツちょうだい！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>7</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>3291997</PointerOffset>
+      <PointerOffset>0x323b5d</PointerOffset>
       <JapaneseText>ふざけるなーーー！！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>8</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>3292018</PointerOffset>
+      <PointerOffset>0x323b72</PointerOffset>
       <JapaneseText>いいから服脱ぐよーーー！！！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>9</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>3292047</PointerOffset>
+      <PointerOffset>0x323b8f</PointerOffset>
       <JapaneseText>な、なにするんだ！　やめろ！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>10</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>3292076</PointerOffset>
+      <PointerOffset>0x323bac</PointerOffset>
       <JapaneseText>やめてくれぇぇぇ（涙）</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>11</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>3292099</PointerOffset>
+      <PointerOffset>0x323bc3</PointerOffset>
       <JapaneseText>パンツ〜♪</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>12</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>3292110</PointerOffset>
+      <PointerOffset>0x323bce</PointerOffset>
       <JapaneseText>ちょっと待っててな。キール♪</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>13</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>3292139</PointerOffset>
+      <PointerOffset>0x323beb</PointerOffset>
       <JapaneseText>うっ……、（涙）</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>14</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>3292156</PointerOffset>
+      <PointerOffset>0x323bfc</PointerOffset>
       <JapaneseText>ひどい……あんまりだ（涙）</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>15</Id>
       <Status>To Do</Status>
     </Entry>

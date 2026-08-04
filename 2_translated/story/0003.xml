@@ -2,99 +2,102 @@
   <FriendlyName>Conversation_0003</FriendlyName>
   <Strings>
     <Section>Speaker</Section>
+  </Strings>
+  <Strings>
+    <Section>Main</Section>
     <Entry>
-      <PointerOffset>330639</PointerOffset>
+      <PointerOffset>0x50b8f</PointerOffset>
       <JapaneseText>現在</JapaneseText>
       <EnglishText> Present day</EnglishText>
-      <Notes> </Notes>
+      <Notes/>
       <Id>0</Id>
       <Status>Edited</Status>
     </Entry>
     <Entry>
-      <PointerOffset>330644</PointerOffset>
+      <PointerOffset>0x50b94</PointerOffset>
       <JapaneseText>……アミィ、起きてたのか？</JapaneseText>
       <EnglishText> ...Ami, you're still awake?</EnglishText>
-      <Notes> </Notes>
+      <Notes/>
       <Id>1</Id>
       <Status>Edited</Status>
     </Entry>
     <Entry>
-      <PointerOffset>330671</PointerOffset>
+      <PointerOffset>0x50baf</PointerOffset>
       <JapaneseText>あ、お兄ちゃん。</JapaneseText>
       <EnglishText> Oh, Chester.</EnglishText>
-      <Notes> </Notes>
+      <Notes/>
       <Id>2</Id>
       <Status>Edited</Status>
     </Entry>
     <Entry>
-      <PointerOffset>330688</PointerOffset>
+      <PointerOffset>0x50bc0</PointerOffset>
       <JapaneseText>うん……もう寝るよ。</JapaneseText>
       <EnglishText> Yeah, I'm going to sleep now.</EnglishText>
-      <Notes> </Notes>
+      <Notes/>
       <Id>3</Id>
       <Status>Edited</Status>
     </Entry>
     <Entry>
-      <PointerOffset>330709</PointerOffset>
+      <PointerOffset>0x50bd5</PointerOffset>
       <JapaneseText>まだ作ってたのか？</JapaneseText>
       <EnglishText> Were you still working on that thing?</EnglishText>
-      <Notes> </Notes>
+      <Notes/>
       <Id>4</Id>
       <Status>Edited</Status>
     </Entry>
     <Entry>
-      <PointerOffset>330728</PointerOffset>
+      <PointerOffset>0x50be8</PointerOffset>
       <JapaneseText>クレスの誕生日は明日だぞ。</JapaneseText>
       <EnglishText> For Cress's birthday tomorrow, I mean.</EnglishText>
-      <Notes> </Notes>
+      <Notes/>
       <Id>5</Id>
       <Status>Edited</Status>
     </Entry>
     <Entry>
-      <PointerOffset>330755</PointerOffset>
+      <PointerOffset>0x50c03</PointerOffset>
       <JapaneseText>間に合うのかよ？</JapaneseText>
       <EnglishText> You gonna make it in time?</EnglishText>
-      <Notes> </Notes>
+      <Notes/>
       <Id>6</Id>
       <Status>Edited</Status>
     </Entry>
     <Entry>
-      <PointerOffset>330772</PointerOffset>
+      <PointerOffset>0x50c14</PointerOffset>
       <JapaneseText>大丈夫だよ。</JapaneseText>
       <EnglishText> It'll be fine.</EnglishText>
-      <Notes> </Notes>
+      <Notes/>
       <Id>7</Id>
       <Status>Edited</Status>
     </Entry>
     <Entry>
-      <PointerOffset>330785</PointerOffset>
+      <PointerOffset>0x50c21</PointerOffset>
       <JapaneseText>……お兄ちゃん、</JapaneseText>
       <EnglishText> ...Hey, Chester.</EnglishText>
-      <Notes> </Notes>
+      <Notes/>
       <Id>8</Id>
       <Status>Edited</Status>
     </Entry>
     <Entry>
-      <PointerOffset>330802</PointerOffset>
+      <PointerOffset>0x50c32</PointerOffset>
       <JapaneseText>明日、クレスさんと狩りに行くんでしょ？</JapaneseText>
       <EnglishText> You're going hunting with Cress tomorrow, right?</EnglishText>
-      <Notes> </Notes>
+      <Notes/>
       <Id>9</Id>
       <Status>Edited</Status>
     </Entry>
     <Entry>
-      <PointerOffset>330841</PointerOffset>
+      <PointerOffset>0x50c59</PointerOffset>
       <JapaneseText>帰って来るまでには完成させるもん。</JapaneseText>
       <EnglishText> It'll be done by the time you get home.</EnglishText>
-      <Notes> </Notes>
+      <Notes/>
       <Id>10</Id>
       <Status>Edited</Status>
     </Entry>
     <Entry>
-      <PointerOffset>330877</PointerOffset>
+      <PointerOffset>0x50c7d</PointerOffset>
       <JapaneseText>もう、５年も経ったんだね。</JapaneseText>
       <EnglishText> ...It's been five years since then, hasn't it?</EnglishText>
-      <Notes> </Notes>
+      <Notes/>
       <Id>11</Id>
       <Status>Edited</Status>
     </Entry>

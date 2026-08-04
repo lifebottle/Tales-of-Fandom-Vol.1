@@ -3,51 +3,54 @@
   <FriendlyName>Conversation_0366</FriendlyName>
   <Strings>
     <Section>Speaker</Section>
+  </Strings>
+  <Strings>
+    <Section>Main</Section>
     <Entry>
-      <PointerOffset>1209304</PointerOffset>
+      <PointerOffset>0x1273d8</PointerOffset>
       <JapaneseText>クレスとの距離</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>1209320</PointerOffset>
+      <PointerOffset>0x1273e8</PointerOffset>
       <JapaneseText>わあ！　「夜光花」！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>1209341</PointerOffset>
+      <PointerOffset>0x1273fd</PointerOffset>
       <JapaneseText>これ、クレスさんが……？</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>1209366</PointerOffset>
+      <PointerOffset>0x127416</PointerOffset>
       <JapaneseText>僕とチェスターで摘んできたんだ。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>3</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>1209399</PointerOffset>
+      <PointerOffset>0x127437</PointerOffset>
       <JapaneseText>ご両親のご命日、今日なんだって？</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>4</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>1209432</PointerOffset>
+      <PointerOffset>0x127458</PointerOffset>
       <JapaneseText>はい……。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>5</Id>
       <Status>To Do</Status>
     </Entry>

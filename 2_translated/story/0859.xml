@@ -3,131 +3,134 @@
   <FriendlyName>Conversation_0859</FriendlyName>
   <Strings>
     <Section>Speaker</Section>
+  </Strings>
+  <Strings>
+    <Section>Main</Section>
     <Entry>
-      <PointerOffset>2518724</PointerOffset>
+      <PointerOffset>0x266ec4</PointerOffset>
       <JapaneseText>あー？</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2518731</PointerOffset>
+      <PointerOffset>0x266ecb</PointerOffset>
       <JapaneseText>なに、アンタ？</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2518750</PointerOffset>
+      <PointerOffset>0x266ede</PointerOffset>
       <JapaneseText>フッ……。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2518765</PointerOffset>
+      <PointerOffset>0x266eed</PointerOffset>
       <JapaneseText>近き者はその目に見よ、</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>3</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2518788</PointerOffset>
+      <PointerOffset>0x266f04</PointerOffset>
       <JapaneseText>遠き者は耳に聞け！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>4</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2518810</PointerOffset>
+      <PointerOffset>0x266f1a</PointerOffset>
       <JapaneseText>我が名はロエン・ラーモア！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>5</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2518837</PointerOffset>
+      <PointerOffset>0x266f35</PointerOffset>
       <JapaneseText>栄光あるインフェリアの衛兵隊長だ！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>6</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2518873</PointerOffset>
+      <PointerOffset>0x266f59</PointerOffset>
       <JapaneseText>ロエン殿！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>7</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2518888</PointerOffset>
+      <PointerOffset>0x266f68</PointerOffset>
       <JapaneseText>あやつが警備兵の目をくらませて</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>8</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2518919</PointerOffset>
+      <PointerOffset>0x266f87</PointerOffset>
       <JapaneseText>逃げ出した窃盗犯、キールです！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>9</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2518952</PointerOffset>
+      <PointerOffset>0x266fa8</PointerOffset>
       <JapaneseText>さっさと捕まえて王都に！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>10</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2518979</PointerOffset>
+      <PointerOffset>0x266fc3</PointerOffset>
       <JapaneseText>言われるまでもない！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>11</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2519000</PointerOffset>
+      <PointerOffset>0x266fd8</PointerOffset>
       <JapaneseText>犯罪者め、覚悟しろよ。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>12</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2519026</PointerOffset>
+      <PointerOffset>0x266ff2</PointerOffset>
       <JapaneseText>くっ……。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>13</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2519037</PointerOffset>
+      <PointerOffset>0x266ffd</PointerOffset>
       <JapaneseText>この世に正義はないのか！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>14</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2519064</PointerOffset>
+      <PointerOffset>0x267018</PointerOffset>
       <JapaneseText>ロエン様、ロエン様―！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>15</Id>
       <Status>To Do</Status>
     </Entry>

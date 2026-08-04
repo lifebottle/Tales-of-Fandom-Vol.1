@@ -2,99 +2,102 @@
   <FriendlyName>Conversation_0004</FriendlyName>
   <Strings>
     <Section>Speaker</Section>
+  </Strings>
+  <Strings>
+    <Section>Main</Section>
     <Entry>
-      <PointerOffset>330904</PointerOffset>
+      <PointerOffset>0x50c98</PointerOffset>
       <JapaneseText>あ？</JapaneseText>
       <EnglishText> Huh?</EnglishText>
-      <Notes> </Notes>
+      <Notes/>
       <Id>0</Id>
       <Status>Edited</Status>
     </Entry>
     <Entry>
-      <PointerOffset>330909</PointerOffset>
+      <PointerOffset>0x50c9d</PointerOffset>
       <JapaneseText>あたしとお兄ちゃんがトーティスに来て、</JapaneseText>
       <EnglishText> Since we came to Toltis.</EnglishText>
-      <Notes> </Notes>
+      <Notes/>
       <Id>1</Id>
       <Status>Edited</Status>
     </Entry>
     <Entry>
-      <PointerOffset>330948</PointerOffset>
+      <PointerOffset>0x50cc4</PointerOffset>
       <JapaneseText>もう５年も経ったんだなーって。</JapaneseText>
       <EnglishText> I was just thinking about it.</EnglishText>
-      <Notes> </Notes>
+      <Notes/>
       <Id>2</Id>
       <Status>Edited</Status>
     </Entry>
     <Entry>
-      <PointerOffset>330979</PointerOffset>
+      <PointerOffset>0x50ce3</PointerOffset>
       <JapaneseText>なんだよ、急に。</JapaneseText>
       <EnglishText> Why all of a sudden?</EnglishText>
-      <Notes> </Notes>
+      <Notes/>
       <Id>3</Id>
       <Status>Edited</Status>
     </Entry>
     <Entry>
-      <PointerOffset>330996</PointerOffset>
+      <PointerOffset>0x50cf4</PointerOffset>
       <JapaneseText>大変だったけど、楽しかったなー、って。</JapaneseText>
       <EnglishText> It's been rough, but also a lot of fun.</EnglishText>
-      <Notes> </Notes>
+      <Notes/>
       <Id>4</Id>
       <Status>Edited</Status>
     </Entry>
     <Entry>
-      <PointerOffset>331035</PointerOffset>
+      <PointerOffset>0x50d1b</PointerOffset>
       <JapaneseText>……お兄ちゃんには苦労させられました。</JapaneseText>
       <EnglishText> ...But you really put me through it, Chester.</EnglishText>
-      <Notes> </Notes>
+      <Notes/>
       <Id>5</Id>
       <Status>Edited</Status>
     </Entry>
     <Entry>
-      <PointerOffset>331074</PointerOffset>
+      <PointerOffset>0x50d42</PointerOffset>
       <JapaneseText>おいおい、母さんみたいな口利くなよ。</JapaneseText>
       <EnglishText> Hey now, don't talk like you're my mom.</EnglishText>
-      <Notes> </Notes>
+      <Notes/>
       <Id>6</Id>
       <Status>Edited</Status>
     </Entry>
     <Entry>
-      <PointerOffset>331111</PointerOffset>
+      <PointerOffset>0x50d67</PointerOffset>
       <JapaneseText>ふふ……。</JapaneseText>
       <EnglishText> Hehe...</EnglishText>
-      <Notes> </Notes>
+      <Notes/>
       <Id>7</Id>
       <Status>Edited</Status>
     </Entry>
     <Entry>
-      <PointerOffset>331122</PointerOffset>
+      <PointerOffset>0x50d72</PointerOffset>
       <JapaneseText>ねえ、お兄ちゃん、あたしたち、</JapaneseText>
       <EnglishText> Hey, Chester.</EnglishText>
-      <Notes> </Notes>
+      <Notes/>
       <Id>8</Id>
       <Status>Edited</Status>
     </Entry>
     <Entry>
-      <PointerOffset>331153</PointerOffset>
+      <PointerOffset>0x50d91</PointerOffset>
       <JapaneseText>ここで大人になっていくんだよね？</JapaneseText>
       <EnglishText>How long are we going to stay here?</EnglishText>
-      <Notes> </Notes>
+      <Notes/>
       <Id>9</Id>
       <Status>Edited</Status>
     </Entry>
     <Entry>
-      <PointerOffset>331186</PointerOffset>
+      <PointerOffset>0x50db2</PointerOffset>
       <JapaneseText>あたし、ここが大好き。</JapaneseText>
       <EnglishText> I really love this place.</EnglishText>
-      <Notes> </Notes>
+      <Notes/>
       <Id>10</Id>
       <Status>Edited</Status>
     </Entry>
     <Entry>
-      <PointerOffset>331209</PointerOffset>
+      <PointerOffset>0x50dc9</PointerOffset>
       <JapaneseText>ユークリッドにはパパとママの思い出が</JapaneseText>
       <EnglishText> Euclid is filled with memories of Mom and Dad.</EnglishText>
-      <Notes> </Notes>
+      <Notes/>
       <Id>11</Id>
       <Status>Edited</Status>
     </Entry>

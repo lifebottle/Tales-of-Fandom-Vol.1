@@ -3,43 +3,46 @@
   <FriendlyName>Conversation_1075</FriendlyName>
   <Strings>
     <Section>Speaker</Section>
+  </Strings>
+  <Strings>
+    <Section>Main</Section>
     <Entry>
-      <PointerOffset>3007917</PointerOffset>
+      <PointerOffset>0x2de5ad</PointerOffset>
       <JapaneseText>公演を</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>3007924</PointerOffset>
+      <PointerOffset>0x2de5b4</PointerOffset>
       <JapaneseText>今年も予定していたのですけれど、</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>3007957</PointerOffset>
+      <PointerOffset>0x2de5d5</PointerOffset>
       <JapaneseText>肝心の役者さんが集まらないのです。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>3007992</PointerOffset>
+      <PointerOffset>0x2de5f8</PointerOffset>
       <JapaneseText>なぁんだ、そんなことですか。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>3</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>3008021</PointerOffset>
+      <PointerOffset>0x2de615</PointerOffset>
       <JapaneseText>役者さんを集めればいいんですね？</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>4</Id>
       <Status>To Do</Status>
     </Entry>

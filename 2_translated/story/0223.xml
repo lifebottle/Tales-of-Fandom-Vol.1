@@ -3,43 +3,46 @@
   <FriendlyName>Conversation_0223</FriendlyName>
   <Strings>
     <Section>Speaker</Section>
+  </Strings>
+  <Strings>
+    <Section>Main</Section>
     <Entry>
-      <PointerOffset>796437</PointerOffset>
+      <PointerOffset>0xc2715</PointerOffset>
       <JapaneseText>そうか。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>796446</PointerOffset>
+      <PointerOffset>0xc271e</PointerOffset>
       <JapaneseText>クレス、父さんはこれから司祭様と、</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>796481</PointerOffset>
+      <PointerOffset>0xc2741</PointerOffset>
       <JapaneseText>あの兄妹のことで話がある。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>796508</PointerOffset>
+      <PointerOffset>0xc275c</PointerOffset>
       <JapaneseText>お前も一緒に聞きなさい。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>3</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>796534</PointerOffset>
+      <PointerOffset>0xc2776</PointerOffset>
       <JapaneseText>一緒に話を聞く</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>4</Id>
       <Status>To Do</Status>
     </Entry>

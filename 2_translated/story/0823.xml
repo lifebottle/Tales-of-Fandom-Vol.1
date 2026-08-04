@@ -3,75 +3,78 @@
   <FriendlyName>Conversation_0823</FriendlyName>
   <Strings>
     <Section>Speaker</Section>
+  </Strings>
+  <Strings>
+    <Section>Main</Section>
     <Entry>
-      <PointerOffset>2404153</PointerOffset>
+      <PointerOffset>0x24af39</PointerOffset>
       <JapaneseText>女は家に引っ込んで、皿でも洗ってりゃ</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2404190</PointerOffset>
+      <PointerOffset>0x24af5e</PointerOffset>
       <JapaneseText>いいんだよー！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2404209</PointerOffset>
+      <PointerOffset>0x24af71</PointerOffset>
       <JapaneseText>ん〜〜〜？</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2404220</PointerOffset>
+      <PointerOffset>0x24af7c</PointerOffset>
       <JapaneseText>怖いかぁ〜〜？</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>3</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2404239</PointerOffset>
+      <PointerOffset>0x24af8f</PointerOffset>
       <JapaneseText>『しめた！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>4</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2404250</PointerOffset>
+      <PointerOffset>0x24af9a</PointerOffset>
       <JapaneseText>顔を近づけてきた……！』</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>5</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2404277</PointerOffset>
+      <PointerOffset>0x24afb5</PointerOffset>
       <JapaneseText>頭突きを食らわせる</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>6</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2404297</PointerOffset>
+      <PointerOffset>0x24afc9</PointerOffset>
       <JapaneseText>顔に唾をはきかける</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>7</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2404317</PointerOffset>
+      <PointerOffset>0x24afdd</PointerOffset>
       <JapaneseText>どりゃーっ！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>8</Id>
       <Status>To Do</Status>
     </Entry>

@@ -3,107 +3,110 @@
   <FriendlyName>Conversation_0544</FriendlyName>
   <Strings>
     <Section>Speaker</Section>
+  </Strings>
+  <Strings>
+    <Section>Main</Section>
     <Entry>
-      <PointerOffset>1719511</PointerOffset>
+      <PointerOffset>0x1a3cd7</PointerOffset>
       <JapaneseText>あのな。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>1719520</PointerOffset>
+      <PointerOffset>0x1a3ce0</PointerOffset>
       <JapaneseText>わたしは人格的には男だぞ？</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>1719547</PointerOffset>
+      <PointerOffset>0x1a3cfb</PointerOffset>
       <JapaneseText>それがどうしたの？</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>1719566</PointerOffset>
+      <PointerOffset>0x1a3d0e</PointerOffset>
       <JapaneseText>わからないのか？</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>3</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>1719583</PointerOffset>
+      <PointerOffset>0x1a3d1f</PointerOffset>
       <JapaneseText>だから、何が？</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>4</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>1719598</PointerOffset>
+      <PointerOffset>0x1a3d2e</PointerOffset>
       <JapaneseText>はあ……。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>5</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>1719609</PointerOffset>
+      <PointerOffset>0x1a3d39</PointerOffset>
       <JapaneseText>プレゼントをどうするか、</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>6</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>1719634</PointerOffset>
+      <PointerOffset>0x1a3d52</PointerOffset>
       <JapaneseText>決まらなくて悩んでたんだよ。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>7</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>1719663</PointerOffset>
+      <PointerOffset>0x1a3d6f</PointerOffset>
       <JapaneseText>お兄ちゃん今度で２０才だからさ、</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>8</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>1719696</PointerOffset>
+      <PointerOffset>0x1a3d90</PointerOffset>
       <JapaneseText>絶対喜んでもらえるものにしたかったの。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>9</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>1719736</PointerOffset>
+      <PointerOffset>0x1a3db8</PointerOffset>
       <JapaneseText>ディムロスだったら間違いないじゃない？</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>10</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>1719775</PointerOffset>
+      <PointerOffset>0x1a3ddf</PointerOffset>
       <JapaneseText>ああ、あたしってほんとに兄想いの妹。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>11</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>1719812</PointerOffset>
+      <PointerOffset>0x1a3e04</PointerOffset>
       <JapaneseText>それが別の理由か。なんということだ……。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>12</Id>
       <Status>To Do</Status>
     </Entry>

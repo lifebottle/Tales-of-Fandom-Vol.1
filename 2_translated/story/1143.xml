@@ -3,51 +3,54 @@
   <FriendlyName>Conversation_1143</FriendlyName>
   <Strings>
     <Section>Speaker</Section>
+  </Strings>
+  <Strings>
+    <Section>Main</Section>
     <Entry>
-      <PointerOffset>3112875</PointerOffset>
+      <PointerOffset>0x2f7fab</PointerOffset>
       <JapaneseText>リオンさん！　ちからを貸してください。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>3112914</PointerOffset>
+      <PointerOffset>0x2f7fd2</PointerOffset>
       <JapaneseText>暑さにやられて倒れた方がいるんです。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>3112951</PointerOffset>
+      <PointerOffset>0x2f7ff7</PointerOffset>
       <JapaneseText>アイスがほしい、ほしいとうわごとのように</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>3112992</PointerOffset>
+      <PointerOffset>0x2f8020</PointerOffset>
       <JapaneseText>……そいつ、チェルシーじゃないのか？</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>3</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>3113029</PointerOffset>
+      <PointerOffset>0x2f8045</PointerOffset>
       <JapaneseText>なぜ知ってるんですか？</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>4</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>3113052</PointerOffset>
+      <PointerOffset>0x2f805c</PointerOffset>
       <JapaneseText>にぶい女は嫌いだ！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>5</Id>
       <Status>To Do</Status>
     </Entry>

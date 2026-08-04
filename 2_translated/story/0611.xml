@@ -3,51 +3,54 @@
   <FriendlyName>Conversation_0611</FriendlyName>
   <Strings>
     <Section>Speaker</Section>
+  </Strings>
+  <Strings>
+    <Section>Main</Section>
     <Entry>
-      <PointerOffset>1879272</PointerOffset>
+      <PointerOffset>0x1cace8</PointerOffset>
       <JapaneseText>パンツ？</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>1879282</PointerOffset>
+      <PointerOffset>0x1cacf2</PointerOffset>
       <JapaneseText>なんでもない！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>1879298</PointerOffset>
+      <PointerOffset>0x1cad02</PointerOffset>
       <JapaneseText>その、パンを作ったら焦げて……。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>1879332</PointerOffset>
+      <PointerOffset>0x1cad24</PointerOffset>
       <JapaneseText>あー……なんでもないんだ！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>3</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>1879359</PointerOffset>
+      <PointerOffset>0x1cad3f</PointerOffset>
       <JapaneseText>忘れてくれ、サンク！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>4</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>1879383</PointerOffset>
+      <PointerOffset>0x1cad57</PointerOffset>
       <JapaneseText>さ、さあて、帰って勉強でも――</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>5</Id>
       <Status>To Do</Status>
     </Entry>

@@ -3,35 +3,38 @@
   <FriendlyName>Conversation_1122</FriendlyName>
   <Strings>
     <Section>Speaker</Section>
+  </Strings>
+  <Strings>
+    <Section>Main</Section>
     <Entry>
-      <PointerOffset>3082883</PointerOffset>
+      <PointerOffset>0x2f0a83</PointerOffset>
       <JapaneseText>ごごご……。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>3082896</PointerOffset>
+      <PointerOffset>0x2f0a90</PointerOffset>
       <JapaneseText>あいつはあたしも苦手なんだけど。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>3082929</PointerOffset>
+      <PointerOffset>0x2f0ab1</PointerOffset>
       <JapaneseText>それ、究極召喚！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>3082946</PointerOffset>
+      <PointerOffset>0x2f0ac2</PointerOffset>
       <JapaneseText>ふん、くだらんな。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>3</Id>
       <Status>To Do</Status>
     </Entry>

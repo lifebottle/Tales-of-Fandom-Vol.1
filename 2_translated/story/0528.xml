@@ -3,35 +3,38 @@
   <FriendlyName>Conversation_0528</FriendlyName>
   <Strings>
     <Section>Speaker</Section>
+  </Strings>
+  <Strings>
+    <Section>Main</Section>
     <Entry>
-      <PointerOffset>1686506</PointerOffset>
+      <PointerOffset>0x19bbea</PointerOffset>
       <JapaneseText>雷神拳！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>1686521</PointerOffset>
+      <PointerOffset>0x19bbf9</PointerOffset>
       <JapaneseText>雷神十連撃！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>1686540</PointerOffset>
+      <PointerOffset>0x19bc0c</PointerOffset>
       <JapaneseText>両者ノックアウト！　引き分けです！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>1686575</PointerOffset>
+      <PointerOffset>0x19bc2f</PointerOffset>
       <JapaneseText>試合は引き分けに終わりました！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>3</Id>
       <Status>To Do</Status>
     </Entry>

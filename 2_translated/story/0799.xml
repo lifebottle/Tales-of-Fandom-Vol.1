@@ -3,107 +3,110 @@
   <FriendlyName>Conversation_0799</FriendlyName>
   <Strings>
     <Section>Speaker</Section>
+  </Strings>
+  <Strings>
+    <Section>Main</Section>
     <Entry>
-      <PointerOffset>2393248</PointerOffset>
+      <PointerOffset>0x2484a0</PointerOffset>
       <JapaneseText>無茶だ！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2393257</PointerOffset>
+      <PointerOffset>0x2484a9</PointerOffset>
       <JapaneseText>貴族の館に侵入なんかできっこない！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2393293</PointerOffset>
+      <PointerOffset>0x2484cd</PointerOffset>
       <JapaneseText>高い塀に見張りの番犬に……。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2393324</PointerOffset>
+      <PointerOffset>0x2484ec</PointerOffset>
       <JapaneseText>「評議会」の黒幕だとしたら</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>3</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2393351</PointerOffset>
+      <PointerOffset>0x248507</PointerOffset>
       <JapaneseText>それどころじゃすまないかもしれない！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>4</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2393389</PointerOffset>
+      <PointerOffset>0x24852d</PointerOffset>
       <JapaneseText>危険過ぎる。命を落とすぞ。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>5</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2393418</PointerOffset>
+      <PointerOffset>0x24854a</PointerOffset>
       <JapaneseText>私の相棒のセリフなんだけどね――</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>6</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2393452</PointerOffset>
+      <PointerOffset>0x24856c</PointerOffset>
       <JapaneseText>…………。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>7</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2393466</PointerOffset>
+      <PointerOffset>0x24857a</PointerOffset>
       <JapaneseText>真実を得るためならば、私は戦う。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>8</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2393500</PointerOffset>
+      <PointerOffset>0x24859c</PointerOffset>
       <JapaneseText>子猫ちゃん……。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>9</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2393520</PointerOffset>
+      <PointerOffset>0x2485b0</PointerOffset>
       <JapaneseText>それにさ！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>10</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2393531</PointerOffset>
+      <PointerOffset>0x2485bb</PointerOffset>
       <JapaneseText>秘密兵器もあることだしねっ。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>11</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2393562</PointerOffset>
+      <PointerOffset>0x2485da</PointerOffset>
       <JapaneseText>秘密兵器……？</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>12</Id>
       <Status>To Do</Status>
     </Entry>

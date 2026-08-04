@@ -3,51 +3,54 @@
   <FriendlyName>Conversation_0792</FriendlyName>
   <Strings>
     <Section>Speaker</Section>
+  </Strings>
+  <Strings>
+    <Section>Main</Section>
     <Entry>
-      <PointerOffset>2390998</PointerOffset>
+      <PointerOffset>0x247bd6</PointerOffset>
       <JapaneseText>……ん？</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2391011</PointerOffset>
+      <PointerOffset>0x247be3</PointerOffset>
       <JapaneseText>う、うわっ！？</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2391028</PointerOffset>
+      <PointerOffset>0x247bf4</PointerOffset>
       <JapaneseText>な、なんだこの煙は！？</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2391054</PointerOffset>
+      <PointerOffset>0x247c0e</PointerOffset>
       <JapaneseText>私が「姿なき晶霊術士」事件を解決した</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>3</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2391091</PointerOffset>
+      <PointerOffset>0x247c33</PointerOffset>
       <JapaneseText>プリムラ・ロッソさんだって事を</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>4</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2391124</PointerOffset>
+      <PointerOffset>0x247c54</PointerOffset>
       <JapaneseText>忘れてたみたいね。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>5</Id>
       <Status>To Do</Status>
     </Entry>

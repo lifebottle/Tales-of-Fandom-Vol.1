@@ -3,59 +3,62 @@
   <FriendlyName>Conversation_1243</FriendlyName>
   <Strings>
     <Section>Speaker</Section>
+  </Strings>
+  <Strings>
+    <Section>Main</Section>
     <Entry>
-      <PointerOffset>3275973</PointerOffset>
+      <PointerOffset>0x31fcc5</PointerOffset>
       <JapaneseText>おぉ！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>3275980</PointerOffset>
+      <PointerOffset>0x31fccc</PointerOffset>
       <JapaneseText>いいぞ、アレ！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>3275995</PointerOffset>
+      <PointerOffset>0x31fcdb</PointerOffset>
       <JapaneseText>よっしゃぁー、</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>3276010</PointerOffset>
+      <PointerOffset>0x31fcea</PointerOffset>
       <JapaneseText>アレ、発進！！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>3</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>3276025</PointerOffset>
+      <PointerOffset>0x31fcf9</PointerOffset>
       <JapaneseText>クィッキ〜！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>4</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>3276038</PointerOffset>
+      <PointerOffset>0x31fd06</PointerOffset>
       <JapaneseText>だからアレじゃなくて</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>5</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>3276059</PointerOffset>
+      <PointerOffset>0x31fd1b</PointerOffset>
       <JapaneseText>バンエルティア号だってばぁ〜！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>6</Id>
       <Status>To Do</Status>
     </Entry>

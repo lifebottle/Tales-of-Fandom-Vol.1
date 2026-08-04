@@ -3,99 +3,102 @@
   <FriendlyName>Conversation_0641</FriendlyName>
   <Strings>
     <Section>Speaker</Section>
+  </Strings>
+  <Strings>
+    <Section>Main</Section>
     <Entry>
-      <PointerOffset>1964565</PointerOffset>
+      <PointerOffset>0x1dfa15</PointerOffset>
       <JapaneseText>うう〜。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>1964578</PointerOffset>
+      <PointerOffset>0x1dfa22</PointerOffset>
       <JapaneseText>キールを怨んでるやつがいるのよ！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>1964611</PointerOffset>
+      <PointerOffset>0x1dfa43</PointerOffset>
       <JapaneseText>で、復讐してやろうと思って彼を陥れた。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>1964650</PointerOffset>
+      <PointerOffset>0x1dfa6a</PointerOffset>
       <JapaneseText>これしかないわ！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>3</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>1964670</PointerOffset>
+      <PointerOffset>0x1dfa7e</PointerOffset>
       <JapaneseText>なかなかの推理、と褒めてやりたいが、</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>4</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>1964707</PointerOffset>
+      <PointerOffset>0x1dfaa3</PointerOffset>
       <JapaneseText>それはただの思い付きだ。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>5</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>1964734</PointerOffset>
+      <PointerOffset>0x1dfabe</PointerOffset>
       <JapaneseText>もしかしたら、連鎖的世界崩壊仮説で</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>6</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>1964769</PointerOffset>
+      <PointerOffset>0x1dfae1</PointerOffset>
       <JapaneseText>最初から心証の悪いキールなら、</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>7</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>1964800</PointerOffset>
+      <PointerOffset>0x1dfb00</PointerOffset>
       <JapaneseText>大した調査も無しで有罪を下されると踏んで</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>8</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>1964841</PointerOffset>
+      <PointerOffset>0x1dfb29</PointerOffset>
       <JapaneseText>罪をなすりつけたのかもしれない。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>9</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>1964874</PointerOffset>
+      <PointerOffset>0x1dfb4a</PointerOffset>
       <JapaneseText>フフ。思い込みはミスを招くぞ、</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>10</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>1964905</PointerOffset>
+      <PointerOffset>0x1dfb69</PointerOffset>
       <JapaneseText>ダ・メー探偵？</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>11</Id>
       <Status>To Do</Status>
     </Entry>

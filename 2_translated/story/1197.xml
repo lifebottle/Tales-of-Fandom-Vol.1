@@ -3,19 +3,22 @@
   <FriendlyName>Conversation_1197</FriendlyName>
   <Strings>
     <Section>Speaker</Section>
+  </Strings>
+  <Strings>
+    <Section>Main</Section>
     <Entry>
-      <PointerOffset>3221141</PointerOffset>
+      <PointerOffset>0x312695</PointerOffset>
       <JapaneseText>あまつさえ格闘家なんて……、</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>3221170</PointerOffset>
+      <PointerOffset>0x3126b2</PointerOffset>
       <JapaneseText>ヒロインっぽくないかな？　……ってさ。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>

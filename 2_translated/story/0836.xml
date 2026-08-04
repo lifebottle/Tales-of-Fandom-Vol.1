@@ -3,43 +3,46 @@
   <FriendlyName>Conversation_0836</FriendlyName>
   <Strings>
     <Section>Speaker</Section>
+  </Strings>
+  <Strings>
+    <Section>Main</Section>
     <Entry>
-      <PointerOffset>2441454</PointerOffset>
+      <PointerOffset>0x2540ee</PointerOffset>
       <JapaneseText>待てっ！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2441481</PointerOffset>
+      <PointerOffset>0x254109</PointerOffset>
       <JapaneseText>だ、だれっ！？</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2441500</PointerOffset>
+      <PointerOffset>0x25411c</PointerOffset>
       <JapaneseText>正義の味方、</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2441513</PointerOffset>
+      <PointerOffset>0x254129</PointerOffset>
       <JapaneseText>とでもいっておこうか。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>3</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2441539</PointerOffset>
+      <PointerOffset>0x254143</PointerOffset>
       <JapaneseText>たぁーっ！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>4</Id>
       <Status>To Do</Status>
     </Entry>

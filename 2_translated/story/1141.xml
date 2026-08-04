@@ -3,51 +3,54 @@
   <FriendlyName>Conversation_1141</FriendlyName>
   <Strings>
     <Section>Speaker</Section>
+  </Strings>
+  <Strings>
+    <Section>Main</Section>
     <Entry>
-      <PointerOffset>3104962</PointerOffset>
+      <PointerOffset>0x2f60c2</PointerOffset>
       <JapaneseText>頼む！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>3104969</PointerOffset>
+      <PointerOffset>0x2f60c9</PointerOffset>
       <JapaneseText>俺のバニラ味と取り替えてくれよ。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>3105002</PointerOffset>
+      <PointerOffset>0x2f60ea</PointerOffset>
       <JapaneseText>リリスがいちご味が好きなんだけど</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>3105035</PointerOffset>
+      <PointerOffset>0x2f610b</PointerOffset>
       <JapaneseText>さっき売り切れちゃったらしくてさー。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>3</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>3105072</PointerOffset>
+      <PointerOffset>0x2f6130</PointerOffset>
       <JapaneseText>おまえの事情なぞ知らん！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>4</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>3105097</PointerOffset>
+      <PointerOffset>0x2f6149</PointerOffset>
       <JapaneseText>急いでるんだ、そこをどけ！！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>5</Id>
       <Status>To Do</Status>
     </Entry>

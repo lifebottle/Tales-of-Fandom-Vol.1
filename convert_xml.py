@@ -62,6 +62,16 @@ def replace_ids(xml):
 		new_xml = new_xml.replace("<Id></Id>", f"<Id>{i}</Id>", 1)
 	return new_xml
 
+def fix_scenetext(xml):
+	if "<SceneText>" in xml:
+		xml = xml.replace(
+			"<Section>Speaker</Section>",
+			"<Section>Speaker</Section>\n  </Strings>\n  <Strings>\n    <Section>Main</Section>"
+		)
+	else:
+		print("MenuText found. Skipping replacing Speaker with Main.")
+	return xml
+
 
 def update_all_xml(folder):
 	files = get_all_xml_files(folder)
@@ -73,12 +83,13 @@ def update_all_xml(folder):
 		new_xml = xml.replace("<Status>Editing</Status>", "<Status>Edited</Status>")
 		new_xml = new_xml.replace("<Status/>", "<Status>To Do</Status>")
 		new_xml = new_xml.replace("<Status></Status>", "<Status>To Do</Status>")
-		new_xml = new_xml.replace("<Notes/>", "<Notes> </Notes>")
-		new_xml = new_xml.replace("<Notes></Notes>", "<Notes> </Notes>")
-		new_xml = new_xml.replace("<EnglishText/>", "<EnglishText> </EnglishText>")
-		new_xml = new_xml.replace("<EnglishText></EnglishText>", "<EnglishText> </EnglishText>")
-		new_xml = replace_ptrs_with_ints(new_xml)
+		new_xml = new_xml.replace("<Notes> </Notes>", "<Notes/>")
+		new_xml = new_xml.replace("<Notes></Notes>", "<Notes/>")
+		new_xml = new_xml.replace("<EnglishText></EnglishText>", "<EnglishText/>")
+		new_xml = new_xml.replace("<EnglishText> </EnglishText>", "<EnglishText/>")
+		#new_xml = replace_ptrs_with_ints(new_xml)
 		new_xml = replace_ids(new_xml)
+		new_xml = fix_scenetext(new_xml)
 
 		xml = file.write_text(new_xml, encoding="utf-8")
 

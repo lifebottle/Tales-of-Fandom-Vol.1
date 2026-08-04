@@ -3,51 +3,54 @@
   <FriendlyName>Conversation_1024</FriendlyName>
   <Strings>
     <Section>Speaker</Section>
+  </Strings>
+  <Strings>
+    <Section>Main</Section>
     <Entry>
-      <PointerOffset>2918627</PointerOffset>
+      <PointerOffset>0x2c88e3</PointerOffset>
       <JapaneseText>こっちに来てはだめ！　危ないわ。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2918660</PointerOffset>
+      <PointerOffset>0x2c8904</PointerOffset>
       <JapaneseText>生徒がいたずらで落とし穴作っちゃってね。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2918701</PointerOffset>
+      <PointerOffset>0x2c892d</PointerOffset>
       <JapaneseText>急いでるんです！　通らせてください。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2918738</PointerOffset>
+      <PointerOffset>0x2c8952</PointerOffset>
       <JapaneseText>聞き分けのないこと言わないで。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>3</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2918769</PointerOffset>
+      <PointerOffset>0x2c8971</PointerOffset>
       <JapaneseText>急がなくちゃいけないんです！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>4</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2918798</PointerOffset>
+      <PointerOffset>0x2c898e</PointerOffset>
       <JapaneseText>ダーメ！　危ないって言ってるでしょ！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>5</Id>
       <Status>To Do</Status>
     </Entry>

@@ -3,43 +3,46 @@
   <FriendlyName>Conversation_0773</FriendlyName>
   <Strings>
     <Section>Speaker</Section>
+  </Strings>
+  <Strings>
+    <Section>Main</Section>
     <Entry>
-      <PointerOffset>2320003</PointerOffset>
+      <PointerOffset>0x236683</PointerOffset>
       <JapaneseText>実は――</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2320016</PointerOffset>
+      <PointerOffset>0x236690</PointerOffset>
       <JapaneseText>――というわけで、</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2320038</PointerOffset>
+      <PointerOffset>0x2366a6</PointerOffset>
       <JapaneseText>試験問題漏洩の陰には「評議会」という</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2320075</PointerOffset>
+      <PointerOffset>0x2366cb</PointerOffset>
       <JapaneseText>犯罪組織が関わっているんです。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>3</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2320108</PointerOffset>
+      <PointerOffset>0x2366ec</PointerOffset>
       <JapaneseText>キールは罪を被せられただけなんです！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>4</Id>
       <Status>To Do</Status>
     </Entry>

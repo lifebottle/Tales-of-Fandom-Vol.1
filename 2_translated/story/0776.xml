@@ -3,19 +3,22 @@
   <FriendlyName>Conversation_0776</FriendlyName>
   <Strings>
     <Section>Speaker</Section>
+  </Strings>
+  <Strings>
+    <Section>Main</Section>
     <Entry>
-      <PointerOffset>2332571</PointerOffset>
+      <PointerOffset>0x23979b</PointerOffset>
       <JapaneseText>フンフフンフン〜♪</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2332590</PointerOffset>
+      <PointerOffset>0x2397ae</PointerOffset>
       <JapaneseText>エッグベア香草焼きは火加減が命！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>

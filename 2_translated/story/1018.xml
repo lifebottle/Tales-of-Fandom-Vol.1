@@ -3,51 +3,54 @@
   <FriendlyName>Conversation_1018</FriendlyName>
   <Strings>
     <Section>Speaker</Section>
+  </Strings>
+  <Strings>
+    <Section>Main</Section>
     <Entry>
-      <PointerOffset>2913819</PointerOffset>
+      <PointerOffset>0x2c761b</PointerOffset>
       <JapaneseText>せいっ、せいっ！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2913836</PointerOffset>
+      <PointerOffset>0x2c762c</PointerOffset>
       <JapaneseText>せいっ、せいっ！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2913853</PointerOffset>
+      <PointerOffset>0x2c763d</PointerOffset>
       <JapaneseText>ご精が出ますね。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2913870</PointerOffset>
+      <PointerOffset>0x2c764e</PointerOffset>
       <JapaneseText>修行は毎日続けることに意味があるからね。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>3</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2913911</PointerOffset>
+      <PointerOffset>0x2c7677</PointerOffset>
       <JapaneseText>あ、あの……今日の修行はまだ……。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>4</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2913946</PointerOffset>
+      <PointerOffset>0x2c769a</PointerOffset>
       <JapaneseText>何か僕に用事でも？</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>5</Id>
       <Status>To Do</Status>
     </Entry>

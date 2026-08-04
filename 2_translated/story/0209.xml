@@ -3,51 +3,54 @@
   <FriendlyName>Conversation_0209</FriendlyName>
   <Strings>
     <Section>Speaker</Section>
+  </Strings>
+  <Strings>
+    <Section>Main</Section>
     <Entry>
-      <PointerOffset>774210</PointerOffset>
+      <PointerOffset>0xbd042</PointerOffset>
       <JapaneseText>ゴーリ。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>774219</PointerOffset>
+      <PointerOffset>0xbd04b</PointerOffset>
       <JapaneseText>やあ、アルベイン。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>774238</PointerOffset>
+      <PointerOffset>0xbd05e</PointerOffset>
       <JapaneseText>あの子たちか？</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>774253</PointerOffset>
+      <PointerOffset>0xbd06d</PointerOffset>
       <JapaneseText>バークライト夫妻の遺児というのは。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>3</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>774288</PointerOffset>
+      <PointerOffset>0xbd090</PointerOffset>
       <JapaneseText>ああ。苦労したらしくてな、兄の方は</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>4</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>774323</PointerOffset>
+      <PointerOffset>0xbd0b3</PointerOffset>
       <JapaneseText>偏屈なところがあるが、弓の腕は立つ。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>5</Id>
       <Status>To Do</Status>
     </Entry>

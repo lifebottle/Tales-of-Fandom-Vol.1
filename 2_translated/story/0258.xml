@@ -3,11 +3,14 @@
   <FriendlyName>Conversation_0258</FriendlyName>
   <Strings>
     <Section>Speaker</Section>
+  </Strings>
+  <Strings>
+    <Section>Main</Section>
     <Entry>
       <PointerOffset>0xd45d0</PointerOffset>
       <JapaneseText>彼女は、ユークリッドの商人の家の子で、</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>

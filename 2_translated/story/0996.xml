@@ -4,7 +4,7 @@
   <Strings>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x2b404b</PointerOffset>
+      <PointerOffset>2834507</PointerOffset>
       <JapaneseText>さてさて、気になる勝敗の結果は？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -12,7 +12,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2b406d</PointerOffset>
+      <PointerOffset>2834541</PointerOffset>
       <JapaneseText>なんと、フォッグ・すず組の圧勝でした！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -20,7 +20,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2b4095</PointerOffset>
+      <PointerOffset>2834581</PointerOffset>
       <JapaneseText>え？　ビリはどこだって？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -28,7 +28,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2b40ae</PointerOffset>
+      <PointerOffset>2834606</PointerOffset>
       <JapaneseText>んなの、決まってんじゃん！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -36,7 +36,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2b40c9</PointerOffset>
+      <PointerOffset>2834633</PointerOffset>
       <JapaneseText>おまえのせいだぞ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -44,7 +44,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2b40df</PointerOffset>
+      <PointerOffset>2834655</PointerOffset>
       <JapaneseText>はいはい。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -52,7 +52,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2b40ee</PointerOffset>
+      <PointerOffset>2834670</PointerOffset>
       <JapaneseText>ぼくの理論通りならぜったい勝ってた。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -60,7 +60,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2b4114</PointerOffset>
+      <PointerOffset>2834708</PointerOffset>
       <JapaneseText>そうだな。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -68,7 +68,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2b4123</PointerOffset>
+      <PointerOffset>2834723</PointerOffset>
       <JapaneseText>おまえ、ぼくをバカにしてるだろ！？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>

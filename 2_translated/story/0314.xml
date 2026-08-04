@@ -4,7 +4,7 @@
   <Strings>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0xf8d4d</PointerOffset>
+      <PointerOffset>1019213</PointerOffset>
       <JapaneseText>森の奥には盗賊団がいた。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -12,7 +12,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xf8d66</PointerOffset>
+      <PointerOffset>1019238</PointerOffset>
       <JapaneseText>あいつはその、ユークリッド時代の悪い</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -20,7 +20,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xf8d8b</PointerOffset>
+      <PointerOffset>1019275</PointerOffset>
       <JapaneseText>仲間と結託して、</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>

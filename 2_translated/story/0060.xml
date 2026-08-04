@@ -4,7 +4,7 @@
   <Strings>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x6a688</PointerOffset>
+      <PointerOffset>435848</PointerOffset>
       <JapaneseText>クレスとの距離</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -12,7 +12,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x6a697</PointerOffset>
+      <PointerOffset>435863</PointerOffset>
       <JapaneseText>トーティスの橋</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -20,7 +20,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x6a6a6</PointerOffset>
+      <PointerOffset>435878</PointerOffset>
       <JapaneseText>うんしょ、うんしょ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -28,7 +28,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x6a6bb</PointerOffset>
+      <PointerOffset>435899</PointerOffset>
       <JapaneseText>アミィちゃーん！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -36,7 +36,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x6a6cc</PointerOffset>
+      <PointerOffset>435916</PointerOffset>
       <JapaneseText>あ、クレスさん！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>

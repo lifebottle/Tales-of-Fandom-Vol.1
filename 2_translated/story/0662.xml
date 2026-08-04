@@ -4,7 +4,7 @@
   <Strings>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x1eb883</PointerOffset>
+      <PointerOffset>2013315</PointerOffset>
       <JapaneseText>あ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -12,7 +12,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1eb888</PointerOffset>
+      <PointerOffset>2013320</PointerOffset>
       <JapaneseText>クレーメルケージがついてる……？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -20,7 +20,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1eb8aa</PointerOffset>
+      <PointerOffset>2013354</PointerOffset>
       <JapaneseText>いいところに目をつけたね！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -28,7 +28,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1eb8c7</PointerOffset>
+      <PointerOffset>2013383</PointerOffset>
       <JapaneseText>風晶霊の力を借りて、これを持つ者同士</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -36,7 +36,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1eb8ec</PointerOffset>
+      <PointerOffset>2013420</PointerOffset>
       <JapaneseText>の遠隔会話を可能にするんだ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -44,7 +44,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1eb90b</PointerOffset>
+      <PointerOffset>2013451</PointerOffset>
       <JapaneseText>名づけて、「クレーメルトーク」！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -52,7 +52,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1eb92d</PointerOffset>
+      <PointerOffset>2013485</PointerOffset>
       <JapaneseText>すごーい！　サンクってば天才！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -60,7 +60,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1eb94e</PointerOffset>
+      <PointerOffset>2013518</PointerOffset>
       <JapaneseText>へへへ。まあ、残念ながらアンテナがある</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -68,7 +68,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1eb975</PointerOffset>
+      <PointerOffset>2013557</PointerOffset>
       <JapaneseText>この部屋の中でしか使えないし、</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -76,7 +76,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1eb995</PointerOffset>
+      <PointerOffset>2013589</PointerOffset>
       <JapaneseText>時々聞こえなくなったりもするし、</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -84,7 +84,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1eb9b6</PointerOffset>
+      <PointerOffset>2013622</PointerOffset>
       <JapaneseText>その……軽く爆発したりね、ウン。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -92,7 +92,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1eb9d8</PointerOffset>
+      <PointerOffset>2013656</PointerOffset>
       <JapaneseText>爆発〜！？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -100,7 +100,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1eb9e7</PointerOffset>
+      <PointerOffset>2013671</PointerOffset>
       <JapaneseText>時々だよ時々！　乱暴に扱うと、</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -108,7 +108,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1eba06</PointerOffset>
+      <PointerOffset>2013702</PointerOffset>
       <JapaneseText>ごくまれに煙が出たり。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -116,7 +116,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1eba20</PointerOffset>
+      <PointerOffset>2013728</PointerOffset>
       <JapaneseText>安心してよ、</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -124,7 +124,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1eba2d</PointerOffset>
+      <PointerOffset>2013741</PointerOffset>
       <JapaneseText>ちょっと火傷するくらいの爆発だから。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -132,7 +132,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1eba53</PointerOffset>
+      <PointerOffset>2013779</PointerOffset>
       <JapaneseText>……いらない。返す。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -140,7 +140,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1eba6b</PointerOffset>
+      <PointerOffset>2013803</PointerOffset>
       <JapaneseText>まあまあまあまあ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -148,7 +148,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1eba81</PointerOffset>
+      <PointerOffset>2013825</PointerOffset>
       <JapaneseText>これは試作第ニ号でね、一号機は</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -156,7 +156,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1ebaa0</PointerOffset>
+      <PointerOffset>2013856</PointerOffset>
       <JapaneseText>キールに渡してあるんだ。つまり――</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -164,7 +164,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1ebac4</PointerOffset>
+      <PointerOffset>2013892</PointerOffset>
       <JapaneseText>キールと会話ができるってこと！？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>

@@ -4,7 +4,7 @@
   <Strings>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x2b0ae3</PointerOffset>
+      <PointerOffset>2820835</PointerOffset>
       <JapaneseText>どれ出そっか？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -12,7 +12,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2b0af6</PointerOffset>
+      <PointerOffset>2820854</PointerOffset>
       <JapaneseText>ふん、勝手にしろ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -20,7 +20,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2b0b09</PointerOffset>
+      <PointerOffset>2820873</PointerOffset>
       <JapaneseText>あらら、ご機嫌ななめ？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -28,7 +28,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2b0b23</PointerOffset>
+      <PointerOffset>2820899</PointerOffset>
       <JapaneseText>人を子供扱いするな！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -36,7 +36,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2b0b3b</PointerOffset>
+      <PointerOffset>2820923</PointerOffset>
       <JapaneseText>ごめん、ごめん。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -44,7 +44,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2b0b4d</PointerOffset>
+      <PointerOffset>2820941</PointerOffset>
       <JapaneseText>で、どうしよっか？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -52,7 +52,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2b0b63</PointerOffset>
+      <PointerOffset>2820963</PointerOffset>
       <JapaneseText>だから！　おまえが決めろ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -60,7 +60,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2b0b80</PointerOffset>
+      <PointerOffset>2820992</PointerOffset>
       <JapaneseText>やだ！　せっかくふたりで組んでるんだし</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -68,7 +68,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2b0ba7</PointerOffset>
+      <PointerOffset>2821031</PointerOffset>
       <JapaneseText>相談しようよ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -76,7 +76,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2b0bba</PointerOffset>
+      <PointerOffset>2821050</PointerOffset>
       <JapaneseText>ふん、単なる遊びだろ。くだらんな。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -84,7 +84,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2b0bdd</PointerOffset>
+      <PointerOffset>2821085</PointerOffset>
       <JapaneseText>遊びでも勝てたら嬉しいじゃない？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -92,7 +92,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2b0bfe</PointerOffset>
+      <PointerOffset>2821118</PointerOffset>
       <JapaneseText>ね？　がんばろうよ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -100,7 +100,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2b0c16</PointerOffset>
+      <PointerOffset>2821142</PointerOffset>
       <JapaneseText>……ふ、ふん……。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -108,7 +108,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2b0c29</PointerOffset>
+      <PointerOffset>2821161</PointerOffset>
       <JapaneseText>プリズムのカードでも出せばいいだろ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -116,7 +116,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2b0c4f</PointerOffset>
+      <PointerOffset>2821199</PointerOffset>
       <JapaneseText>わかった。じゃ、コレ出しまーす。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -124,7 +124,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2b0c71</PointerOffset>
+      <PointerOffset>2821233</PointerOffset>
       <JapaneseText>イケる、イケる！　ね？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -132,7 +132,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2b0c88</PointerOffset>
+      <PointerOffset>2821256</PointerOffset>
       <JapaneseText>あ、あぁ……。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -140,7 +140,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2b0c97</PointerOffset>
+      <PointerOffset>2821271</PointerOffset>
       <JapaneseText>あらら？　意外とうまくいってんじゃん。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -148,7 +148,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2b0cbe</PointerOffset>
+      <PointerOffset>2821310</PointerOffset>
       <JapaneseText>……ちぇっ、つまんないのぉ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -156,7 +156,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2b0cdd</PointerOffset>
+      <PointerOffset>2821341</PointerOffset>
       <JapaneseText>大体リオンって、</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -164,7 +164,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2b0cee</PointerOffset>
+      <PointerOffset>2821358</PointerOffset>
       <JapaneseText>マリアンとかファラとか</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -172,7 +172,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2b0d05</PointerOffset>
+      <PointerOffset>2821381</PointerOffset>
       <JapaneseText>母性本能まるだしのタイプに弱すぎだね！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>

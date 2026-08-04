@@ -4,7 +4,7 @@
   <Strings>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x21539d</PointerOffset>
+      <PointerOffset>2184093</PointerOffset>
       <JapaneseText>なにぃ？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -12,7 +12,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2153aa</PointerOffset>
+      <PointerOffset>2184106</PointerOffset>
       <JapaneseText>あなたがいま立っている場所。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -20,7 +20,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2153c7</PointerOffset>
+      <PointerOffset>2184135</PointerOffset>
       <JapaneseText>横に本棚があるわよね？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -28,7 +28,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2153e1</PointerOffset>
+      <PointerOffset>2184161</PointerOffset>
       <JapaneseText>その隣にも本棚。また隣に本棚。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -36,7 +36,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x215402</PointerOffset>
+      <PointerOffset>2184194</PointerOffset>
       <JapaneseText>私のところまで連なった本棚。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -44,7 +44,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x21541f</PointerOffset>
+      <PointerOffset>2184223</PointerOffset>
       <JapaneseText>で、私の隣のをこうやって……。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -52,7 +52,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x215440</PointerOffset>
+      <PointerOffset>2184256</PointerOffset>
       <JapaneseText>倒すと……！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -60,7 +60,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x215454</PointerOffset>
+      <PointerOffset>2184276</PointerOffset>
       <JapaneseText>う、うわ〜〜〜！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>

@@ -4,7 +4,7 @@
   <Strings>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x109108</PointerOffset>
+      <PointerOffset>1085704</PointerOffset>
       <JapaneseText>兄妹の警戒心</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -12,7 +12,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x109116</PointerOffset>
+      <PointerOffset>1085718</PointerOffset>
       <JapaneseText>なんだ、てめえは！？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -20,7 +20,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x10912b</PointerOffset>
+      <PointerOffset>1085739</PointerOffset>
       <JapaneseText>クレス！？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -28,7 +28,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x109136</PointerOffset>
+      <PointerOffset>1085750</PointerOffset>
       <JapaneseText>――クレイトンさん、</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -36,7 +36,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x10914b</PointerOffset>
+      <PointerOffset>1085771</PointerOffset>
       <JapaneseText>ちょっとまってくれ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -44,7 +44,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x109160</PointerOffset>
+      <PointerOffset>1085792</PointerOffset>
       <JapaneseText>――馬鹿やろう、何しに来た。早く帰れ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -52,7 +52,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x109187</PointerOffset>
+      <PointerOffset>1085831</PointerOffset>
       <JapaneseText>そして今見たことは忘れろ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>

@@ -4,7 +4,7 @@
   <Strings>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x59fb5</PointerOffset>
+      <PointerOffset>368565</PointerOffset>
       <JapaneseText>ゴーリ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -12,7 +12,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x59fbe</PointerOffset>
+      <PointerOffset>368574</PointerOffset>
       <JapaneseText>やあ、アルベイン。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -20,7 +20,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x59fd1</PointerOffset>
+      <PointerOffset>368593</PointerOffset>
       <JapaneseText>あの子たちか？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -28,7 +28,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x59fe0</PointerOffset>
+      <PointerOffset>368608</PointerOffset>
       <JapaneseText>バークライト夫妻の遺児というのは</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>

@@ -4,7 +4,7 @@
   <Strings>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x232638</PointerOffset>
+      <PointerOffset>2303544</PointerOffset>
       <JapaneseText>名探偵ポイント</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -12,7 +12,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x232647</PointerOffset>
+      <PointerOffset>2303559</PointerOffset>
       <JapaneseText>君が持っている生徒一覧表で、</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -20,7 +20,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x232664</PointerOffset>
+      <PointerOffset>2303588</PointerOffset>
       <JapaneseText>誰がどの部屋にいるのかは一目瞭然だ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -28,7 +28,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x23268a</PointerOffset>
+      <PointerOffset>2303626</PointerOffset>
       <JapaneseText>それを見て行動するといいだろう。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -36,7 +36,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2326ab</PointerOffset>
+      <PointerOffset>2303659</PointerOffset>
       <JapaneseText>頑張ってくれ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -44,7 +44,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2326be</PointerOffset>
+      <PointerOffset>2303678</PointerOffset>
       <JapaneseText>「評議会」の名前を口にしていた男の名前は</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -52,7 +52,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2326e7</PointerOffset>
+      <PointerOffset>2303719</PointerOffset>
       <JapaneseText>ジャッジだかジャッドだかって男だ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -60,7 +60,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x23270b</PointerOffset>
+      <PointerOffset>2303755</PointerOffset>
       <JapaneseText>似たような名前の男の部屋に</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -68,7 +68,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x232726</PointerOffset>
+      <PointerOffset>2303782</PointerOffset>
       <JapaneseText>行ってみてくれ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -76,7 +76,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x23273a</PointerOffset>
+      <PointerOffset>2303802</PointerOffset>
       <JapaneseText>四〇二号室にジャッコって名前の男が</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -84,7 +84,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x23275d</PointerOffset>
+      <PointerOffset>2303837</PointerOffset>
       <JapaneseText>いるじゃないか。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -92,7 +92,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x232771</PointerOffset>
+      <PointerOffset>2303857</PointerOffset>
       <JapaneseText>しっかりしてくれよ、まったく！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -100,7 +100,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x232792</PointerOffset>
+      <PointerOffset>2303890</PointerOffset>
       <JapaneseText>僕の命運は君が握っているんだぞ！？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -108,7 +108,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2327b6</PointerOffset>
+      <PointerOffset>2303926</PointerOffset>
       <JapaneseText>暗号か……。たぶん、イニシャルを示して</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -116,7 +116,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2327dd</PointerOffset>
+      <PointerOffset>2303965</PointerOffset>
       <JapaneseText>いるんじゃないか？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -124,7 +124,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2327f3</PointerOffset>
+      <PointerOffset>2303987</PointerOffset>
       <JapaneseText>Ｗ・Ｗ、Ａ・Ｈ、Ａ・Ｌ、だったよな？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -132,7 +132,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x232819</PointerOffset>
+      <PointerOffset>2304025</PointerOffset>
       <JapaneseText>たとえば君の名前はプリムラ・ロッソだから</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -140,7 +140,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x232842</PointerOffset>
+      <PointerOffset>2304066</PointerOffset>
       <JapaneseText>イニシャルはＰ・Ｒ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -148,7 +148,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x23285a</PointerOffset>
+      <PointerOffset>2304090</PointerOffset>
       <JapaneseText>僕の場合はＫ・Ｚになるというわけだな。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -156,7 +156,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x232882</PointerOffset>
+      <PointerOffset>2304130</PointerOffset>
       <JapaneseText>君が持っている生徒一覧表と</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -164,7 +164,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x23289d</PointerOffset>
+      <PointerOffset>2304157</PointerOffset>
       <JapaneseText>照らし合わせれば、</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -172,7 +172,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2328b3</PointerOffset>
+      <PointerOffset>2304179</PointerOffset>
       <JapaneseText>イニシャルから元の名前を</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -180,7 +180,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2328cc</PointerOffset>
+      <PointerOffset>2304204</PointerOffset>
       <JapaneseText>割り出せるんじゃないかな……？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -188,7 +188,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2328ed</PointerOffset>
+      <PointerOffset>2304237</PointerOffset>
       <JapaneseText>……。Ｗ・Ｗはウィリアム・ウォーベックの</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -196,7 +196,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x232916</PointerOffset>
+      <PointerOffset>2304278</PointerOffset>
       <JapaneseText>イニシャルだろう？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -204,7 +204,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x23292c</PointerOffset>
+      <PointerOffset>2304300</PointerOffset>
       <JapaneseText>彼が住んでいるのは三〇二号室。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -212,7 +212,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x23294b</PointerOffset>
+      <PointerOffset>2304331</PointerOffset>
       <JapaneseText>そういうふうに考えるだけの問題だろう！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -220,7 +220,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x232973</PointerOffset>
+      <PointerOffset>2304371</PointerOffset>
       <JapaneseText>君には本当に失望させられるよ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -228,7 +228,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x232994</PointerOffset>
+      <PointerOffset>2304404</PointerOffset>
       <JapaneseText>どうやら僕も覚悟を決めたほうが</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -236,7 +236,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2329b3</PointerOffset>
+      <PointerOffset>2304435</PointerOffset>
       <JapaneseText>良さそうだな……。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -244,7 +244,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2329c9</PointerOffset>
+      <PointerOffset>2304457</PointerOffset>
       <JapaneseText>う〜ん。新聞部新聞部……。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -252,7 +252,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2329e6</PointerOffset>
+      <PointerOffset>2304486</PointerOffset>
       <JapaneseText>プリムラ、君の知り合いに</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -260,7 +260,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2329ff</PointerOffset>
+      <PointerOffset>2304511</PointerOffset>
       <JapaneseText>新聞部のやつはいないか？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -268,7 +268,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x232a1a</PointerOffset>
+      <PointerOffset>2304538</PointerOffset>
       <JapaneseText>「姿なき晶霊術士事件」を解決した時に取材に来た女の子。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -276,7 +276,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x232a54</PointerOffset>
+      <PointerOffset>2304596</PointerOffset>
       <JapaneseText>取材の前に名乗ってなかったか？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -284,7 +284,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x232a75</PointerOffset>
+      <PointerOffset>2304629</PointerOffset>
       <JapaneseText>ルナリアって名乗っていたよな、</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -292,7 +292,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x232a94</PointerOffset>
+      <PointerOffset>2304660</PointerOffset>
       <JapaneseText>あの女の子。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -300,7 +300,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x232aa5</PointerOffset>
+      <PointerOffset>2304677</PointerOffset>
       <JapaneseText>風の宮殿に住んでるって……なんのことだ？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -308,7 +308,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x232ace</PointerOffset>
+      <PointerOffset>2304718</PointerOffset>
       <JapaneseText>シルフの君……シルフ……シルフ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -316,7 +316,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x232af0</PointerOffset>
+      <PointerOffset>2304752</PointerOffset>
       <JapaneseText>そうだ！　シルフに関係する部屋を</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -324,7 +324,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x232b11</PointerOffset>
+      <PointerOffset>2304785</PointerOffset>
       <JapaneseText>探してみたらどうだ！？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -332,7 +332,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x232b2b</PointerOffset>
+      <PointerOffset>2304811</PointerOffset>
       <JapaneseText>晶霊にはそれぞれイメージカラーがあるのは</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -340,7 +340,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x232b54</PointerOffset>
+      <PointerOffset>2304852</PointerOffset>
       <JapaneseText>知っているな？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -348,7 +348,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x232b67</PointerOffset>
+      <PointerOffset>2304871</PointerOffset>
       <JapaneseText>イフリートは赤。ウンディーネは水色。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -356,7 +356,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x232b8c</PointerOffset>
+      <PointerOffset>2304908</PointerOffset>
       <JapaneseText>シルフは……。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -364,7 +364,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x232b9f</PointerOffset>
+      <PointerOffset>2304927</PointerOffset>
       <JapaneseText>学生寮は各階ごとに色分けされている。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -372,7 +372,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x232bc5</PointerOffset>
+      <PointerOffset>2304965</PointerOffset>
       <JapaneseText>シルフのイメージカラーである緑色の階に</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -380,7 +380,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x232bec</PointerOffset>
+      <PointerOffset>2305004</PointerOffset>
       <JapaneseText>住んでいる男。そいつが「シルフの君」だ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -388,7 +388,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x232c15</PointerOffset>
+      <PointerOffset>2305045</PointerOffset>
       <JapaneseText>僕たちの行為自体、ある意味神への挑戦とも</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -396,7 +396,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x232c3e</PointerOffset>
+      <PointerOffset>2305086</PointerOffset>
       <JapaneseText>いえるよな。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -404,7 +404,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x232c4f</PointerOffset>
+      <PointerOffset>2305103</PointerOffset>
       <JapaneseText>「呪われし場所」というのは、単なる文章の</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -412,7 +412,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x232c78</PointerOffset>
+      <PointerOffset>2305144</PointerOffset>
       <JapaneseText>遊びだろう。あまり気にしないほうがいいな</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -420,7 +420,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x232ca1</PointerOffset>
+      <PointerOffset>2305185</PointerOffset>
       <JapaneseText>学問とはすなわち、</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -428,7 +428,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x232cb7</PointerOffset>
+      <PointerOffset>2305207</PointerOffset>
       <JapaneseText>セイファートが定めた目に見えないルールを</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -436,7 +436,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x232ce0</PointerOffset>
+      <PointerOffset>2305248</PointerOffset>
       <JapaneseText>探り当てようとする試みだ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -444,7 +444,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x232cfd</PointerOffset>
+      <PointerOffset>2305277</PointerOffset>
       <JapaneseText>これを「神の御業に挑む」と</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -452,7 +452,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x232d18</PointerOffset>
+      <PointerOffset>2305304</PointerOffset>
       <JapaneseText>言っているんじゃないか？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -460,7 +460,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x232d33</PointerOffset>
+      <PointerOffset>2305331</PointerOffset>
       <JapaneseText>行くべきところは教室しかないだろう、</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -468,7 +468,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x232d58</PointerOffset>
+      <PointerOffset>2305368</PointerOffset>
       <JapaneseText>少しは自分で頭を働かせてくれ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -476,7 +476,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x232d79</PointerOffset>
+      <PointerOffset>2305401</PointerOffset>
       <JapaneseText>君には想像力というものが</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -484,7 +484,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x232d92</PointerOffset>
+      <PointerOffset>2305426</PointerOffset>
       <JapaneseText>欠落しているのか！？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -492,7 +492,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x232daa</PointerOffset>
+      <PointerOffset>2305450</PointerOffset>
       <JapaneseText>これは難しいな……。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -500,7 +500,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x232dc2</PointerOffset>
+      <PointerOffset>2305474</PointerOffset>
       <JapaneseText>ルナリアの言葉のなかに、</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -508,7 +508,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x232ddb</PointerOffset>
+      <PointerOffset>2305499</PointerOffset>
       <JapaneseText>ヒントがあるのかもしれない。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -516,7 +516,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x232dfa</PointerOffset>
+      <PointerOffset>2305530</PointerOffset>
       <JapaneseText>彼女が話した内容で、まだヒントになって</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -524,7 +524,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x232e21</PointerOffset>
+      <PointerOffset>2305569</PointerOffset>
       <JapaneseText>いないような部分がないか、</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -532,7 +532,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x232e3e</PointerOffset>
+      <PointerOffset>2305598</PointerOffset>
       <JapaneseText>しっかり思い出してくれ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -540,7 +540,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x232e59</PointerOffset>
+      <PointerOffset>2305625</PointerOffset>
       <JapaneseText>それぞれの名前を</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -548,7 +548,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x232e6a</PointerOffset>
+      <PointerOffset>2305642</PointerOffset>
       <JapaneseText>部屋番号に入れ替えてみようか。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -556,7 +556,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x232e8b</PointerOffset>
+      <PointerOffset>2305675</PointerOffset>
       <JapaneseText>キーファは「一〇二」。アンは「一〇一」</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -564,7 +564,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x232eb2</PointerOffset>
+      <PointerOffset>2305714</PointerOffset>
       <JapaneseText>……う〜ん、わからないな。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>

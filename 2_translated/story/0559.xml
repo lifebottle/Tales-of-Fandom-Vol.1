@@ -4,7 +4,7 @@
   <Strings>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x1ac587</PointerOffset>
+      <PointerOffset>1754503</PointerOffset>
       <JapaneseText>名前？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -12,7 +12,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1ac58e</PointerOffset>
+      <PointerOffset>1754510</PointerOffset>
       <JapaneseText>これだけディムロスにそっくりなんだから、</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -20,7 +20,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1ac5b7</PointerOffset>
+      <PointerOffset>1754551</PointerOffset>
       <JapaneseText>こいつにも名前があっていいと思うんだ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -28,7 +28,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1ac5de</PointerOffset>
+      <PointerOffset>1754590</PointerOffset>
       <JapaneseText>リリスが決めてくれよ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -36,7 +36,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1ac5f5</PointerOffset>
+      <PointerOffset>1754613</PointerOffset>
       <JapaneseText>そ、そうね……。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -44,7 +44,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1ac606</PointerOffset>
+      <PointerOffset>1754630</PointerOffset>
       <JapaneseText>だったら、Ｓ．Ｄ．なんてどうかな？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -52,7 +52,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1ac629</PointerOffset>
+      <PointerOffset>1754665</PointerOffset>
       <JapaneseText>えすでぃー？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -60,7 +60,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1ac636</PointerOffset>
+      <PointerOffset>1754678</PointerOffset>
       <JapaneseText>変すぎる、かな？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -68,7 +68,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1ac647</PointerOffset>
+      <PointerOffset>1754695</PointerOffset>
       <JapaneseText>『なんだそれは！　安易すぎるぞ！』</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -76,7 +76,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1ac66a</PointerOffset>
+      <PointerOffset>1754730</PointerOffset>
       <JapaneseText>『しっ。お兄ちゃんに聞こえるわよ？』</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -84,7 +84,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1ac68f</PointerOffset>
+      <PointerOffset>1754767</PointerOffset>
       <JapaneseText>ふーん。Ｓ．Ｄ．か。よくわかんないけど、</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -92,7 +92,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1ac6b8</PointerOffset>
+      <PointerOffset>1754808</PointerOffset>
       <JapaneseText>リリスがそういうならそれでいいや。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -100,7 +100,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1ac6dc</PointerOffset>
+      <PointerOffset>1754844</PointerOffset>
       <JapaneseText>よーし、Ｓ．Ｄ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -108,7 +108,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1ac6ed</PointerOffset>
+      <PointerOffset>1754861</PointerOffset>
       <JapaneseText>ディムロスの代わりに、見せてやるよ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -116,7 +116,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1ac712</PointerOffset>
+      <PointerOffset>1754898</PointerOffset>
       <JapaneseText>おれがどれだけ、剣がうまくなったかをさ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -124,7 +124,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1ac73b</PointerOffset>
+      <PointerOffset>1754939</PointerOffset>
       <JapaneseText>どうだい、この速さ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -132,7 +132,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1ac750</PointerOffset>
+      <PointerOffset>1754960</PointerOffset>
       <JapaneseText>前とはぜんぜん違うんだぜ？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -140,7 +140,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1ac76b</PointerOffset>
+      <PointerOffset>1754987</PointerOffset>
       <JapaneseText>きっとディムロスだったら、驚くはずだ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -148,7 +148,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1ac792</PointerOffset>
+      <PointerOffset>1755026</PointerOffset>
       <JapaneseText>な、リリス。お前もそう思うだろう？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -156,7 +156,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1ac7b5</PointerOffset>
+      <PointerOffset>1755061</PointerOffset>
       <JapaneseText>そ、そうかもね。あはは。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -164,7 +164,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1ac7ce</PointerOffset>
+      <PointerOffset>1755086</PointerOffset>
       <JapaneseText>技の研究だって、</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -172,7 +172,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1ac7df</PointerOffset>
+      <PointerOffset>1755103</PointerOffset>
       <JapaneseText>毎日やってるんだぞ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -180,7 +180,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1ac7f4</PointerOffset>
+      <PointerOffset>1755124</PointerOffset>
       <JapaneseText>魔神剣の切り</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>

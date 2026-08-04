@@ -4,7 +4,7 @@
   <Strings>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x1c1688</PointerOffset>
+      <PointerOffset>1840776</PointerOffset>
       <JapaneseText>大変です！　事件です！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -12,7 +12,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1c169f</PointerOffset>
+      <PointerOffset>1840799</PointerOffset>
       <JapaneseText>キールが捕まってしまいました！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -20,7 +20,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1c16c0</PointerOffset>
+      <PointerOffset>1840832</PointerOffset>
       <JapaneseText>容疑は、特級学士認定試験の問題を</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -28,7 +28,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1c16e1</PointerOffset>
+      <PointerOffset>1840865</PointerOffset>
       <JapaneseText>教授の部屋から盗み出したって事。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -36,7 +36,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1c1703</PointerOffset>
+      <PointerOffset>1840899</PointerOffset>
       <JapaneseText>問題が保管してある部屋に、</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -44,7 +44,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1c171e</PointerOffset>
+      <PointerOffset>1840926</PointerOffset>
       <JapaneseText>キールのペンが落ちていたというのです！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -52,7 +52,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1c1746</PointerOffset>
+      <PointerOffset>1840966</PointerOffset>
       <JapaneseText>過去何回か、金庫の中の試験問題に</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -60,7 +60,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1c1767</PointerOffset>
+      <PointerOffset>1840999</PointerOffset>
       <JapaneseText>誰かが触れた形跡があって気になっていたが</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -68,7 +68,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1c1790</PointerOffset>
+      <PointerOffset>1841040</PointerOffset>
       <JapaneseText>まさか問題が漏洩していたとはな……。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>

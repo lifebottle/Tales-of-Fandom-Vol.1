@@ -4,7 +4,7 @@
   <Strings>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x250420</PointerOffset>
+      <PointerOffset>2425888</PointerOffset>
       <JapaneseText>レイゼン家廊下</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -12,7 +12,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x25042f</PointerOffset>
+      <PointerOffset>2425903</PointerOffset>
       <JapaneseText>火事を起こして警備の混乱を招く。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -20,7 +20,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x250450</PointerOffset>
+      <PointerOffset>2425936</PointerOffset>
       <JapaneseText>まさに完璧な作戦よね！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -28,7 +28,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x25046a</PointerOffset>
+      <PointerOffset>2425962</PointerOffset>
       <JapaneseText>近くのドアを開ける</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -36,7 +36,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x25047e</PointerOffset>
+      <PointerOffset>2425982</PointerOffset>
       <JapaneseText>このまま廊下を進む</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -44,7 +44,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x250492</PointerOffset>
+      <PointerOffset>2426002</PointerOffset>
       <JapaneseText>ずいぶん長い廊下ね。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -52,7 +52,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2504aa</PointerOffset>
+      <PointerOffset>2426026</PointerOffset>
       <JapaneseText>なんだか迷っちゃいそう……</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -60,7 +60,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2504c5</PointerOffset>
+      <PointerOffset>2426053</PointerOffset>
       <JapaneseText>って、結構すでに迷ってたりして。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -68,7 +68,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2504e7</PointerOffset>
+      <PointerOffset>2426087</PointerOffset>
       <JapaneseText>あははは！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -76,7 +76,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2504f2</PointerOffset>
+      <PointerOffset>2426098</PointerOffset>
       <JapaneseText>ま、そんなワケないけどさ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -84,7 +84,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x25050f</PointerOffset>
+      <PointerOffset>2426127</PointerOffset>
       <JapaneseText>近くのドアを開ける</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -92,7 +92,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x250523</PointerOffset>
+      <PointerOffset>2426147</PointerOffset>
       <JapaneseText>このまま廊下を進む</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>

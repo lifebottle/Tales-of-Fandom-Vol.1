@@ -4,7 +4,7 @@
   <Strings>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x2f60c2</PointerOffset>
+      <PointerOffset>3104962</PointerOffset>
       <JapaneseText>頼む！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -12,7 +12,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2f60c9</PointerOffset>
+      <PointerOffset>3104969</PointerOffset>
       <JapaneseText>俺のバニラ味と取り替えてくれよ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -20,7 +20,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2f60ea</PointerOffset>
+      <PointerOffset>3105002</PointerOffset>
       <JapaneseText>リリスがいちご味が好きなんだけど</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -28,7 +28,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2f610b</PointerOffset>
+      <PointerOffset>3105035</PointerOffset>
       <JapaneseText>さっき売り切れちゃったらしくてさー。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -36,7 +36,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2f6130</PointerOffset>
+      <PointerOffset>3105072</PointerOffset>
       <JapaneseText>おまえの事情なぞ知らん！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -44,7 +44,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2f6149</PointerOffset>
+      <PointerOffset>3105097</PointerOffset>
       <JapaneseText>急いでるんだ、そこをどけ！！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>

@@ -4,7 +4,7 @@
   <Strings>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x18bca5</PointerOffset>
+      <PointerOffset>1621157</PointerOffset>
       <JapaneseText>あっ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -12,7 +12,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x18bcb2</PointerOffset>
+      <PointerOffset>1621170</PointerOffset>
       <JapaneseText>剣士の攻撃が、確実にヒットし始めた。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -20,7 +20,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x18bcd7</PointerOffset>
+      <PointerOffset>1621207</PointerOffset>
       <JapaneseText>リリスはもう、限界だ。これ以上は……。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -28,7 +28,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x18bd04</PointerOffset>
+      <PointerOffset>1621252</PointerOffset>
       <JapaneseText>はあ……はあ……はあ……。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -36,7 +36,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x18bd1f</PointerOffset>
+      <PointerOffset>1621279</PointerOffset>
       <JapaneseText>よし、追いつめたぞ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -44,7 +44,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x18bd34</PointerOffset>
+      <PointerOffset>1621300</PointerOffset>
       <JapaneseText>リリーーーース！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>

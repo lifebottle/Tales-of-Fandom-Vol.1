@@ -4,7 +4,7 @@
   <Strings>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x2a28bc</PointerOffset>
+      <PointerOffset>2762940</PointerOffset>
       <JapaneseText>あ、あぁ、えっと……著名な恋愛小説家</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -12,7 +12,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2a28e1</PointerOffset>
+      <PointerOffset>2762977</PointerOffset>
       <JapaneseText>ボロボワ・シャムダールの意見によると</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -20,7 +20,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2a2907</PointerOffset>
+      <PointerOffset>2763015</PointerOffset>
       <JapaneseText>特殊な状況下で生まれた恋は</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -28,7 +28,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2a2922</PointerOffset>
+      <PointerOffset>2763042</PointerOffset>
       <JapaneseText>長続きしないそうです。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -36,7 +36,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2a293c</PointerOffset>
+      <PointerOffset>2763068</PointerOffset>
       <JapaneseText>特殊な状況って？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -44,7 +44,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2a2950</PointerOffset>
+      <PointerOffset>2763088</PointerOffset>
       <JapaneseText>冒険とかじゃないですか？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -52,7 +52,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2a296b</PointerOffset>
+      <PointerOffset>2763115</PointerOffset>
       <JapaneseText>あ、あながちそうとも言い切れないのでは？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -60,7 +60,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2a2994</PointerOffset>
+      <PointerOffset>2763156</PointerOffset>
       <JapaneseText>平穏な日々に戻ると、何もかもが退屈になり</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -68,7 +68,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2a29bd</PointerOffset>
+      <PointerOffset>2763197</PointerOffset>
       <JapaneseText>相手の長所すら見えなくなってしまうとか。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -76,7 +76,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2a29e6</PointerOffset>
+      <PointerOffset>2763238</PointerOffset>
       <JapaneseText>そ、そんなことないでしょ。……ねぇ？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -84,7 +84,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2a2a0d</PointerOffset>
+      <PointerOffset>2763277</PointerOffset>
       <JapaneseText>私もこの意見に対しては</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -92,7 +92,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2a2a24</PointerOffset>
+      <PointerOffset>2763300</PointerOffset>
       <JapaneseText>反論を唱えたいですわ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -100,7 +100,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2a2a3d</PointerOffset>
+      <PointerOffset>2763325</PointerOffset>
       <JapaneseText>極限状況で育まれた愛に賞味期限はないと！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -108,7 +108,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2a2a66</PointerOffset>
+      <PointerOffset>2763366</PointerOffset>
       <JapaneseText>そーだ！　そーだー！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -116,7 +116,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2a2a7e</PointerOffset>
+      <PointerOffset>2763390</PointerOffset>
       <JapaneseText>そーだ！　そーだー！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>

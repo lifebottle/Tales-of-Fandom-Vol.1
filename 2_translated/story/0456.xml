@@ -4,7 +4,7 @@
   <Strings>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x1679f0</PointerOffset>
+      <PointerOffset>1473008</PointerOffset>
       <JapaneseText>リリスのガッツ</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -12,7 +12,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x167a02</PointerOffset>
+      <PointerOffset>1473026</PointerOffset>
       <JapaneseText>ペスカトーレ、ペスカトーレと。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -20,7 +20,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x167a21</PointerOffset>
+      <PointerOffset>1473057</PointerOffset>
       <JapaneseText>勝算はあるのか？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -28,7 +28,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x167a32</PointerOffset>
+      <PointerOffset>1473074</PointerOffset>
       <JapaneseText>どうだろ。まあ、なんとかなるでしょ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -36,7 +36,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x167a57</PointerOffset>
+      <PointerOffset>1473111</PointerOffset>
       <JapaneseText>何度も作ったことあるし。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -44,7 +44,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x167a70</PointerOffset>
+      <PointerOffset>1473136</PointerOffset>
       <JapaneseText>たぶん特定の食材の選び方が、</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -52,7 +52,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x167a8d</PointerOffset>
+      <PointerOffset>1473165</PointerOffset>
       <JapaneseText>勝敗を左右することになると思うの。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>

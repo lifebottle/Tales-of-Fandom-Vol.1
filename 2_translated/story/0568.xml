@@ -4,7 +4,7 @@
   <Strings>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x1b5c45</PointerOffset>
+      <PointerOffset>1793093</PointerOffset>
       <JapaneseText>ライン？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -12,7 +12,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1b5c52</PointerOffset>
+      <PointerOffset>1793106</PointerOffset>
       <JapaneseText>エネルギーが流出するラインを切る。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -20,7 +20,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1b5c75</PointerOffset>
+      <PointerOffset>1793141</PointerOffset>
       <JapaneseText>そうすれば爆発は起こらない。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -28,7 +28,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1b5c94</PointerOffset>
+      <PointerOffset>1793172</PointerOffset>
       <JapaneseText>単純な問題じゃないか、ばかばかしい。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -36,7 +36,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1b5cba</PointerOffset>
+      <PointerOffset>1793210</PointerOffset>
       <JapaneseText>そ、そっか！　ハハ、ゴメンゴメン。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -44,7 +44,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1b5cdd</PointerOffset>
+      <PointerOffset>1793245</PointerOffset>
       <JapaneseText>えっと、ハサミハサミ……。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -52,7 +52,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1b5cfa</PointerOffset>
+      <PointerOffset>1793274</PointerOffset>
       <JapaneseText>じゃあ、この赤いラインをチョッキンと――</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -60,7 +60,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1b5d25</PointerOffset>
+      <PointerOffset>1793317</PointerOffset>
       <JapaneseText>おいおい。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -68,7 +68,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1b5d30</PointerOffset>
+      <PointerOffset>1793328</PointerOffset>
       <JapaneseText>まさか適当に切るつもりじゃないだろうな？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -76,7 +76,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1b5d59</PointerOffset>
+      <PointerOffset>1793369</PointerOffset>
       <JapaneseText>…………。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -84,7 +84,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1b5d67</PointerOffset>
+      <PointerOffset>1793383</PointerOffset>
       <JapaneseText>……はぁ。頼むよプリムラ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -92,7 +92,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1b5d82</PointerOffset>
+      <PointerOffset>1793410</PointerOffset>
       <JapaneseText>キミは本当にミンツ大学の学生か！？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -100,7 +100,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1b5da6</PointerOffset>
+      <PointerOffset>1793446</PointerOffset>
       <JapaneseText>いきなり適当なラインを切ったら最後、</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -108,7 +108,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1b5dcc</PointerOffset>
+      <PointerOffset>1793484</PointerOffset>
       <JapaneseText>一気に晶霊干渉が発生するのが</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -116,7 +116,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1b5de9</PointerOffset>
+      <PointerOffset>1793513</PointerOffset>
       <JapaneseText>わからないのか！？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -124,7 +124,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1b5dff</PointerOffset>
+      <PointerOffset>1793535</PointerOffset>
       <JapaneseText>……要するに？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -132,7 +132,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1b5e12</PointerOffset>
+      <PointerOffset>1793554</PointerOffset>
       <JapaneseText>――爆発する、ということだな。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -140,7 +140,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1b5e33</PointerOffset>
+      <PointerOffset>1793587</PointerOffset>
       <JapaneseText>巻き込まれれば我々はもとより、</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -148,7 +148,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1b5e52</PointerOffset>
+      <PointerOffset>1793618</PointerOffset>
       <JapaneseText>この学生寮の全員が死ぬことになる。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -156,7 +156,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1b5e76</PointerOffset>
+      <PointerOffset>1793654</PointerOffset>
       <JapaneseText>パ、パスっ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -164,7 +164,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1b5e87</PointerOffset>
+      <PointerOffset>1793671</PointerOffset>
       <JapaneseText>私、パス。キール、あなたに任せるっ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -172,7 +172,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1b5ead</PointerOffset>
+      <PointerOffset>1793709</PointerOffset>
       <JapaneseText>……やれやれ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -180,7 +180,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1b5ec0</PointerOffset>
+      <PointerOffset>1793728</PointerOffset>
       <JapaneseText>……大丈夫か、キール？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>

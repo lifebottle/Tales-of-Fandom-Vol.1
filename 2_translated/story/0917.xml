@@ -4,7 +4,7 @@
   <Strings>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x2769bb</PointerOffset>
+      <PointerOffset>2582971</PointerOffset>
       <JapaneseText>はぁー！　ここんとこ戦闘が</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -12,7 +12,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2769d6</PointerOffset>
+      <PointerOffset>2582998</PointerOffset>
       <JapaneseText>続いたからなんか疲れちゃった！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -20,7 +20,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2769f7</PointerOffset>
+      <PointerOffset>2583031</PointerOffset>
       <JapaneseText>疲れた体には甘いものが良いそうです。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -28,7 +28,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x276a1d</PointerOffset>
+      <PointerOffset>2583069</PointerOffset>
       <JapaneseText>じゃ、さっきの屋台に行かない？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -36,7 +36,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x276a3c</PointerOffset>
+      <PointerOffset>2583100</PointerOffset>
       <JapaneseText>手作りプリンが売ってたわよ♪</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -44,7 +44,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x276a5b</PointerOffset>
+      <PointerOffset>2583131</PointerOffset>
       <JapaneseText>あたし、プリンってわりと好き！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -52,7 +52,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x276a7c</PointerOffset>
+      <PointerOffset>2583164</PointerOffset>
       <JapaneseText>私も好きですわ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -60,7 +60,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x276a90</PointerOffset>
+      <PointerOffset>2583184</PointerOffset>
       <JapaneseText>やっぱり！　美味しいよね！！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -68,7 +68,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x276aad</PointerOffset>
+      <PointerOffset>2583213</PointerOffset>
       <JapaneseText>リオンもそう思うでしょ？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -76,7 +76,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x276ac8</PointerOffset>
+      <PointerOffset>2583240</PointerOffset>
       <JapaneseText>……思わん！　あんな甘ったるいモノ</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -84,7 +84,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x276aeb</PointerOffset>
+      <PointerOffset>2583275</PointerOffset>
       <JapaneseText>子供の食い物だ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -92,7 +92,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x276aff</PointerOffset>
+      <PointerOffset>2583295</PointerOffset>
       <JapaneseText>自分だって子供じゃないの。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -100,7 +100,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x276b1c</PointerOffset>
+      <PointerOffset>2583324</PointerOffset>
       <JapaneseText>なんだと！　僕はプリンなんか</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -108,7 +108,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x276b39</PointerOffset>
+      <PointerOffset>2583353</PointerOffset>
       <JapaneseText>もう何年も口にしていない！！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -116,7 +116,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x276b58</PointerOffset>
+      <PointerOffset>2583384</PointerOffset>
       <JapaneseText>匂いをかいだだけで不愉快になる！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -124,7 +124,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x276b79</PointerOffset>
+      <PointerOffset>2583417</PointerOffset>
       <JapaneseText>だいたいプリンを食うヤツにロクな――。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -132,7 +132,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x276ba0</PointerOffset>
+      <PointerOffset>2583456</PointerOffset>
       <JapaneseText>はいはいはいはい。わかったわよ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -140,7 +140,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x276bc2</PointerOffset>
+      <PointerOffset>2583490</PointerOffset>
       <JapaneseText>では、プリン以外の何か甘いものを</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -148,7 +148,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x276be3</PointerOffset>
+      <PointerOffset>2583523</PointerOffset>
       <JapaneseText>探しましょうか。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>

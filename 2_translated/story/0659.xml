@@ -4,7 +4,7 @@
   <Strings>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x1e76c0</PointerOffset>
+      <PointerOffset>1996480</PointerOffset>
       <JapaneseText>プリムラの部屋</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -12,7 +12,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1e76cf</PointerOffset>
+      <PointerOffset>1996495</PointerOffset>
       <JapaneseText>ん？　ポストになにか入ってる……。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -20,7 +20,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1e76f3</PointerOffset>
+      <PointerOffset>1996531</PointerOffset>
       <JapaneseText>「学生寮居住者一覧表」。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -28,7 +28,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1e770e</PointerOffset>
+      <PointerOffset>1996558</PointerOffset>
       <JapaneseText>なにかの役に立つかもしれないな。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -36,7 +36,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1e772f</PointerOffset>
+      <PointerOffset>1996591</PointerOffset>
       <JapaneseText>一応持ち歩いておこうかな！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -44,7 +44,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1e774c</PointerOffset>
+      <PointerOffset>1996620</PointerOffset>
       <JapaneseText>ひとやすみするにはまだ早いわ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>

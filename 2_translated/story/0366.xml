@@ -4,7 +4,7 @@
   <Strings>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x1273d8</PointerOffset>
+      <PointerOffset>1209304</PointerOffset>
       <JapaneseText>クレスとの距離</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -12,7 +12,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1273e8</PointerOffset>
+      <PointerOffset>1209320</PointerOffset>
       <JapaneseText>わあ！　「夜光花」！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -20,7 +20,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1273fd</PointerOffset>
+      <PointerOffset>1209341</PointerOffset>
       <JapaneseText>これ、クレスさんが……？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -28,7 +28,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x127416</PointerOffset>
+      <PointerOffset>1209366</PointerOffset>
       <JapaneseText>僕とチェスターで摘んできたんだ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -36,7 +36,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x127437</PointerOffset>
+      <PointerOffset>1209399</PointerOffset>
       <JapaneseText>ご両親のご命日、今日なんだって？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -44,7 +44,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x127458</PointerOffset>
+      <PointerOffset>1209432</PointerOffset>
       <JapaneseText>はい……。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>

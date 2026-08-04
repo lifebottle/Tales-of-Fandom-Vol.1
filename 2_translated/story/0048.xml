@@ -4,7 +4,7 @@
   <Strings>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x5cda0</PointerOffset>
+      <PointerOffset>380320</PointerOffset>
       <JapaneseText>バークライト家</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -12,7 +12,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x5cdaf</PointerOffset>
+      <PointerOffset>380335</PointerOffset>
       <JapaneseText>ごほっごほっ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -20,7 +20,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x5cdbe</PointerOffset>
+      <PointerOffset>380350</PointerOffset>
       <JapaneseText>大丈夫か、アミィ！？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -28,7 +28,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x5cdd3</PointerOffset>
+      <PointerOffset>380371</PointerOffset>
       <JapaneseText>ごほっ……だいじょうぶ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -36,7 +36,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x5cdec</PointerOffset>
+      <PointerOffset>380396</PointerOffset>
       <JapaneseText>ちょっとほこりっぽかっただけだから。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -44,7 +44,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x5ce11</PointerOffset>
+      <PointerOffset>380433</PointerOffset>
       <JapaneseText>心配しないで、お兄ちゃん。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -52,7 +52,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x5ce2d</PointerOffset>
+      <PointerOffset>380461</PointerOffset>
       <JapaneseText>長いこと掃除をしておらんかったからな。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -60,7 +60,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x5ce55</PointerOffset>
+      <PointerOffset>380501</PointerOffset>
       <JapaneseText>掃除道具がどこにあるかは、</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -68,7 +68,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x5ce70</PointerOffset>
+      <PointerOffset>380528</PointerOffset>
       <JapaneseText>お前たちの方が詳しいだろう。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -76,7 +76,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x5ce8d</PointerOffset>
+      <PointerOffset>380557</PointerOffset>
       <JapaneseText>チェスター、狩猟隊は三日後に出発だ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -84,7 +84,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x5ceb2</PointerOffset>
+      <PointerOffset>380594</PointerOffset>
       <JapaneseText>それまでに準備を済ませておけよ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -92,7 +92,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x5ced3</PointerOffset>
+      <PointerOffset>380627</PointerOffset>
       <JapaneseText>アミィは、あとで教会に行きなさい。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -100,7 +100,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x5cef6</PointerOffset>
+      <PointerOffset>380662</PointerOffset>
       <JapaneseText>仕事を紹介してくれるから。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>

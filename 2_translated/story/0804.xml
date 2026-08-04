@@ -4,7 +4,7 @@
   <Strings>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x248f50</PointerOffset>
+      <PointerOffset>2395984</PointerOffset>
       <JapaneseText>ほ、本気なのかい、プリムラ？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -12,7 +12,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x248f6f</PointerOffset>
+      <PointerOffset>2396015</PointerOffset>
       <JapaneseText>あなたが弱気になってどうするの！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -20,7 +20,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x248f91</PointerOffset>
+      <PointerOffset>2396049</PointerOffset>
       <JapaneseText>乙女の命を預けるんですから、</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -28,7 +28,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x248fae</PointerOffset>
+      <PointerOffset>2396078</PointerOffset>
       <JapaneseText>設計者がちゃんと責任持ちなさいよ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -36,7 +36,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x248fd2</PointerOffset>
+      <PointerOffset>2396114</PointerOffset>
       <JapaneseText>とはいっても、</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -44,7 +44,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x248fe1</PointerOffset>
+      <PointerOffset>2396129</PointerOffset>
       <JapaneseText>結局一回もテストしてないし。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -52,7 +52,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x249000</PointerOffset>
+      <PointerOffset>2396160</PointerOffset>
       <JapaneseText>ま、最後は運試しとなればですね、</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>

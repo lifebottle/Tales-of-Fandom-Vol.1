@@ -4,7 +4,7 @@
   <Strings>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x1f6a68</PointerOffset>
+      <PointerOffset>2058856</PointerOffset>
       <JapaneseText>名探偵ポイント</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -12,7 +12,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1f6a77</PointerOffset>
+      <PointerOffset>2058871</PointerOffset>
       <JapaneseText>学生寮玄関</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -20,7 +20,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1f6a82</PointerOffset>
+      <PointerOffset>2058882</PointerOffset>
       <JapaneseText>学生寮を出る場合は、</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -28,7 +28,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1f6a97</PointerOffset>
+      <PointerOffset>2058903</PointerOffset>
       <JapaneseText>一階の玄関に行けばいいのね。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -36,7 +36,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1f6ab9</PointerOffset>
+      <PointerOffset>2058937</PointerOffset>
       <JapaneseText>一階に移動する</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -44,7 +44,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1f6ac9</PointerOffset>
+      <PointerOffset>2058953</PointerOffset>
       <JapaneseText>二階に移動する</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -52,7 +52,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1f6ad9</PointerOffset>
+      <PointerOffset>2058969</PointerOffset>
       <JapaneseText>三階に移動する</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -60,7 +60,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1f6ae9</PointerOffset>
+      <PointerOffset>2058985</PointerOffset>
       <JapaneseText>四階に移動する</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -68,7 +68,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1f6af9</PointerOffset>
+      <PointerOffset>2059001</PointerOffset>
       <JapaneseText>１０１　アン・ハイダウェイ</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -76,7 +76,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1f6b17</PointerOffset>
+      <PointerOffset>2059031</PointerOffset>
       <JapaneseText>１０２　キーファ・パッカード</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>

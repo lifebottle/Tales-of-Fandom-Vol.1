@@ -4,7 +4,7 @@
   <Strings>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x1b64f8</PointerOffset>
+      <PointerOffset>1795320</PointerOffset>
       <JapaneseText>ないね。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -12,7 +12,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1b6501</PointerOffset>
+      <PointerOffset>1795329</PointerOffset>
       <JapaneseText>僕がヒントを見落とすはずがない。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -20,7 +20,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1b6523</PointerOffset>
+      <PointerOffset>1795363</PointerOffset>
       <JapaneseText>ヒントなし、これは純粋に確率の問題だ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -28,7 +28,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1b654b</PointerOffset>
+      <PointerOffset>1795403</PointerOffset>
       <JapaneseText>だとしたらできるだけ運がいい人間に</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -36,7 +36,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1b656e</PointerOffset>
+      <PointerOffset>1795438</PointerOffset>
       <JapaneseText>やってもらったほうがいいだろう？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -44,7 +44,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1b6590</PointerOffset>
+      <PointerOffset>1795472</PointerOffset>
       <JapaneseText>だからといってこんなダ・メー探偵に――</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -52,7 +52,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1b65b8</PointerOffset>
+      <PointerOffset>1795512</PointerOffset>
       <JapaneseText>ストーップ！　ダ・メー探偵とは失礼ね！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -60,7 +60,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1b65df</PointerOffset>
+      <PointerOffset>1795551</PointerOffset>
       <JapaneseText>私だっていざとなったらできるんだから！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -68,7 +68,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1b6607</PointerOffset>
+      <PointerOffset>1795591</PointerOffset>
       <JapaneseText>いいわ……見せてあげる。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -76,7 +76,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1b6622</PointerOffset>
+      <PointerOffset>1795618</PointerOffset>
       <JapaneseText>ミンツ大学の名探偵</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -84,7 +84,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1b6635</PointerOffset>
+      <PointerOffset>1795637</PointerOffset>
       <JapaneseText>プリムラ・ロッソの超推理をね！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -92,7 +92,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1b6694</PointerOffset>
+      <PointerOffset>1795732</PointerOffset>
       <JapaneseText>が封じられている。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -100,7 +100,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1b66a7</PointerOffset>
+      <PointerOffset>1795751</PointerOffset>
       <JapaneseText>そして３本のケージから伸びた</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -108,7 +108,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1b66c4</PointerOffset>
+      <PointerOffset>1795780</PointerOffset>
       <JapaneseText>無数のライン。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -116,7 +116,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1b66d3</PointerOffset>
+      <PointerOffset>1795795</PointerOffset>
       <JapaneseText>この装置こそ、僕たちが追ってきた……</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -124,7 +124,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1b66f8</PointerOffset>
+      <PointerOffset>1795832</PointerOffset>
       <JapaneseText>そう、「姿なき晶霊術士」の正体だ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -132,7 +132,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1b671c</PointerOffset>
+      <PointerOffset>1795868</PointerOffset>
       <JapaneseText>「姿なき晶霊術師」が、まさか……。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -140,7 +140,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1b673f</PointerOffset>
+      <PointerOffset>1795903</PointerOffset>
       <JapaneseText>こんな小さな箱が、だと？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -148,7 +148,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1b675a</PointerOffset>
+      <PointerOffset>1795930</PointerOffset>
       <JapaneseText>ああ。単純な構造だ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -156,7 +156,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1b6772</PointerOffset>
+      <PointerOffset>1795954</PointerOffset>
       <JapaneseText>それぞれのケージに封じられた晶霊が、</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -164,7 +164,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1b6797</PointerOffset>
+      <PointerOffset>1795991</PointerOffset>
       <JapaneseText>ラインを伝って流出し、小箱の内部に充満。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -172,7 +172,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1b67c0</PointerOffset>
+      <PointerOffset>1796032</PointerOffset>
       <JapaneseText>不安定な空間に複数種の晶霊が同居した場合</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -180,7 +180,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1b67e9</PointerOffset>
+      <PointerOffset>1796073</PointerOffset>
       <JapaneseText>晶霊は激しく干渉しあい</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>

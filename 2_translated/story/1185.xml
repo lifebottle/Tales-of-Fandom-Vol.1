@@ -4,7 +4,7 @@
   <Strings>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x30c013</PointerOffset>
+      <PointerOffset>3194899</PointerOffset>
       <JapaneseText>リッド！　メルディ達から聞いたよ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -12,7 +12,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x30c036</PointerOffset>
+      <PointerOffset>3194934</PointerOffset>
       <JapaneseText>理由もなく殴りかかったらダメでしょ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -20,7 +20,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x30c05b</PointerOffset>
+      <PointerOffset>3194971</PointerOffset>
       <JapaneseText>悪かったよ。ちょっと焦ってて……、</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -28,7 +28,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x30c07e</PointerOffset>
+      <PointerOffset>3195006</PointerOffset>
       <JapaneseText>で、その便せんの中身、もう見ちゃったか？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -36,7 +36,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x30c0a7</PointerOffset>
+      <PointerOffset>3195047</PointerOffset>
       <JapaneseText>……これが原因なんだね？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -44,7 +44,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x30c0c0</PointerOffset>
+      <PointerOffset>3195072</PointerOffset>
       <JapaneseText>あああああ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -52,7 +52,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x30c0cd</PointerOffset>
+      <PointerOffset>3195085</PointerOffset>
       <JapaneseText>見ないでくれぇぇぇ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>

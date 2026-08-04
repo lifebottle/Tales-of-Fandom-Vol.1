@@ -4,7 +4,7 @@
   <Strings>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x16d550</PointerOffset>
+      <PointerOffset>1496400</PointerOffset>
       <JapaneseText>氷晶霊の山</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -12,7 +12,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x16d55e</PointerOffset>
+      <PointerOffset>1496414</PointerOffset>
       <JapaneseText>聞いた話だと、この雪山の山頂に、</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -20,7 +20,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x16d57f</PointerOffset>
+      <PointerOffset>1496447</PointerOffset>
       <JapaneseText>究極のトマトがあるらしいけど……。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -28,7 +28,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x16d5a2</PointerOffset>
+      <PointerOffset>1496482</PointerOffset>
       <JapaneseText>この気候で育つのか？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -36,7 +36,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x16d5b7</PointerOffset>
+      <PointerOffset>1496503</PointerOffset>
       <JapaneseText>常識では考えがたい。さすが異世界だな。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>

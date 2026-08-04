@@ -4,7 +4,7 @@
   <Strings>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x1a07cf</PointerOffset>
+      <PointerOffset>1705935</PointerOffset>
       <JapaneseText>ね？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -12,7 +12,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1a07d4</PointerOffset>
+      <PointerOffset>1705940</PointerOffset>
       <JapaneseText>わたしが意識を失っている間に、</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -20,7 +20,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1a07f3</PointerOffset>
+      <PointerOffset>1705971</PointerOffset>
       <JapaneseText>精霊を見つけてくれたのか。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>

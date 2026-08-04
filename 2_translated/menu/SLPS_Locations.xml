@@ -2,106 +2,106 @@
   <Strings>
     <Section>SLPS_Locations</Section>
 	<Entry>
-	  <PointerOffset>0xd548c</PointerOffset>
+	  <PointerOffset>873612</PointerOffset>
 	  <JapaneseText>風景・昼</JapaneseText>
-	  <EnglishText></EnglishText>
-	  <Notes/>
+	  <EnglishText> </EnglishText>
+	  <Notes> </Notes>
 	  <Id>1</Id>
 	  <Status>To Do</Status>
 	</Entry>
 	<Entry>
-	  <PointerOffset>0xd5498</PointerOffset>
+	  <PointerOffset>873624</PointerOffset>
 	  <JapaneseText>風景・夜</JapaneseText>
-	  <EnglishText></EnglishText>
-	  <Notes/>
+	  <EnglishText> </EnglishText>
+	  <Notes> </Notes>
 	  <Id>2</Id>
 	  <Status>To Do</Status>
 	</Entry>
 	<Entry>
-	  <PointerOffset>0xd54a4</PointerOffset>
+	  <PointerOffset>873636</PointerOffset>
 	  <JapaneseText>建物・昼</JapaneseText>
-	  <EnglishText></EnglishText>
-	  <Notes/>
+	  <EnglishText> </EnglishText>
+	  <Notes> </Notes>
 	  <Id>3</Id>
 	  <Status>To Do</Status>
 	</Entry>
 	<Entry>
-	  <PointerOffset>0xd54b0</PointerOffset>
+	  <PointerOffset>873648</PointerOffset>
 	  <JapaneseText>建物・夜</JapaneseText>
-	  <EnglishText></EnglishText>
-	  <Notes/>
+	  <EnglishText> </EnglishText>
+	  <Notes> </Notes>
 	  <Id>4</Id>
 	  <Status>To Do</Status>
 	</Entry>
 	<Entry>
-	  <PointerOffset>0xd54bc</PointerOffset>
+	  <PointerOffset>873660</PointerOffset>
 	  <JapaneseText>火山地帯</JapaneseText>
-	  <EnglishText></EnglishText>
-	  <Notes/>
+	  <EnglishText> </EnglishText>
+	  <Notes> </Notes>
 	  <Id>5</Id>
 	  <Status>To Do</Status>
 	</Entry>
 	<Entry>
-	  <PointerOffset>0xd54c8</PointerOffset>
+	  <PointerOffset>873672</PointerOffset>
 	  <JapaneseText>洞窟入口</JapaneseText>
-	  <EnglishText></EnglishText>
-	  <Notes/>
+	  <EnglishText> </EnglishText>
+	  <Notes> </Notes>
 	  <Id>6</Id>
 	  <Status>To Do</Status>
 	</Entry>
 	<Entry>
-	  <PointerOffset>0xd54d4</PointerOffset>
+	  <PointerOffset>873684</PointerOffset>
 	  <JapaneseText>砂漠の町</JapaneseText>
-	  <EnglishText></EnglishText>
-	  <Notes/>
+	  <EnglishText> </EnglishText>
+	  <Notes> </Notes>
 	  <Id>7</Id>
 	  <Status>To Do</Status>
 	</Entry>
 	<Entry>
-	  <PointerOffset>0xd54e0</PointerOffset>
+	  <PointerOffset>873696</PointerOffset>
 	  <JapaneseText>遺跡の扉</JapaneseText>
-	  <EnglishText></EnglishText>
-	  <Notes/>
+	  <EnglishText> </EnglishText>
+	  <Notes> </Notes>
 	  <Id>8</Id>
 	  <Status>To Do</Status>
 	</Entry>
 	<Entry>
-	  <PointerOffset>0xd54ec</PointerOffset>
+	  <PointerOffset>873708</PointerOffset>
 	  <JapaneseText>ログハウス</JapaneseText>
-	  <EnglishText></EnglishText>
-	  <Notes/>
+	  <EnglishText> </EnglishText>
+	  <Notes> </Notes>
 	  <Id>9</Id>
 	  <Status>To Do</Status>
 	</Entry>
 	<Entry>
-	  <PointerOffset>0xd54f8</PointerOffset>
+	  <PointerOffset>873720</PointerOffset>
 	  <JapaneseText>Ｋスタジアム</JapaneseText>
-	  <EnglishText></EnglishText>
-	  <Notes/>
+	  <EnglishText> </EnglishText>
+	  <Notes> </Notes>
 	  <Id>10</Id>
 	  <Status>To Do</Status>
 	</Entry>
 	<Entry>
-	  <PointerOffset>0xd5508</PointerOffset>
+	  <PointerOffset>873736</PointerOffset>
 	  <JapaneseText>パーティー会場</JapaneseText>
-	  <EnglishText></EnglishText>
-	  <Notes/>
+	  <EnglishText> </EnglishText>
+	  <Notes> </Notes>
 	  <Id>11</Id>
 	  <Status>To Do</Status>
 	</Entry>
 	<Entry>
-	  <PointerOffset>0xd5518</PointerOffset>
+	  <PointerOffset>873752</PointerOffset>
 	  <JapaneseText>カフェテリア</JapaneseText>
-	  <EnglishText></EnglishText>
-	  <Notes/>
+	  <EnglishText> </EnglishText>
+	  <Notes> </Notes>
 	  <Id>12</Id>
 	  <Status>To Do</Status>
 	</Entry>
 	<Entry>
-	  <PointerOffset>0xd5528</PointerOffset>
+	  <PointerOffset>873768</PointerOffset>
 	  <JapaneseText>遺跡内部</JapaneseText>
-	  <EnglishText></EnglishText>
-	  <Notes/>
+	  <EnglishText> </EnglishText>
+	  <Notes> </Notes>
 	  <Id>13</Id>
 	  <Status>To Do</Status>
 	</Entry>

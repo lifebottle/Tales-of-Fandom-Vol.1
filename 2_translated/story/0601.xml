@@ -4,7 +4,7 @@
   <Strings>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x1c58ca</PointerOffset>
+      <PointerOffset>1857738</PointerOffset>
       <JapaneseText>とおー。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -12,7 +12,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1c58d6</PointerOffset>
+      <PointerOffset>1857750</PointerOffset>
       <JapaneseText>……なにやってるんだね、君は？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -20,7 +20,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1c58f7</PointerOffset>
+      <PointerOffset>1857783</PointerOffset>
       <JapaneseText>はあ、はあ、はあ……。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -28,7 +28,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1c590e</PointerOffset>
+      <PointerOffset>1857806</PointerOffset>
       <JapaneseText>か、か弱い乙女にはちょっと厳しいわね。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -36,7 +36,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1c5936</PointerOffset>
+      <PointerOffset>1857846</PointerOffset>
       <JapaneseText>おい、君。何の用だ？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -44,7 +44,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1c594e</PointerOffset>
+      <PointerOffset>1857870</PointerOffset>
       <JapaneseText>キールと話をしたいんですけど……。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -52,7 +52,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1c5972</PointerOffset>
+      <PointerOffset>1857906</PointerOffset>
       <JapaneseText>ダメだダメだ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -60,7 +60,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1c5981</PointerOffset>
+      <PointerOffset>1857921</PointerOffset>
       <JapaneseText>実験室から一歩も出すなといわれている。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -68,7 +68,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1c59a9</PointerOffset>
+      <PointerOffset>1857961</PointerOffset>
       <JapaneseText>じゃあ、私が中に入るということで。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -76,7 +76,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1c59cd</PointerOffset>
+      <PointerOffset>1857997</PointerOffset>
       <JapaneseText>ダメダメ！　とにかく面会謝絶だ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -84,7 +84,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1c59f2</PointerOffset>
+      <PointerOffset>1858034</PointerOffset>
       <JapaneseText>外壁をよじ登って窓から侵入する</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -92,7 +92,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1c5a12</PointerOffset>
+      <PointerOffset>1858066</PointerOffset>
       <JapaneseText>お色気で警備隊長を悩殺する</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -100,7 +100,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1c5a2e</PointerOffset>
+      <PointerOffset>1858094</PointerOffset>
       <JapaneseText>警備隊長のみぞおちにパンチ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -108,7 +108,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1c5a4c</PointerOffset>
+      <PointerOffset>1858124</PointerOffset>
       <JapaneseText>教授会に乗り込む</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -116,7 +116,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1c5a5e</PointerOffset>
+      <PointerOffset>1858142</PointerOffset>
       <JapaneseText>外壁をよじ登って窓から侵入する</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -124,7 +124,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1c5a7e</PointerOffset>
+      <PointerOffset>1858174</PointerOffset>
       <JapaneseText>警備隊長のみぞおちにパンチ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -132,7 +132,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1c5a9c</PointerOffset>
+      <PointerOffset>1858204</PointerOffset>
       <JapaneseText>教授会に乗りこむ</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -140,7 +140,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1c5aae</PointerOffset>
+      <PointerOffset>1858222</PointerOffset>
       <JapaneseText>外壁をよじ登って窓から侵入する</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -148,7 +148,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1c5ace</PointerOffset>
+      <PointerOffset>1858254</PointerOffset>
       <JapaneseText>お色気で警備隊長を悩殺する</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>

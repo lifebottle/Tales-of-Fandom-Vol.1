@@ -4,7 +4,7 @@
   <Strings>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x101c82</PointerOffset>
+      <PointerOffset>1055874</PointerOffset>
       <JapaneseText>こんな夜に森に入るなんて……。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -12,7 +12,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x101ca1</PointerOffset>
+      <PointerOffset>1055905</PointerOffset>
       <JapaneseText>弓を持ってたけど、狩りってわけじゃ</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -20,7 +20,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x101cc4</PointerOffset>
+      <PointerOffset>1055940</PointerOffset>
       <JapaneseText>なさそうだし。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -28,7 +28,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x101cd3</PointerOffset>
+      <PointerOffset>1055955</PointerOffset>
       <JapaneseText>……あれ？　奥で光ってるのは、焚き火の</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -36,7 +36,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x101cfa</PointerOffset>
+      <PointerOffset>1055994</PointerOffset>
       <JapaneseText>光……？　もしかして、あそこかな。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -44,7 +44,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x101d1f</PointerOffset>
+      <PointerOffset>1056031</PointerOffset>
       <JapaneseText>チェスター……と、誰だ？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -52,7 +52,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x101d38</PointerOffset>
+      <PointerOffset>1056056</PointerOffset>
       <JapaneseText>１、２、３……２０人はいるぞ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -60,7 +60,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x101d58</PointerOffset>
+      <PointerOffset>1056088</PointerOffset>
       <JapaneseText>よーし、野郎共、よーく聞け！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>

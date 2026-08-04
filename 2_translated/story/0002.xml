@@ -3,12 +3,12 @@
   <Strings>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x50b80</PointerOffset>
+      <PointerOffset>330624</PointerOffset>
       <JapaneseText>バークライト家</JapaneseText>
       <EnglishText> The Barklight House</EnglishText>
       <Notes> </Notes>
       <Id>0</Id>
-      <Status>Editing</Status>
+      <Status>Edited</Status>
     </Entry>
   </Strings>
   <Strings>

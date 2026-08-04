@@ -4,7 +4,7 @@
   <Strings>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x178c59</PointerOffset>
+      <PointerOffset>1543257</PointerOffset>
       <JapaneseText>お……。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -12,7 +12,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x178c62</PointerOffset>
+      <PointerOffset>1543266</PointerOffset>
       <JapaneseText>おいしーーーーーーーーーっ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -20,7 +20,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x178c85</PointerOffset>
+      <PointerOffset>1543301</PointerOffset>
       <JapaneseText>味マスター！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -28,7 +28,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x178c92</PointerOffset>
+      <PointerOffset>1543314</PointerOffset>
       <JapaneseText>やったあ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -36,7 +36,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x178c9d</PointerOffset>
+      <PointerOffset>1543325</PointerOffset>
       <JapaneseText>激闘を制したのは味マスター！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -44,7 +44,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x178cba</PointerOffset>
+      <PointerOffset>1543354</PointerOffset>
       <JapaneseText>味マスターの勝ちです！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>

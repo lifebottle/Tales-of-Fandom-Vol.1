@@ -2,58 +2,58 @@
   <Strings>
     <Section>SLPS_Games</Section>
     <Entry>
-      <PointerOffset>0xd5460</PointerOffset>
+      <PointerOffset>873568</PointerOffset>
       <JapaneseText>ファンタジア</JapaneseText>
       <EnglishText>Phantasia</EnglishText>
-      <Notes/>
+      <Notes> </Notes>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xd5470</PointerOffset>
+      <PointerOffset>873584</PointerOffset>
       <JapaneseText>デスティニー</JapaneseText>
       <EnglishText>Destiny</EnglishText>
-      <Notes/>
+      <Notes> </Notes>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xd5480</PointerOffset>
+      <PointerOffset>873600</PointerOffset>
       <JapaneseText>エターニア</JapaneseText>
       <EnglishText>Eternia</EnglishText>
-      <Notes/>
+      <Notes> </Notes>
       <Id>3</Id>
       <Status>To Do</Status>
     </Entry>
 	<Entry>
-      <PointerOffset>0xd5610</PointerOffset>
+      <PointerOffset>874000</PointerOffset>
       <JapaneseText>ＴＯＥ１</JapaneseText>
       <EnglishText>TOE 1</EnglishText>
-      <Notes/>
+      <Notes> </Notes>
       <Id>4</Id>
       <Status>To Do</Status>
 	</Entry>
 	<Entry>
-      <PointerOffset>0xd561c</PointerOffset>
+      <PointerOffset>874012</PointerOffset>
       <JapaneseText>ＴＯＥ２</JapaneseText>
       <EnglishText>TOE 2</EnglishText>
-      <Notes/>
+      <Notes> </Notes>
       <Id>5</Id>
       <Status>To Do</Status>
 	</Entry>
 	<Entry>
-      <PointerOffset>0xd5628</PointerOffset>
+      <PointerOffset>874024</PointerOffset>
       <JapaneseText>ＴＯＰ１</JapaneseText>
       <EnglishText>TOP 1</EnglishText>
-      <Notes/>
+      <Notes> </Notes>
       <Id>6</Id>
       <Status>To Do</Status>
 	</Entry>
 	<Entry>
-      <PointerOffset>0xd5634</PointerOffset>
+      <PointerOffset>874036</PointerOffset>
       <JapaneseText>ＴＯＰ２</JapaneseText>
       <EnglishText>TOP 2</EnglishText>
-      <Notes/>
+      <Notes> </Notes>
       <Id>7</Id>
       <Status>To Do</Status>
 	</Entry>

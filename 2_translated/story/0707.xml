@@ -4,7 +4,7 @@
   <Strings>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x215049</PointerOffset>
+      <PointerOffset>2183241</PointerOffset>
       <JapaneseText>うん。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -12,7 +12,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x215054</PointerOffset>
+      <PointerOffset>2183252</PointerOffset>
       <JapaneseText>すぅー……。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -20,7 +20,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x215065</PointerOffset>
+      <PointerOffset>2183269</PointerOffset>
       <JapaneseText>偉大なる晶霊よ、</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -28,7 +28,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x215076</PointerOffset>
+      <PointerOffset>2183286</PointerOffset>
       <JapaneseText>私に力を――</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -36,7 +36,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x215087</PointerOffset>
+      <PointerOffset>2183303</PointerOffset>
       <JapaneseText>ファイアーボールッ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -44,7 +44,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x21509f</PointerOffset>
+      <PointerOffset>2183327</PointerOffset>
       <JapaneseText>ルナリア！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -52,7 +52,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2150aa</PointerOffset>
+      <PointerOffset>2183338</PointerOffset>
       <JapaneseText>大丈夫！？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -60,7 +60,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2150b9</PointerOffset>
+      <PointerOffset>2183353</PointerOffset>
       <JapaneseText>けほっ、けほっ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -68,7 +68,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2150ca</PointerOffset>
+      <PointerOffset>2183370</PointerOffset>
       <JapaneseText>上のほう狙ってくれたからなんとか、ね。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -76,7 +76,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2150f2</PointerOffset>
+      <PointerOffset>2183410</PointerOffset>
       <JapaneseText>うっ、ううっ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -84,7 +84,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x215101</PointerOffset>
+      <PointerOffset>2183425</PointerOffset>
       <JapaneseText>いきなりブッ放すとはなんてヤツだ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -92,7 +92,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x215125</PointerOffset>
+      <PointerOffset>2183461</PointerOffset>
       <JapaneseText>畜生、お前もぶっ殺してやる！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -100,7 +100,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x215142</PointerOffset>
+      <PointerOffset>2183490</PointerOffset>
       <JapaneseText>うおーーーっ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -108,7 +108,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x215155</PointerOffset>
+      <PointerOffset>2183509</PointerOffset>
       <JapaneseText>プリムラ、危ないっ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -116,7 +116,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x21516c</PointerOffset>
+      <PointerOffset>2183532</PointerOffset>
       <JapaneseText>しぶといわね！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -124,7 +124,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x21517e</PointerOffset>
+      <PointerOffset>2183550</PointerOffset>
       <JapaneseText>ファイアーボールを撃つ</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -132,7 +132,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x215196</PointerOffset>
+      <PointerOffset>2183574</PointerOffset>
       <JapaneseText>ウィンドカッターを撃つ</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -140,7 +140,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2151ae</PointerOffset>
+      <PointerOffset>2183598</PointerOffset>
       <JapaneseText>身をかわす</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -148,7 +148,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2151ba</PointerOffset>
+      <PointerOffset>2183610</PointerOffset>
       <JapaneseText>ま、間に合わないっ！？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -156,7 +156,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2151d4</PointerOffset>
+      <PointerOffset>2183636</PointerOffset>
       <JapaneseText>うりゃあーーーっ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -164,7 +164,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2151ea</PointerOffset>
+      <PointerOffset>2183658</PointerOffset>
       <JapaneseText>きゃーっ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -172,7 +172,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2151f8</PointerOffset>
+      <PointerOffset>2183672</PointerOffset>
       <JapaneseText>プ、プリムラーっ！？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -180,7 +180,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x21520f</PointerOffset>
+      <PointerOffset>2183695</PointerOffset>
       <JapaneseText>けっけっけ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -188,7 +188,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x21521f</PointerOffset>
+      <PointerOffset>2183711</PointerOffset>
       <JapaneseText>騒ぎを聞きつけて人が集まる前に</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -196,7 +196,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x21523e</PointerOffset>
+      <PointerOffset>2183742</PointerOffset>
       <JapaneseText>一気に終わらせてやるぜ〜〜〜。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -204,7 +204,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x21525f</PointerOffset>
+      <PointerOffset>2183775</PointerOffset>
       <JapaneseText>う、ううう……。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>

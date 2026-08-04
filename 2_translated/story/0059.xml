@@ -4,7 +4,7 @@
   <Strings>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x60133</PointerOffset>
+      <PointerOffset>393523</PointerOffset>
       <JapaneseText>広場で鉢合わせした日のこと。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -12,7 +12,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x60150</PointerOffset>
+      <PointerOffset>393552</PointerOffset>
       <JapaneseText>ああ、俺も覚えてる。懐かしいぜ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>

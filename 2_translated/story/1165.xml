@@ -4,7 +4,7 @@
   <Strings>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x304cab</PointerOffset>
+      <PointerOffset>3165355</PointerOffset>
       <JapaneseText>しおりには、こう書かれていました。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -12,7 +12,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x304cce</PointerOffset>
+      <PointerOffset>3165390</PointerOffset>
       <JapaneseText>『ハッピーバースデー・クラース。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -20,7 +20,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x304cef</PointerOffset>
+      <PointerOffset>3165423</PointerOffset>
       <JapaneseText>アセリア暦４２０３年　ミラルド』</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -28,7 +28,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x304d12</PointerOffset>
+      <PointerOffset>3165458</PointerOffset>
       <JapaneseText>なるほど、そういうことだったんですね。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>

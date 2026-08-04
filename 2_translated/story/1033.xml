@@ -4,7 +4,7 @@
   <Strings>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x2ccae2</PointerOffset>
+      <PointerOffset>2935522</PointerOffset>
       <JapaneseText>クレスさんを村祭りに誘われました？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -12,7 +12,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2ccb05</PointerOffset>
+      <PointerOffset>2935557</PointerOffset>
       <JapaneseText>いや？今から誘いに行こうかと……。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -20,7 +20,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2ccb28</PointerOffset>
+      <PointerOffset>2935592</PointerOffset>
       <JapaneseText>あ！　そ、そうですか。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -28,7 +28,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2ccb3f</PointerOffset>
+      <PointerOffset>2935615</PointerOffset>
       <JapaneseText>それでは私はここで！！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -36,7 +36,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2ccb56</PointerOffset>
+      <PointerOffset>2935638</PointerOffset>
       <JapaneseText>おい、ちょっとミント？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -44,7 +44,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2ccb6d</PointerOffset>
+      <PointerOffset>2935661</PointerOffset>
       <JapaneseText>どこ行くんだよ！？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -52,7 +52,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2ccb80</PointerOffset>
+      <PointerOffset>2935680</PointerOffset>
       <JapaneseText>あ、逃げた。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -60,7 +60,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2ccb8d</PointerOffset>
+      <PointerOffset>2935693</PointerOffset>
       <JapaneseText>逃がすか！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>

@@ -4,7 +4,7 @@
   <Strings>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x2b692a</PointerOffset>
+      <PointerOffset>2844970</PointerOffset>
       <JapaneseText>さぁ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -12,7 +12,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2b6931</PointerOffset>
+      <PointerOffset>2844977</PointerOffset>
       <JapaneseText>あなたもダンディな男に変身しませんか？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -20,7 +20,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2b6959</PointerOffset>
+      <PointerOffset>2845017</PointerOffset>
       <JapaneseText>今ならこのベアの干し肉３ヶ月分がもれなく……。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -28,7 +28,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2b6988</PointerOffset>
+      <PointerOffset>2845064</PointerOffset>
       <JapaneseText>肉がついてくんのか？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -36,7 +36,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2b699d</PointerOffset>
+      <PointerOffset>2845085</PointerOffset>
       <JapaneseText>あっそ。へぇ！　３ヶ月分……。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -44,7 +44,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2b69bc</PointerOffset>
+      <PointerOffset>2845116</PointerOffset>
       <JapaneseText>おい、だいじょうぶかい？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -52,7 +52,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2b69d7</PointerOffset>
+      <PointerOffset>2845143</PointerOffset>
       <JapaneseText>これ買っておこうぜ、「ダンディセット」！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -60,7 +60,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2b6a00</PointerOffset>
+      <PointerOffset>2845184</PointerOffset>
       <JapaneseText>身だしなみは大事だろ？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -68,7 +68,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2b6a1a</PointerOffset>
+      <PointerOffset>2845210</PointerOffset>
       <JapaneseText>今なら肉がついてくんだってよ！　肉が！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -76,7 +76,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2b6a42</PointerOffset>
+      <PointerOffset>2845250</PointerOffset>
       <JapaneseText>落ち着けって、２人とも。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -84,7 +84,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2b6a5d</PointerOffset>
+      <PointerOffset>2845277</PointerOffset>
       <JapaneseText>いいかい？　冒険中、こんな道具を</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -92,7 +92,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2b6a7e</PointerOffset>
+      <PointerOffset>2845310</PointerOffset>
       <JapaneseText>使っている余裕はないだろう？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -100,7 +100,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2b6a9b</PointerOffset>
+      <PointerOffset>2845339</PointerOffset>
       <JapaneseText>そ、そりゃまぁ……たしかに。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -108,7 +108,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2b6ab8</PointerOffset>
+      <PointerOffset>2845368</PointerOffset>
       <JapaneseText>それに、これを買うお金があったら</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -116,7 +116,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2b6ad9</PointerOffset>
+      <PointerOffset>2845401</PointerOffset>
       <JapaneseText>上等な肉が山ほど買えるよ？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -124,7 +124,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2b6af6</PointerOffset>
+      <PointerOffset>2845430</PointerOffset>
       <JapaneseText>そっか……あぶねぇあぶねぇ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -132,7 +132,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2b6b13</PointerOffset>
+      <PointerOffset>2845459</PointerOffset>
       <JapaneseText>つい勢いで……。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -140,7 +140,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2b6b24</PointerOffset>
+      <PointerOffset>2845476</PointerOffset>
       <JapaneseText>というわけなんで、悪いけど僕達は……。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -148,7 +148,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2b6b4b</PointerOffset>
+      <PointerOffset>2845515</PointerOffset>
       <JapaneseText>だんなぁ〜！！！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -156,7 +156,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2b6b5c</PointerOffset>
+      <PointerOffset>2845532</PointerOffset>
       <JapaneseText>俺にはもうじき２歳になる娘が……。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -164,7 +164,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2b6b7f</PointerOffset>
+      <PointerOffset>2845567</PointerOffset>
       <JapaneseText>これを売らないことにはアイツの</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -172,7 +172,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2b6b9e</PointerOffset>
+      <PointerOffset>2845598</PointerOffset>
       <JapaneseText>おまんまが買えねぇんだよぅ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -180,7 +180,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2b6bbd</PointerOffset>
+      <PointerOffset>2845629</PointerOffset>
       <JapaneseText>娘さんが……いるの？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>

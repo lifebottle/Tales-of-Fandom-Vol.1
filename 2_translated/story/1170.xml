@@ -4,7 +4,7 @@
   <Strings>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x306a03</PointerOffset>
+      <PointerOffset>3172867</PointerOffset>
       <JapaneseText>さて……と、だいぶ片付いたな。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -12,7 +12,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x306a22</PointerOffset>
+      <PointerOffset>3172898</PointerOffset>
       <JapaneseText>あとはポケットの中のコイツを処分して……。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -20,7 +20,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x306a4d</PointerOffset>
+      <PointerOffset>3172941</PointerOffset>
       <JapaneseText>あれ？　あれ？　マジかよ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -28,7 +28,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x306a68</PointerOffset>
+      <PointerOffset>3172968</PointerOffset>
       <JapaneseText>やっべぇ……どこで落としたんだ？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -36,7 +36,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x306a89</PointerOffset>
+      <PointerOffset>3173001</PointerOffset>
       <JapaneseText>アレ誰かに見られたりしたら……。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -44,7 +44,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x306aaa</PointerOffset>
+      <PointerOffset>3173034</PointerOffset>
       <JapaneseText>早く取り戻さねぇと！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>

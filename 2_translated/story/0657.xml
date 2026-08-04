@@ -4,7 +4,7 @@
   <Strings>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x1e6ca8</PointerOffset>
+      <PointerOffset>1993896</PointerOffset>
       <JapaneseText>学生寮</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -12,7 +12,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1e6caf</PointerOffset>
+      <PointerOffset>1993903</PointerOffset>
       <JapaneseText>自分の部屋に行く</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -20,7 +20,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1e6cc1</PointerOffset>
+      <PointerOffset>1993921</PointerOffset>
       <JapaneseText>サンクの部屋に行く</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -28,7 +28,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1e6cd5</PointerOffset>
+      <PointerOffset>1993941</PointerOffset>
       <JapaneseText>学生寮以外の場所に移動</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -36,7 +36,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1e6ced</PointerOffset>
+      <PointerOffset>1993965</PointerOffset>
       <JapaneseText>そうだ。キールの友達のサンクなら</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -44,7 +44,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1e6d0e</PointerOffset>
+      <PointerOffset>1993998</PointerOffset>
       <JapaneseText>なにか手伝ってくれるかもしれない！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -52,7 +52,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1e6d32</PointerOffset>
+      <PointerOffset>1994034</PointerOffset>
       <JapaneseText>でも……。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -60,7 +60,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1e6d3d</PointerOffset>
+      <PointerOffset>1994045</PointerOffset>
       <JapaneseText>サンクの部屋ってどこだっけ？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>

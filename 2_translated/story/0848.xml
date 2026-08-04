@@ -4,7 +4,7 @@
   <Strings>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x25e9e0</PointerOffset>
+      <PointerOffset>2484704</PointerOffset>
       <JapaneseText>同時にファイアーボールを撃つ</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -12,7 +12,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x25e9fe</PointerOffset>
+      <PointerOffset>2484734</PointerOffset>
       <JapaneseText>同時にアクアエッジを撃つ</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -20,7 +20,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x25ea18</PointerOffset>
+      <PointerOffset>2484760</PointerOffset>
       <JapaneseText>同時にウィンドカッターを撃つ</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -28,7 +28,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x25ea36</PointerOffset>
+      <PointerOffset>2484790</PointerOffset>
       <JapaneseText>火晶霊よ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -36,7 +36,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x25ea45</PointerOffset>
+      <PointerOffset>2484805</PointerOffset>
       <JapaneseText>僕たちに力を！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -44,7 +44,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x25ea58</PointerOffset>
+      <PointerOffset>2484824</PointerOffset>
       <JapaneseText>ファイアーボール！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -52,7 +52,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x25ea6e</PointerOffset>
+      <PointerOffset>2484846</PointerOffset>
       <JapaneseText>ギャアアアアアッ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -60,7 +60,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x25ea87</PointerOffset>
+      <PointerOffset>2484871</PointerOffset>
       <JapaneseText>よし、効いている！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -68,7 +68,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x25ea9a</PointerOffset>
+      <PointerOffset>2484890</PointerOffset>
       <JapaneseText>このままいくぞ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>

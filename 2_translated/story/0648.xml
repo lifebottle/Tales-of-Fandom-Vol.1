@@ -4,7 +4,7 @@
   <Strings>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x1e1708</PointerOffset>
+      <PointerOffset>1971976</PointerOffset>
       <JapaneseText>正解だ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -12,7 +12,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1e1711</PointerOffset>
+      <PointerOffset>1971985</PointerOffset>
       <JapaneseText>そこいらの学校の試験とはわけが違う。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -20,7 +20,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1e1737</PointerOffset>
+      <PointerOffset>1972023</PointerOffset>
       <JapaneseText>ミンツ大学を優秀な成績で卒業する……。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -28,7 +28,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1e175e</PointerOffset>
+      <PointerOffset>1972062</PointerOffset>
       <JapaneseText>それは立身出世の確約を得ることと同義。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -36,7 +36,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1e1786</PointerOffset>
+      <PointerOffset>1972102</PointerOffset>
       <JapaneseText>どんなことをしてでも……。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -44,7 +44,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1e17a1</PointerOffset>
+      <PointerOffset>1972129</PointerOffset>
       <JapaneseText>どんな大金を払ってでも問題を知りたい。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -52,7 +52,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1e17c9</PointerOffset>
+      <PointerOffset>1972169</PointerOffset>
       <JapaneseText>そんな人間もいて当然の話だ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -60,7 +60,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1e17e8</PointerOffset>
+      <PointerOffset>1972200</PointerOffset>
       <JapaneseText>キールを陥れる方法なら、</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>

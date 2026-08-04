@@ -3,100 +3,100 @@
   <Strings>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x50c98</PointerOffset>
+      <PointerOffset>330904</PointerOffset>
       <JapaneseText>あ？</JapaneseText>
       <EnglishText> Huh?</EnglishText>
       <Notes> </Notes>
       <Id>0</Id>
-      <Status>Editing</Status>
+      <Status>Edited</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x50c9d</PointerOffset>
+      <PointerOffset>330909</PointerOffset>
       <JapaneseText>あたしとお兄ちゃんがトーティスに来て、</JapaneseText>
       <EnglishText> Since we came to Toltis.</EnglishText>
       <Notes> </Notes>
       <Id>1</Id>
-      <Status>Editing</Status>
+      <Status>Edited</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x50cc4</PointerOffset>
+      <PointerOffset>330948</PointerOffset>
       <JapaneseText>もう５年も経ったんだなーって。</JapaneseText>
       <EnglishText> I was just thinking about it.</EnglishText>
       <Notes> </Notes>
       <Id>2</Id>
-      <Status>Editing</Status>
+      <Status>Edited</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x50ce3</PointerOffset>
+      <PointerOffset>330979</PointerOffset>
       <JapaneseText>なんだよ、急に。</JapaneseText>
       <EnglishText> Why all of a sudden?</EnglishText>
       <Notes> </Notes>
       <Id>3</Id>
-      <Status>Editing</Status>
+      <Status>Edited</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x50cf4</PointerOffset>
+      <PointerOffset>330996</PointerOffset>
       <JapaneseText>大変だったけど、楽しかったなー、って。</JapaneseText>
       <EnglishText> It's been rough, but also a lot of fun.</EnglishText>
       <Notes> </Notes>
       <Id>4</Id>
-      <Status>Editing</Status>
+      <Status>Edited</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x50d1b</PointerOffset>
+      <PointerOffset>331035</PointerOffset>
       <JapaneseText>……お兄ちゃんには苦労させられました。</JapaneseText>
       <EnglishText> ...But you really put me through it, Chester.</EnglishText>
       <Notes> </Notes>
       <Id>5</Id>
-      <Status>Editing</Status>
+      <Status>Edited</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x50d42</PointerOffset>
+      <PointerOffset>331074</PointerOffset>
       <JapaneseText>おいおい、母さんみたいな口利くなよ。</JapaneseText>
       <EnglishText> Hey now, don't talk like you're my mom.</EnglishText>
       <Notes> </Notes>
       <Id>6</Id>
-      <Status>Editing</Status>
+      <Status>Edited</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x50d67</PointerOffset>
+      <PointerOffset>331111</PointerOffset>
       <JapaneseText>ふふ……。</JapaneseText>
       <EnglishText> Hehe...</EnglishText>
       <Notes> </Notes>
       <Id>7</Id>
-      <Status>Editing</Status>
+      <Status>Edited</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x50d72</PointerOffset>
+      <PointerOffset>331122</PointerOffset>
       <JapaneseText>ねえ、お兄ちゃん、あたしたち、</JapaneseText>
       <EnglishText> Hey, Chester.</EnglishText>
       <Notes> </Notes>
       <Id>8</Id>
-      <Status>Editing</Status>
+      <Status>Edited</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x50d91</PointerOffset>
+      <PointerOffset>331153</PointerOffset>
       <JapaneseText>ここで大人になっていくんだよね？</JapaneseText>
       <EnglishText>How long are we going to stay here?</EnglishText>
       <Notes> </Notes>
       <Id>9</Id>
-      <Status>Editing</Status>
+      <Status>Edited</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x50db2</PointerOffset>
+      <PointerOffset>331186</PointerOffset>
       <JapaneseText>あたし、ここが大好き。</JapaneseText>
       <EnglishText> I really love this place.</EnglishText>
       <Notes> </Notes>
       <Id>10</Id>
-      <Status>Editing</Status>
+      <Status>Edited</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x50dc9</PointerOffset>
+      <PointerOffset>331209</PointerOffset>
       <JapaneseText>ユークリッドにはパパとママの思い出が</JapaneseText>
       <EnglishText> Euclid is filled with memories of Mom and Dad.</EnglishText>
       <Notes> </Notes>
       <Id>11</Id>
-      <Status>Editing</Status>
+      <Status>Edited</Status>
     </Entry>
   </Strings>
   <Strings>

@@ -4,7 +4,7 @@
   <Strings>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x17cdc3</PointerOffset>
+      <PointerOffset>1560003</PointerOffset>
       <JapaneseText>リーネの村</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -12,7 +12,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x17cdd1</PointerOffset>
+      <PointerOffset>1560017</PointerOffset>
       <JapaneseText>お待たせ−、ディムロス。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>

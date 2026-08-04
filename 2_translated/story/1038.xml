@@ -4,7 +4,7 @@
   <Strings>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x2cefee</PointerOffset>
+      <PointerOffset>2945006</PointerOffset>
       <JapaneseText>村祭り、いっしょに行かない？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -12,7 +12,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2cf00b</PointerOffset>
+      <PointerOffset>2945035</PointerOffset>
       <JapaneseText>……あ……は、はい！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -20,7 +20,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2cf020</PointerOffset>
+      <PointerOffset>2945056</PointerOffset>
       <JapaneseText>はぁーん、そういうわけか。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -28,7 +28,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2cf03b</PointerOffset>
+      <PointerOffset>2945083</PointerOffset>
       <JapaneseText>ミントが自分からねぇ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -36,7 +36,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2cf052</PointerOffset>
+      <PointerOffset>2945106</PointerOffset>
       <JapaneseText>クレス、驚いただろ？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -44,7 +44,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2cf067</PointerOffset>
+      <PointerOffset>2945127</PointerOffset>
       <JapaneseText>うん、びっくりしたよ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -52,7 +52,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2cf07e</PointerOffset>
+      <PointerOffset>2945150</PointerOffset>
       <JapaneseText>まさかミントが</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -60,7 +60,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2cf08d</PointerOffset>
+      <PointerOffset>2945165</PointerOffset>
       <JapaneseText>……自分から修行を始めるなんてさ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -68,7 +68,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2cf0b0</PointerOffset>
+      <PointerOffset>2945200</PointerOffset>
       <JapaneseText>おつかれさまでした。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>

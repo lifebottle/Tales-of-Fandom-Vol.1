@@ -4,7 +4,7 @@
   <Strings>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0xc2786</PointerOffset>
+      <PointerOffset>796550</PointerOffset>
       <JapaneseText>聞かない</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -12,7 +12,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xc2790</PointerOffset>
+      <PointerOffset>796560</PointerOffset>
       <JapaneseText>はい、父さん。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -20,7 +20,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xc27a0</PointerOffset>
+      <PointerOffset>796576</PointerOffset>
       <JapaneseText>司祭様、先程、ゴーリがバークライト夫妻の</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -28,7 +28,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xc27c9</PointerOffset>
+      <PointerOffset>796617</PointerOffset>
       <JapaneseText>遺児をユークリッドから連れ帰りました。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -36,7 +36,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xc27f0</PointerOffset>
+      <PointerOffset>796656</PointerOffset>
       <JapaneseText>二人とも、元気な子のようですね。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -44,7 +44,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xc2811</PointerOffset>
+      <PointerOffset>796689</PointerOffset>
       <JapaneseText>先程、ちらりと姿を見ました。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -52,7 +52,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xc282e</PointerOffset>
+      <PointerOffset>796718</PointerOffset>
       <JapaneseText>流行病などにかかっていないことは、</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -60,7 +60,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xc2851</PointerOffset>
+      <PointerOffset>796753</PointerOffset>
       <JapaneseText>都の役場の方でも保障しています。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -68,7 +68,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xc2872</PointerOffset>
+      <PointerOffset>796786</PointerOffset>
       <JapaneseText>ただし、心の方はわかりません。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -76,7 +76,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xc2891</PointerOffset>
+      <PointerOffset>796817</PointerOffset>
       <JapaneseText>その辺りのご指導を、司祭様にお願いしたい</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -84,7 +84,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xc28ba</PointerOffset>
+      <PointerOffset>796858</PointerOffset>
       <JapaneseText>のですが。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -92,7 +92,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xc28c5</PointerOffset>
+      <PointerOffset>796869</PointerOffset>
       <JapaneseText>私に出来ることがあれば、ご協力いたし</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -100,7 +100,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xc28ea</PointerOffset>
+      <PointerOffset>796906</PointerOffset>
       <JapaneseText>ましょう。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -108,7 +108,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xc28f5</PointerOffset>
+      <PointerOffset>796917</PointerOffset>
       <JapaneseText>聖レニオス様も歓迎してくださいます</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -116,7 +116,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xc2918</PointerOffset>
+      <PointerOffset>796952</PointerOffset>
       <JapaneseText>でしょう。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -124,7 +124,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xc2923</PointerOffset>
+      <PointerOffset>796963</PointerOffset>
       <JapaneseText>ありがとうございます。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -132,7 +132,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xc293a</PointerOffset>
+      <PointerOffset>796986</PointerOffset>
       <JapaneseText>しかし、アルベインさん、</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -140,7 +140,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xc2953</PointerOffset>
+      <PointerOffset>797011</PointerOffset>
       <JapaneseText>あの年頃の子供に一番大切なのは、</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -148,7 +148,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xc2974</PointerOffset>
+      <PointerOffset>797044</PointerOffset>
       <JapaneseText>友達です。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -156,7 +156,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xc297f</PointerOffset>
+      <PointerOffset>797055</PointerOffset>
       <JapaneseText>――そうは思いませんか、クレス君。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>

@@ -4,7 +4,7 @@
   <Strings>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x2abdd1</PointerOffset>
+      <PointerOffset>2801105</PointerOffset>
       <JapaneseText>まだぁ？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -12,7 +12,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2abdda</PointerOffset>
+      <PointerOffset>2801114</PointerOffset>
       <JapaneseText>え？　あの、もうちょっと……。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -20,7 +20,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2abdf9</PointerOffset>
+      <PointerOffset>2801145</PointerOffset>
       <JapaneseText>ったく、何をそんなに悩んでんの？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -28,7 +28,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2abe1a</PointerOffset>
+      <PointerOffset>2801178</PointerOffset>
       <JapaneseText>ほら、これでいいじゃない。はい出して！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -36,7 +36,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2abe42</PointerOffset>
+      <PointerOffset>2801218</PointerOffset>
       <JapaneseText>あ、それは……。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -44,7 +44,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2abe53</PointerOffset>
+      <PointerOffset>2801235</PointerOffset>
       <JapaneseText>おっとぉ！　ルーティが</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -52,7 +52,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2abe6a</PointerOffset>
+      <PointerOffset>2801258</PointerOffset>
       <JapaneseText>いきなりダブルのカードを出しましたぁ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -60,7 +60,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2abe92</PointerOffset>
+      <PointerOffset>2801298</PointerOffset>
       <JapaneseText>ルーティさん……もったいないよ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -68,7 +68,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2abeb3</PointerOffset>
+      <PointerOffset>2801331</PointerOffset>
       <JapaneseText>ダブルカード出しちゃうなんて。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -76,7 +76,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2abed4</PointerOffset>
+      <PointerOffset>2801364</PointerOffset>
       <JapaneseText>何よ？　ダブルカードって？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -84,7 +84,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2abef1</PointerOffset>
+      <PointerOffset>2801393</PointerOffset>
       <JapaneseText>……ダブルカードは同じ属性のカードを</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -92,7 +92,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2abf16</PointerOffset>
+      <PointerOffset>2801430</PointerOffset>
       <JapaneseText>もう１枚出したい時に使うんだ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -100,7 +100,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2abf37</PointerOffset>
+      <PointerOffset>2801463</PointerOffset>
       <JapaneseText>むやみと出すのはもったいない……。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -108,7 +108,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2abf5a</PointerOffset>
+      <PointerOffset>2801498</PointerOffset>
       <JapaneseText>まあまあ、いいじゃない。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -116,7 +116,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2abf73</PointerOffset>
+      <PointerOffset>2801523</PointerOffset>
       <JapaneseText>たかが遊びでしょ？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -124,7 +124,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2abf89</PointerOffset>
+      <PointerOffset>2801545</PointerOffset>
       <JapaneseText>そーそー、遊びだよ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -132,7 +132,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2abfa0</PointerOffset>
+      <PointerOffset>2801568</PointerOffset>
       <JapaneseText>優勝商品には</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -140,7 +140,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2abfad</PointerOffset>
+      <PointerOffset>2801581</PointerOffset>
       <JapaneseText>レンズ１００枚用意してあるけどね！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -148,7 +148,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2abfd1</PointerOffset>
+      <PointerOffset>2801617</PointerOffset>
       <JapaneseText>ぬぁんですってぇ！？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -156,7 +156,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2abfe9</PointerOffset>
+      <PointerOffset>2801641</PointerOffset>
       <JapaneseText>ちょっとクレス！　本気でいくわよ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -164,7 +164,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2ac00d</PointerOffset>
+      <PointerOffset>2801677</PointerOffset>
       <JapaneseText>僕はずっと本気だったけど……。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -172,7 +172,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2ac02c</PointerOffset>
+      <PointerOffset>2801708</PointerOffset>
       <JapaneseText>クレスはミントのありがたさを</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -180,7 +180,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2ac049</PointerOffset>
+      <PointerOffset>2801737</PointerOffset>
       <JapaneseText>実感している模様でぇっす！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>

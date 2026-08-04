@@ -4,7 +4,7 @@
   <Strings>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x5904e</PointerOffset>
+      <PointerOffset>364622</PointerOffset>
       <JapaneseText>実家が火事で焼け落ちたんだが、</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -12,7 +12,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x5906d</PointerOffset>
+      <PointerOffset>364653</PointerOffset>
       <JapaneseText>施設に預けるのもどうかと思ってな。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -20,7 +20,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x59090</PointerOffset>
+      <PointerOffset>364688</PointerOffset>
       <JapaneseText>バークライト夫妻の別荘に住まわせるのか？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -28,7 +28,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x590b9</PointerOffset>
+      <PointerOffset>364729</PointerOffset>
       <JapaneseText>夫妻が死んだ以上、</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>

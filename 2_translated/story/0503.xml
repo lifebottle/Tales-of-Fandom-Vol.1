@@ -4,7 +4,7 @@
   <Strings>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x18baad</PointerOffset>
+      <PointerOffset>1620653</PointerOffset>
       <JapaneseText>魔神剣</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -12,7 +12,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x18bab8</PointerOffset>
+      <PointerOffset>1620664</PointerOffset>
       <JapaneseText>雷神十連撃！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -20,7 +20,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x18bacb</PointerOffset>
+      <PointerOffset>1620683</PointerOffset>
       <JapaneseText>うわあっ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -28,7 +28,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x18badc</PointerOffset>
+      <PointerOffset>1620700</PointerOffset>
       <JapaneseText>相手の攻撃が見えるぞ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>

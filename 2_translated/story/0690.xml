@@ -4,7 +4,7 @@
   <Strings>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x1ff4b8</PointerOffset>
+      <PointerOffset>2094264</PointerOffset>
       <JapaneseText>ウィリアムの部屋</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -12,7 +12,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1ff4c9</PointerOffset>
+      <PointerOffset>2094281</PointerOffset>
       <JapaneseText>あてずっぽうに動いても時間の無駄だわ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -20,7 +20,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1ff4f1</PointerOffset>
+      <PointerOffset>2094321</PointerOffset>
       <JapaneseText>ちゃんと考えて行動しなくちゃ</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -28,7 +28,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1ff50e</PointerOffset>
+      <PointerOffset>2094350</PointerOffset>
       <JapaneseText>名探偵の名が泣くわ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>

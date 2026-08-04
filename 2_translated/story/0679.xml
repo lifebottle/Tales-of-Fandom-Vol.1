@@ -4,7 +4,7 @@
   <Strings>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x1f6b35</PointerOffset>
+      <PointerOffset>2059061</PointerOffset>
       <JapaneseText>玄関</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -12,7 +12,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1f6b3b</PointerOffset>
+      <PointerOffset>2059067</PointerOffset>
       <JapaneseText>別の階に移動する</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -20,7 +20,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1f6b4d</PointerOffset>
+      <PointerOffset>2059085</PointerOffset>
       <JapaneseText>２０１　グロッサ・バイロン</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -28,7 +28,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1f6b69</PointerOffset>
+      <PointerOffset>2059113</PointerOffset>
       <JapaneseText>２０２　アーマンド・ゲッツ</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -36,7 +36,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1f6b85</PointerOffset>
+      <PointerOffset>2059141</PointerOffset>
       <JapaneseText>２０３　サンク・リサジュー</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -44,7 +44,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1f6ba1</PointerOffset>
+      <PointerOffset>2059169</PointerOffset>
       <JapaneseText>別の階に移動する</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -52,7 +52,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1f6bb3</PointerOffset>
+      <PointerOffset>2059187</PointerOffset>
       <JapaneseText>３０１ルナリア・バーンズ</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -60,7 +60,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1f6bd3</PointerOffset>
+      <PointerOffset>2059219</PointerOffset>
       <JapaneseText>３０２ウィリアム・ウォーベック</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -68,7 +68,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1f6bf3</PointerOffset>
+      <PointerOffset>2059251</PointerOffset>
       <JapaneseText>３０３アルサー・リトルトン</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -76,7 +76,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1f6c13</PointerOffset>
+      <PointerOffset>2059283</PointerOffset>
       <JapaneseText>別の階に移動する</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -84,7 +84,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1f6c25</PointerOffset>
+      <PointerOffset>2059301</PointerOffset>
       <JapaneseText>４０１　ジェイムズ・ティリー</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -92,7 +92,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1f6c43</PointerOffset>
+      <PointerOffset>2059331</PointerOffset>
       <JapaneseText>４０２　ジャッコ・リベラ</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -100,7 +100,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1f6c61</PointerOffset>
+      <PointerOffset>2059361</PointerOffset>
       <JapaneseText>４０３　ミルドレッド・オデイ</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -108,7 +108,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1f6c7f</PointerOffset>
+      <PointerOffset>2059391</PointerOffset>
       <JapaneseText>別の階に移動する</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>

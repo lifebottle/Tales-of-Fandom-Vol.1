@@ -3,52 +3,52 @@
   <Strings>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x50ff8</PointerOffset>
+      <PointerOffset>331768</PointerOffset>
       <JapaneseText>あたしたちがこの村で暮らし始めた</JapaneseText>
       <EnglishText> When we first moved here.</EnglishText>
       <Notes> </Notes>
       <Id>0</Id>
-      <Status>Editing</Status>
+      <Status>Edited</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x51019</PointerOffset>
+      <PointerOffset>331801</PointerOffset>
       <JapaneseText>日のこと。</JapaneseText>
       <EnglishText> That one day.</EnglishText>
       <Notes> </Notes>
       <Id>1</Id>
-      <Status>Editing</Status>
+      <Status>Edited</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x51024</PointerOffset>
+      <PointerOffset>331812</PointerOffset>
       <JapaneseText>ん？　ああ、憶えてるよ。</JapaneseText>
       <EnglishText> Hm? Oh, yeah.</EnglishText>
       <Notes> </Notes>
       <Id>2</Id>
-      <Status>Editing</Status>
+      <Status>Edited</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x5103d</PointerOffset>
+      <PointerOffset>331837</PointerOffset>
       <JapaneseText>春の……あったかい日だったよな。</JapaneseText>
       <EnglishText> It was a... really hot day in spring.</EnglishText>
       <Notes> </Notes>
       <Id>3</Id>
-      <Status>Editing</Status>
+      <Status>Edited</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x5105e</PointerOffset>
+      <PointerOffset>331870</PointerOffset>
       <JapaneseText>うん……あったかい日だったよ。</JapaneseText>
       <EnglishText> Yeah... it was so hot.</EnglishText>
       <Notes> </Notes>
       <Id>4</Id>
-      <Status>Editing</Status>
+      <Status>Edited</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x5107d</PointerOffset>
+      <PointerOffset>331901</PointerOffset>
       <JapaneseText>五年、か……。</JapaneseText>
       <EnglishText> Five years, huh...</EnglishText>
       <Notes> </Notes>
       <Id>5</Id>
-      <Status>Editing</Status>
+      <Status>Edited</Status>
     </Entry>
   </Strings>
   <Strings>

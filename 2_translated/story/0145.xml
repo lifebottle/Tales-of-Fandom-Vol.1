@@ -4,7 +4,7 @@
   <Strings>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x98bad</PointerOffset>
+      <PointerOffset>625581</PointerOffset>
       <JapaneseText>ぐすっ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -12,7 +12,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x98bb6</PointerOffset>
+      <PointerOffset>625590</PointerOffset>
       <JapaneseText>あ、あんなお兄ちゃん、は、初めてで……。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -20,7 +20,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x98bdf</PointerOffset>
+      <PointerOffset>625631</PointerOffset>
       <JapaneseText>だ、誰にも、そ、相談できなくて……。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -28,7 +28,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x98c04</PointerOffset>
+      <PointerOffset>625668</PointerOffset>
       <JapaneseText>大丈夫、大丈夫だよ、アミィちゃん。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -36,7 +36,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x98c27</PointerOffset>
+      <PointerOffset>625703</PointerOffset>
       <JapaneseText>あ、あたし、お兄ちゃんと、</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>

@@ -4,7 +4,7 @@
   <Strings>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x6a944</PointerOffset>
+      <PointerOffset>436548</PointerOffset>
       <JapaneseText>え、何？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -12,7 +12,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x6a94e</PointerOffset>
+      <PointerOffset>436558</PointerOffset>
       <JapaneseText>いってぇ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -20,7 +20,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x6a959</PointerOffset>
+      <PointerOffset>436569</PointerOffset>
       <JapaneseText>ザ、ザリガニ！？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -28,7 +28,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x6a96a</PointerOffset>
+      <PointerOffset>436586</PointerOffset>
       <JapaneseText>うわっ、あっ、あっ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -36,7 +36,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x6a980</PointerOffset>
+      <PointerOffset>436608</PointerOffset>
       <JapaneseText>ふぅーっ、ふぅーっ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -44,7 +44,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x6a995</PointerOffset>
+      <PointerOffset>436629</PointerOffset>
       <JapaneseText>あはっ……あはははっ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -52,7 +52,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x6a9ac</PointerOffset>
+      <PointerOffset>436652</PointerOffset>
       <JapaneseText>ははっ、ははははは。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -60,7 +60,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x6a9c1</PointerOffset>
+      <PointerOffset>436673</PointerOffset>
       <JapaneseText>……おい。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>

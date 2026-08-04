@@ -4,7 +4,7 @@
   <Strings>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x1680d6</PointerOffset>
+      <PointerOffset>1474774</PointerOffset>
       <JapaneseText>そのために、村でとれた材料が必要なのよ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -12,7 +12,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1680ff</PointerOffset>
+      <PointerOffset>1474815</PointerOffset>
       <JapaneseText>そこまでして、</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -20,7 +20,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x16810e</PointerOffset>
+      <PointerOffset>1474830</PointerOffset>
       <JapaneseText>勝負にこだわる理由があるのか？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -28,7 +28,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x16812d</PointerOffset>
+      <PointerOffset>1474861</PointerOffset>
       <JapaneseText>あるわ。これは名誉の問題よ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -36,7 +36,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x16814a</PointerOffset>
+      <PointerOffset>1474890</PointerOffset>
       <JapaneseText>リーネ一番の料理上手としての、ね。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>

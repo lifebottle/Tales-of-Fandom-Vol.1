@@ -4,7 +4,7 @@
   <Strings>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x2d2fbb</PointerOffset>
+      <PointerOffset>2961339</PointerOffset>
       <JapaneseText>待ちなさい、ルーティさん！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -12,7 +12,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2d2fd7</PointerOffset>
+      <PointerOffset>2961367</PointerOffset>
       <JapaneseText>あ〜らリリス。スタンの仇討ちかしら？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -20,7 +20,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2d2ffc</PointerOffset>
+      <PointerOffset>2961404</PointerOffset>
       <JapaneseText>悪いわね。あたし忙しくて……。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -28,7 +28,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2d301b</PointerOffset>
+      <PointerOffset>2961435</PointerOffset>
       <JapaneseText>交換するアイテムもない人と</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -36,7 +36,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2d3036</PointerOffset>
+      <PointerOffset>2961462</PointerOffset>
       <JapaneseText>戦ってるヒマないのよ〜。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -44,7 +44,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2d3051</PointerOffset>
+      <PointerOffset>2961489</PointerOffset>
       <JapaneseText>リキュールボトルをかけるわ。どう？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -52,7 +52,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2d3074</PointerOffset>
+      <PointerOffset>2961524</PointerOffset>
       <JapaneseText>『売り値は２２７ガルド。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -60,7 +60,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x2d308d</PointerOffset>
+      <PointerOffset>2961549</PointerOffset>
       <JapaneseText>……よしっ！』</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>

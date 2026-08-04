@@ -4,7 +4,7 @@
   <Strings>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x1ece38</PointerOffset>
+      <PointerOffset>2018872</PointerOffset>
       <JapaneseText>名探偵ポイント</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -12,7 +12,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1ece47</PointerOffset>
+      <PointerOffset>2018887</PointerOffset>
       <JapaneseText>ミンツ大学前</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -20,7 +20,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1ece54</PointerOffset>
+      <PointerOffset>2018900</PointerOffset>
       <JapaneseText>繁華街へ行く</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -28,7 +28,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1ece62</PointerOffset>
+      <PointerOffset>2018914</PointerOffset>
       <JapaneseText>カフェテリアへ行く</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -36,7 +36,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1ece76</PointerOffset>
+      <PointerOffset>2018934</PointerOffset>
       <JapaneseText>大学内へ行く</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -44,7 +44,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x1ece84</PointerOffset>
+      <PointerOffset>2018948</PointerOffset>
       <JapaneseText>学生寮へ行く</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>

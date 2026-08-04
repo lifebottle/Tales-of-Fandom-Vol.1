@@ -4,7 +4,7 @@
   <Strings>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x85000</PointerOffset>
+      <PointerOffset>544768</PointerOffset>
       <JapaneseText>それ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -12,7 +12,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x85007</PointerOffset>
+      <PointerOffset>544775</PointerOffset>
       <JapaneseText>いちいち謝るのやめてよね！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -20,7 +20,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x85022</PointerOffset>
+      <PointerOffset>544802</PointerOffset>
       <JapaneseText>三ヶ月ぶりにあった恋人に、</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -28,7 +28,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x8503d</PointerOffset>
+      <PointerOffset>544829</PointerOffset>
       <JapaneseText>気の効いた台詞のひとつくらい言ったら？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -36,7 +36,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x85064</PointerOffset>
+      <PointerOffset>544868</PointerOffset>
       <JapaneseText>……ごめん。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -44,7 +44,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x85071</PointerOffset>
+      <PointerOffset>544881</PointerOffset>
       <JapaneseText>そ、そうだ！明日、湖に行こうよ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -52,7 +52,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x85092</PointerOffset>
+      <PointerOffset>544914</PointerOffset>
       <JapaneseText>大きな魚がさ――</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
@@ -60,7 +60,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x850a4</PointerOffset>
+      <PointerOffset>544932</PointerOffset>
       <JapaneseText>また湖？　イ・ヤ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>

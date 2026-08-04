@@ -11,7 +11,7 @@
       <EnglishText> Huh?</EnglishText>
       <Notes/>
       <Id>0</Id>
-      <Status>Edited</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>0x50c9d</PointerOffset>
@@ -19,7 +19,7 @@
       <EnglishText> Since we came to Toltis.</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Edited</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>0x50cc4</PointerOffset>
@@ -27,7 +27,7 @@
       <EnglishText> I was just thinking about it.</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Edited</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>0x50ce3</PointerOffset>
@@ -35,7 +35,7 @@
       <EnglishText> Why all of a sudden?</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Edited</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>0x50cf4</PointerOffset>
@@ -43,7 +43,7 @@
       <EnglishText> It's been rough, but also a lot of fun.</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Edited</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>0x50d1b</PointerOffset>
@@ -51,7 +51,7 @@
       <EnglishText> ...But you really put me through it, Chester.</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>Edited</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>0x50d42</PointerOffset>
@@ -59,7 +59,7 @@
       <EnglishText> Hey now, don't talk like you're my mom.</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>Edited</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>0x50d67</PointerOffset>
@@ -67,7 +67,7 @@
       <EnglishText> Hehe...</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <Status>Edited</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>0x50d72</PointerOffset>
@@ -75,7 +75,7 @@
       <EnglishText> Hey, Chester.</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <Status>Edited</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>0x50d91</PointerOffset>
@@ -83,7 +83,7 @@
       <EnglishText>How long are we going to stay here?</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <Status>Edited</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>0x50db2</PointerOffset>
@@ -91,7 +91,7 @@
       <EnglishText> I really love this place.</EnglishText>
       <Notes/>
       <Id>10</Id>
-      <Status>Edited</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>0x50dc9</PointerOffset>
@@ -99,7 +99,7 @@
       <EnglishText> Euclid is filled with memories of Mom and Dad.</EnglishText>
       <Notes/>
       <Id>11</Id>
-      <Status>Edited</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

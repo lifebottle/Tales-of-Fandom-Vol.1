@@ -11,7 +11,7 @@
       <EnglishText> Dummy.</EnglishText>
       <Notes/>
       <Id>0</Id>
-      <Status>Edited</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>0x50ee9</PointerOffset>
@@ -19,7 +19,7 @@
       <EnglishText> I'll have you know I'm pretty popular, myself.</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Edited</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>0x50f0e</PointerOffset>
@@ -27,7 +27,7 @@
       <EnglishText> No way, you're lying!</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Edited</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>0x50f21</PointerOffset>
@@ -35,7 +35,7 @@
       <EnglishText> You act like a little kid all the time</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Edited</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>0x50f42</PointerOffset>
@@ -43,7 +43,7 @@
       <EnglishText> and cry about how much you hate onions.</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Edited</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>0x50f6b</PointerOffset>
@@ -51,7 +51,7 @@
       <EnglishText>There's not a girl on the planet who'd marry you.</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>Edited</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>0x50f88</PointerOffset>
@@ -59,7 +59,7 @@
       <EnglishText> Hey, shut up!</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>Edited</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

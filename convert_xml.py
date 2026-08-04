@@ -79,8 +79,10 @@ def update_all_xml(folder):
 		print(f"Processing {file.parent.name}/{file.name}...")
 		xml = file.read_text(encoding="utf-8")
 
+		new_xml = xml
+
 		# this is where we replace teh xml
-		new_xml = xml.replace("<Status>Editing</Status>", "<Status>Edited</Status>")
+		#new_xml = xml.replace("<Status>Editing</Status>", "<Status>Edited</Status>")
 		new_xml = new_xml.replace("<Status/>", "<Status>To Do</Status>")
 		new_xml = new_xml.replace("<Status></Status>", "<Status>To Do</Status>")
 		new_xml = new_xml.replace("<Notes> </Notes>", "<Notes/>")

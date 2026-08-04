@@ -11,7 +11,7 @@
       <EnglishText> Present day</EnglishText>
       <Notes/>
       <Id>0</Id>
-      <Status>Edited</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>0x50b94</PointerOffset>
@@ -19,7 +19,7 @@
       <EnglishText> ...Ami, you're still awake?</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Edited</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>0x50baf</PointerOffset>
@@ -27,7 +27,7 @@
       <EnglishText> Oh, Chester.</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Edited</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>0x50bc0</PointerOffset>
@@ -35,7 +35,7 @@
       <EnglishText> Yeah, I'm going to sleep now.</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Edited</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>0x50bd5</PointerOffset>
@@ -43,7 +43,7 @@
       <EnglishText> Were you still working on that thing?</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Edited</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>0x50be8</PointerOffset>
@@ -51,7 +51,7 @@
       <EnglishText> For Cress's birthday tomorrow, I mean.</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>Edited</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>0x50c03</PointerOffset>
@@ -59,7 +59,7 @@
       <EnglishText> You gonna make it in time?</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>Edited</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>0x50c14</PointerOffset>
@@ -67,7 +67,7 @@
       <EnglishText> It'll be fine.</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <Status>Edited</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>0x50c21</PointerOffset>
@@ -75,7 +75,7 @@
       <EnglishText> ...Hey, Chester.</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <Status>Edited</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>0x50c32</PointerOffset>
@@ -83,7 +83,7 @@
       <EnglishText> You're going hunting with Cress tomorrow, right?</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <Status>Edited</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>0x50c59</PointerOffset>
@@ -91,7 +91,7 @@
       <EnglishText> It'll be done by the time you get home.</EnglishText>
       <Notes/>
       <Id>10</Id>
-      <Status>Edited</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>0x50c7d</PointerOffset>
@@ -99,7 +99,7 @@
       <EnglishText> ...It's been five years since then, hasn't it?</EnglishText>
       <Notes/>
       <Id>11</Id>
-      <Status>Edited</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

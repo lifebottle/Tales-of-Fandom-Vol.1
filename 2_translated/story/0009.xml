@@ -11,7 +11,7 @@
       <EnglishText> When we first moved here.</EnglishText>
       <Notes/>
       <Id>0</Id>
-      <Status>Edited</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>0x51019</PointerOffset>
@@ -19,7 +19,7 @@
       <EnglishText> That one day.</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Edited</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>0x51024</PointerOffset>
@@ -27,7 +27,7 @@
       <EnglishText> Hm? Oh, yeah.</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Edited</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>0x5103d</PointerOffset>
@@ -35,7 +35,7 @@
       <EnglishText> It was a... really hot day in spring.</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Edited</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>0x5105e</PointerOffset>
@@ -43,7 +43,7 @@
       <EnglishText> Yeah... it was so hot.</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Edited</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>0x5107d</PointerOffset>
@@ -51,7 +51,7 @@
       <EnglishText> Five years, huh...</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>Edited</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

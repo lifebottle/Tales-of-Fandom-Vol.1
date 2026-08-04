@@ -19,7 +19,7 @@
       <EnglishText> Hahaha...</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Edited</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>0x50fc4</PointerOffset>
@@ -27,7 +27,7 @@
       <EnglishText> Seriously...</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Edited</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>0x50fd3</PointerOffset>
@@ -35,7 +35,7 @@
       <EnglishText> Hehe... hey, Chester. do you remember?</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Edited</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

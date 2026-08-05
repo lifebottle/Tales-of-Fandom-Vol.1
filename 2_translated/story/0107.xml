@@ -1,60 +1,40 @@
-
 <SceneText>
   <FriendlyName>Conversation_0107</FriendlyName>
-  <Strings>
+  <Speakers>
     <Section>Speaker</Section>
-  </Strings>
-  <Strings>
-    <Section>Main</Section>
     <Entry>
-      <PointerOffset>0x84ebe</PointerOffset>
-      <JapaneseText>ん……。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x1c02d0</PointerOffset>
+      <JapaneseText>キール・ツァイベルだな！？</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x84ec7</PointerOffset>
-      <JapaneseText>だ、だめだよ、イライザ、こんなこと……。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x1c02ed</PointerOffset>
+      <JapaneseText>あァ？</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x84ef0</PointerOffset>
-      <JapaneseText>それも、こんなところで……。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x1c02f9</PointerOffset>
+      <JapaneseText>試験問題漏洩の件で話を聞かせてもらおう。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x84f0d</PointerOffset>
-      <JapaneseText>教会の裏手っていう、背徳的な場所だから</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x1c0322</PointerOffset>
+      <JapaneseText>な、なんだって！？</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>3</Id>
       <Status>To Do</Status>
     </Entry>
-    <Entry>
-      <PointerOffset>0x84f34</PointerOffset>
-      <JapaneseText>いいんじゃない。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Id>4</Id>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>0x84f45</PointerOffset>
-      <JapaneseText>ほらあ……。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Id>5</Id>
-      <Status>To Do</Status>
-    </Entry>
-  </Strings>
+  </Speakers>
   <Strings>
     <Section>system</Section>
   </Strings>

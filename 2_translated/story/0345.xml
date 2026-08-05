@@ -1,36 +1,40 @@
-
 <SceneText>
   <FriendlyName>Conversation_0345</FriendlyName>
-  <Strings>
+  <Speakers>
     <Section>Speaker</Section>
-  </Strings>
-  <Strings>
-    <Section>Main</Section>
     <Entry>
-      <PointerOffset>0x11a6cb</PointerOffset>
-      <JapaneseText>え？　村を再建するのではなかった</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x318d9b</PointerOffset>
+      <JapaneseText>クィッキーッ！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x11a6ec</PointerOffset>
-      <JapaneseText>のですか？</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x318daa</PointerOffset>
+      <JapaneseText>クククィッキー！！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x11a6f7</PointerOffset>
-      <JapaneseText>やだなあ、どうしたのさミント。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x318dbd</PointerOffset>
+      <JapaneseText>わぁぁぁぁぁぁぁんっ！！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
+    <Entry>
+      <PointerOffset>0x318dd6</PointerOffset>
+      <JapaneseText>動物ヤです〜〜〜〜〜っ！！！！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
   <Strings>
     <Section>system</Section>
   </Strings>

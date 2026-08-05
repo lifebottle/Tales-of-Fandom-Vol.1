@@ -1,28 +1,138 @@
-
 <SceneText>
   <FriendlyName>Conversation_0118</FriendlyName>
-  <Strings>
+  <Title>名探偵ポイント</Title>
+  <Location>カフェテリア</Location>
+  <Speakers>
     <Section>Speaker</Section>
-  </Strings>
-  <Strings>
-    <Section>Main</Section>
     <Entry>
-      <PointerOffset>0x8b0c9</PointerOffset>
-      <JapaneseText>え？</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x1cff28</PointerOffset>
+      <JapaneseText>名探偵ポイント</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x8b0ce</PointerOffset>
-      <JapaneseText>……二人のこと、知ってるの、お兄ちゃん？</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x1cff37</PointerOffset>
+      <JapaneseText>カフェテリア</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
+    <Entry>
+      <PointerOffset>0x1cff44</PointerOffset>
+      <JapaneseText>ぷはー！　満腹満腹〜！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1cff5e</PointerOffset>
+      <JapaneseText>君は本当によく食べるなあ。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1cff7b</PointerOffset>
+      <JapaneseText>あなたが少食過ぎるの！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1cff92</PointerOffset>
+      <JapaneseText>好き嫌いいってると大きくなれないよ！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1cffb8</PointerOffset>
+      <JapaneseText>ふふふ。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1cffc5</PointerOffset>
+      <JapaneseText>僕と結婚する人は料理のしがいがあって</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1cffea</PointerOffset>
+      <JapaneseText>退屈しないんじゃないかな。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1d0007</PointerOffset>
+      <JapaneseText>あなたみたいな変人、</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1d001c</PointerOffset>
+      <JapaneseText>だれもお婿にもらってくれないよ！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1d003e</PointerOffset>
+      <JapaneseText>…………。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1d004a</PointerOffset>
+      <JapaneseText>君は……どうなんだい？</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1d0064</PointerOffset>
+      <JapaneseText>……えっ！？</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1d0075</PointerOffset>
+      <JapaneseText>町の中で情報収集</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1d0087</PointerOffset>
+      <JapaneseText>さらにもう少し現実逃避</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
   <Strings>
     <Section>system</Section>
   </Strings>

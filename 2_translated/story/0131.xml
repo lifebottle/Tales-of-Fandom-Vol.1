@@ -1,28 +1,90 @@
-
 <SceneText>
   <FriendlyName>Conversation_0131</FriendlyName>
-  <Strings>
+  <Title>名探偵ポイント</Title>
+  <Location>大学の地下</Location>
+  <Speakers>
     <Section>Speaker</Section>
-  </Strings>
-  <Strings>
-    <Section>Main</Section>
     <Entry>
-      <PointerOffset>0x8fdc7</PointerOffset>
-      <JapaneseText>ああ。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x1e58c0</PointerOffset>
+      <JapaneseText>名探偵ポイント</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x8fdcf</PointerOffset>
-      <JapaneseText>……ふっ。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x1e58cf</PointerOffset>
+      <JapaneseText>大学の地下</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
+    <Entry>
+      <PointerOffset>0x1e58da</PointerOffset>
+      <JapaneseText>フフ……。どうした。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1e58ef</PointerOffset>
+      <JapaneseText>早くもギブアップか、ダ・メー探偵くん？</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1e5917</PointerOffset>
+      <JapaneseText>ヒューラにヒントを聞く</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1e592f</PointerOffset>
+      <JapaneseText>この場所を立ち去る</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1e5943</PointerOffset>
+      <JapaneseText>足を使うことは探偵の基本だ。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1e5962</PointerOffset>
+      <JapaneseText>この町をしっかりと隅から隅まで</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1e5981</PointerOffset>
+      <JapaneseText>調べ尽くしてみるんだな。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1e59a6</PointerOffset>
+      <JapaneseText>ひえ〜。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
   <Strings>
     <Section>system</Section>
   </Strings>

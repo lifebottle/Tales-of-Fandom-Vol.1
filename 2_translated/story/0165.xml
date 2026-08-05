@@ -1,20 +1,17 @@
-
 <SceneText>
   <FriendlyName>Conversation_0165</FriendlyName>
-  <Strings>
+  <Title>近き者はその目に見よ、</Title>
+  <Speakers>
     <Section>Speaker</Section>
-  </Strings>
-  <Strings>
-    <Section>Main</Section>
     <Entry>
-      <PointerOffset>0xa6e70</PointerOffset>
-      <JapaneseText>クレスとの距離</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x2267e8</PointerOffset>
+      <JapaneseText>近き者はその目に見よ、</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
+  </Speakers>
   <Strings>
     <Section>system</Section>
   </Strings>

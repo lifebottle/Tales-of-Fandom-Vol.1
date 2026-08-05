@@ -1,20 +1,146 @@
-
 <SceneText>
   <FriendlyName>Conversation_0021</FriendlyName>
-  <Strings>
+  <Title>クレスとの距離</Title>
+  <Location>どこかの野原</Location>
+  <Speakers>
     <Section>Speaker</Section>
-  </Strings>
-  <Strings>
-    <Section>Main</Section>
     <Entry>
-      <PointerOffset>0x58fa1</PointerOffset>
-      <JapaneseText>トーティスの村</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x9e278</PointerOffset>
+      <JapaneseText>クレスとの距離</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
+    <Entry>
+      <PointerOffset>0x9e288</PointerOffset>
+      <JapaneseText>どこかの野原</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x9e295</PointerOffset>
+      <JapaneseText>ハッ！？</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x9e29e</PointerOffset>
+      <JapaneseText>ふう……夢、か。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x9e2af</PointerOffset>
+      <JapaneseText>そうよね……おにいちゃんは、結局、</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x9e2d2</PointerOffset>
+      <JapaneseText>あれきり帰ってこなかったんだもの。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x9e2f5</PointerOffset>
+      <JapaneseText>幸せな生活なんて……夢だわ。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x9e312</PointerOffset>
+      <JapaneseText>村がユークリッド王家に納める税金を積んだ</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x9e33b</PointerOffset>
+      <JapaneseText>馬車が襲われ、たくさんの人が死んだ……。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x9e364</PointerOffset>
+      <JapaneseText>でも……お兄ちゃんが、その仲間だった</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x9e389</PointerOffset>
+      <JapaneseText>なんて話は、あたしは信じない。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x9e3a8</PointerOffset>
+      <JapaneseText>必ずお兄ちゃんを見つけ出して、</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x9e3c7</PointerOffset>
+      <JapaneseText>真実を突き止める。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x9e3da</PointerOffset>
+      <JapaneseText>たとえ、クレスさんが追ってくるのだと</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x9e3ff</PointerOffset>
+      <JapaneseText>しても。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x9e408</PointerOffset>
+      <JapaneseText>その時は……。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x9e418</PointerOffset>
+      <JapaneseText>……戦う。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
   <Strings>
     <Section>system</Section>
   </Strings>

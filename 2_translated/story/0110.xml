@@ -1,76 +1,105 @@
-
 <SceneText>
   <FriendlyName>Conversation_0110</FriendlyName>
-  <Strings>
+  <Title>名探偵ポイント</Title>
+  <Speakers>
     <Section>Speaker</Section>
-  </Strings>
-  <Strings>
-    <Section>Main</Section>
     <Entry>
-      <PointerOffset>0x85000</PointerOffset>
-      <JapaneseText>それ！</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x1c2c10</PointerOffset>
+      <JapaneseText>名探偵ポイント</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x85007</PointerOffset>
-      <JapaneseText>いちいち謝るのやめてよね！</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x1c2c1f</PointerOffset>
+      <JapaneseText>ちょっといいですかっ！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x85022</PointerOffset>
-      <JapaneseText>三ヶ月ぶりにあった恋人に、</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x1c2c39</PointerOffset>
+      <JapaneseText>キールは確かに変人ですけど、</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x8503d</PointerOffset>
-      <JapaneseText>気の効いた台詞のひとつくらい言ったら？</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x1c2c56</PointerOffset>
+      <JapaneseText>卑怯なマネをする人間じゃないことは</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>3</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x85064</PointerOffset>
-      <JapaneseText>……ごめん。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x1c2c7a</PointerOffset>
+      <JapaneseText>この探偵部部長、プリムラ・ロッソが</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>4</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x85071</PointerOffset>
-      <JapaneseText>そ、そうだ！明日、湖に行こうよ！</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x1c2c9d</PointerOffset>
+      <JapaneseText>請け負いますっ！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>5</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x85092</PointerOffset>
-      <JapaneseText>大きな魚がさ――</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x1c2cb1</PointerOffset>
+      <JapaneseText>だれか、こいつをつまみ出せ！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>6</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x850a4</PointerOffset>
-      <JapaneseText>また湖？　イ・ヤ。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x1c2cd0</PointerOffset>
+      <JapaneseText>あ、ちょっと！？</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>7</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
+    <Entry>
+      <PointerOffset>0x1c2ce5</PointerOffset>
+      <JapaneseText>離してよ！　離しなさいってば！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1c2d04</PointerOffset>
+      <JapaneseText>もう、離せーーー！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1c2d1b</PointerOffset>
+      <JapaneseText>教授会に乗り込む</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1c2d2d</PointerOffset>
+      <JapaneseText>キールに会って話を聞く</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
   <Strings>
     <Section>system</Section>
   </Strings>

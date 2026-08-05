@@ -1,108 +1,24 @@
-
 <SceneText>
   <FriendlyName>Conversation_0238</FriendlyName>
-  <Strings>
+  <Speakers>
     <Section>Speaker</Section>
-  </Strings>
-  <Strings>
-    <Section>Main</Section>
     <Entry>
-      <PointerOffset>0xd2290</PointerOffset>
-      <JapaneseText>そっか。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x2b7fdb</PointerOffset>
+      <JapaneseText>ちょっといいっすかぁ？</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xd229a</PointerOffset>
-      <JapaneseText>重そうな魚運びを手伝うという</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x2b7ff5</PointerOffset>
+      <JapaneseText>はいはい？</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
-    <Entry>
-      <PointerOffset>0xd22b8</PointerOffset>
-      <JapaneseText>重そうな野菜運びを手伝うという</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Id>2</Id>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>0xd22d8</PointerOffset>
-      <JapaneseText>お義理で手伝おうかという</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Id>3</Id>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>0xd22f2</PointerOffset>
-      <JapaneseText>よしっ！じゃあ、魚運ぶの手伝うよ！</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Id>4</Id>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>0xd2315</PointerOffset>
-      <JapaneseText>……いいんですか？</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Id>5</Id>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>0xd2328</PointerOffset>
-      <JapaneseText>まかせてよ！</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Id>6</Id>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>0xd2335</PointerOffset>
-      <JapaneseText>……よいしょっ。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Id>7</Id>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>0xd2346</PointerOffset>
-      <JapaneseText>――あっ！</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Id>8</Id>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>0xd2351</PointerOffset>
-      <JapaneseText>あっ、魚が！</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Id>9</Id>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>0xd235e</PointerOffset>
-      <JapaneseText>ま、待てっ！</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Id>10</Id>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>0xd236c</PointerOffset>
-      <JapaneseText>クレスさん、そっちそっち。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Id>11</Id>
-      <Status>To Do</Status>
-    </Entry>
-  </Strings>
+  </Speakers>
   <Strings>
     <Section>system</Section>
   </Strings>

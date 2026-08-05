@@ -1,60 +1,17 @@
-
 <SceneText>
   <FriendlyName>Conversation_0030</FriendlyName>
-  <Strings>
+  <Title>兄妹の警戒心</Title>
+  <Speakers>
     <Section>Speaker</Section>
-  </Strings>
-  <Strings>
-    <Section>Main</Section>
     <Entry>
-      <PointerOffset>0x5951f</PointerOffset>
-      <JapaneseText>家に案内してやろう。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0xb31e0</PointerOffset>
+      <JapaneseText>兄妹の警戒心</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
-    <Entry>
-      <PointerOffset>0x59534</PointerOffset>
-      <JapaneseText>寝るぐらいは出来るように</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Id>1</Id>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>0x5954d</PointerOffset>
-      <JapaneseText>掃除をしたほうがいい。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Id>2</Id>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>0x59565</PointerOffset>
-      <JapaneseText>アミィ・バークライトです。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Id>3</Id>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>0x59580</PointerOffset>
-      <JapaneseText>お兄ちゃんともども、</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Id>4</Id>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>0x59595</PointerOffset>
-      <JapaneseText>よろしくお願いします。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Id>5</Id>
-      <Status>To Do</Status>
-    </Entry>
-  </Strings>
+  </Speakers>
   <Strings>
     <Section>system</Section>
   </Strings>

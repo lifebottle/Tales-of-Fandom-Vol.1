@@ -1,60 +1,160 @@
-
 <SceneText>
   <FriendlyName>Conversation_0209</FriendlyName>
-  <Strings>
+  <Speakers>
     <Section>Speaker</Section>
-  </Strings>
-  <Strings>
-    <Section>Main</Section>
     <Entry>
-      <PointerOffset>0xbd042</PointerOffset>
-      <JapaneseText>ゴーリ。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x2889ab</PointerOffset>
+      <JapaneseText>クィッキーはそもそも実験動物らしいな。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xbd04b</PointerOffset>
-      <JapaneseText>やあ、アルベイン。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x2889d2</PointerOffset>
+      <JapaneseText>（んだよぅ）</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xbd05e</PointerOffset>
-      <JapaneseText>あの子たちか？</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x2889df</PointerOffset>
+      <JapaneseText>はいな。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xbd06d</PointerOffset>
-      <JapaneseText>バークライト夫妻の遺児というのは。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x2889e8</PointerOffset>
+      <JapaneseText>ふつうポットラビッチヌスは</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>3</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xbd090</PointerOffset>
-      <JapaneseText>ああ。苦労したらしくてな、兄の方は</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x288a03</PointerOffset>
+      <JapaneseText>実験に使われるよ。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>4</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xbd0b3</PointerOffset>
-      <JapaneseText>偏屈なところがあるが、弓の腕は立つ。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x288a16</PointerOffset>
+      <JapaneseText>でもたまに……レッドソディかけて</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>5</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
+    <Entry>
+      <PointerOffset>0x288a37</PointerOffset>
+      <JapaneseText>食べる珍味愛好家もいるけどな。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x288a56</PointerOffset>
+      <JapaneseText>ほう……珍味？</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x288a65</PointerOffset>
+      <JapaneseText>（ひぇーーーっ。そんな目でみないで！）</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x288a8c</PointerOffset>
+      <JapaneseText>あ、あのな！　レイス！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x288aa3</PointerOffset>
+      <JapaneseText>だけどクィッキーはきっとマズイよ！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x288ac6</PointerOffset>
+      <JapaneseText>爪も伸びっぱなしだし、</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x288add</PointerOffset>
+      <JapaneseText>耳の後ろが汚れてるしな。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x288af6</PointerOffset>
+      <JapaneseText>（あ、そんなことまでバラさないで！）</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x288b1b</PointerOffset>
+      <JapaneseText>あと！　よくオナラもするよー。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x288b3a</PointerOffset>
+      <JapaneseText>コレがとっても信じられないほど</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x288b59</PointerOffset>
+      <JapaneseText>臭いな！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x288b62</PointerOffset>
+      <JapaneseText>（むごい！）</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x288b6f</PointerOffset>
+      <JapaneseText>……クィッキーが泣いてるぞ。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
   <Strings>
     <Section>system</Section>
   </Strings>

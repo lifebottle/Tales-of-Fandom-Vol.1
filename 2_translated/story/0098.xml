@@ -1,180 +1,272 @@
-
 <SceneText>
   <FriendlyName>Conversation_0098</FriendlyName>
-  <Strings>
+  <Speakers>
     <Section>Speaker</Section>
-  </Strings>
-  <Strings>
-    <Section>Main</Section>
     <Entry>
-      <PointerOffset>0x7bcfc</PointerOffset>
-      <JapaneseText>この村の男かい？</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x1a3bbb</PointerOffset>
+      <JapaneseText>プ、プレゼントお？</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x7bd0d</PointerOffset>
-      <JapaneseText>それとも、</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x1a3bce</PointerOffset>
+      <JapaneseText>そ。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x7bd18</PointerOffset>
-      <JapaneseText>ユークリッドの垢抜けした連中かい？</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x1a3bd3</PointerOffset>
+      <JapaneseText>誰が。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x7bd3b</PointerOffset>
-      <JapaneseText>う、嘘ですっ！　そんな人、いません！</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x1a3bda</PointerOffset>
+      <JapaneseText>あなたが。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>3</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x7bd60</PointerOffset>
-      <JapaneseText>バークライトさんのところの息子さんよね？</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x1a3be5</PointerOffset>
+      <JapaneseText>誰の。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>4</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x7bd89</PointerOffset>
-      <JapaneseText>クレス君？</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x1a3bec</PointerOffset>
+      <JapaneseText>お兄ちゃんの。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>5</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x7bd94</PointerOffset>
-      <JapaneseText>そうなの、アミィちゃん？</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x1a3bfb</PointerOffset>
+      <JapaneseText>何の。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>6</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x7bdae</PointerOffset>
-      <JapaneseText>いい人だと思う、という</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x1a3c02</PointerOffset>
+      <JapaneseText>誕生日の。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>7</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x7bdc6</PointerOffset>
-      <JapaneseText>さりげなく話題を変える</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x1a3c0d</PointerOffset>
+      <JapaneseText>プレゼントは、わたし？</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>8</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x7bdde</PointerOffset>
-      <JapaneseText>お兄ちゃんが一番、という</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x1a3c24</PointerOffset>
+      <JapaneseText>誕生日のプレゼントに、わたしをあげる？</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>9</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x7bdf8</PointerOffset>
-      <JapaneseText>い、いい人だとは思います！</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x1a3c4b</PointerOffset>
+      <JapaneseText>ちょっと待て、ちょっと待て！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>10</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x7be13</PointerOffset>
-      <JapaneseText>で、でも、好きとかそういうんじゃなくて、</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x1a3c68</PointerOffset>
+      <JapaneseText>何よ。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>11</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x7be3c</PointerOffset>
-      <JapaneseText>その、あの――</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x1a3c6f</PointerOffset>
+      <JapaneseText>なんだかそのことばの響きには、</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>12</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x7be4c</PointerOffset>
-      <JapaneseText>わかってるわかってる。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x1a3c8e</PointerOffset>
+      <JapaneseText>非常に……抵抗を感じるぞ。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>13</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x7be63</PointerOffset>
-      <JapaneseText>ハア、それにしても、</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x1a3ca9</PointerOffset>
+      <JapaneseText>そんなことないよ。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>14</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x7be78</PointerOffset>
-      <JapaneseText>こんないい子に想われてるっていうのに、</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x1a3cbc</PointerOffset>
+      <JapaneseText>ぜんぜんおかしくないって。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>15</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x7be9f</PointerOffset>
-      <JapaneseText>何であの子はあんな娘がいいんだかねえ。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x1a3cd7</PointerOffset>
+      <JapaneseText>あのな。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>16</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x7bec6</PointerOffset>
-      <JapaneseText>まったくだよ。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x1a3ce0</PointerOffset>
+      <JapaneseText>わたしは人格的には男だぞ？</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>17</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x7bed5</PointerOffset>
-      <JapaneseText>ユークリッドの金持ちだかなんだか</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x1a3cfb</PointerOffset>
+      <JapaneseText>それがどうしたの？</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>18</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x7bef6</PointerOffset>
-      <JapaneseText>知らないけど、あたしゃ、気に入らないね。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x1a3d0e</PointerOffset>
+      <JapaneseText>わからないのか？</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>19</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x7bf1f</PointerOffset>
-      <JapaneseText>あっ、ちょっと！</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x1a3d1f</PointerOffset>
+      <JapaneseText>だから、何が？</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>20</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
+    <Entry>
+      <PointerOffset>0x1a3d2e</PointerOffset>
+      <JapaneseText>はあ……。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1a3d39</PointerOffset>
+      <JapaneseText>プレゼントをどうするか、</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>22</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1a3d52</PointerOffset>
+      <JapaneseText>決まらなくて悩んでたんだよ。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>23</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1a3d6f</PointerOffset>
+      <JapaneseText>お兄ちゃん今度で２０才だからさ、</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>24</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1a3d90</PointerOffset>
+      <JapaneseText>絶対喜んでもらえるものにしたかったの。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>25</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1a3db8</PointerOffset>
+      <JapaneseText>ディムロスだったら間違いないじゃない？</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>26</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1a3ddf</PointerOffset>
+      <JapaneseText>ああ、あたしってほんとに兄想いの妹。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>27</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1a3e04</PointerOffset>
+      <JapaneseText>それが別の理由か。なんということだ……。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>28</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1a3e2d</PointerOffset>
+      <JapaneseText>さ、家に帰るわよ。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>29</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1a3e40</PointerOffset>
+      <JapaneseText>感動の、ごたいめーん。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>30</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1a3e57</PointerOffset>
+      <JapaneseText>ま、待て！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>31</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1a3e62</PointerOffset>
+      <JapaneseText>待てというのに！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>32</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
   <Strings>
     <Section>system</Section>
   </Strings>

@@ -1,60 +1,144 @@
-
 <SceneText>
   <FriendlyName>Conversation_0203</FriendlyName>
-  <Strings>
+  <Speakers>
     <Section>Speaker</Section>
-  </Strings>
-  <Strings>
-    <Section>Main</Section>
     <Entry>
-      <PointerOffset>0xb68dd</PointerOffset>
-      <JapaneseText>はーい。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x27bb7b</PointerOffset>
+      <JapaneseText>爪竜連牙斬！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xb68e7</PointerOffset>
-      <JapaneseText>……あなた、大丈夫なの？</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x27bb88</PointerOffset>
+      <JapaneseText>空牙昇竜脚！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xb6900</PointerOffset>
-      <JapaneseText>都会の子なのでしょう？</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x27bb95</PointerOffset>
+      <JapaneseText>チェルシー！　とどめを頼む！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xb6917</PointerOffset>
-      <JapaneseText>クレスに悪い影響はないかしら？</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x27bbb2</PointerOffset>
+      <JapaneseText>もう矢がありませーん！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>3</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xb6936</PointerOffset>
-      <JapaneseText>ゴーリが見込んで連れて来るんだ。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x27bbc9</PointerOffset>
+      <JapaneseText>ここは私が！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>4</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xb6957</PointerOffset>
-      <JapaneseText>バークライト夫妻も、悪い人ではなかった</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x27bbd6</PointerOffset>
+      <JapaneseText>フィリアボム！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>5</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
+    <Entry>
+      <PointerOffset>0x27bbe5</PointerOffset>
+      <JapaneseText>なぜとどめを刺さない？</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x27bbfc</PointerOffset>
+      <JapaneseText>磨き込まれた矢が１本残ってるじゃないか！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x27bc25</PointerOffset>
+      <JapaneseText>これは戦闘用の矢じゃないんですぅ。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x27bc49</PointerOffset>
+      <JapaneseText>じゃあ、何の矢なんだい？</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x27bc64</PointerOffset>
+      <JapaneseText>これはぁ、矢尻にベルベーヌの汁を</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x27bc85</PointerOffset>
+      <JapaneseText>かけて作ったおまじない用の矢ですよぉ。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x27bcad</PointerOffset>
+      <JapaneseText>どんなおまじないなんですか？</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x27bccc</PointerOffset>
+      <JapaneseText>えへ。内緒ですけど、この矢で好きな人を</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x27bcf3</PointerOffset>
+      <JapaneseText>射つと想いが通じるんですぅ。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x27bd12</PointerOffset>
+      <JapaneseText>……ウッドロウさまぁ♪</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x27bd29</PointerOffset>
+      <JapaneseText>死ぬぞ？</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
   <Strings>
     <Section>system</Section>
   </Strings>

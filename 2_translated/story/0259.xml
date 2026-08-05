@@ -1,28 +1,72 @@
-
 <SceneText>
   <FriendlyName>Conversation_0259</FriendlyName>
-  <Strings>
+  <Speakers>
     <Section>Speaker</Section>
-  </Strings>
-  <Strings>
-    <Section>Main</Section>
     <Entry>
-      <PointerOffset>0xd45f7</PointerOffset>
-      <JapaneseText>ときどき村に行商に来る父親に</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x2d21c3</PointerOffset>
+      <JapaneseText>ハ〜イ、スタン！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xd4614</PointerOffset>
-      <JapaneseText>ついてきてたんだ。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x2d21d4</PointerOffset>
+      <JapaneseText>その手に持ってるの、な〜に〜？</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
+    <Entry>
+      <PointerOffset>0x2d21f4</PointerOffset>
+      <JapaneseText>オベロナミンＣだけど？</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x2d220b</PointerOffset>
+      <JapaneseText>『売り値は２５ガルド。よしっ！』</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x2d222c</PointerOffset>
+      <JapaneseText>スーパーアップルグミと交換したげるわ！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x2d2253</PointerOffset>
+      <JapaneseText>スーパーって……それ、</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x2d226a</PointerOffset>
+      <JapaneseText>普通のアップルグミじゃないか！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x2d2289</PointerOffset>
+      <JapaneseText>あら、バレたー？</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
   <Strings>
     <Section>system</Section>
   </Strings>

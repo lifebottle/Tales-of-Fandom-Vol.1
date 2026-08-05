@@ -1,92 +1,88 @@
-
 <SceneText>
   <FriendlyName>Conversation_0072</FriendlyName>
-  <Strings>
+  <Speakers>
     <Section>Speaker</Section>
-  </Strings>
-  <Strings>
-    <Section>Main</Section>
     <Entry>
-      <PointerOffset>0x6ac44</PointerOffset>
-      <JapaneseText>ちっ。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x14bc13</PointerOffset>
+      <JapaneseText>はあ、はあ……。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x6ac4b</PointerOffset>
-      <JapaneseText>――行くぞ、アミィ。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x14bc24</PointerOffset>
+      <JapaneseText>どこ行ったのかしら？</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x6ac60</PointerOffset>
-      <JapaneseText>皆、腹を空かせてるんだ。荷物を貸せ。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x14bc39</PointerOffset>
+      <JapaneseText>……あら？　なにかしら？</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x6ac86</PointerOffset>
-      <JapaneseText>クレスにきちんとあやまる</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x14bc52</PointerOffset>
+      <JapaneseText>『スタン……』</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>3</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x6aca0</PointerOffset>
-      <JapaneseText>クレスにおじぎだけする</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x14bc61</PointerOffset>
+      <JapaneseText>『スタン……聞こえるか、わたしの声が』</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>4</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x6acb8</PointerOffset>
-      <JapaneseText>チェスターの後を追う</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x14bc88</PointerOffset>
+      <JapaneseText>あれは……。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>5</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x6acce</PointerOffset>
-      <JapaneseText>お兄ちゃん！</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x14bc95</PointerOffset>
+      <JapaneseText>『うらあ〜〜っ！　いつまでわたしを、</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>6</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x6acdc</PointerOffset>
-      <JapaneseText>……ごめんなさい、クレスさん。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x14bcba</PointerOffset>
+      <JapaneseText>こんなところで野ざらしにする気だ！』</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>7</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x6acfb</PointerOffset>
-      <JapaneseText>あの……お手伝いしてくれて、</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x14bcdf</PointerOffset>
+      <JapaneseText>これだけ呼んでいるのに聞こえないなんて</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>8</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x6ad18</PointerOffset>
-      <JapaneseText>嬉しかったです！</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x14bd06</PointerOffset>
+      <JapaneseText>お前の耳はただの飾りか！　スタン！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>9</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
+  </Speakers>
   <Strings>
     <Section>system</Section>
   </Strings>

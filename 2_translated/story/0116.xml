@@ -1,100 +1,152 @@
-
 <SceneText>
   <FriendlyName>Conversation_0116</FriendlyName>
-  <Strings>
+  <Speakers>
     <Section>Speaker</Section>
-  </Strings>
-  <Strings>
-    <Section>Main</Section>
     <Entry>
-      <PointerOffset>0x8ae58</PointerOffset>
-      <JapaneseText>バークライト家</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x1cbd20</PointerOffset>
+      <JapaneseText>ふふふ……。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x8ae67</PointerOffset>
-      <JapaneseText>どうしたんだよ、アミィ。元気ねえな。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x1cbd31</PointerOffset>
+      <JapaneseText>キールって頭がいいし超然としてるから</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x8ae8c</PointerOffset>
-      <JapaneseText>ババア連中になんか言われたのか？</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x1cbd56</PointerOffset>
+      <JapaneseText>付き合いにくい感じがするけど、</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x8aead</PointerOffset>
-      <JapaneseText>……ううん、そうじゃないよ。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x1cbd77</PointerOffset>
+      <JapaneseText>そんなことないんだよね。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>3</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x8aeca</PointerOffset>
-      <JapaneseText>じゃあ、なんだよ。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x1cbd92</PointerOffset>
+      <JapaneseText>ホントはおっちょこちょいで、優しいところもあって……。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>4</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x8aede</PointerOffset>
-      <JapaneseText>クレスたちのことを正直に話す</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x1cbdcb</PointerOffset>
+      <JapaneseText>…………。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>5</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x8aefc</PointerOffset>
-      <JapaneseText>クレスたちのことを例え話にする</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x1cbdda</PointerOffset>
+      <JapaneseText>……もしかして……。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>6</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x8af1c</PointerOffset>
-      <JapaneseText>黙っている</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x1cbdf2</PointerOffset>
+      <JapaneseText>キールは私を巻き込まないように</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>7</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x8af28</PointerOffset>
-      <JapaneseText>お兄ちゃん、「アニマーゴ」ってお店、</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x1cbe11</PointerOffset>
+      <JapaneseText>『余計なことをするな』って……。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>8</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x8af4d</PointerOffset>
-      <JapaneseText>知ってる？</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x1cbe33</PointerOffset>
+      <JapaneseText>…………。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>9</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x8af58</PointerOffset>
-      <JapaneseText>ちぇっ、そういうことかよ。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x1cbe42</PointerOffset>
+      <JapaneseText>よしっ！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>10</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
+    <Entry>
+      <PointerOffset>0x1cbe4b</PointerOffset>
+      <JapaneseText>こんなところでイジイジしてられない！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1cbe71</PointerOffset>
+      <JapaneseText>前向きなのが私のいいとこじゃない！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1cbe95</PointerOffset>
+      <JapaneseText>考えて！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1cbe9e</PointerOffset>
+      <JapaneseText>考えるのよプリムラ！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1cbeb6</PointerOffset>
+      <JapaneseText>こんなとき、キールならどうするかって！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1cbee1</PointerOffset>
+      <JapaneseText>部屋にこもって考える</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1cbef7</PointerOffset>
+      <JapaneseText>町の中で情報収集をする</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
   <Strings>
     <Section>system</Section>
   </Strings>

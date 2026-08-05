@@ -1,52 +1,80 @@
-
 <SceneText>
   <FriendlyName>Conversation_0239</FriendlyName>
-  <Strings>
+  <Speakers>
     <Section>Speaker</Section>
-  </Strings>
-  <Strings>
-    <Section>Main</Section>
     <Entry>
-      <PointerOffset>0xd2387</PointerOffset>
-      <JapaneseText>よし！</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x2b8aa3</PointerOffset>
+      <JapaneseText>ってことで、リオンさんが代表して</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xd238e</PointerOffset>
-      <JapaneseText>……そらっ！</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x2b8ac4</PointerOffset>
+      <JapaneseText>商品を突き返しにいってるそうです。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xd239b</PointerOffset>
-      <JapaneseText>捕まえた！</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x2b8ae8</PointerOffset>
+      <JapaneseText>へぇ……大変だね。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xd23a6</PointerOffset>
-      <JapaneseText>あっ！クレスさん、危ない！</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x2b8afe</PointerOffset>
+      <JapaneseText>まったくですよねぇ！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>3</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xd23c1</PointerOffset>
-      <JapaneseText>そっちは川――</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x2b8b14</PointerOffset>
+      <JapaneseText>ま、都会はこのように怖い場所なんです。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>4</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
+    <Entry>
+      <PointerOffset>0x2b8b3c</PointerOffset>
+      <JapaneseText>わたし達女の子にとってはさらに危険が</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x2b8b61</PointerOffset>
+      <JapaneseText>……あれ？　フィリアさんは？</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x2b8b80</PointerOffset>
+      <JapaneseText>ん？　さっきまでいたのにな。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x2b8b9f</PointerOffset>
+      <JapaneseText>あっ、あそこ！　大変ですぅ！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
   <Strings>
     <Section>system</Section>
   </Strings>

@@ -1,28 +1,41 @@
-
 <SceneText>
   <FriendlyName>Conversation_0247</FriendlyName>
-  <Strings>
+  <Title>『チェスターさん</Title>
+  <Speakers>
     <Section>Speaker</Section>
-  </Strings>
-  <Strings>
-    <Section>Main</Section>
     <Entry>
-      <PointerOffset>0xd2602</PointerOffset>
-      <JapaneseText>くすっ。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x2c7c1b</PointerOffset>
+      <JapaneseText>『チェスターさん</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xd260b</PointerOffset>
-      <JapaneseText>クレスさん、おしり。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x2c7c2c</PointerOffset>
+      <JapaneseText>何の用事だったのかしら？』</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
+    <Entry>
+      <PointerOffset>0x2c7c47</PointerOffset>
+      <JapaneseText>『まさかチェスターさんもクレスさんを村祭りに誘いに来たとか……。』</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x2c7c8a</PointerOffset>
+      <JapaneseText>『こうしてはいられません！』</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
   <Strings>
     <Section>system</Section>
   </Strings>

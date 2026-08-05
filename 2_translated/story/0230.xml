@@ -1,52 +1,40 @@
-
 <SceneText>
   <FriendlyName>Conversation_0230</FriendlyName>
-  <Strings>
+  <Speakers>
     <Section>Speaker</Section>
-  </Strings>
-  <Strings>
-    <Section>Main</Section>
     <Entry>
-      <PointerOffset>0xc34a0</PointerOffset>
-      <JapaneseText>兄妹の警戒心</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x2aa493</PointerOffset>
+      <JapaneseText>はぁい！　みなさんお待たせいたしました！テイルズ杯争奪ウィス決定戦でえっす！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xc34ae</PointerOffset>
-      <JapaneseText>ふう……さーてと！　イライザに、</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x2aa4e1</PointerOffset>
+      <JapaneseText>各組の様子はこのアーチェさんがしっかり</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xc34cf</PointerOffset>
-      <JapaneseText>あの兄妹の事を教えてあげなきゃ！</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x2aa508</PointerOffset>
+      <JapaneseText>中継しちゃうからお聞き逃しなく〜♪</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xc34f0</PointerOffset>
-      <JapaneseText>びんせん、びんせん。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x2aa52c</PointerOffset>
+      <JapaneseText>えーと、まずはクレス・ルーティ組からね。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>3</Id>
       <Status>To Do</Status>
     </Entry>
-    <Entry>
-      <PointerOffset>0xc3506</PointerOffset>
-      <JapaneseText>イライザ・シュタインさま。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Id>4</Id>
-      <Status>To Do</Status>
-    </Entry>
-  </Strings>
+  </Speakers>
   <Strings>
     <Section>system</Section>
   </Strings>

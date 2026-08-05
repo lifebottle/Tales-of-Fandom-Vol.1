@@ -1,19 +1,17 @@
 <SceneText>
   <FriendlyName>Conversation_0002</FriendlyName>
-  <Strings>
+  <Title>クレスとの距離</Title>
+  <Speakers>
     <Section>Speaker</Section>
-  </Strings>
-  <Strings>
-    <Section>Main</Section>
     <Entry>
-      <PointerOffset>0x50b80</PointerOffset>
-      <JapaneseText>バークライト家</JapaneseText>
-      <EnglishText> The Barklight House</EnglishText>
-      <Notes/>
+      <PointerOffset>0x51990</PointerOffset>
+      <JapaneseText>クレスとの距離</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>0</Id>
-      <Status>Editing</Status>
+      <Status>To Do</Status>
     </Entry>
-  </Strings>
+  </Speakers>
   <Strings>
     <Section>system</Section>
   </Strings>

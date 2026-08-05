@@ -1,36 +1,72 @@
-
 <SceneText>
   <FriendlyName>Conversation_0314</FriendlyName>
-  <Strings>
+  <Speakers>
     <Section>Speaker</Section>
-  </Strings>
-  <Strings>
-    <Section>Main</Section>
     <Entry>
-      <PointerOffset>0xf8d4d</PointerOffset>
-      <JapaneseText>森の奥には盗賊団がいた。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x302af3</PointerOffset>
+      <JapaneseText>クラースさん、ドラゴンは？</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xf8d66</PointerOffset>
-      <JapaneseText>あいつはその、ユークリッド時代の悪い</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x302b0e</PointerOffset>
+      <JapaneseText>一足遅かったな。わたしが片づけたよ。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xf8d8b</PointerOffset>
-      <JapaneseText>仲間と結託して、</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x302b33</PointerOffset>
+      <JapaneseText>すごい！　どうやって倒したんですか？</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
+    <Entry>
+      <PointerOffset>0x302b58</PointerOffset>
+      <JapaneseText>ぜひ教えてください！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x302b6d</PointerOffset>
+      <JapaneseText>後でな。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x302b76</PointerOffset>
+      <JapaneseText>今はちょっと……。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x302b89</PointerOffset>
+      <JapaneseText>あとといわず、今教えてください！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x302baa</PointerOffset>
+      <JapaneseText>お願いします、クラースさん！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
   <Strings>
     <Section>system</Section>
   </Strings>

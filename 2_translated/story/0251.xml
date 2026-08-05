@@ -1,124 +1,80 @@
-
 <SceneText>
   <FriendlyName>Conversation_0251</FriendlyName>
-  <Strings>
+  <Speakers>
     <Section>Speaker</Section>
-  </Strings>
-  <Strings>
-    <Section>Main</Section>
     <Entry>
-      <PointerOffset>0xd2745</PointerOffset>
-      <JapaneseText>ちっ。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x2caa3b</PointerOffset>
+      <JapaneseText>祭りだ、祭りだ！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xd274c</PointerOffset>
-      <JapaneseText>――行くぞ、アミィ。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x2caa4c</PointerOffset>
+      <JapaneseText>楽しいな〜っと。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xd2761</PointerOffset>
-      <JapaneseText>皆、腹を空かせてるんだ。荷物を貸せ。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x2caa5d</PointerOffset>
+      <JapaneseText>酔ってますね？</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xd2787</PointerOffset>
-      <JapaneseText>……ごめんなさい、クレスさん。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x2caa6c</PointerOffset>
+      <JapaneseText>んふっふー。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>3</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xd27a7</PointerOffset>
-      <JapaneseText>気にしてないよ、と笑う</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x2caa79</PointerOffset>
+      <JapaneseText>まあ、ミントも一杯どーよ？</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>4</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xd27bf</PointerOffset>
-      <JapaneseText>まじめに謝罪を受ける</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x2caa94</PointerOffset>
+      <JapaneseText>私、飲めません！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>5</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xd27d5</PointerOffset>
-      <JapaneseText>怒りをあらわにする</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x2caaa5</PointerOffset>
+      <JapaneseText>それに急いでるんです。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>6</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xd27e9</PointerOffset>
-      <JapaneseText>いいよ、気にしてないからさ。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x2caabc</PointerOffset>
+      <JapaneseText>む！なっまいきー！！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>7</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xd2806</PointerOffset>
-      <JapaneseText>本当に、ごめんなさい。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x2caad1</PointerOffset>
+      <JapaneseText>やっちゃうよー！！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>8</Id>
       <Status>To Do</Status>
     </Entry>
-    <Entry>
-      <PointerOffset>0xd281d</PointerOffset>
-      <JapaneseText>これからも、</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Id>9</Id>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>0xd282a</PointerOffset>
-      <JapaneseText>あたしたちと仲良くしてくれますか？</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Id>10</Id>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>0xd284d</PointerOffset>
-      <JapaneseText>もちろんだよ！</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Id>11</Id>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>0xd285c</PointerOffset>
-      <JapaneseText>僕、チェスターと狩りに行きたいんだ！</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Id>12</Id>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>0xd2881</PointerOffset>
-      <JapaneseText>弓、すごくうまいんでしょ？</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Id>13</Id>
-      <Status>To Do</Status>
-    </Entry>
-  </Strings>
+  </Speakers>
   <Strings>
     <Section>system</Section>
   </Strings>

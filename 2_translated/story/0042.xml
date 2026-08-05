@@ -1,36 +1,267 @@
-
 <SceneText>
   <FriendlyName>Conversation_0042</FriendlyName>
-  <Strings>
+  <Title>兄妹の警戒心</Title>
+  <Location>アルベイン家</Location>
+  <SubLocation>道場</SubLocation>
+  <Speakers>
     <Section>Speaker</Section>
-  </Strings>
-  <Strings>
-    <Section>Main</Section>
     <Entry>
-      <PointerOffset>0x5998c</PointerOffset>
-      <JapaneseText>家に案内してやろう。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0xe6eb0</PointerOffset>
+      <JapaneseText>兄妹の警戒心</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x599a1</PointerOffset>
-      <JapaneseText>寝るぐらいは出来るように</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0xe6ebe</PointerOffset>
+      <JapaneseText>アルベイン家</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x599ba</PointerOffset>
-      <JapaneseText>掃除をしたほうがいい。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0xe6ecb</PointerOffset>
+      <JapaneseText>道場</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
+    <Entry>
+      <PointerOffset>0xe6ed0</PointerOffset>
+      <JapaneseText>皆、用意はいいか？</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0xe6ee3</PointerOffset>
+      <JapaneseText>はい！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0xe6eea</PointerOffset>
+      <JapaneseText>よし、もう一度、よく聞いてもらいたい。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0xe6f11</PointerOffset>
+      <JapaneseText>数日前から、森に怪しげな連中が</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0xe6f30</PointerOffset>
+      <JapaneseText>入り込んでいるらしい。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0xe6f47</PointerOffset>
+      <JapaneseText>何者なのか、何が目的なのか、</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0xe6f64</PointerOffset>
+      <JapaneseText>それはわからない。密猟者の可能性もある。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0xe6f8d</PointerOffset>
+      <JapaneseText>いずれにしても、見過ごしには出来ない。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0xe6fb4</PointerOffset>
+      <JapaneseText>任せてください、師匠！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0xe6fcb</PointerOffset>
+      <JapaneseText>アルベイン流剣術をもってすれば、</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0xe6fec</PointerOffset>
+      <JapaneseText>密猟者など、恐るるに足りませんよ！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0xe700f</PointerOffset>
+      <JapaneseText>もちろんだ。だが、密猟者と決まったわけ</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0xe7036</PointerOffset>
+      <JapaneseText>ではない。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0xe7041</PointerOffset>
+      <JapaneseText>凶悪な強盗団、ということもありえる。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0xe7066</PointerOffset>
+      <JapaneseText>半分は、私とともに村の警護について</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0xe7089</PointerOffset>
+      <JapaneseText>もらう。あとの半分は、森の巡回だ。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0xe70ac</PointerOffset>
+      <JapaneseText>はい！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0xe70b4</PointerOffset>
+      <JapaneseText>それと……巡回組のほうには、</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0xe70d1</PointerOffset>
+      <JapaneseText>クレスを同行させることにした。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0xe70f0</PointerOffset>
+      <JapaneseText>すまないが、面倒を見てやってほしい。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>22</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0xe7115</PointerOffset>
+      <JapaneseText>大丈夫です！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>23</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0xe7122</PointerOffset>
+      <JapaneseText>坊ちゃんは、我々が守ります。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>24</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0xe713f</PointerOffset>
+      <JapaneseText>頼む。ただし、自分の命をかける必要は</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>25</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0xe7164</PointerOffset>
+      <JapaneseText>ないぞ。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>26</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0xe716d</PointerOffset>
+      <JapaneseText>クレスは自分の意志で参加を決めたのだ。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>27</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0xe7194</PointerOffset>
+      <JapaneseText>……わかっているな、クレス。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>28</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0xe71b1</PointerOffset>
+      <JapaneseText>はい！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>29</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0xe71b8</PointerOffset>
+      <JapaneseText>よし、巡回組、出発！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>30</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0xe71cd</PointerOffset>
+      <JapaneseText>はい！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>31</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
   <Strings>
     <Section>system</Section>
   </Strings>

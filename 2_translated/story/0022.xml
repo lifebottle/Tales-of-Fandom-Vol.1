@@ -1,20 +1,42 @@
-
 <SceneText>
   <FriendlyName>Conversation_0022</FriendlyName>
-  <Strings>
+  <Title>クレスとの距離</Title>
+  <Location>バークライト家</Location>
+  <Speakers>
     <Section>Speaker</Section>
-  </Strings>
-  <Strings>
-    <Section>Main</Section>
     <Entry>
-      <PointerOffset>0x58fb0</PointerOffset>
-      <JapaneseText>広場</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <PointerOffset>0x9f6b8</PointerOffset>
+      <JapaneseText>クレスとの距離</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
+    <Entry>
+      <PointerOffset>0x9f6c8</PointerOffset>
+      <JapaneseText>バークライト家</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x9f6d7</PointerOffset>
+      <JapaneseText>ん……んん……朝あ……？</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x9f6f1</PointerOffset>
+      <JapaneseText>うう……頭、痛い……気持ち悪い……。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
   <Strings>
     <Section>system</Section>
   </Strings>

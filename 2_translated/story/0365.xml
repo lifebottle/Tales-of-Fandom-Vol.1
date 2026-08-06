@@ -1,49 +1,24 @@
-
 <SceneText>
   <FriendlyName>Conversation_0365</FriendlyName>
-  <Strings>
+  <Speakers>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x126db9</PointerOffset>
-      <JapaneseText>ああ。</JapaneseText>
+      <PointerOffset>0x3261b0</PointerOffset>
+      <JapaneseText>リッド全治三ヶ月……。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x126dc1</PointerOffset>
-      <JapaneseText>さ。みんなで、ごはんにしましょ！</JapaneseText>
+      <PointerOffset>0x3261c7</PointerOffset>
+      <JapaneseText>おしまい</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
-    <Entry>
-      <PointerOffset>0x126de3</PointerOffset>
-      <JapaneseText>ん、んんっ！</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
-      <Id>2</Id>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>0x126df0</PointerOffset>
-      <JapaneseText>そ、そうだ、アミィちゃん。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
-      <Id>3</Id>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>0x126e0b</PointerOffset>
-      <JapaneseText>これ、おみやげ。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
-      <Id>4</Id>
-      <Status>To Do</Status>
-    </Entry>
-  </Strings>
+  </Speakers>
   <Strings>
     <Section>system</Section>
   </Strings>

@@ -1,81 +1,80 @@
-
 <SceneText>
   <FriendlyName>Conversation_0307</FriendlyName>
-  <Strings>
+  <Speakers>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0xf57e6</PointerOffset>
-      <JapaneseText>ボアやアウルしかいねえのに、重装備で森を</JapaneseText>
+      <PointerOffset>0x2fea6b</PointerOffset>
+      <JapaneseText>クラース、どこ行くの？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xf580f</PointerOffset>
-      <JapaneseText>うろうろ歩き回るおかしな連中がな！</JapaneseText>
+      <PointerOffset>0x2fea82</PointerOffset>
+      <JapaneseText>もうすぐ夕飯でしょ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xf5832</PointerOffset>
-      <JapaneseText>なんだと貴様っ！</JapaneseText>
+      <PointerOffset>0x2fea97</PointerOffset>
+      <JapaneseText>わたしは抜きだ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xf5843</PointerOffset>
-      <JapaneseText>ちょ、ちょっと待って！</JapaneseText>
+      <PointerOffset>0x2feaa8</PointerOffset>
+      <JapaneseText>お前たちだけで済ませてくれ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>3</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xf585a</PointerOffset>
-      <JapaneseText>ねえ、チェスター。冗談は置いといて、</JapaneseText>
+      <PointerOffset>0x2feac5</PointerOffset>
+      <JapaneseText>なにいってんの。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>4</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xf587f</PointerOffset>
-      <JapaneseText>本当に、誰か見なかった？</JapaneseText>
+      <PointerOffset>0x2fead6</PointerOffset>
+      <JapaneseText>あんた、今日の当番でしょうが。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>5</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xf5898</PointerOffset>
-      <JapaneseText>……見てねえよ。俺が会ったのは、</JapaneseText>
+      <PointerOffset>0x2feaf5</PointerOffset>
+      <JapaneseText>さぼろうったって、そうはいかないわよ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>6</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xf58b9</PointerOffset>
-      <JapaneseText>ボアの親子だけだ。</JapaneseText>
+      <PointerOffset>0x2feb1c</PointerOffset>
+      <JapaneseText>いや、これには理由が……。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>7</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xf58cd</PointerOffset>
-      <JapaneseText>チェスターを信じる</JapaneseText>
+      <PointerOffset>0x2feb37</PointerOffset>
+      <JapaneseText>問答無用！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>8</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
+  </Speakers>
   <Strings>
     <Section>system</Section>
   </Strings>

@@ -1,17 +1,17 @@
-
 <SceneText>
   <FriendlyName>Conversation_0087</FriendlyName>
-  <Strings>
+  <Title>ユークリッドの都</Title>
+  <Speakers>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x74348</PointerOffset>
-      <JapaneseText>クレスとの距離</JapaneseText>
+      <PointerOffset>0x17ca23</PointerOffset>
+      <JapaneseText>ユークリッドの都</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
+  </Speakers>
   <Strings>
     <Section>system</Section>
   </Strings>

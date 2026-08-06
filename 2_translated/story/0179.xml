@@ -1,17 +1,24 @@
-
 <SceneText>
   <FriendlyName>Conversation_0179</FriendlyName>
-  <Strings>
+  <Speakers>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0xafb90</PointerOffset>
-      <JapaneseText>ここが、クレスさんのお家なんですね？</JapaneseText>
+      <PointerOffset>0x24b400</PointerOffset>
+      <JapaneseText>……ああなるんだ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
+    <Entry>
+      <PointerOffset>0x24b416</PointerOffset>
+      <JapaneseText>……ままならんね。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
   <Strings>
     <Section>system</Section>
   </Strings>

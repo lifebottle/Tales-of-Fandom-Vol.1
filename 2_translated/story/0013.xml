@@ -1,105 +1,171 @@
-
 <SceneText>
   <FriendlyName>Conversation_0013</FriendlyName>
-  <Strings>
+  <Title>クレスとの距離</Title>
+  <Location>トーティス</Location>
+  <SubLocation>村外れ</SubLocation>
+  <Speakers>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x51b8f</PointerOffset>
-      <JapaneseText>現在</JapaneseText>
+      <PointerOffset>0x7e968</PointerOffset>
+      <JapaneseText>クレスとの距離</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x51b94</PointerOffset>
-      <JapaneseText>……アミィ、起きてたのか？</JapaneseText>
+      <PointerOffset>0x7e978</PointerOffset>
+      <JapaneseText>トーティス</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x51baf</PointerOffset>
-      <JapaneseText>あ、お兄ちゃん。</JapaneseText>
+      <PointerOffset>0x7e983</PointerOffset>
+      <JapaneseText>村外れ</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x51bc0</PointerOffset>
-      <JapaneseText>うん……もう寝るよ。</JapaneseText>
+      <PointerOffset>0x7e98a</PointerOffset>
+      <JapaneseText>はあ、はあ、はあ……。おばさんたちって、</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>3</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x51bd5</PointerOffset>
-      <JapaneseText>まだ作ってたのか？</JapaneseText>
+      <PointerOffset>0x7e9b3</PointerOffset>
+      <JapaneseText>何でああいう話が好きかなあ。――ふうっ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>4</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x51be8</PointerOffset>
-      <JapaneseText>クレスの誕生日は明日だぞ。</JapaneseText>
+      <PointerOffset>0x7e9dc</PointerOffset>
+      <JapaneseText>あ、クレスさんだ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>5</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x51c03</PointerOffset>
-      <JapaneseText>間に合うのかよ？</JapaneseText>
+      <PointerOffset>0x7e9ef</PointerOffset>
+      <JapaneseText>クレ――ス、さ……ん……？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>6</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x51c14</PointerOffset>
-      <JapaneseText>大丈夫だよ。</JapaneseText>
+      <PointerOffset>0x7ea0a</PointerOffset>
+      <JapaneseText>ほらクレス、こっち来て。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>7</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x51c21</PointerOffset>
-      <JapaneseText>……お兄ちゃん、</JapaneseText>
+      <PointerOffset>0x7ea23</PointerOffset>
+      <JapaneseText>早く、二人っきりになりましょうよ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>8</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x51c32</PointerOffset>
-      <JapaneseText>明日、クレスさんと狩りに行くんでしょ？</JapaneseText>
+      <PointerOffset>0x7ea46</PointerOffset>
+      <JapaneseText>あっ、あっ。　で、でも……。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>9</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x51c59</PointerOffset>
-      <JapaneseText>帰って来るまでには完成させるもん。</JapaneseText>
+      <PointerOffset>0x7ea63</PointerOffset>
+      <JapaneseText>なあに、男の子でしょ？　ほらあ……。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>10</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x51c7d</PointerOffset>
-      <JapaneseText>もう、５年も経ったんだね。</JapaneseText>
+      <PointerOffset>0x7ea88</PointerOffset>
+      <JapaneseText>クレスさん……と、誰……。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>11</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
+    <Entry>
+      <PointerOffset>0x7eaa3</PointerOffset>
+      <JapaneseText>見覚えがあるけど……思い出せない……。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x7eacb</PointerOffset>
+      <JapaneseText>後をつける</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x7ead7</PointerOffset>
+      <JapaneseText>家に帰る</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x7eae1</PointerOffset>
+      <JapaneseText>どうしよう……でも、</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x7eaf6</PointerOffset>
+      <JapaneseText>悪い人かもしれないし……。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x7eb11</PointerOffset>
+      <JapaneseText>――神様ごめんなさい、</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x7eb28</PointerOffset>
+      <JapaneseText>アミィは悪い子です！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x7eb3e</PointerOffset>
+      <JapaneseText>あたしには、関係ないもん……。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
   <Strings>
     <Section>system</Section>
   </Strings>

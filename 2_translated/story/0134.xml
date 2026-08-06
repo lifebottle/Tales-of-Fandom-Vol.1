@@ -1,65 +1,593 @@
-
 <SceneText>
   <FriendlyName>Conversation_0134</FriendlyName>
-  <Strings>
+  <Title>サンクの部屋</Title>
+  <Speakers>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x93037</PointerOffset>
-      <JapaneseText>現在</JapaneseText>
+      <PointerOffset>0x1eb610</PointerOffset>
+      <JapaneseText>サンクの部屋</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x9303c</PointerOffset>
-      <JapaneseText>風が出てきたな……。</JapaneseText>
+      <PointerOffset>0x1eb61d</PointerOffset>
+      <JapaneseText>やあ、プリムラ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x93051</PointerOffset>
-      <JapaneseText>うん。……ねえ、お兄ちゃん。あれから、</JapaneseText>
+      <PointerOffset>0x1eb62e</PointerOffset>
+      <JapaneseText>……おっとっと！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x93078</PointerOffset>
-      <JapaneseText>クレスさん、どうしたか知ってる？</JapaneseText>
+      <PointerOffset>0x1eb642</PointerOffset>
+      <JapaneseText>…………。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>3</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x93099</PointerOffset>
-      <JapaneseText>ん？　ああ……。</JapaneseText>
+      <PointerOffset>0x1eb64d</PointerOffset>
+      <JapaneseText>なにやってるの、サンク？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>4</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x930aa</PointerOffset>
-      <JapaneseText>自然消滅、ってやつらしいぜ。</JapaneseText>
+      <PointerOffset>0x1eb668</PointerOffset>
+      <JapaneseText>いやあ、新しい発明品の</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>5</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x930c7</PointerOffset>
-      <JapaneseText>イライザのやつも</JapaneseText>
+      <PointerOffset>0x1eb67f</PointerOffset>
+      <JapaneseText>試験飛行をしようと思ってさ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>6</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
+    <Entry>
+      <PointerOffset>0x1eb69e</PointerOffset>
+      <JapaneseText>試験……飛行？</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1eb6b1</PointerOffset>
+      <JapaneseText>風に乗って空を滑空する道具さ。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1eb6d0</PointerOffset>
+      <JapaneseText>名づけて「バードフライヤー」！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1eb6f1</PointerOffset>
+      <JapaneseText>計算上では、三〇〇ランゲは滑空できる</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1eb716</PointerOffset>
+      <JapaneseText>はずなんだよね！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1eb72a</PointerOffset>
+      <JapaneseText>…………。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1eb735</PointerOffset>
+      <JapaneseText>飛び降りるの、話が終わってからにして。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1eb75d</PointerOffset>
+      <JapaneseText>ねえ、サンク。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1eb76c</PointerOffset>
+      <JapaneseText>キールのことなんだけど……。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1eb78b</PointerOffset>
+      <JapaneseText>ああ、例の事件か。ひどいもんだ。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1eb7ac</PointerOffset>
+      <JapaneseText>君のことだ、もう動きだしてるんだろ？</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1eb7d2</PointerOffset>
+      <JapaneseText>ウン。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1eb7d9</PointerOffset>
+      <JapaneseText>なんとかしたいと思ってはいるんだけど。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1eb801</PointerOffset>
+      <JapaneseText>これを使ってくれ。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1eb817</PointerOffset>
+      <JapaneseText>これは……？</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1eb828</PointerOffset>
+      <JapaneseText>僕が開発した秘密兵器さ。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>22</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1eb843</PointerOffset>
+      <JapaneseText>パッと見た感じ、何の変哲も無い</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>23</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1eb862</PointerOffset>
+      <JapaneseText>学士用の携帯時計に見えるけど。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>24</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1eb883</PointerOffset>
+      <JapaneseText>あ。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>25</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1eb888</PointerOffset>
+      <JapaneseText>クレーメルケージがついてる……？</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>26</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1eb8aa</PointerOffset>
+      <JapaneseText>いいところに目をつけたね！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>27</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1eb8c7</PointerOffset>
+      <JapaneseText>風晶霊の力を借りて、これを持つ者同士</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>28</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1eb8ec</PointerOffset>
+      <JapaneseText>の遠隔会話を可能にするんだ。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>29</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1eb90b</PointerOffset>
+      <JapaneseText>名づけて、「クレーメルトーク」！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>30</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1eb92d</PointerOffset>
+      <JapaneseText>すごーい！　サンクってば天才！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>31</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1eb94e</PointerOffset>
+      <JapaneseText>へへへ。まあ、残念ながらアンテナがある</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>32</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1eb975</PointerOffset>
+      <JapaneseText>この部屋の中でしか使えないし、</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>33</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1eb995</PointerOffset>
+      <JapaneseText>時々聞こえなくなったりもするし、</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>34</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1eb9b6</PointerOffset>
+      <JapaneseText>その……軽く爆発したりね、ウン。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>35</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1eb9d8</PointerOffset>
+      <JapaneseText>爆発〜！？</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>36</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1eb9e7</PointerOffset>
+      <JapaneseText>時々だよ時々！　乱暴に扱うと、</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>37</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1eba06</PointerOffset>
+      <JapaneseText>ごくまれに煙が出たり。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>38</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1eba20</PointerOffset>
+      <JapaneseText>安心してよ、</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>39</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1eba2d</PointerOffset>
+      <JapaneseText>ちょっと火傷するくらいの爆発だから。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>40</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1eba53</PointerOffset>
+      <JapaneseText>……いらない。返す。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>41</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1eba6b</PointerOffset>
+      <JapaneseText>まあまあまあまあ！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>42</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1eba81</PointerOffset>
+      <JapaneseText>これは試作第ニ号でね、一号機は</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>43</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1ebaa0</PointerOffset>
+      <JapaneseText>キールに渡してあるんだ。つまり――</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>44</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1ebac4</PointerOffset>
+      <JapaneseText>キールと会話ができるってこと！？</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>45</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1ebae7</PointerOffset>
+      <JapaneseText>ご名答！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>46</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1ebaf3</PointerOffset>
+      <JapaneseText>貸して貸して！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>47</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1ebb06</PointerOffset>
+      <JapaneseText>よーし、</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>48</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1ebb0f</PointerOffset>
+      <JapaneseText>さっそくキールに連絡してみよっと！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>49</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1ebb33</PointerOffset>
+      <JapaneseText>…………。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>50</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1ebb42</PointerOffset>
+      <JapaneseText>……誰だ？</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>51</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1ebb51</PointerOffset>
+      <JapaneseText>やっほー！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>52</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1ebb5c</PointerOffset>
+      <JapaneseText>私だよ。プリムラだよ！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>53</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1ebb76</PointerOffset>
+      <JapaneseText>プリムラ！？　いったいどうして――</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>54</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1ebb9a</PointerOffset>
+      <JapaneseText>細かい話はあとあと！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>55</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1ebbb2</PointerOffset>
+      <JapaneseText>あなたがなんて言おうと、私、</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>56</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1ebbcf</PointerOffset>
+      <JapaneseText>事件を調べることにしたから！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>57</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1ebbee</PointerOffset>
+      <JapaneseText>よせ！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>58</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1ebbf5</PointerOffset>
+      <JapaneseText>この事件はおそらく――</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>59</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1ebc0f</PointerOffset>
+      <JapaneseText>「評議会」のしわざ、でしょ？</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>60</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1ebc2e</PointerOffset>
+      <JapaneseText>…………！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>61</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1ebc3d</PointerOffset>
+      <JapaneseText>お礼はいらないわよ。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>62</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1ebc55</PointerOffset>
+      <JapaneseText>『本来ならば謎でもなんでもない事柄が</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>63</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1ebc7a</PointerOffset>
+      <JapaneseText>重要視されているような状態が</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>64</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1ebc99</PointerOffset>
+      <JapaneseText>不健全で、不愉快なだけだ』</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>65</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1ebcb6</PointerOffset>
+      <JapaneseText>…………。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>66</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1ebcc4</PointerOffset>
+      <JapaneseText>……ふん、勝手にしろ。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>67</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1ebcde</PointerOffset>
+      <JapaneseText>了解！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>68</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1ebcea</PointerOffset>
+      <JapaneseText>何かあったら僕に連絡してくれ。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>69</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1ebd09</PointerOffset>
+      <JapaneseText>アドバイスができるかもしれない。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>70</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1ebd2b</PointerOffset>
+      <JapaneseText>ＯＫ！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>71</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1ebd37</PointerOffset>
+      <JapaneseText>がんばってキールを助けてやってくれ！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>72</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
   <Strings>
     <Section>system</Section>
   </Strings>

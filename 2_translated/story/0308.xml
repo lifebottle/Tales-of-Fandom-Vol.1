@@ -1,41 +1,72 @@
-
 <SceneText>
   <FriendlyName>Conversation_0308</FriendlyName>
-  <Strings>
+  <Speakers>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0xf58e1</PointerOffset>
-      <JapaneseText>信じない</JapaneseText>
+      <PointerOffset>0x2ff85b</PointerOffset>
+      <JapaneseText>おーい、クラースのだんな！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xf58eb</PointerOffset>
-      <JapaneseText>そっか、わかった！</JapaneseText>
+      <PointerOffset>0x2ff876</PointerOffset>
+      <JapaneseText>なんだ？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xf58fe</PointerOffset>
-      <JapaneseText>――みんな、今日はここまでにして帰ろう。</JapaneseText>
+      <PointerOffset>0x2ff87f</PointerOffset>
+      <JapaneseText>アーチェから話は聞いたぜ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xf5927</PointerOffset>
-      <JapaneseText>坊ちゃん、こいつの言う事を信じるん</JapaneseText>
+      <PointerOffset>0x2ff89a</PointerOffset>
+      <JapaneseText>年長者がルール違反をしちゃ、いけないな。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>3</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
+    <Entry>
+      <PointerOffset>0x2ff8c3</PointerOffset>
+      <JapaneseText>埋め合わせはする。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x2ff8d6</PointerOffset>
+      <JapaneseText>今は行かせてくれ。な？</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x2ff8ed</PointerOffset>
+      <JapaneseText>どうしても行きたいのか？</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x2ff906</PointerOffset>
+      <JapaneseText>だったらおれを倒していけ〜！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
   <Strings>
     <Section>system</Section>
   </Strings>

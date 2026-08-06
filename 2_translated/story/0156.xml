@@ -1,17 +1,105 @@
-
 <SceneText>
   <FriendlyName>Conversation_0156</FriendlyName>
-  <Strings>
+  <Title>名探偵ポイント</Title>
+  <Speakers>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x9f6b8</PointerOffset>
-      <JapaneseText>クレスとの距離</JapaneseText>
+      <PointerOffset>0x2196f8</PointerOffset>
+      <JapaneseText>名探偵ポイント</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
+    <Entry>
+      <PointerOffset>0x219707</PointerOffset>
+      <JapaneseText>はあ。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x21970e</PointerOffset>
+      <JapaneseText>シルフの君……。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x219722</PointerOffset>
+      <JapaneseText>も〜〜〜〜！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x219733</PointerOffset>
+      <JapaneseText>人ひとりの運命がかかってるんだから</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x219756</PointerOffset>
+      <JapaneseText>なんとか思い出してよぉ〜〜！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x219775</PointerOffset>
+      <JapaneseText>彼の口癖は、こう。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x219788</PointerOffset>
+      <JapaneseText>『恋は失われるが、愛はその逆』。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x2197aa</PointerOffset>
+      <JapaneseText>ああ、シルフの君……。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x2197c4</PointerOffset>
+      <JapaneseText>もうっ！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x2197cd</PointerOffset>
+      <JapaneseText>じゃ、後始末はよろしくねっ！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x2197ec</PointerOffset>
+      <JapaneseText>……それにしても。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
   <Strings>
     <Section>system</Section>
   </Strings>

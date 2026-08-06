@@ -1,65 +1,72 @@
-
 <SceneText>
   <FriendlyName>Conversation_0256</FriendlyName>
-  <Strings>
+  <Speakers>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0xd44cd</PointerOffset>
-      <JapaneseText>現在</JapaneseText>
+      <PointerOffset>0x2ccd9b</PointerOffset>
+      <JapaneseText>……あ、クラースさん！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xd44d2</PointerOffset>
-      <JapaneseText>アミィちゃんには、みっともないところ</JapaneseText>
+      <PointerOffset>0x2ccdb2</PointerOffset>
+      <JapaneseText>ミラルドさんを助けてあげてください。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xd44f7</PointerOffset>
-      <JapaneseText>ばっかり見られちゃってさ。まいったよ。</JapaneseText>
+      <PointerOffset>0x2ccdd7</PointerOffset>
+      <JapaneseText>どういうことだ？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xd451e</PointerOffset>
-      <JapaneseText>ははは……。</JapaneseText>
+      <PointerOffset>0x2ccde8</PointerOffset>
+      <JapaneseText>落とし穴にハマってしまいました。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>3</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xd452c</PointerOffset>
-      <JapaneseText>あっ、でも、一番みっともなかったのは、</JapaneseText>
+      <PointerOffset>0x2cce09</PointerOffset>
+      <JapaneseText>なんだってぇ！？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>4</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xd4553</PointerOffset>
-      <JapaneseText>やっぱりイライザとのことだろうな。</JapaneseText>
+      <PointerOffset>0x2cce1a</PointerOffset>
+      <JapaneseText>誰がそんなヒドイことを……。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>5</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xd4577</PointerOffset>
-      <JapaneseText>イ、イライザさん、ですか？</JapaneseText>
+      <PointerOffset>0x2cce37</PointerOffset>
+      <JapaneseText>……私のせいです。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>6</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
+    <Entry>
+      <PointerOffset>0x2cce4a</PointerOffset>
+      <JapaneseText>なんだとぉ！？</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
   <Strings>
     <Section>system</Section>
   </Strings>

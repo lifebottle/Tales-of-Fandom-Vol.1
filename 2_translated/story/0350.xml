@@ -1,25 +1,17 @@
-
 <SceneText>
   <FriendlyName>Conversation_0350</FriendlyName>
-  <Strings>
+  <Title>３０分後</Title>
+  <Speakers>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x11df07</PointerOffset>
-      <JapaneseText>この森に、この花がこんなにたくさん咲く</JapaneseText>
+      <PointerOffset>0x31a970</PointerOffset>
+      <JapaneseText>３０分後</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
-    <Entry>
-      <PointerOffset>0x11df2e</PointerOffset>
-      <JapaneseText>場所があったなんて知らなかったよ。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
-      <Id>1</Id>
-      <Status>To Do</Status>
-    </Entry>
-  </Strings>
+  </Speakers>
   <Strings>
     <Section>system</Section>
   </Strings>

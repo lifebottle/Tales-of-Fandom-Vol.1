@@ -1,41 +1,40 @@
-
 <SceneText>
   <FriendlyName>Conversation_0347</FriendlyName>
-  <Strings>
+  <Speakers>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x11a74a</PointerOffset>
-      <JapaneseText>……いまさら、僕一人で村を立て直しても、</JapaneseText>
+      <PointerOffset>0x31959b</PointerOffset>
+      <JapaneseText>クィッキーッ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x11a773</PointerOffset>
-      <JapaneseText>仕方ないよ。</JapaneseText>
+      <PointerOffset>0x3195aa</PointerOffset>
+      <JapaneseText>クククィッキー！！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x11a780</PointerOffset>
-      <JapaneseText>さ、行こう。</JapaneseText>
+      <PointerOffset>0x3195bd</PointerOffset>
+      <JapaneseText>わぁぁぁぁぁぁぁんっ！！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x11a78d</PointerOffset>
-      <JapaneseText>は……い……。</JapaneseText>
+      <PointerOffset>0x3195d6</PointerOffset>
+      <JapaneseText>動物ヤです〜〜〜〜〜っ！！！！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>3</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
+  </Speakers>
   <Strings>
     <Section>system</Section>
   </Strings>

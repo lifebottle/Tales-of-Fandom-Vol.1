@@ -1,121 +1,185 @@
-
 <SceneText>
   <FriendlyName>Conversation_0050</FriendlyName>
-  <Strings>
+  <Title>兄妹の警戒心</Title>
+  <Speakers>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x5cf50</PointerOffset>
-      <JapaneseText>村の連中に愛想を振り撒いたりするな。</JapaneseText>
+      <PointerOffset>0x117598</PointerOffset>
+      <JapaneseText>兄妹の警戒心</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x5cf75</PointerOffset>
-      <JapaneseText>つけこまれるぞ。</JapaneseText>
+      <PointerOffset>0x1175a6</PointerOffset>
+      <JapaneseText>なんだ、てめえは！？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x5cf86</PointerOffset>
-      <JapaneseText>えらそうにしやがって。</JapaneseText>
+      <PointerOffset>0x1175bb</PointerOffset>
+      <JapaneseText>クレス！？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x5cf9d</PointerOffset>
-      <JapaneseText>……アミィ、気を許すなよ。</JapaneseText>
+      <PointerOffset>0x1175c6</PointerOffset>
+      <JapaneseText>僕を……村を、裏切ったな……チェスター！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>3</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x5cfb8</PointerOffset>
-      <JapaneseText>親切な振りをしてても、どうせ、いいように</JapaneseText>
+      <PointerOffset>0x1175ef</PointerOffset>
+      <JapaneseText>うおおおおっ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>4</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x5cfe1</PointerOffset>
-      <JapaneseText>こき使ってやろうって考えてるに違いねえ。</JapaneseText>
+      <PointerOffset>0x1175fe</PointerOffset>
+      <JapaneseText>くそ……ガキがっ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>5</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x5d00a</PointerOffset>
-      <JapaneseText>えらそうにしやがって。</JapaneseText>
+      <PointerOffset>0x117613</PointerOffset>
+      <JapaneseText>悪人どもめ！　アルベイン流は田舎剣術</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>6</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x5d021</PointerOffset>
-      <JapaneseText>……アミィ、こんな田舎に染まるなよ。</JapaneseText>
+      <PointerOffset>0x117638</PointerOffset>
+      <JapaneseText>なんかじゃないことを、教えてやるっ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>7</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x5d046</PointerOffset>
-      <JapaneseText>俺たちは、都会の人間なんだ。</JapaneseText>
+      <PointerOffset>0x11765d</PointerOffset>
+      <JapaneseText>くらえっ！　魔神剣っ！！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>8</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x5d063</PointerOffset>
-      <JapaneseText>ここの連中とは違うんだ。</JapaneseText>
+      <PointerOffset>0x117678</PointerOffset>
+      <JapaneseText>ぎゃあああっ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>9</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x5d07c</PointerOffset>
-      <JapaneseText>えらそうにしやがって。</JapaneseText>
+      <PointerOffset>0x117687</PointerOffset>
+      <JapaneseText>な、なんだこのガキはっ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>10</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x5d093</PointerOffset>
-      <JapaneseText>……アミィ、</JapaneseText>
+      <PointerOffset>0x1176a0</PointerOffset>
+      <JapaneseText>つ、強えぞ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>11</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x5d0a0</PointerOffset>
-      <JapaneseText>あんな連中と口きくんじゃねえぞ。</JapaneseText>
+      <PointerOffset>0x1176ad</PointerOffset>
+      <JapaneseText>に、逃げろ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>12</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x5d0c1</PointerOffset>
-      <JapaneseText>お兄ちゃん、そんなこと言っちゃ駄目だよ。</JapaneseText>
+      <PointerOffset>0x1176bc</PointerOffset>
+      <JapaneseText>逃がすかっ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>13</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
+    <Entry>
+      <PointerOffset>0x1176ca</PointerOffset>
+      <JapaneseText>ぎゃーーーーー！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1176db</PointerOffset>
+      <JapaneseText>ひーーーーー！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1176ec</PointerOffset>
+      <JapaneseText>つきあってらんねえぜ！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x117704</PointerOffset>
+      <JapaneseText>逃がすかっ、チェスター！　裏切り者っ！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x11772b</PointerOffset>
+      <JapaneseText>――魔神剣っ！！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x11773d</PointerOffset>
+      <JapaneseText>うわああああっ！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x11774f</PointerOffset>
+      <JapaneseText>はあはあはあはあ。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x117762</PointerOffset>
+      <JapaneseText>……ちくしょう……ちくしょうーっ！！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
   <Strings>
     <Section>system</Section>
   </Strings>

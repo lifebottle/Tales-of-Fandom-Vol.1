@@ -1,25 +1,33 @@
-
 <SceneText>
   <FriendlyName>Conversation_0346</FriendlyName>
-  <Strings>
+  <Title>このふたりの関係だけは、</Title>
+  <Speakers>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x11a716</PointerOffset>
-      <JapaneseText>二人で、ミントの家に行こうって話だった</JapaneseText>
+      <PointerOffset>0x3191b0</PointerOffset>
+      <JapaneseText>このふたりの関係だけは、</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x11a73d</PointerOffset>
-      <JapaneseText>じゃないか。</JapaneseText>
+      <PointerOffset>0x3191c9</PointerOffset>
+      <JapaneseText>変わらなさそうです……（笑）</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
+    <Entry>
+      <PointerOffset>0x3191e6</PointerOffset>
+      <JapaneseText>おしまい</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
   <Strings>
     <Section>system</Section>
   </Strings>

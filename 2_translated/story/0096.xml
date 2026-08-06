@@ -1,81 +1,105 @@
-
 <SceneText>
   <FriendlyName>Conversation_0096</FriendlyName>
-  <Strings>
+  <Title>ユークリッドの都</Title>
+  <Speakers>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x7bb3e</PointerOffset>
-      <JapaneseText>はい。今日は、家で体を休めてます。</JapaneseText>
+      <PointerOffset>0x1a16db</PointerOffset>
+      <JapaneseText>ユークリッドの都</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x7bb61</PointerOffset>
-      <JapaneseText>あんたの兄さんも、あれで、もう少し愛想が</JapaneseText>
+      <PointerOffset>0x1a16ef</PointerOffset>
+      <JapaneseText>うう……。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x7bb8a</PointerOffset>
-      <JapaneseText>よければいいと思うんだけどねえ……。</JapaneseText>
+      <PointerOffset>0x1a16fa</PointerOffset>
+      <JapaneseText>ディムロス、あたしの声、聞こえる？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x7bbaf</PointerOffset>
-      <JapaneseText>すいません。</JapaneseText>
+      <PointerOffset>0x1a171d</PointerOffset>
+      <JapaneseText>リリス……。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>3</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x7bbbc</PointerOffset>
-      <JapaneseText>気にすることはないよ。</JapaneseText>
+      <PointerOffset>0x1a172a</PointerOffset>
+      <JapaneseText>よかった……！　ディムロス、わかる？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>4</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x7bbd3</PointerOffset>
-      <JapaneseText>あんたのせいじゃないんだから。</JapaneseText>
+      <PointerOffset>0x1a174f</PointerOffset>
+      <JapaneseText>あなた、元通りになったんだよ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>5</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x7bbf2</PointerOffset>
-      <JapaneseText>……それより、どうだい？</JapaneseText>
+      <PointerOffset>0x1a176e</PointerOffset>
+      <JapaneseText>おお……！　この、全身にみなぎる充実感。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>6</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x7bc0b</PointerOffset>
-      <JapaneseText>将来、うちの息子の嫁にならないかね？</JapaneseText>
+      <PointerOffset>0x1a1797</PointerOffset>
+      <JapaneseText>心地よい、鋼の重み。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>7</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x7bc30</PointerOffset>
-      <JapaneseText>あんたなら、うちは大歓迎だよ。</JapaneseText>
+      <PointerOffset>0x1a17ac</PointerOffset>
+      <JapaneseText>確かに、かつてのわたしそのものだ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>8</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
+    <Entry>
+      <PointerOffset>0x1a17cf</PointerOffset>
+      <JapaneseText>ね？</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1a17d4</PointerOffset>
+      <JapaneseText>わたしが意識を失っている間に、</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1a17f3</PointerOffset>
+      <JapaneseText>精霊を見つけ</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
   <Strings>
     <Section>system</Section>
   </Strings>

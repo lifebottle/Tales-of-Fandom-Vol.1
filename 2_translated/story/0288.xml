@@ -1,17 +1,56 @@
-
 <SceneText>
   <FriendlyName>Conversation_0288</FriendlyName>
-  <Strings>
+  <Speakers>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0xe7066</PointerOffset>
-      <JapaneseText>半分は、私とともに村の警護について</JapaneseText>
+      <PointerOffset>0x2ee8a3</PointerOffset>
+      <JapaneseText>ごごご……。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
+    <Entry>
+      <PointerOffset>0x2ee8b0</PointerOffset>
+      <JapaneseText>スタン、あんたには、刺激が必要みたいね。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x2ee8d9</PointerOffset>
+      <JapaneseText>えいっ！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x2ee8e2</PointerOffset>
+      <JapaneseText>我が灼熱の魔手にて</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x2ee8f5</PointerOffset>
+      <JapaneseText>灰塵と化せぇ〜〜〜っ！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x2ee90c</PointerOffset>
+      <JapaneseText>ぐぁ〜〜っ！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
   <Strings>
     <Section>system</Section>
   </Strings>

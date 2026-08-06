@@ -1,25 +1,72 @@
-
 <SceneText>
   <FriendlyName>Conversation_0312</FriendlyName>
-  <Strings>
+  <Speakers>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0xf8cd8</PointerOffset>
-      <JapaneseText>兄妹の警戒心</JapaneseText>
+      <PointerOffset>0x301af3</PointerOffset>
+      <JapaneseText>クラースさん、ドラゴンは？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xf8ce6</PointerOffset>
-      <JapaneseText>トーティスの橋</JapaneseText>
+      <PointerOffset>0x301b0e</PointerOffset>
+      <JapaneseText>一足遅かったな。わたしが片づけたよ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
+    <Entry>
+      <PointerOffset>0x301b33</PointerOffset>
+      <JapaneseText>すごい！　どうやって倒したんですか？</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x301b58</PointerOffset>
+      <JapaneseText>ぜひ教えてください！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x301b6d</PointerOffset>
+      <JapaneseText>後でな。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x301b76</PointerOffset>
+      <JapaneseText>今はちょっと……。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x301b89</PointerOffset>
+      <JapaneseText>あとといわず、今教えてください！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x301baa</PointerOffset>
+      <JapaneseText>お願いします、クラースさん！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
   <Strings>
     <Section>system</Section>
   </Strings>

@@ -4,7 +4,7 @@
     <Entry>
       <PointerOffset>0xd5640</PointerOffset>
       <JapaneseText>メルディ</JapaneseText>
-      <EnglishText></EnglishText>
+      <EnglishText/>
       <Notes/>
       <Id>1</Id>
       <Status>Done</Status>
@@ -12,7 +12,7 @@
     <Entry>
       <PointerOffset>0xd564c</PointerOffset>
       <JapaneseText>チャット</JapaneseText>
-      <EnglishText></EnglishText>
+      <EnglishText/>
       <Notes/>
       <Id>2</Id>
       <Status>To Do</Status>
@@ -20,7 +20,7 @@
     <Entry>
       <PointerOffset>0xd5658</PointerOffset>
       <JapaneseText>フォッグ</JapaneseText>
-      <EnglishText></EnglishText>
+      <EnglishText/>
       <Notes/>
       <Id>3</Id>
       <Status>To Do</Status>
@@ -28,7 +28,7 @@
     <Entry>
       <PointerOffset>0xd5664</PointerOffset>
       <JapaneseText>クィッキー</JapaneseText>
-      <EnglishText></EnglishText>
+      <EnglishText/>
       <Notes/>
       <Id>4</Id>
       <Status>To Do</Status>
@@ -36,7 +36,7 @@
     <Entry>
       <PointerOffset>0xd5670</PointerOffset>
       <JapaneseText>プリムラ</JapaneseText>
-      <EnglishText></EnglishText>
+      <EnglishText/>
       <Notes/>
       <Id>5</Id>
       <Status>To Do</Status>
@@ -44,7 +44,7 @@
     <Entry>
       <PointerOffset>0xd567c</PointerOffset>
       <JapaneseText>アルジェント</JapaneseText>
-      <EnglishText></EnglishText>
+      <EnglishText/>
       <Notes/>
       <Id>6</Id>
       <Status>To Do</Status>
@@ -52,7 +52,7 @@
     <Entry>
       <PointerOffset>0xd568c</PointerOffset>
       <JapaneseText>ヒューラ</JapaneseText>
-      <EnglishText></EnglishText>
+      <EnglishText/>
       <Notes/>
       <Id>7</Id>
       <Status>To Do</Status>
@@ -60,7 +60,7 @@
     <Entry>
       <PointerOffset>0xd5698</PointerOffset>
       <JapaneseText>クレス小</JapaneseText>
-      <EnglishText></EnglishText>
+      <EnglishText/>
       <Notes/>
       <Id>8</Id>
       <Status>To Do</Status>
@@ -68,7 +68,7 @@
     <Entry>
       <PointerOffset>0xd56a4</PointerOffset>
       <JapaneseText>アーチェ</JapaneseText>
-      <EnglishText></EnglishText>
+      <EnglishText/>
       <Notes/>
       <Id>9</Id>
       <Status>To Do</Status>
@@ -76,7 +76,7 @@
     <Entry>
       <PointerOffset>0xd56b0</PointerOffset>
       <JapaneseText>チェスター</JapaneseText>
-      <EnglishText></EnglishText>
+      <EnglishText/>
       <Notes/>
       <Id>10</Id>
       <Status>To Do</Status>
@@ -84,7 +84,7 @@
     <Entry>
       <PointerOffset>0xd56bc</PointerOffset>
       <JapaneseText>チェスター小</JapaneseText>
-      <EnglishText></EnglishText>
+      <EnglishText/>
       <Notes/>
       <Id>11</Id>
       <Status>To Do</Status>
@@ -92,7 +92,7 @@
     <Entry>
       <PointerOffset>0xd56cc</PointerOffset>
       <JapaneseText>アミィ小</JapaneseText>
-      <EnglishText></EnglishText>
+      <EnglishText/>
       <Notes/>
       <Id>12</Id>
       <Status>To Do</Status>
@@ -100,7 +100,7 @@
     <Entry>
       <PointerOffset>0xd56d8</PointerOffset>
       <JapaneseText>クラース</JapaneseText>
-      <EnglishText></EnglishText>
+      <EnglishText/>
       <Notes/>
       <Id>13</Id>
       <Status>To Do</Status>
@@ -108,7 +108,7 @@
     <Entry>
       <PointerOffset>0xd56e4</PointerOffset>
       <JapaneseText>ミラルド</JapaneseText>
-      <EnglishText></EnglishText>
+      <EnglishText/>
       <Notes/>
       <Id>14</Id>
       <Status>To Do</Status>
@@ -116,7 +116,7 @@
     <Entry>
       <PointerOffset>0xd56f0</PointerOffset>
       <JapaneseText>クレイトン</JapaneseText>
-      <EnglishText></EnglishText>
+      <EnglishText/>
       <Notes/>
       <Id>15</Id>
       <Status>To Do</Status>
@@ -124,7 +124,7 @@
     <Entry>
       <PointerOffset>0xd56fc</PointerOffset>
       <JapaneseText>イライザ</JapaneseText>
-      <EnglishText></EnglishText>
+      <EnglishText/>
       <Notes/>
       <Id>16</Id>
       <Status>To Do</Status>
@@ -132,7 +132,7 @@
     <Entry>
       <PointerOffset>0xd5708</PointerOffset>
       <JapaneseText>ミゲール</JapaneseText>
-      <EnglishText></EnglishText>
+      <EnglishText/>
       <Notes/>
       <Id>17</Id>
       <Status>To Do</Status>
@@ -140,7 +140,7 @@
     <Entry>
       <PointerOffset>0xd5714</PointerOffset>
       <JapaneseText>ルーティ</JapaneseText>
-      <EnglishText></EnglishText>
+      <EnglishText/>
       <Notes/>
       <Id>18</Id>
       <Status>To Do</Status>
@@ -148,7 +148,7 @@
     <Entry>
       <PointerOffset>0xd5720</PointerOffset>
       <JapaneseText>フィリア</JapaneseText>
-      <EnglishText></EnglishText>
+      <EnglishText/>
       <Notes/>
       <Id>19</Id>
       <Status>To Do</Status>
@@ -156,7 +156,7 @@
     <Entry>
       <PointerOffset>0xd572c</PointerOffset>
       <JapaneseText>チェルシー</JapaneseText>
-      <EnglishText></EnglishText>
+      <EnglishText/>
       <Notes/>
       <Id>20</Id>
       <Status>To Do</Status>
@@ -164,7 +164,7 @@
     <Entry>
       <PointerOffset>0xd5738</PointerOffset>
       <JapaneseText>マリアン</JapaneseText>
-      <EnglishText></EnglishText>
+      <EnglishText/>
       <Notes/>
       <Id>21</Id>
       <Status>To Do</Status>
@@ -172,7 +172,7 @@
     <Entry>
       <PointerOffset>0xd5744</PointerOffset>
       <JapaneseText>ディムロス</JapaneseText>
-      <EnglishText></EnglishText>
+      <EnglishText/>
       <Notes/>
       <Id>22</Id>
       <Status>To Do</Status>

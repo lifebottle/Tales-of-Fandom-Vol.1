@@ -1,89 +1,88 @@
-
 <SceneText>
   <FriendlyName>Conversation_0262</FriendlyName>
-  <Strings>
+  <Speakers>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0xd94d5</PointerOffset>
-      <JapaneseText>外れ</JapaneseText>
+      <PointerOffset>0x2d417b</PointerOffset>
+      <JapaneseText>チェルシーが持ってるアイテムの中で</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xd94da</PointerOffset>
-      <JapaneseText>はあはあはあ。</JapaneseText>
+      <PointerOffset>0x2d419e</PointerOffset>
+      <JapaneseText>一番値段が高いのって、なに？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xd94e9</PointerOffset>
-      <JapaneseText>よお、クレス。お姫様のお出迎えかい？</JapaneseText>
+      <PointerOffset>0x2d41bb</PointerOffset>
+      <JapaneseText>おまじない用のベルベーヌですねえ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xd950e</PointerOffset>
-      <JapaneseText>あ、うん。</JapaneseText>
+      <PointerOffset>0x2d41de</PointerOffset>
+      <JapaneseText>『売ったら３７５ガルドか。』</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>3</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xd9519</PointerOffset>
-      <JapaneseText>そりゃあちょうどよかったな、</JapaneseText>
+      <PointerOffset>0x2d41fb</PointerOffset>
+      <JapaneseText>それ、あたしにちょうだい。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>4</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xd9536</PointerOffset>
-      <JapaneseText>ほら、ゴーリのとこの連中と入れ違いに</JapaneseText>
+      <PointerOffset>0x2d4216</PointerOffset>
+      <JapaneseText>え？　やですよぅ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>5</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xd955b</PointerOffset>
-      <JapaneseText>やってくるところだぞ。</JapaneseText>
+      <PointerOffset>0x2d422a</PointerOffset>
+      <JapaneseText>いいじゃない。願なんてかけても</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>6</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xd9573</PointerOffset>
-      <JapaneseText>イライザ！</JapaneseText>
+      <PointerOffset>0x2d4249</PointerOffset>
+      <JapaneseText>無理なもんは無理よ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>7</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xd957e</PointerOffset>
-      <JapaneseText>久しぶり、クレス。</JapaneseText>
+      <PointerOffset>0x2d425f</PointerOffset>
+      <JapaneseText>ひどいですぅ〜！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>8</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xd9591</PointerOffset>
-      <JapaneseText>わたしのこと、迎えに来てくれたの？</JapaneseText>
+      <PointerOffset>0x2d428f</PointerOffset>
+      <JapaneseText>バレたー？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>9</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
+  </Speakers>
   <Strings>
     <Section>system</Section>
   </Strings>

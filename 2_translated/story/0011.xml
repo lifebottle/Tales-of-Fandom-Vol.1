@@ -1,17 +1,139 @@
-
 <SceneText>
   <FriendlyName>Conversation_0011</FriendlyName>
-  <Strings>
+  <Title>クレスとの距離</Title>
+  <Location>バークライト家</Location>
+  <SubLocation>現在</SubLocation>
+  <Speakers>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x51b70</PointerOffset>
+      <PointerOffset>0x74348</PointerOffset>
       <JapaneseText>クレスとの距離</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
+    <Entry>
+      <PointerOffset>0x74358</PointerOffset>
+      <JapaneseText>バークライト家</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x74367</PointerOffset>
+      <JapaneseText>現在</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x7436c</PointerOffset>
+      <JapaneseText>そういやあ、あったなあ……そんなこと。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x74393</PointerOffset>
+      <JapaneseText>……うん。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x7439e</PointerOffset>
+      <JapaneseText>でもよ、クレスといやあ、あれだよな？</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x743c3</PointerOffset>
+      <JapaneseText>え？　なに？</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x743d0</PointerOffset>
+      <JapaneseText>おいおい、とぼけるなよ。ありゃあ、</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x743f3</PointerOffset>
+      <JapaneseText>確か、キルト作りの帰りだったっけ？</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x74416</PointerOffset>
+      <JapaneseText>……アミィは見た！　衝撃の現場！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x74437</PointerOffset>
+      <JapaneseText>お兄ちゃんっ！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x74446</PointerOffset>
+      <JapaneseText>っと！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x7444d</PointerOffset>
+      <JapaneseText>待った待った、</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x7445c</PointerOffset>
+      <JapaneseText>枕、投げんのは禁止。な？</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x74475</PointerOffset>
+      <JapaneseText>知らないっ！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x74482</PointerOffset>
+      <JapaneseText>うぷっ！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
   <Strings>
     <Section>system</Section>
   </Strings>

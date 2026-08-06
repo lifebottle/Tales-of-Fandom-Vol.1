@@ -1,33 +1,48 @@
-
 <SceneText>
   <FriendlyName>Conversation_0222</FriendlyName>
-  <Strings>
+  <Speakers>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0xc26de</PointerOffset>
-      <JapaneseText>アルベイン家</JapaneseText>
+      <PointerOffset>0x29f783</PointerOffset>
+      <JapaneseText>どうでした？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xc26eb</PointerOffset>
-      <JapaneseText>おかえりなさい。</JapaneseText>
+      <PointerOffset>0x29f794</PointerOffset>
+      <JapaneseText>もう疲れちゃった……。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0xc26fc</PointerOffset>
-      <JapaneseText>司祭様がいらしてますよ。</JapaneseText>
+      <PointerOffset>0x29f7ab</PointerOffset>
+      <JapaneseText>忍者のカンはすごいですね。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
+    <Entry>
+      <PointerOffset>0x29f7c8</PointerOffset>
+      <JapaneseText>えぇ。またの名を</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x29f7da</PointerOffset>
+      <JapaneseText>女のカンと言うんです。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
   <Strings>
     <Section>system</Section>
   </Strings>

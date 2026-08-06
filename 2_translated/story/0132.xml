@@ -1,17 +1,115 @@
-
 <SceneText>
   <FriendlyName>Conversation_0132</FriendlyName>
-  <Strings>
+  <Title>学生寮</Title>
+  <Location>自分の部屋に行く</Location>
+  <SubLocation>サンクの部屋に行く</SubLocation>
+  <Speakers>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x93018</PointerOffset>
-      <JapaneseText>クレスとの距離</JapaneseText>
+      <PointerOffset>0x1e6ca8</PointerOffset>
+      <JapaneseText>学生寮</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
+    <Entry>
+      <PointerOffset>0x1e6caf</PointerOffset>
+      <JapaneseText>自分の部屋に行く</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1e6cc1</PointerOffset>
+      <JapaneseText>サンクの部屋に行く</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1e6cd5</PointerOffset>
+      <JapaneseText>学生寮以外の場所に移動</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1e6ced</PointerOffset>
+      <JapaneseText>そうだ。キールの友達のサンクなら</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1e6d0e</PointerOffset>
+      <JapaneseText>なにか手伝ってくれるかもしれない！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1e6d32</PointerOffset>
+      <JapaneseText>でも……。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1e6d3d</PointerOffset>
+      <JapaneseText>サンクの部屋ってどこだっけ？</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1e6d5f</PointerOffset>
+      <JapaneseText>う〜ん。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1e6d6c</PointerOffset>
+      <JapaneseText>誰がどこの部屋に住んでるのか、</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1e6d8b</PointerOffset>
+      <JapaneseText>リストみたいなものが無いとわからないな。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1e6db4</PointerOffset>
+      <JapaneseText>サンクの部屋は……２０３号室ね。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1e6dd6</PointerOffset>
+      <JapaneseText>サンクの部屋は……２０３号室ね。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
   <Strings>
     <Section>system</Section>
   </Strings>

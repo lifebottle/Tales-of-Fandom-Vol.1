@@ -1,121 +1,160 @@
-
 <SceneText>
   <FriendlyName>Conversation_0079</FriendlyName>
-  <Strings>
+  <Speakers>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>0x6e3ab</PointerOffset>
-      <JapaneseText>おおー。</JapaneseText>
+      <PointerOffset>0x1632fb</PointerOffset>
+      <JapaneseText>料理は剣よりも強し。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x6e3b4</PointerOffset>
-      <JapaneseText>そりゃ、嬉しいねえ。</JapaneseText>
+      <PointerOffset>0x163310</PointerOffset>
+      <JapaneseText>料理を制するもの、世界を制す。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x6e3c9</PointerOffset>
-      <JapaneseText>ところでアミィちゃん、</JapaneseText>
+      <PointerOffset>0x16332f</PointerOffset>
+      <JapaneseText>紳士淑女の皆さま、こんにちは。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x6e3e0</PointerOffset>
-      <JapaneseText>この、ものすごーくうめえ料理は、</JapaneseText>
+      <PointerOffset>0x16334e</PointerOffset>
+      <JapaneseText>ビストロシャンバールへようこそ！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>3</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x6e401</PointerOffset>
-      <JapaneseText>なんてえんだい？</JapaneseText>
+      <PointerOffset>0x16336f</PointerOffset>
+      <JapaneseText>今日も史上最強の料理対決！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>4</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x6e412</PointerOffset>
-      <JapaneseText>おう、俺も知りてえや。辛えんだけど、</JapaneseText>
+      <PointerOffset>0x16338a</PointerOffset>
+      <JapaneseText>たっぷり堪能していただきます！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>5</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x6e437</PointerOffset>
-      <JapaneseText>それだけじゃねえんだよなあ……。</JapaneseText>
+      <PointerOffset>0x1633a9</PointerOffset>
+      <JapaneseText>わたしに、まかせなさーい！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>6</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x6e458</PointerOffset>
-      <JapaneseText>なんかこう、後を引くってえか……くそっ！</JapaneseText>
+      <PointerOffset>0x1633c4</PointerOffset>
+      <JapaneseText>はあ……。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>7</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x6e481</PointerOffset>
-      <JapaneseText>うまく言えねえや。</JapaneseText>
+      <PointerOffset>0x1633cf</PointerOffset>
+      <JapaneseText>……なぜ、こうなる。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>8</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x6e494</PointerOffset>
-      <JapaneseText>……本当にうまい飯は</JapaneseText>
+      <PointerOffset>0x1633e4</PointerOffset>
+      <JapaneseText>仕方ないでしょ。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>9</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x6e4a9</PointerOffset>
-      <JapaneseText>言葉になんかできるもんじゃねえよ。</JapaneseText>
+      <PointerOffset>0x1633f5</PointerOffset>
+      <JapaneseText>あれだけ頼まれたら、断れないじゃない。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>10</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x6e4cc</PointerOffset>
-      <JapaneseText>一言、うまい、でいいだろ。</JapaneseText>
+      <PointerOffset>0x16341c</PointerOffset>
+      <JapaneseText>まったく、お人好しにもほどがある。</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>11</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x6e4e7</PointerOffset>
-      <JapaneseText>お兄ちゃん！</JapaneseText>
+      <PointerOffset>0x16343f</PointerOffset>
+      <JapaneseText>それがエルロン家の伝統か？</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>12</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>0x6e4f5</PointerOffset>
-      <JapaneseText>――あ、あのー、この料理はですね、</JapaneseText>
+      <PointerOffset>0x16345a</PointerOffset>
+      <JapaneseText>オーダー入ります！</JapaneseText>
       <EnglishText> </EnglishText>
       <Notes> </Notes>
       <Id>13</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
+    <Entry>
+      <PointerOffset>0x16346d</PointerOffset>
+      <JapaneseText>「なつかしのペスカトーレ」！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x16348a</PointerOffset>
+      <JapaneseText>ペスカトーレ。</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x163499</PointerOffset>
+      <JapaneseText>それでは両選手にはこれから、</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1634b6</PointerOffset>
+      <JapaneseText>食材集めを開始してもらいます。レディー？</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>0x1634df</PointerOffset>
+      <JapaneseText>ゴーッ！</JapaneseText>
+      <EnglishText> </EnglishText>
+      <Notes> </Notes>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
   <Strings>
     <Section>system</Section>
   </Strings>

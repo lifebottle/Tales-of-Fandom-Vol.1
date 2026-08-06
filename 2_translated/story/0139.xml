@@ -1,17 +1,19 @@
 <SceneText>
   <FriendlyName>Conversation_0139</FriendlyName>
-  <Title>学生寮前</Title>
-  <Speakers>
+  <Strings>
     <Section>Speaker</Section>
+  </Strings>
+  <Strings>
+    <Section>Main</Section>
     <Entry>
       <PointerOffset>0x1f51c0</PointerOffset>
       <JapaneseText>学生寮前</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
-  </Speakers>
+  </Strings>
   <Strings>
     <Section>system</Section>
   </Strings>

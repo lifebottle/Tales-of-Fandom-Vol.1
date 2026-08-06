@@ -1,80 +1,83 @@
 <SceneText>
   <FriendlyName>Conversation_0334</FriendlyName>
-  <Speakers>
+  <Strings>
     <Section>Speaker</Section>
+  </Strings>
+  <Strings>
+    <Section>Main</Section>
     <Entry>
       <PointerOffset>0x312603</PointerOffset>
       <JapaneseText>……ねぇ、リッド？</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>0</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>0x312616</PointerOffset>
       <JapaneseText>なんだファラ？</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>0x312625</PointerOffset>
       <JapaneseText>珍しく元気ねえな。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>0x312638</PointerOffset>
       <JapaneseText>あのさ……私って、</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>3</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>0x31264b</PointerOffset>
       <JapaneseText>他のテイルズシリーズのヒロインみたいに</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>4</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>0x312672</PointerOffset>
       <JapaneseText>回復魔法とかあんまり使えないし…。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>5</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>0x312695</PointerOffset>
       <JapaneseText>あまつさえ格闘家なんて……、</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>6</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>0x3126b2</PointerOffset>
       <JapaneseText>ヒロインっぽくないかな？　……ってさ。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>7</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>0x3126d9</PointerOffset>
       <JapaneseText>……。</JapaneseText>
-      <EnglishText> </EnglishText>
-      <Notes> </Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>8</Id>
       <Status>To Do</Status>
     </Entry>
-  </Speakers>
+  </Strings>
   <Strings>
     <Section>system</Section>
   </Strings>

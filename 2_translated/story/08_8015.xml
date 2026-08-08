@@ -1,0 +1,71 @@
+<SceneText>
+  <FriendlyName>08_8015</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Reid Hershel</JapaneseText>
+      <EnglishText>Reid Hershel</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>100</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>204</PointerOffset>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText>　</EnglishText>
+      <Notes>Single JP space line</Notes>
+      <Id>0</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>468</PointerOffset>
+      <JapaneseText>さて……と、だいぶ片付いたな。
+あとはポケットの中のコイツを処分して……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>100</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>764</PointerOffset>
+      <JapaneseText>あれ？　あれ？　マジかよ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>100</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1380</PointerOffset>
+      <JapaneseText>やっべぇ……どこで落としたんだ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>100</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1740</PointerOffset>
+      <JapaneseText>アレ誰かに見られたりしたら……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>100</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2188</PointerOffset>
+      <JapaneseText>早く取り戻さねぇと！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>100</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

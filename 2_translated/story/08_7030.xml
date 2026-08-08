@@ -1,0 +1,81 @@
+<SceneText>
+  <FriendlyName>08_7030</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Chester Burklight</JapaneseText>
+      <EnglishText>Chester Burklight</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>3600</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Claus F. Lester</JapaneseText>
+      <EnglishText>Claus F. Lester</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>3500</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>308</PointerOffset>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText>　</EnglishText>
+      <Notes>Single JP space line</Notes>
+      <Id>0</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>620</PointerOffset>
+      <JapaneseText>おーい、クラースのだんな！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3600</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>884</PointerOffset>
+      <JapaneseText>なんだ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3500</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1148</PointerOffset>
+      <JapaneseText>アーチェから話は聞いたぜ。
+年長者がルール違反をしちゃ、いけないな。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3600</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1412</PointerOffset>
+      <JapaneseText>埋め合わせはする。
+今は行かせてくれ。な？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3500</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1940</PointerOffset>
+      <JapaneseText>どうしても行きたいのか？
+だったらおれを倒していけ〜！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3600</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

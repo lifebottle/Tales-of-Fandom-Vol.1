@@ -1,0 +1,121 @@
+<SceneText>
+  <FriendlyName>03_630</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Primula Rosso</JapaneseText>
+      <EnglishText>Primula Rosso</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>1100</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Anne Hideaway</JapaneseText>
+      <EnglishText>Anne Hideaway</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>1300</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>748</PointerOffset>
+      <JapaneseText>教室</JapaneseText>
+      <EnglishText/>
+      <Notes>System Message</Notes>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1140</PointerOffset>
+      <JapaneseText>『人がセイファートの御業に挑む』
+たぶん教室のことよね。			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1484</PointerOffset>
+      <JapaneseText>あ。
+あなたもキーファ様のゲームの参加者？	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1300</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1676</PointerOffset>
+      <JapaneseText>シルフの君はここには
+いらっしゃらないわよ。			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1748</PointerOffset>
+      <JapaneseText>ホラ、黒板にこんな紙が……。		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2212</PointerOffset>
+      <JapaneseText>『我はアンを愛し、ルナリアを愛する。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2284</PointerOffset>
+      <JapaneseText>さらにミルドレッドに恋し、
+グロッサに恋する。			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2356</PointerOffset>
+      <JapaneseText>最後にウィリアムとグロッサを愛する……。
+わが元に来れ、子猫たちよ！』		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2628</PointerOffset>
+      <JapaneseText>もう！
+どうしてこの私が			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2740</PointerOffset>
+      <JapaneseText>貴族のバカ息子の遊びに
+つきあわなくちゃいけないのよ〜！	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

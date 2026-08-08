@@ -1,0 +1,71 @@
+<SceneText>
+  <FriendlyName>09_080</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Farah Oersted</JapaneseText>
+      <EnglishText>Farah Oersted</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>200</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Reid Hershel</JapaneseText>
+      <EnglishText>Reid Hershel</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>100</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>372</PointerOffset>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText>　</EnglishText>
+      <Notes>Single JP space line</Notes>
+      <Id>0</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>556</PointerOffset>
+      <JapaneseText>リッド〜。パンツだして。
+洗濯してあげる♪</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>200</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>820</PointerOffset>
+      <JapaneseText>い……いいよ別に。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>100</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1036</PointerOffset>
+      <JapaneseText>も〜〜！！　何てれてるのぉ！
+早く出して！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>200</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1300</PointerOffset>
+      <JapaneseText>わかったよ……。ほら！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>100</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

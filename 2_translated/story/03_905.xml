@@ -1,0 +1,655 @@
+<SceneText>
+  <FriendlyName>03_905</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Primula Rosso</JapaneseText>
+      <EnglishText>Primula Rosso</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>1100</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>William Warbeck</JapaneseText>
+      <EnglishText>William Warbeck</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>1200</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Anne Hideaway</JapaneseText>
+      <EnglishText>Anne Hideaway</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>1300</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Mildred O'Day</JapaneseText>
+      <EnglishText>Mildred O'Day</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>2100</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Keele Zeibel</JapaneseText>
+      <EnglishText>Keele Zeibel</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>300</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Captain</JapaneseText>
+      <EnglishText>Captain</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>5900</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>1028</PointerOffset>
+      <JapaneseText>実験室</JapaneseText>
+      <EnglishText/>
+      <Notes>System Message</Notes>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1580</PointerOffset>
+      <JapaneseText>はあ。					</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1652</PointerOffset>
+      <JapaneseText>「君にはついていけない」って
+キールも退部しちゃったし……		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1724</PointerOffset>
+      <JapaneseText>なんだか寂しくなっちゃったな、探偵部。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2044</PointerOffset>
+      <JapaneseText>しょうがないから、
+ひとりでいつものやつ、やるかぁ……。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2260</PointerOffset>
+      <JapaneseText>せーのっ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2332</PointerOffset>
+      <JapaneseText>真実を得るためならば、私は戦う！	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2484</PointerOffset>
+      <JapaneseText>…………。				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2556</PointerOffset>
+      <JapaneseText>…………。				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2796</PointerOffset>
+      <JapaneseText>……むなしい。				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3324</PointerOffset>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText>　</EnglishText>
+      <Notes>Single JP space line</Notes>
+      <Id>10</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3684</PointerOffset>
+      <JapaneseText>部長！
+事件報告書の「経費」のところに		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1200</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3756</PointerOffset>
+      <JapaneseText>張り込みのときのコーヒー代も
+入れていいんですか？			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1200</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4052</PointerOffset>
+      <JapaneseText>プリムラ部長〜！
+容疑者の尾行に失敗しましたぁ〜！	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1300</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4124</PointerOffset>
+      <JapaneseText>ごめんなさい〜！			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1300</SpeakerId>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4484</PointerOffset>
+      <JapaneseText>――噂を聞きつけてきた新入部員たちで
+我が探偵部は大騒ぎ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4556</PointerOffset>
+      <JapaneseText>部長も楽じゃありません。		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4780</PointerOffset>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText>　</EnglishText>
+      <Notes>Single JP space line</Notes>
+      <Id>17</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5044</PointerOffset>
+      <JapaneseText>やあ、忙しそうだね、子猫ちゃん。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2100</SpeakerId>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5308</PointerOffset>
+      <JapaneseText>あ、ダーリン！
+もうちょっとで仕事終わるから待っててね！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5756</PointerOffset>
+      <JapaneseText>待ちきれないよ、子猫ちゃん！
+ああ、君が隣にいない時間の孤独さよ！	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2100</SpeakerId>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5828</PointerOffset>
+      <JapaneseText>心臓は鼓動をとめ、太陽さえも輝きを
+失い色あせる……。			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2100</SpeakerId>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6092</PointerOffset>
+      <JapaneseText>やれやれ！				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>22</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6596</PointerOffset>
+      <JapaneseText>プリムラさん、事件です！		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5900</SpeakerId>
+      <Id>23</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6916</PointerOffset>
+      <JapaneseText>あー、ゴメン。
+私このあとキーファとデートだから。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>24</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6988</PointerOffset>
+      <JapaneseText>キール、かわりにやっといて。		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>25</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7924</PointerOffset>
+      <JapaneseText>なんで僕が……。			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>26</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8140</PointerOffset>
+      <JapaneseText>ふう。みんな、いつものいくぞー。
+真実を得るためならば……！		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>27</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8596</PointerOffset>
+      <JapaneseText>僕は戦うっ！				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1300</SpeakerId>
+      <Id>28</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9068</PointerOffset>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText>　</EnglishText>
+      <Notes>Single JP space line</Notes>
+      <Id>29</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9356</PointerOffset>
+      <JapaneseText>部長！
+事件報告書の「経費」のところに		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1200</SpeakerId>
+      <Id>30</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9428</PointerOffset>
+      <JapaneseText>張り込みのときのコーヒー代も
+入れていいんですか？			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1200</SpeakerId>
+      <Id>31</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9772</PointerOffset>
+      <JapaneseText>プリムラ部長〜！
+容疑者の尾行に失敗しましたぁ〜！	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1300</SpeakerId>
+      <Id>32</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9844</PointerOffset>
+      <JapaneseText>ごめんなさい〜！			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1300</SpeakerId>
+      <Id>33</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10204</PointerOffset>
+      <JapaneseText>――噂を聞きつけてきた新入部員たちで
+我が探偵部は大騒ぎ。			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>34</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10276</PointerOffset>
+      <JapaneseText>部長も楽じゃありません。		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>35</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10748</PointerOffset>
+      <JapaneseText>やぁ。
+名探偵も楽じゃないみたいだな。		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>36</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11012</PointerOffset>
+      <JapaneseText>む〜。					</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>37</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11236</PointerOffset>
+      <JapaneseText>なんかあなたと２人でやってたときのほうが
+気楽で良かった気がするよ！		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>38</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11500</PointerOffset>
+      <JapaneseText>名探偵に泣き言は似合わないぞ？		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>39</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11764</PointerOffset>
+      <JapaneseText>ところで……。				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>40</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12028</PointerOffset>
+      <JapaneseText>ん？					</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>41</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12292</PointerOffset>
+      <JapaneseText>あのときの解決料金、
+まだもらってなかったわよね？		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>42</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12556</PointerOffset>
+      <JapaneseText>オイオイ！
+僕からもふんだくる気か！？		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>43</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12820</PointerOffset>
+      <JapaneseText>あたりまえでしょ！			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>44</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12892</PointerOffset>
+      <JapaneseText>ま、身内ってことで特別に
+オマケしてあげてもいいケド。		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>45</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13156</PointerOffset>
+      <JapaneseText>助かるよ。
+いくらだい？				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>46</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13420</PointerOffset>
+      <JapaneseText>チュー１回。				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>47</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13684</PointerOffset>
+      <JapaneseText>え？					</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>48</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13980</PointerOffset>
+      <JapaneseText>なーんでもないっ！			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>49</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14508</PointerOffset>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText>　</EnglishText>
+      <Notes>Single JP space line</Notes>
+      <Id>50</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14796</PointerOffset>
+      <JapaneseText>部長！
+事件報告書の「経費」のところに		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1200</SpeakerId>
+      <Id>51</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14868</PointerOffset>
+      <JapaneseText>張り込みのときのコーヒー代も
+入れていいんですか？			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1200</SpeakerId>
+      <Id>52</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15212</PointerOffset>
+      <JapaneseText>プリムラ部長〜！
+容疑者の尾行に失敗しましたぁ〜！	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1300</SpeakerId>
+      <Id>53</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15284</PointerOffset>
+      <JapaneseText>ごめんなさい〜！			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1300</SpeakerId>
+      <Id>54</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15644</PointerOffset>
+      <JapaneseText>――噂を聞きつけてきた新入部員たちで
+我が探偵部は大騒ぎ。			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>55</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15716</PointerOffset>
+      <JapaneseText>部長も楽じゃありません。		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>56</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16004</PointerOffset>
+      <JapaneseText>ふう。これで僕もようやく、強制助手から
+解放されるってわけだ。			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>57</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16332</PointerOffset>
+      <JapaneseText>――といってキールがいなくなっちゃった
+のは残念だけど……			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>58</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16404</PointerOffset>
+      <JapaneseText>ガッカリしてる暇なんかありません。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>59</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16748</PointerOffset>
+      <JapaneseText>プリムラさん、事件です！		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5900</SpeakerId>
+      <Id>60</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17068</PointerOffset>
+      <JapaneseText>よーし！
+みんな、いつものいくよっ！		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>61</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17140</PointerOffset>
+      <JapaneseText>真実を得るためならば……！		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>62</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17356</PointerOffset>
+      <JapaneseText>私は戦うっ！				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1300</SpeakerId>
+      <Id>63</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

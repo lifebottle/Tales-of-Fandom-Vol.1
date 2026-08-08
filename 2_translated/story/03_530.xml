@@ -1,0 +1,194 @@
+<SceneText>
+  <FriendlyName>03_530</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>332</PointerOffset>
+      <JapaneseText>学生寮玄関</JapaneseText>
+      <EnglishText/>
+      <Notes>System Message</Notes>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>556</PointerOffset>
+      <JapaneseText>学生寮を出る場合は、
+一階の玄関に行けばいいのね。		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>628</PointerOffset>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText>　</EnglishText>
+      <Notes>Single JP space line</Notes>
+      <Id>2</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1700</PointerOffset>
+      <JapaneseText>一階に移動する&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1708</PointerOffset>
+      <JapaneseText>二階に移動する&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1716</PointerOffset>
+      <JapaneseText>三階に移動する&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1724</PointerOffset>
+      <JapaneseText>四階に移動する&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1852</PointerOffset>
+      <JapaneseText>１０１　アン・ハイダウェイ　&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1860</PointerOffset>
+      <JapaneseText>１０２　キーファ・パッカード&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1868</PointerOffset>
+      <JapaneseText>玄関&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1876</PointerOffset>
+      <JapaneseText>別の階に移動する&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2684</PointerOffset>
+      <JapaneseText>２０１　グロッサ・バイロン&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2692</PointerOffset>
+      <JapaneseText>２０２　アーマンド・ゲッツ&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2700</PointerOffset>
+      <JapaneseText>２０３　サンク・リサジュー&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2708</PointerOffset>
+      <JapaneseText>別の階に移動する&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3100</PointerOffset>
+      <JapaneseText>３０１ルナリア・バーンズ　　　&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3108</PointerOffset>
+      <JapaneseText>３０２ウィリアム・ウォーベック&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3116</PointerOffset>
+      <JapaneseText>３０３アルサー・リトルトン　　&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3124</PointerOffset>
+      <JapaneseText>別の階に移動する&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4140</PointerOffset>
+      <JapaneseText>４０１　ジェイムズ・ティリー&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4148</PointerOffset>
+      <JapaneseText>４０２　ジャッコ・リベラ　　&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4156</PointerOffset>
+      <JapaneseText>４０３　ミルドレッド・オデイ&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4164</PointerOffset>
+      <JapaneseText>別の階に移動する&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>22</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

@@ -1,0 +1,283 @@
+<SceneText>
+  <FriendlyName>01_710</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Cless Albane (Young)</JapaneseText>
+      <EnglishText>Cless Albane (Young)</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>3900</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Chester Burklight (Young)</JapaneseText>
+      <EnglishText>Chester Burklight (Young)</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>4000</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>204</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes>Empty Line</Notes>
+      <Id>0</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>804</PointerOffset>
+      <JapaneseText>森
+夜光花の群生地</JapaneseText>
+      <EnglishText/>
+      <Notes>System Message</Notes>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1012</PointerOffset>
+      <JapaneseText>こっちだ、クレス。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1084</PointerOffset>
+      <JapaneseText>うん。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1180</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes>Empty Line</Notes>
+      <Id>4</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1572</PointerOffset>
+      <JapaneseText>うわあ……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3900</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2252</PointerOffset>
+      <JapaneseText>……すげえだろ。こいつが「夜光花」だ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4000</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3036</PointerOffset>
+      <JapaneseText>この森に、この花がこんなにたくさん咲く
+場所があったなんて知らなかったよ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3900</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3820</PointerOffset>
+      <JapaneseText>最後に村に親父たちと来たとき、
+俺とアミィで見つけたんだ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4000</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4116</PointerOffset>
+      <JapaneseText>誰にも見つかってないって自信はあったぜ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4000</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4588</PointerOffset>
+      <JapaneseText>こんなとこまで来る奴はいないだろう
+からな。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4000</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4740</PointerOffset>
+      <JapaneseText>前に、村に来たことあるの？
+僕たち、会ってないよね？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4000</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5540</PointerOffset>
+      <JapaneseText>親父に、村の連中と遊ぶのを禁止されてた
+からな。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4000</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5836</PointerOffset>
+      <JapaneseText>俺も、アミィの面倒を見るのだけで精一杯
+だった。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4000</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6260</PointerOffset>
+      <JapaneseText>夜になると光るこの花を、おふくろが
+好きでよ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4000</SpeakerId>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6668</PointerOffset>
+      <JapaneseText>今度一緒に摘みに来ようって、
+アミィの奴、おふくろと約束してたんだ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4000</SpeakerId>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6964</PointerOffset>
+      <JapaneseText>――駄目だったけどな。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4000</SpeakerId>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7452</PointerOffset>
+      <JapaneseText>そっか……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3900</SpeakerId>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7956</PointerOffset>
+      <JapaneseText>よし、摘んでこうぜ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4000</SpeakerId>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8420</PointerOffset>
+      <JapaneseText>明日にでも、アミィちゃんを連れてきて
+いっしょに摘んだ方がいいんじゃないの？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3900</SpeakerId>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8908</PointerOffset>
+      <JapaneseText>わかってねえな、クレス。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4000</SpeakerId>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9300</PointerOffset>
+      <JapaneseText>おまえが摘んで持っていってやるほうが、
+アミィが喜ぶんだよ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4000</SpeakerId>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10068</PointerOffset>
+      <JapaneseText>どうして？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3900</SpeakerId>
+      <Id>22</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10492</PointerOffset>
+      <JapaneseText>どうしてって……そりゃあ、おめえ……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4000</SpeakerId>
+      <Id>23</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11036</PointerOffset>
+      <JapaneseText>どうしてもだ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4000</SpeakerId>
+      <Id>24</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11588</PointerOffset>
+      <JapaneseText>おらっ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4000</SpeakerId>
+      <Id>25</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12236</PointerOffset>
+      <JapaneseText>さっさと摘むぞ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4000</SpeakerId>
+      <Id>26</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12820</PointerOffset>
+      <JapaneseText>あ、うん……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3900</SpeakerId>
+      <Id>27</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

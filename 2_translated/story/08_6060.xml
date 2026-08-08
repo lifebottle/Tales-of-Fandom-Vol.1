@@ -1,0 +1,88 @@
+<SceneText>
+  <FriendlyName>08_6060</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Leon Magnus</JapaneseText>
+      <EnglishText>Leon Magnus</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>2400</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Lilith Aileron</JapaneseText>
+      <EnglishText>Lilith Aileron</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>2600</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>308</PointerOffset>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText>　</EnglishText>
+      <Notes>Single JP space line</Notes>
+      <Id>0</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>604</PointerOffset>
+      <JapaneseText>なんだ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2400</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>916</PointerOffset>
+      <JapaneseText>お兄ちゃんの敵討ちです。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1180</PointerOffset>
+      <JapaneseText>私が勝ったら戦利品をいただきますよ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1444</PointerOffset>
+      <JapaneseText>敵討ち？
+……本当はアイスが欲しいだけだろ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2400</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1708</PointerOffset>
+      <JapaneseText>……えへ。バレちゃいましたー？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1972</PointerOffset>
+      <JapaneseText>どいつもこいつも！！	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2400</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

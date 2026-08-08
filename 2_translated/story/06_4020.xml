@@ -1,0 +1,113 @@
+<SceneText>
+  <FriendlyName>06_4020</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Leon Magnus</JapaneseText>
+      <EnglishText>Leon Magnus</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>2400</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Stahn Aileron</JapaneseText>
+      <EnglishText>Stahn Aileron</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>2200</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Cless Albane</JapaneseText>
+      <EnglishText>Cless Albane</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>3200</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Reid Hershel</JapaneseText>
+      <EnglishText>Reid Hershel</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>100</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>540</PointerOffset>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText>　</EnglishText>
+      <Notes>Single JP space line</Notes>
+      <Id>0</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>772</PointerOffset>
+      <JapaneseText>ふん、くだらんな！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2400</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>844</PointerOffset>
+      <JapaneseText>そんな泣き落としにダマされてこの……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2400</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1204</PointerOffset>
+      <JapaneseText>「ダンディセット」！			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2200</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1564</PointerOffset>
+      <JapaneseText>を買ってしまうとは……
+情けないぞ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2400</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1956</PointerOffset>
+      <JapaneseText>すみません……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3200</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2268</PointerOffset>
+      <JapaneseText>すみません……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2200</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2580</PointerOffset>
+      <JapaneseText>すみません……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>100</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

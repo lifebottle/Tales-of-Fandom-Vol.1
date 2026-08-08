@@ -1,0 +1,254 @@
+<SceneText>
+  <FriendlyName>08_3070</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Farah Oersted</JapaneseText>
+      <EnglishText>Farah Oersted</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>200</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Reid Hershel</JapaneseText>
+      <EnglishText>Reid Hershel</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>100</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Philia Felice</JapaneseText>
+      <EnglishText>Philia Felice</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>2500</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Keele Zeibel</JapaneseText>
+      <EnglishText>Keele Zeibel</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>300</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>508</PointerOffset>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText>　</EnglishText>
+      <Notes>Single JP space line</Notes>
+      <Id>0</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>772</PointerOffset>
+      <JapaneseText>と、いうわけで、
+演目は「西遊記」に決まりました。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>200</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1036</PointerOffset>
+      <JapaneseText>さっそく配役を発表します。
+まず、キール。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>200</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1452</PointerOffset>
+      <JapaneseText>三蔵法師役、お願いね。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>200</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1868</PointerOffset>
+      <JapaneseText>つぎ、フォッグ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>200</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2420</PointerOffset>
+      <JapaneseText>沙悟浄だよ。頑張ってね。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>200</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2812</PointerOffset>
+      <JapaneseText>つづいてロエンとレイス。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>200</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3532</PointerOffset>
+      <JapaneseText>２人には馬をやってもらうね。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>200</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3924</PointerOffset>
+      <JapaneseText>コンビネーションが大事だよ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>200</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4188</PointerOffset>
+      <JapaneseText>最後にリッド。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>200</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4780</PointerOffset>
+      <JapaneseText>しゃあねぇなあ……、
+やっぱり主役は主役ってか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>100</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5044</PointerOffset>
+      <JapaneseText>猪八戒役、お願い。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>200</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5484</PointerOffset>
+      <JapaneseText>……あ、そ、そうなんだ……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>100</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5748</PointerOffset>
+      <JapaneseText>そうだよ。この役は舞台で
+美味しいものたくさん食べられるからね。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>200</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6012</PointerOffset>
+      <JapaneseText>なるほどな。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>100</SpeakerId>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6276</PointerOffset>
+      <JapaneseText>そりゃいいや！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>100</SpeakerId>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6540</PointerOffset>
+      <JapaneseText>でしょう？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>200</SpeakerId>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6804</PointerOffset>
+      <JapaneseText>でも困ったね。
+肝心の孫悟空は誰にやってもらおっか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>200</SpeakerId>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7068</PointerOffset>
+      <JapaneseText>むやみと元気で、
+考えるより先に体が動いて、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2500</SpeakerId>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7444</PointerOffset>
+      <JapaneseText>いつもまわりに迷惑をかけるような
+キャラクターなのですが……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2500</SpeakerId>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8100</PointerOffset>
+      <JapaneseText>決まったな。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>100</SpeakerId>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8364</PointerOffset>
+      <JapaneseText>な。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8580</PointerOffset>
+      <JapaneseText>……あ、あはは……は。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>200</SpeakerId>
+      <Id>22</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

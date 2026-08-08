@@ -1,0 +1,188 @@
+<SceneText>
+  <FriendlyName>05_2010</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Keele Zeibel</JapaneseText>
+      <EnglishText>Keele Zeibel</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>300</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Quickie</JapaneseText>
+      <EnglishText>Quickie</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>800</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Meredy</JapaneseText>
+      <EnglishText>Meredy</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>400</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Ras</JapaneseText>
+      <EnglishText>Ras</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>500</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>100</PointerOffset>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText>　</EnglishText>
+      <Notes>Single JP space line</Notes>
+      <Id>0</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>732</PointerOffset>
+      <JapaneseText>クィッキーはそもそも実験動物らしいな。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>980</PointerOffset>
+      <JapaneseText>（んだよぅ）</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>800</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1148</PointerOffset>
+      <JapaneseText>はいな。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>400</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1316</PointerOffset>
+      <JapaneseText>ふつうポットラビッチヌスは
+実験に使われるよ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>400</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1564</PointerOffset>
+      <JapaneseText>でもたまに……レッドソディかけて
+食べる珍味愛好家もいるけどな。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>400</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1764</PointerOffset>
+      <JapaneseText>ほう……珍味？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>500</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2172</PointerOffset>
+      <JapaneseText>（ひぇーーーっ。そんな目でみないで！）</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>800</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2548</PointerOffset>
+      <JapaneseText>あ、あのな！　レイス！
+だけどクィッキーはきっとマズイよ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>400</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2716</PointerOffset>
+      <JapaneseText>爪も伸びっぱなしだし、
+耳の後ろが汚れてるしな。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>400</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2972</PointerOffset>
+      <JapaneseText>（あ、そんなことまでバラさないで！）</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>800</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3220</PointerOffset>
+      <JapaneseText>あと！　よくオナラもするよー。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>400</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3388</PointerOffset>
+      <JapaneseText>コレがとっても信じられないほど</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>400</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3556</PointerOffset>
+      <JapaneseText>臭いな！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>400</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3772</PointerOffset>
+      <JapaneseText>（むごい！）</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>800</SpeakerId>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4068</PointerOffset>
+      <JapaneseText>……クィッキーが泣いてるぞ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

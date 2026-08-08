@@ -1,0 +1,306 @@
+<SceneText>
+  <FriendlyName>01_693</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Clayton</JapaneseText>
+      <EnglishText>Clayton</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>4600</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Chester Burklight (Young)</JapaneseText>
+      <EnglishText>Chester Burklight (Young)</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>4000</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Cless Albane (Young)</JapaneseText>
+      <EnglishText>Cless Albane (Young)</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>3900</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Male 4</JapaneseText>
+      <EnglishText>Male 4</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>6300</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Miguel Albane</JapaneseText>
+      <EnglishText>Miguel Albane</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>4300</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>204</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes>Empty Line</Notes>
+      <Id>0</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1524</PointerOffset>
+      <JapaneseText>なんだ、てめえは！？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4600</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1868</PointerOffset>
+      <JapaneseText>クレス！？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4000</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2204</PointerOffset>
+      <JapaneseText>僕を……村を、裏切ったな……チェスター！
+うおおおおっ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3900</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3364</PointerOffset>
+      <JapaneseText>くそ……ガキがっ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4600</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3508</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes>Empty Line</Notes>
+      <Id>5</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3932</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes>Empty Line</Notes>
+      <Id>6</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4532</PointerOffset>
+      <JapaneseText>悪人どもめ！　アルベイン流は田舎剣術
+なんかじゃないことを、教えてやるっ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3900</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4908</PointerOffset>
+      <JapaneseText>くらえっ！　魔神剣っ！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3900</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5372</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes>Empty Line</Notes>
+      <Id>9</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5548</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes>Empty Line</Notes>
+      <Id>10</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6484</PointerOffset>
+      <JapaneseText>ぎゃあああっ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4600</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6844</PointerOffset>
+      <JapaneseText>な、なんだこのガキはっ！
+つ、強えぞ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6300</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7484</PointerOffset>
+      <JapaneseText>に、逃げろ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4300</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8084</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes>Empty Line</Notes>
+      <Id>14</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8260</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes>Empty Line</Notes>
+      <Id>15</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8636</PointerOffset>
+      <JapaneseText>逃がすかっ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3900</SpeakerId>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8948</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes>Empty Line</Notes>
+      <Id>17</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9076</PointerOffset>
+      <JapaneseText>ぎゃーーーーー！
+ひーーーーー！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9172</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes>Empty Line</Notes>
+      <Id>19</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9284</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes>Empty Line</Notes>
+      <Id>20</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9716</PointerOffset>
+      <JapaneseText>つきあってらんねえぜ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4000</SpeakerId>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9956</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes>Empty Line</Notes>
+      <Id>22</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10420</PointerOffset>
+      <JapaneseText>逃がすかっ、チェスター！　裏切り者っ！
+――魔神剣っ！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3900</SpeakerId>
+      <Id>23</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10956</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes>Empty Line</Notes>
+      <Id>24</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11172</PointerOffset>
+      <JapaneseText>うわああああっ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>25</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11268</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes>Empty Line</Notes>
+      <Id>26</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11388</PointerOffset>
+      <JapaneseText>はあはあはあはあ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>27</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11460</PointerOffset>
+      <JapaneseText>……ちくしょう……ちくしょうーっ！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>28</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11564</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes>Empty Line</Notes>
+      <Id>29</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Strings>
+</SceneText>

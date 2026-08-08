@@ -1,0 +1,193 @@
+<SceneText>
+  <FriendlyName>06_010</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Farah Oersted</JapaneseText>
+      <EnglishText>Farah Oersted</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>200</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Rutee Katrea</JapaneseText>
+      <EnglishText>Rutee Katrea</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>2300</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Mint Adenade</JapaneseText>
+      <EnglishText>Mint Adenade</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>3300</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>460</PointerOffset>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText>　</EnglishText>
+      <Notes>Single JP space line</Notes>
+      <Id>0</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>692</PointerOffset>
+      <JapaneseText>スタンさんっていいね。
+なんかいつもやる気みなぎっててさ。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>200</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1004</PointerOffset>
+      <JapaneseText>ありゃ単なる熱血バカよ。
+振り回されるこっちにとっちゃ迷惑なだけ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2300</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1076</PointerOffset>
+      <JapaneseText>少しはリッドの落ち着きを
+見習ってほしいわ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2300</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1340</PointerOffset>
+      <JapaneseText>リッドは落ち着いてるんじゃなくて
+単にモノグサで腰が重いんだよね。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>200</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1556</PointerOffset>
+      <JapaneseText>あーぁ……やっぱり隣の芝生は
+青く見えるものなのかなぁ？		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>200</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1820</PointerOffset>
+      <JapaneseText>ミントもそう？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2300</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2084</PointerOffset>
+      <JapaneseText>あ、私は……みなさん素敵だと思いますが、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3300</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2204</PointerOffset>
+      <JapaneseText>やはり……クレスさんが……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3300</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2524</PointerOffset>
+      <JapaneseText>ちょーっと待ったぁ！&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2300</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2740</PointerOffset>
+      <JapaneseText>あのダジャレ大魔神が一番ってわけ！？	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2300</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2956</PointerOffset>
+      <JapaneseText>ス、スタンだってわりといいヤツよ？
+純朴だし、底抜けにやさしいし……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2300</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3308</PointerOffset>
+      <JapaneseText>あ！　やさしいのはリッドだよ！&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>200</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3524</PointerOffset>
+      <JapaneseText>ふだんはぶっきらぼうだけどさ		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>200</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3596</PointerOffset>
+      <JapaneseText>肝心な時はいつもちゃーんと見ててくれて
+それに剣の腕は天才的で……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>200</SpeakerId>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3860</PointerOffset>
+      <JapaneseText>剣といえば、スタンなの！！		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2300</SpeakerId>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4124</PointerOffset>
+      <JapaneseText>みなさん……やっぱり、
+自分の芝生が一番なんじゃありませんか。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3300</SpeakerId>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

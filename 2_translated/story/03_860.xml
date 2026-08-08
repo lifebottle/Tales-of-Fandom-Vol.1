@@ -1,0 +1,213 @@
+<SceneText>
+  <FriendlyName>03_860</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Primula Rosso</JapaneseText>
+      <EnglishText>Primula Rosso</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>1100</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Dog</JapaneseText>
+      <EnglishText>Dog</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>6400</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>700</PointerOffset>
+      <JapaneseText>レイゼン家前</JapaneseText>
+      <EnglishText/>
+      <Notes>System Message</Notes>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1324</PointerOffset>
+      <JapaneseText>いたたた……。
+風が吹くなんてついてないや。		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1396</PointerOffset>
+      <JapaneseText>予定では、あの、			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1468</PointerOffset>
+      <JapaneseText>ボスがいるっぽい感じの塔のてっぺんに
+かっこよく着陸するはずだったんだけどな。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1684</PointerOffset>
+      <JapaneseText>まあ、塀を乗り越えられただけで
+良しとしておこう。前向き前向き！	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1804</PointerOffset>
+      <JapaneseText>なんだ、いまの音は！			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2052</PointerOffset>
+      <JapaneseText>まずいっ！				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2196</PointerOffset>
+      <JapaneseText>曲者だ！
+出会え、出会え―っ！			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2460</PointerOffset>
+      <JapaneseText>捕まるもんですか！
+かけっこには自信あるんだから。		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2532</PointerOffset>
+      <JapaneseText>子供の頃、私においつけるのは		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2604</PointerOffset>
+      <JapaneseText>近所の意地悪おばさんちの
+黒い犬くらいだった――			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3092</PointerOffset>
+      <JapaneseText>ぐるるるる……。			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6400</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3356</PointerOffset>
+      <JapaneseText>いやーん！				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3804</PointerOffset>
+      <JapaneseText>木に駆け上る&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3812</PointerOffset>
+      <JapaneseText>手近な窓に飛び込む&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4172</PointerOffset>
+      <JapaneseText>このまま……
+あの窓に突っ込むっ！			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4244</PointerOffset>
+      <JapaneseText>う〜〜〜……
+うりゃああーーーーっ！			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4428</PointerOffset>
+      <JapaneseText>…………。				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4532</PointerOffset>
+      <JapaneseText>……にゃん？				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4660</PointerOffset>
+      <JapaneseText>こいつ、鎧戸に頭から突っ込んだぞ？	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4732</PointerOffset>
+      <JapaneseText>ワンワン！（バカなやつだ！）		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

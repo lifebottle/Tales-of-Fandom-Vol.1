@@ -1,0 +1,183 @@
+<SceneText>
+  <FriendlyName>03_020</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Primula Rosso</JapaneseText>
+      <EnglishText>Primula Rosso</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>1100</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Keele Zeibel</JapaneseText>
+      <EnglishText>Keele Zeibel</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>300</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>1124</PointerOffset>
+      <JapaneseText>私の名前はプリムラ・ロッソ！		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1196</PointerOffset>
+      <JapaneseText>インフェリアが誇る叡智の殿堂、
+ミンツ大学で光晶霊術を専攻中の１７歳。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1412</PointerOffset>
+      <JapaneseText>私、推理小説の「探偵さん」に
+ちっちゃいころから憧れていて……。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1628</PointerOffset>
+      <JapaneseText>ついに作っちゃいました、「探偵部」！	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1980</PointerOffset>
+      <JapaneseText>未公認だろう。				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2284</PointerOffset>
+      <JapaneseText>紹介します！　わが探偵部
+唯一の部員、キール・ツァイベル！	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2588</PointerOffset>
+      <JapaneseText>誰が部員だって？			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2940</PointerOffset>
+      <JapaneseText>彼、連鎖的世界崩壊仮説って妖しげな
+学説を唱える変人なんですけど……。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3156</PointerOffset>
+      <JapaneseText>助手としてはわりと有能！		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3508</PointerOffset>
+      <JapaneseText>オイオイ。				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3812</PointerOffset>
+      <JapaneseText>というわけで！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4028</PointerOffset>
+      <JapaneseText>困ったときはプリムラ＆キールの探偵部！	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4100</PointerOffset>
+      <JapaneseText>頭脳と度胸と行動力、
+すべての謎を解決しちゃいます！		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4316</PointerOffset>
+      <JapaneseText>合い言葉は……せーの！			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4844</PointerOffset>
+      <JapaneseText>真実を得るためならば、私は……。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5188</PointerOffset>
+      <JapaneseText>……僕は。				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5596</PointerOffset>
+      <JapaneseText>戦うー。				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

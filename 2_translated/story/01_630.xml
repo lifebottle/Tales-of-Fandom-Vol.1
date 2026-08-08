@@ -1,0 +1,277 @@
+<SceneText>
+  <FriendlyName>01_630</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Mint Adenade</JapaneseText>
+      <EnglishText>Mint Adenade</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>3300</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Cless Albane</JapaneseText>
+      <EnglishText>Cless Albane</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>3200</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>204</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes>Empty Line</Notes>
+      <Id>0</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>772</PointerOffset>
+      <JapaneseText>トーティスの橋
+現在</JapaneseText>
+      <EnglishText/>
+      <Notes>System Message</Notes>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1084</PointerOffset>
+      <JapaneseText>イライザさんとは、その後、
+どうなったのですか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3300</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1540</PointerOffset>
+      <JapaneseText>それきり、だよ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3200</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1884</PointerOffset>
+      <JapaneseText>もう手紙も来なくなったし、父親と
+いっしょに村に来ることもなくなった。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3200</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2180</PointerOffset>
+      <JapaneseText>一年位前に、別の町に引っ越したって
+チェスターから聞いたけど、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3200</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2252</PointerOffset>
+      <JapaneseText>どこかは知らないんだ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3200</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2628</PointerOffset>
+      <JapaneseText>ショック……でしたか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3300</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2924</PointerOffset>
+      <JapaneseText>うーん……それがさ、不思議なんだけど、
+そうでもなかったんだ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3200</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3340</PointerOffset>
+      <JapaneseText>チェスターのことが、あったからかも
+しれないけど。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3200</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3668</PointerOffset>
+      <JapaneseText>チェスターさん？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3300</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3988</PointerOffset>
+      <JapaneseText>うん。あいつが村にいるときは、
+毎日話しかけてたからさ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3200</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4428</PointerOffset>
+      <JapaneseText>ほとんど相手にされてなかったけど、
+もう意地だったよ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3200</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4932</PointerOffset>
+      <JapaneseText>狩猟隊の人が、
+チェスターはいつもああだから気にするな、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3200</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5004</PointerOffset>
+      <JapaneseText>って慰めてくれたりしたけど、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3200</SpeakerId>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5300</PointerOffset>
+      <JapaneseText>おもしろかったな。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3200</SpeakerId>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5724</PointerOffset>
+      <JapaneseText>どうしてですか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3300</SpeakerId>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6140</PointerOffset>
+      <JapaneseText>父さんは、この村の相談役だったんだ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3200</SpeakerId>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6436</PointerOffset>
+      <JapaneseText>だから、どの家の人も、
+僕には気を使ってくれてね。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3200</SpeakerId>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6732</PointerOffset>
+      <JapaneseText>ちやほやされてきた、っていうのかな。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3200</SpeakerId>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7156</PointerOffset>
+      <JapaneseText>だけど、チェスターは容赦がなくてさ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3200</SpeakerId>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7452</PointerOffset>
+      <JapaneseText>それが、なんだか新鮮で楽しかったんだ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3200</SpeakerId>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7748</PointerOffset>
+      <JapaneseText>……でも、そんなので、どうして
+チェスターさんと仲良くなれたのですか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3300</SpeakerId>
+      <Id>22</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8300</PointerOffset>
+      <JapaneseText>何かきっかけが、あったのですか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3300</SpeakerId>
+      <Id>23</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8724</PointerOffset>
+      <JapaneseText>うん。……あったんだ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3200</SpeakerId>
+      <Id>24</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9164</PointerOffset>
+      <JapaneseText>僕と、チェスターしか知らない……。
+ある事件が。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3200</SpeakerId>
+      <Id>25</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9372</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes>Empty Line</Notes>
+      <Id>26</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Strings>
+</SceneText>

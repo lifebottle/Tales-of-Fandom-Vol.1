@@ -1,0 +1,297 @@
+<SceneText>
+  <FriendlyName>03_820</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Primula Rosso</JapaneseText>
+      <EnglishText>Primula Rosso</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>1100</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Keele Zeibel</JapaneseText>
+      <EnglishText>Keele Zeibel</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>300</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>844</PointerOffset>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText>　</EnglishText>
+      <Notes>Single JP space line</Notes>
+      <Id>0</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>916</PointerOffset>
+      <JapaneseText>フンフフンフン〜♪
+エッグベア香草焼きは火加減が命！	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>988</PointerOffset>
+      <JapaneseText>うりゃ！
+うりゃうりゃうりゃ！			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1564</PointerOffset>
+      <JapaneseText>ふう。					</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1636</PointerOffset>
+      <JapaneseText>材料費結構高くついたけど、
+ま、おめでたい出所祝いだもんね！	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1852</PointerOffset>
+      <JapaneseText>あ……出所っていうのは変かな？
+えへへ。				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2228</PointerOffset>
+      <JapaneseText>ん？					</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2348</PointerOffset>
+      <JapaneseText>すみませーん。
+キールさんからのお届けものですけど〜。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2948</PointerOffset>
+      <JapaneseText>アレレ？
+クレーメルトークが……？		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3508</PointerOffset>
+      <JapaneseText>ドアを先に開ける&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3516</PointerOffset>
+      <JapaneseText>クレーメルトークに出る&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3844</PointerOffset>
+      <JapaneseText>はいはいはいはい。
+ちょっとお待ちくださいね〜。		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4364</PointerOffset>
+      <JapaneseText>お待たせしました……
+きゃあっ！？				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5620</PointerOffset>
+      <JapaneseText>はい。プリムラです。			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5884</PointerOffset>
+      <JapaneseText>――聞こえるか！　僕だ！		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6148</PointerOffset>
+      <JapaneseText>ふわー。
+サンクの部屋を離れると音が――		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6412</PointerOffset>
+      <JapaneseText>捜査はどうなってるんだ！
+もう教授会は終わってしまったぞ！	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6676</PointerOffset>
+      <JapaneseText>どうなってるもなにも、もう解決よ。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6892</PointerOffset>
+      <JapaneseText>それよりあなた、いまどこにいるの？
+早くしないと料理が冷めちゃうよー。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7156</PointerOffset>
+      <JapaneseText>なにを言っているんだ！？
+僕はまだ実験室に監禁されたままだ！	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7452</PointerOffset>
+      <JapaneseText>えーっ！？　なんで！？
+証拠の試験用紙、渡しておいたのに！	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7716</PointerOffset>
+      <JapaneseText>渡した？　
+誰に渡したんだ！？			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8004</PointerOffset>
+      <JapaneseText>ア、アルジェント教授に……。		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>22</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8268</PointerOffset>
+      <JapaneseText>やられた！				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>23</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8340</PointerOffset>
+      <JapaneseText>証拠が教授会に渡っていないとなると
+考えられるのはただひとつ！		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>24</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8412</PointerOffset>
+      <JapaneseText>教授もきっとグルなんだ！		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>25</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8676</PointerOffset>
+      <JapaneseText>えーーーーっ！？				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>26</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9692</PointerOffset>
+      <JapaneseText>きゃーっ！				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>27</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9996</PointerOffset>
+      <JapaneseText>プリムラ！？
+プリムラーーッ！			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>28</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

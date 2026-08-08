@@ -1,0 +1,89 @@
+<SceneText>
+  <FriendlyName>08_6020</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Stahn Aileron</JapaneseText>
+      <EnglishText>Stahn Aileron</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>2200</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Leon Magnus</JapaneseText>
+      <EnglishText>Leon Magnus</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>2400</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>316</PointerOffset>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText>　</EnglishText>
+      <Notes>Single JP space line</Notes>
+      <Id>0</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>628</PointerOffset>
+      <JapaneseText>あ！　そのアイス、何味だ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2200</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>940</PointerOffset>
+      <JapaneseText>……いちご味だが？	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2400</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1204</PointerOffset>
+      <JapaneseText>頼む！
+俺のバニラ味と取り替えてくれよ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2200</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1468</PointerOffset>
+      <JapaneseText>リリスがいちご味が好きなんだけど
+さっき売り切れちゃったらしくてさー。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2200</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1732</PointerOffset>
+      <JapaneseText>おまえの事情なぞ知らん！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2400</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1996</PointerOffset>
+      <JapaneseText>急いでるんだ、そこをどけ！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2400</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

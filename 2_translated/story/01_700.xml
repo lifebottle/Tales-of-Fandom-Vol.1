@@ -1,0 +1,260 @@
+<SceneText>
+  <FriendlyName>01_700</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Mint Adenade</JapaneseText>
+      <EnglishText>Mint Adenade</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>3300</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Cless Albane</JapaneseText>
+      <EnglishText>Cless Albane</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>3200</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>204</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes>Empty Line</Notes>
+      <Id>0</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>732</PointerOffset>
+      <JapaneseText>トーティスの橋
+現在</JapaneseText>
+      <EnglishText/>
+      <Notes>System Message</Notes>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1044</PointerOffset>
+      <JapaneseText>それで……どうなったのですか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3300</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1500</PointerOffset>
+      <JapaneseText>僕は、動けなくなった盗賊たちを
+縛り上げて、父さんたちを呼んだ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3200</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1796</PointerOffset>
+      <JapaneseText>連中は一人残らず王都に送られて、
+縛り首になったよ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3200</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2180</PointerOffset>
+      <JapaneseText>チェスターさんも……？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3300</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2572</PointerOffset>
+      <JapaneseText>いや。あいつはならなかった。
+護送中に、まんまと逃げたんだ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3200</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3124</PointerOffset>
+      <JapaneseText>それきり、行方知れずさ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3200</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3548</PointerOffset>
+      <JapaneseText>あの……アミィさんは、
+どうなったのですか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3300</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4036</PointerOffset>
+      <JapaneseText>彼女は何も知らなかったみたいだけど、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3200</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4332</PointerOffset>
+      <JapaneseText>村においておくわけにはいかなかったから、
+ゴーリさんが誰かに預けたって聞いたよ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3200</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4708</PointerOffset>
+      <JapaneseText>どこの誰かってのは知らないけど。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3200</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5108</PointerOffset>
+      <JapaneseText>そうですか……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3300</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5452</PointerOffset>
+      <JapaneseText>でも、惜しかったよ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3200</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5748</PointerOffset>
+      <JapaneseText>チェスターの弓の腕前は、
+本当にすごかったから。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3200</SpeakerId>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6172</PointerOffset>
+      <JapaneseText>あの時、あいつが弦を外してなかったら、
+やられてたのは僕の方だったかも知れない。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3200</SpeakerId>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6516</PointerOffset>
+      <JapaneseText>頼もしい仲間になってくれたかも
+しれませんね。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3300</SpeakerId>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6940</PointerOffset>
+      <JapaneseText>そうだね。
+……さあ、そろそろ出発しようか。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3200</SpeakerId>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7796</PointerOffset>
+      <JapaneseText>え？　村を再建するのではなかった
+のですか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3300</SpeakerId>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8284</PointerOffset>
+      <JapaneseText>やだなあ、どうしたのさミント。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3200</SpeakerId>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8836</PointerOffset>
+      <JapaneseText>二人で、ミントの家に行こうって話だった
+じゃないか。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3200</SpeakerId>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9228</PointerOffset>
+      <JapaneseText>……いまさら、僕一人で村を立て直しても、
+仕方ないよ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3200</SpeakerId>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9788</PointerOffset>
+      <JapaneseText>さ、行こう。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3200</SpeakerId>
+      <Id>22</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10260</PointerOffset>
+      <JapaneseText>は……い……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3300</SpeakerId>
+      <Id>23</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10532</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes>Empty Line</Notes>
+      <Id>24</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Strings>
+</SceneText>

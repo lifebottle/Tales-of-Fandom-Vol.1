@@ -1,0 +1,245 @@
+<SceneText>
+  <FriendlyName>08_3010</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Farah Oersted</JapaneseText>
+      <EnglishText>Farah Oersted</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>200</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Philia Felice</JapaneseText>
+      <EnglishText>Philia Felice</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>2500</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>316</PointerOffset>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText>　</EnglishText>
+      <Notes>Single JP space line</Notes>
+      <Id>0</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>660</PointerOffset>
+      <JapaneseText>あのう……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>200</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>924</PointerOffset>
+      <JapaneseText>何かお悩みのようですけど、
+どうか、したんですか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>200</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1188</PointerOffset>
+      <JapaneseText>あ、いえ……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2500</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1452</PointerOffset>
+      <JapaneseText>孤児院のことでちょっと……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2500</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1716</PointerOffset>
+      <JapaneseText>孤児院？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>200</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1980</PointerOffset>
+      <JapaneseText>わたしでよかったら、力になりますよ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>200</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2396</PointerOffset>
+      <JapaneseText>で、でも……、
+ご迷惑をおかけするわけには参りませんわ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2500</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2660</PointerOffset>
+      <JapaneseText>なぁに言ってるんですか。
+困ったときはお互いさま！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>200</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2924</PointerOffset>
+      <JapaneseText>ぜひ、事情を聞かせてください！	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>200</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3188</PointerOffset>
+      <JapaneseText>は、はい。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2500</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3452</PointerOffset>
+      <JapaneseText>あの……実は、
+孤児院で毎年の恒例になっている</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2500</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3716</PointerOffset>
+      <JapaneseText>ボランティアによる演劇公演を
+今年も予定していたのですけれど、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2500</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3980</PointerOffset>
+      <JapaneseText>肝心の役者さんが集まらないのです。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2500</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4244</PointerOffset>
+      <JapaneseText>なぁんだ、そんなことですか。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>200</SpeakerId>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4556</PointerOffset>
+      <JapaneseText>役者さんを集めればいいんですね？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>200</SpeakerId>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4820</PointerOffset>
+      <JapaneseText>はい。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2500</SpeakerId>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5084</PointerOffset>
+      <JapaneseText>５人ほど……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2500</SpeakerId>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5348</PointerOffset>
+      <JapaneseText>５人……ですか。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>200</SpeakerId>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5612</PointerOffset>
+      <JapaneseText>無理ですよね、やっぱり。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2500</SpeakerId>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5876</PointerOffset>
+      <JapaneseText>そ、そんなことないです。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>200</SpeakerId>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6140</PointerOffset>
+      <JapaneseText>イケる、イケる！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>200</SpeakerId>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6692</PointerOffset>
+      <JapaneseText>ちょっと待っててくださいね！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>200</SpeakerId>
+      <Id>22</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7036</PointerOffset>
+      <JapaneseText>あ……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2500</SpeakerId>
+      <Id>23</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

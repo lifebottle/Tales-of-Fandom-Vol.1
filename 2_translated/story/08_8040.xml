@@ -1,0 +1,91 @@
+<SceneText>
+  <FriendlyName>08_8040</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Reid Hershel</JapaneseText>
+      <EnglishText>Reid Hershel</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>100</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Max</JapaneseText>
+      <EnglishText>Max</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>700</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>316</PointerOffset>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText>　</EnglishText>
+      <Notes>Single JP space line</Notes>
+      <Id>0</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>660</PointerOffset>
+      <JapaneseText>フォッグ！
+メルディから聞いたけどアンタが便せんを？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>100</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>924</PointerOffset>
+      <JapaneseText>おぅ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>700</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1188</PointerOffset>
+      <JapaneseText>ぐわはははは！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>700</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1484</PointerOffset>
+      <JapaneseText>な、なんで笑うんだよ。
+インフェリアの文字読めるのか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>100</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1772</PointerOffset>
+      <JapaneseText>アレのソレか？
+おーぅ、アレはよ……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>700</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2036</PointerOffset>
+      <JapaneseText>うわあああああ！
+それ以上言うなーーーー！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>100</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

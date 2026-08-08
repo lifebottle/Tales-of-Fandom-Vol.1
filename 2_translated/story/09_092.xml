@@ -1,0 +1,25 @@
+<SceneText>
+  <FriendlyName>09_092</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>220</PointerOffset>
+      <JapaneseText>リッド全治三ヶ月……。</JapaneseText>
+      <EnglishText/>
+      <Notes>Title Card</Notes>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>308</PointerOffset>
+      <JapaneseText>おしまい</JapaneseText>
+      <EnglishText/>
+      <Notes>Title Card</Notes>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

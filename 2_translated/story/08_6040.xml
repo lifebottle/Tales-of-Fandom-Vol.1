@@ -1,0 +1,79 @@
+<SceneText>
+  <FriendlyName>08_6040</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Philia Felice</JapaneseText>
+      <EnglishText>Philia Felice</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>2500</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Leon Magnus</JapaneseText>
+      <EnglishText>Leon Magnus</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>2400</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>316</PointerOffset>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText>　</EnglishText>
+      <Notes>Single JP space line</Notes>
+      <Id>0</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>628</PointerOffset>
+      <JapaneseText>リオンさん！　ちからを貸してください。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2500</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>940</PointerOffset>
+      <JapaneseText>暑さにやられて倒れた方がいるんです。
+アイスがほしい、ほしいとうわごとのように</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2500</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1204</PointerOffset>
+      <JapaneseText>……そいつ、チェルシーじゃないのか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2400</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1500</PointerOffset>
+      <JapaneseText>なぜ知ってるんですか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2500</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1764</PointerOffset>
+      <JapaneseText>にぶい女は嫌いだ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2400</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

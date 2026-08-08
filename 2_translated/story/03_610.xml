@@ -1,0 +1,112 @@
+<SceneText>
+  <FriendlyName>03_610</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Lunaria Burns</JapaneseText>
+      <EnglishText>Lunaria Burns</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>2000</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Primula Rosso</JapaneseText>
+      <EnglishText>Primula Rosso</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>1100</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>852</PointerOffset>
+      <JapaneseText>はあ。
+シルフの君……。			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2000</SpeakerId>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1116</PointerOffset>
+      <JapaneseText>も〜〜〜〜！				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1388</PointerOffset>
+      <JapaneseText>人ひとりの運命がかかってるんだから
+なんとか思い出してよぉ〜〜！		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1604</PointerOffset>
+      <JapaneseText>彼の口癖は、こう。
+『恋は失われるが、愛はその逆』。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2000</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1676</PointerOffset>
+      <JapaneseText>ああ、シルフの君……。			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2000</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1940</PointerOffset>
+      <JapaneseText>もうっ！
+じゃ、後始末はよろしくねっ！		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2772</PointerOffset>
+      <JapaneseText>……それにしても。
+風の宮殿って、いったいどこの事？	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2988</PointerOffset>
+      <JapaneseText>風……シルフ……？			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3204</PointerOffset>
+      <JapaneseText>うわーん！
+キールに聴いてみたほうがいいのかな！？	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

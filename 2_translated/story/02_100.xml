@@ -1,0 +1,573 @@
+<SceneText>
+  <FriendlyName>02_100</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Lilith Aileron</JapaneseText>
+      <EnglishText>Lilith Aileron</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>2600</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Swordian Dymlos (Broken)</JapaneseText>
+      <EnglishText>Swordian Dymlos (Broken)</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>3000</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Farah Oersted</JapaneseText>
+      <EnglishText>Farah Oersted</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>200</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>772</PointerOffset>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText>　</EnglishText>
+      <Notes>Single JP space line</Notes>
+      <Id>0</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>956</PointerOffset>
+      <JapaneseText>ペスカトーレ、ペスカトーレと。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1444</PointerOffset>
+      <JapaneseText>勝算はあるのか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3000</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1700</PointerOffset>
+      <JapaneseText>どうだろ。まあ、なんとかなるでしょ。
+何度も作ったことあるし。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1900</PointerOffset>
+      <JapaneseText>たぶん特定の食材の選び方が、
+勝敗を左右することになると思うの。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2068</PointerOffset>
+      <JapaneseText>ほう。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3000</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2236</PointerOffset>
+      <JapaneseText>特に大事なのは、そうね……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2356</PointerOffset>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText>　</EnglishText>
+      <Notes>Single JP space line</Notes>
+      <Id>7</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2404</PointerOffset>
+      <JapaneseText>トマトかな&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2412</PointerOffset>
+      <JapaneseText>エビかな&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2420</PointerOffset>
+      <JapaneseText>チーズかな&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2708</PointerOffset>
+      <JapaneseText>ふんだんに入れた海産物の調和を取り、
+味をととのえる役割を果たすトマト。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2876</PointerOffset>
+      <JapaneseText>やっぱり、
+一番大切なのはトマトだわ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3436</PointerOffset>
+      <JapaneseText>確かにエビやイカといった海産物こそ、
+ペスカトーレのメインとなる食材だわ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3620</PointerOffset>
+      <JapaneseText>でもそれが重要なのは、ある意味当たり前。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3788</PointerOffset>
+      <JapaneseText>注目すべきは、むしろトマトじゃないかな？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4300</PointerOffset>
+      <JapaneseText>チーズはオプションよ。
+絶対必要な食材、というわけではない。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4436</PointerOffset>
+      <JapaneseText>ベースとなる部分に注目すべきね。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4652</PointerOffset>
+      <JapaneseText>たとえば、トマトとか。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5164</PointerOffset>
+      <JapaneseText>ここに並んだトマトではだめなのか。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3000</SpeakerId>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5764</PointerOffset>
+      <JapaneseText>そうねえ……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6516</PointerOffset>
+      <JapaneseText>あら、あなたは……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6868</PointerOffset>
+      <JapaneseText>あ、味マスター……さん？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>200</SpeakerId>
+      <Id>22</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7268</PointerOffset>
+      <JapaneseText>あの、その……コ、コンニチハ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>200</SpeakerId>
+      <Id>23</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7572</PointerOffset>
+      <JapaneseText>こんにちは。お買い物ですか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>24</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7828</PointerOffset>
+      <JapaneseText>は、はい。
+味マスターさんもお買い物ですか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>200</SpeakerId>
+      <Id>25</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8084</PointerOffset>
+      <JapaneseText>ええ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>26</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8340</PointerOffset>
+      <JapaneseText>そうですか。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>200</SpeakerId>
+      <Id>27</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8596</PointerOffset>
+      <JapaneseText>それじゃあわたし、この辺で。
+ごきげんよう。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>28</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8796</PointerOffset>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText>　</EnglishText>
+      <Notes>Single JP space line</Notes>
+      <Id>29</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9612</PointerOffset>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText>　</EnglishText>
+      <Notes>Single JP space line</Notes>
+      <Id>30</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9676</PointerOffset>
+      <JapaneseText>ふ〜、緊張したあ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>31</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10236</PointerOffset>
+      <JapaneseText>あの場でケンカしやしないかと、
+ひやひやしたぞ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3000</SpeakerId>
+      <Id>32</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10540</PointerOffset>
+      <JapaneseText>そんなことしないよー。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>33</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10708</PointerOffset>
+      <JapaneseText>勝負はキッチンでつけるわ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>34</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10908</PointerOffset>
+      <JapaneseText>『今度の相手は、なんだか手強そうだ。
+なあファラ、勝算はあるのか？』</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>35</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11756</PointerOffset>
+      <JapaneseText>『だいじょぶ。自信あるよ。
+わたしには、切り札があるんだから』</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>36</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11860</PointerOffset>
+      <JapaneseText>『セレスティアのあれを使えば、
+きっとおいしいペスカトーレが作れるよ』</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>37</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11964</PointerOffset>
+      <JapaneseText>『ああ……。あれね』</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>38</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12068</PointerOffset>
+      <JapaneseText>『なるほど、あれか』</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>39</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12668</PointerOffset>
+      <JapaneseText>切り札……何かしら。気になるわね……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>40</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12956</PointerOffset>
+      <JapaneseText>それで？
+トマトをどこで調達するつもりだ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3000</SpeakerId>
+      <Id>41</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13116</PointerOffset>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText>　</EnglishText>
+      <Notes>Single JP space line</Notes>
+      <Id>42</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13164</PointerOffset>
+      <JapaneseText>この店で買う&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>43</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13172</PointerOffset>
+      <JapaneseText>この世界を探しまわる&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>44</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13180</PointerOffset>
+      <JapaneseText>いったんリーネに帰る&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>45</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13420</PointerOffset>
+      <JapaneseText>やっぱり、ここにあるのにするわ。
+品はいいし、鮮度も悪くないもの。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>46</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13660</PointerOffset>
+      <JapaneseText>そうか。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3000</SpeakerId>
+      <Id>47</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14140</PointerOffset>
+      <JapaneseText>もう少し、この世界を見てまわりたいな。
+ほかの所に、もっといいのがあるかも。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>48</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14348</PointerOffset>
+      <JapaneseText>そこまでやるか？　当初の目的から、
+どんどん離れていっているぞ……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3000</SpeakerId>
+      <Id>49</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14684</PointerOffset>
+      <JapaneseText>文句いわない。乗りかかった船よ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>50</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15060</PointerOffset>
+      <JapaneseText>ねえディムロス。
+いったん、リーネの村に戻ってもいい？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>51</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15228</PointerOffset>
+      <JapaneseText>なぜだ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3000</SpeakerId>
+      <Id>52</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15492</PointerOffset>
+      <JapaneseText>あたしだけの味で、勝負したいの。
+そのために、村でとれた材料が必要なのよ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>53</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15692</PointerOffset>
+      <JapaneseText>そこまでして、
+勝負にこだわる理由があるのか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3000</SpeakerId>
+      <Id>54</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15996</PointerOffset>
+      <JapaneseText>あるわ。これは名誉の問題よ。
+リーネ一番の料理上手としての、ね。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>55</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16260</PointerOffset>
+      <JapaneseText>自分自身、そして村のためにも、
+この勝負、負けられないわ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>56</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16508</PointerOffset>
+      <JapaneseText>……やれやれ。
+すっかり、のぼせ上がっているな。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3000</SpeakerId>
+      <Id>57</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16780</PointerOffset>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText>　</EnglishText>
+      <Notes>Single JP space line</Notes>
+      <Id>58</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Strings>
+</SceneText>

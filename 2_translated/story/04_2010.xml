@@ -1,0 +1,236 @@
+<SceneText>
+  <FriendlyName>04_2010</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Arche Klein</JapaneseText>
+      <EnglishText>Arche Klein</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>3400</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Chester Burklight</JapaneseText>
+      <EnglishText>Chester Burklight</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>3600</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Claus F. Lester</JapaneseText>
+      <EnglishText>Claus F. Lester</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>3500</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Milard Rune</JapaneseText>
+      <EnglishText>Milard Rune</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>4200</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>76</PointerOffset>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText>　</EnglishText>
+      <Notes>Single JP space line</Notes>
+      <Id>0</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>708</PointerOffset>
+      <JapaneseText>クラース！　これなーにー？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3400</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1004</PointerOffset>
+      <JapaneseText>さっき、森の中で拾ったんだけどよ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3600</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1172</PointerOffset>
+      <JapaneseText>ふむ、これは雷の精霊の力を利用した
+エレキギターという楽器だ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3500</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1340</PointerOffset>
+      <JapaneseText>私に貸してみなさい。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3500</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2052</PointerOffset>
+      <JapaneseText>すごいじゃん……なんかうっとり。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3400</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2268</PointerOffset>
+      <JapaneseText>アンタにそんな特技があったとはな。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3600</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2532</PointerOffset>
+      <JapaneseText>あら、なつかしい！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4200</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2852</PointerOffset>
+      <JapaneseText>ミ、ミラルド！？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3500</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3044</PointerOffset>
+      <JapaneseText>クラース、またバンドでもやるの？
+髪立てて、ばっちりお化粧もして。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4200</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3396</PointerOffset>
+      <JapaneseText>クラースが！？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3600</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3636</PointerOffset>
+      <JapaneseText>そうよ。ライブでは空中ダイブなんかも
+やったっけ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4200</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3940</PointerOffset>
+      <JapaneseText>クラースが！？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3400</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4164</PointerOffset>
+      <JapaneseText>忘れた！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3500</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4436</PointerOffset>
+      <JapaneseText>またまた。クラースの縦ノリギタープレイ
+って当時ちょっとした話題だったじゃない。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4200</SpeakerId>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4660</PointerOffset>
+      <JapaneseText>記憶にない！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3500</SpeakerId>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4876</PointerOffset>
+      <JapaneseText>なによ！　青春の思い出になるぞ！　なんて
+人を勝手にマネージャーにしたくせに……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4200</SpeakerId>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4948</PointerOffset>
+      <JapaneseText>ぜんぶ忘れたっていうの？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4200</SpeakerId>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5116</PointerOffset>
+      <JapaneseText>だぁ〜もぅ！　
+それ以上バラすなと言っとるんだ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3500</SpeakerId>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5924</PointerOffset>
+      <JapaneseText>青春の……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3600</SpeakerId>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6196</PointerOffset>
+      <JapaneseText>思い出だって！　くっさ〜。
+うしゃしゃしゃしゃっ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3400</SpeakerId>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

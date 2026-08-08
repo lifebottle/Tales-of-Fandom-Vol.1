@@ -1,0 +1,706 @@
+<SceneText>
+  <FriendlyName>03_660</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Keele Zeibel</JapaneseText>
+      <EnglishText>Keele Zeibel</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>300</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Primula Rosso</JapaneseText>
+      <EnglishText>Primula Rosso</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>1100</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Cinq Lissajous</JapaneseText>
+      <EnglishText>Cinq Lissajous</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>1700</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>1652</PointerOffset>
+      <JapaneseText>君が持っている生徒一覧表で、
+誰がどの部屋にいるのかは一目瞭然だ。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1724</PointerOffset>
+      <JapaneseText>それを見て行動するといいだろう。
+頑張ってくれ！				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2036</PointerOffset>
+      <JapaneseText>「評議会」の名前を口にしていた男の名前は
+ジャッジだかジャッドだかって男だ。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2108</PointerOffset>
+      <JapaneseText>似たような名前の男の部屋に
+行ってみてくれ！			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2444</PointerOffset>
+      <JapaneseText>四〇二号室にジャッコって名前の男が
+いるじゃないか。			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2516</PointerOffset>
+      <JapaneseText>しっかりしてくれよ、まったく！　
+僕の命運は君が握っているんだぞ！？	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2932</PointerOffset>
+      <JapaneseText>暗号か……。たぶん、イニシャルを示して
+いるんじゃないか？			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3004</PointerOffset>
+      <JapaneseText>Ｗ・Ｗ、Ａ・Ｈ、Ａ・Ｌ、だったよな？	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3316</PointerOffset>
+      <JapaneseText>たとえば君の名前はプリムラ・ロッソだから
+イニシャルはＰ・Ｒ。			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3388</PointerOffset>
+      <JapaneseText>僕の場合はＫ・Ｚになるというわけだな。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3460</PointerOffset>
+      <JapaneseText>君が持っている生徒一覧表と
+照らし合わせれば、			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3532</PointerOffset>
+      <JapaneseText>イニシャルから元の名前を
+割り出せるんじゃないかな……？		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3868</PointerOffset>
+      <JapaneseText>……。Ｗ・Ｗはウィリアム・ウォーベックの
+イニシャルだろう？			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3940</PointerOffset>
+      <JapaneseText>彼が住んでいるのは三〇二号室。
+そういうふうに考えるだけの問題だろう！	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4156</PointerOffset>
+      <JapaneseText>君には本当に失望させられるよ。		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4228</PointerOffset>
+      <JapaneseText>どうやら僕も覚悟を決めたほうが
+良さそうだな……。			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4644</PointerOffset>
+      <JapaneseText>う〜ん。新聞部新聞部……。		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4860</PointerOffset>
+      <JapaneseText>プリムラ、君の知り合いに
+新聞部のやつはいないか？		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5172</PointerOffset>
+      <JapaneseText>「姿なき晶霊術士事件」を解決した時に取材に来た女の子。			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5244</PointerOffset>
+      <JapaneseText>取材の前に名乗ってなかったか？		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5580</PointerOffset>
+      <JapaneseText>ルナリアって名乗っていたよな、
+あの女の子。				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5996</PointerOffset>
+      <JapaneseText>風の宮殿に住んでるって……なんのことだ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6212</PointerOffset>
+      <JapaneseText>シルフの君……シルフ……シルフ。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>22</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6428</PointerOffset>
+      <JapaneseText>そうだ！　シルフに関係する部屋を
+探してみたらどうだ！？			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>23</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6740</PointerOffset>
+      <JapaneseText>晶霊にはそれぞれイメージカラーがあるのは
+知っているな？				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>24</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6812</PointerOffset>
+      <JapaneseText>イフリートは赤。ウンディーネは水色。
+シルフは……。				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>25</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7148</PointerOffset>
+      <JapaneseText>学生寮は各階ごとに色分けされている。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>26</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7220</PointerOffset>
+      <JapaneseText>シルフのイメージカラーである緑色の階に
+住んでいる男。そいつが「シルフの君」だ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>27</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7556</PointerOffset>
+      <JapaneseText>僕たちの行為自体、ある意味神への挑戦とも
+いえるよな。				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>28</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7628</PointerOffset>
+      <JapaneseText>「呪われし場所」というのは、単なる文章の
+遊びだろう。あまり気にしないほうがいいな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>29</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7940</PointerOffset>
+      <JapaneseText>学問とはすなわち、			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>30</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8012</PointerOffset>
+      <JapaneseText>セイファートが定めた目に見えないルールを
+探り当てようとする試みだ。		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>31</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8084</PointerOffset>
+      <JapaneseText>これを「神の御業に挑む」と
+言っているんじゃないか？		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>32</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8420</PointerOffset>
+      <JapaneseText>行くべきところは教室しかないだろう、
+少しは自分で頭を働かせてくれ！		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>33</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8636</PointerOffset>
+      <JapaneseText>君には想像力というものが
+欠落しているのか！？			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>34</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9052</PointerOffset>
+      <JapaneseText>これは難しいな……。			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>35</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9124</PointerOffset>
+      <JapaneseText>ルナリアの言葉のなかに、
+ヒントがあるのかもしれない。		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>36</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9196</PointerOffset>
+      <JapaneseText>彼女が話した内容で、まだヒントになって
+いないような部分がないか、		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>37</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9268</PointerOffset>
+      <JapaneseText>しっかり思い出してくれ。		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>38</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9580</PointerOffset>
+      <JapaneseText>それぞれの名前を
+部屋番号に入れ替えてみようか。		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>39</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9652</PointerOffset>
+      <JapaneseText>キーファは「一〇二」。アンは「一〇一」
+……う〜ん、わからないな。		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>40</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9988</PointerOffset>
+      <JapaneseText>そうか！
+「恋は失われるが、愛はその逆」だ！	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>41</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10060</PointerOffset>
+      <JapaneseText>「失われる」を
+「引き算する」と考えると……。		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>42</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10132</PointerOffset>
+      <JapaneseText>もうわかったよな！？			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>43</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10516</PointerOffset>
+      <JapaneseText>やっぱり、今はやめとこ。
+少しは自力でがんばらないとね……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>44</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15404</PointerOffset>
+      <JapaneseText>やあ、調査は順調にすすんでいるかい？	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1700</SpeakerId>
+      <Id>45</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15476</PointerOffset>
+      <JapaneseText>行き詰まったら、僕のクレーメルトークで
+キールにヒントを聞いてみるといいよ！	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1700</SpeakerId>
+      <Id>46</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15676</PointerOffset>
+      <JapaneseText>クレーメルトークを使う&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>47</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15684</PointerOffset>
+      <JapaneseText>別の場所に移動する&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>48</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15764</PointerOffset>
+      <JapaneseText>クレーメルトークを使う&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>49</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15772</PointerOffset>
+      <JapaneseText>別の場所に移動する&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>50</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15780</PointerOffset>
+      <JapaneseText>これまでに得た情報の再確認&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>51</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16164</PointerOffset>
+      <JapaneseText>未徴収者リストの内容&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>52</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16292</PointerOffset>
+      <JapaneseText>未徴収者リストの内容&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>53</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16300</PointerOffset>
+      <JapaneseText>ルナリアの発言&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>54</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16428</PointerOffset>
+      <JapaneseText>未徴収者リストの内容&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>55</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16436</PointerOffset>
+      <JapaneseText>ルナリアの発言&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>56</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16444</PointerOffset>
+      <JapaneseText>キーファのメモ１&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>57</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16524</PointerOffset>
+      <JapaneseText>未徴収者リストの内容&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>58</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16532</PointerOffset>
+      <JapaneseText>ルナリアの発言&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>59</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16540</PointerOffset>
+      <JapaneseText>キーファのメモ１&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>60</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16548</PointerOffset>
+      <JapaneseText>キーファのメモ２&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>61</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16756</PointerOffset>
+      <JapaneseText>『未徴収者リスト。
+Ｗ・Ｗ、Ａ・Ｈ、Ａ・Ｌ』</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>62</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17004</PointerOffset>
+      <JapaneseText>「彼の口癖は、こう。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>63</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17076</PointerOffset>
+      <JapaneseText>『恋は失われるが、愛はその逆』。
+ああ、シルフの君……」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>64</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17276</PointerOffset>
+      <JapaneseText>「ようこそシルフの宮殿へ！
+恋に焦がれし子猫たちよ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>65</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17348</PointerOffset>
+      <JapaneseText>人がセイファートの御業に挑まんと
+する、かの呪われし場所にて、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>66</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17420</PointerOffset>
+      <JapaneseText>君を待つ。
+	　　　君たちのキーファ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>67</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17588</PointerOffset>
+      <JapaneseText>「我はアンを愛し、ルナリアを
+愛する。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>68</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17660</PointerOffset>
+      <JapaneseText>さらにミルドレッドに恋し、
+グロッサに恋する。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>69</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17732</PointerOffset>
+      <JapaneseText>最後にウィリアムとグロッサを
+愛する……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>70</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17804</PointerOffset>
+      <JapaneseText>わが元に来れ、子猫たちよ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>71</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

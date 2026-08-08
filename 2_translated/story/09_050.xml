@@ -1,0 +1,207 @@
+<SceneText>
+  <FriendlyName>09_050</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Reid Hershel</JapaneseText>
+      <EnglishText>Reid Hershel</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>100</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Keele Zeibel</JapaneseText>
+      <EnglishText>Keele Zeibel</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>300</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Meredy</JapaneseText>
+      <EnglishText>Meredy</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>400</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>420</PointerOffset>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText>　</EnglishText>
+      <Notes>Single JP space line</Notes>
+      <Id>0</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>652</PointerOffset>
+      <JapaneseText>お〜いキール、
+イイこと教えてやる！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>100</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>868</PointerOffset>
+      <JapaneseText>なんだイイことって！？
+また食べ物の話なんじゃないのか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1084</PointerOffset>
+      <JapaneseText>ちげーよ！
+髪の毛のことだよ！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>100</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1300</PointerOffset>
+      <JapaneseText>えっ！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1644</PointerOffset>
+      <JapaneseText>髪の毛は古くなった頭皮が残ったり、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>100</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1716</PointerOffset>
+      <JapaneseText>整髪料が毛穴につまると
+生えにくくなるんだぜ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>100</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1932</PointerOffset>
+      <JapaneseText>と、あと、あ〜んまり
+アタマ使ってるとハゲるらしいなぁ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>100</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2228</PointerOffset>
+      <JapaneseText>な、なにを根拠に……、
+じゃあ天才はみなハゲるとでもいうのか！？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2444</PointerOffset>
+      <JapaneseText>天才ってのは、あんまりアタマ使わなくても
+エライから天才なんじゃねーの！？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>100</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2740</PointerOffset>
+      <JapaneseText>ううっ、じゃあボクは天才ではなく、
+どちらかというと秀才タイプで、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2812</PointerOffset>
+      <JapaneseText>頭よく使うからハゲるかもしれない。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3028</PointerOffset>
+      <JapaneseText>『けけけ、考えろ、考えろっ！
+そしてハゲろぉ！！』</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3388</PointerOffset>
+      <JapaneseText>キール、
+メルディがしつもんあるよ〜</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>400</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3604</PointerOffset>
+      <JapaneseText>なんでヴォルトに
+髪の毛ないかなぁ〜☆</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>400</SpeakerId>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3868</PointerOffset>
+      <JapaneseText>うあぁぁぁぁああ！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4132</PointerOffset>
+      <JapaneseText>なあなあ、なんでかな〜？
+キールぅ☆</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>400</SpeakerId>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4396</PointerOffset>
+      <JapaneseText>『メルディ、あどけない顔して
+さらりとトドメさしやがった！！』</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>400</SpeakerId>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

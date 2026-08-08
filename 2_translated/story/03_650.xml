@@ -1,0 +1,249 @@
+<SceneText>
+  <FriendlyName>03_650</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Anne Hideaway</JapaneseText>
+      <EnglishText>Anne Hideaway</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>1300</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Primula Rosso</JapaneseText>
+      <EnglishText>Primula Rosso</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>1100</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>692</PointerOffset>
+      <JapaneseText>試験勉強で徹夜続きでお肌がカサカサ。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1300</SpeakerId>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1108</PointerOffset>
+      <JapaneseText>しっかり考えて行動すると、
+名探偵ポイントがあがるらしいわよ。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1300</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1212</PointerOffset>
+      <JapaneseText>…………。				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1300</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1572</PointerOffset>
+      <JapaneseText>伝説の生物ねこにん……。
+友達になりたい……。			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1300</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1988</PointerOffset>
+      <JapaneseText>適当に移動していると名探偵ポイントが
+下がっちゃうわよ。			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1300</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2092</PointerOffset>
+      <JapaneseText>…………。				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1300</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2452</PointerOffset>
+      <JapaneseText>ウルタス・ブイの劇、観に行きたいなあ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1300</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2868</PointerOffset>
+      <JapaneseText>適当に動き回るくらいなら
+アドバイスを仰いだほうが賢明ね		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1300</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2972</PointerOffset>
+      <JapaneseText>…………。				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1300</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3332</PointerOffset>
+      <JapaneseText>大晶霊が主人公の小説を書いているの。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1300</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3404</PointerOffset>
+      <JapaneseText>イフリート様は知性的で、
+ハンサムなお方なのよ。			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1300</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3476</PointerOffset>
+      <JapaneseText>ああ、イフリート様……。		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1300</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3892</PointerOffset>
+      <JapaneseText>王都から来るロエンって人、
+アレンデ姫にぞっこんなんだって！	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1300</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4308</PointerOffset>
+      <JapaneseText>世界は謎に満ちている……ぶつぶつぶつ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1300</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4948</PointerOffset>
+      <JapaneseText>あてずっぽうに動いても時間の無駄だわ。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5164</PointerOffset>
+      <JapaneseText>ちゃんと考えて行動しなくちゃ
+名探偵の名が泣くわ！			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5548</PointerOffset>
+      <JapaneseText>あてずっぽうに動いても無意味だわ！	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5764</PointerOffset>
+      <JapaneseText>	ここはよーく考えて……考えて……
+考えて……。				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6052</PointerOffset>
+      <JapaneseText>プリムラ。僕は実は……。			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6124</PointerOffset>
+      <JapaneseText>セレスティアから来た
+セレスティア王子なんだ！		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6196</PointerOffset>
+      <JapaneseText>えーっ！				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6660</PointerOffset>
+      <JapaneseText>……はっ？！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6876</PointerOffset>
+      <JapaneseText>また無意味な妄想に逃げてしまった……。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>22</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7508</PointerOffset>
+      <JapaneseText>グロッサの部屋</JapaneseText>
+      <EnglishText/>
+      <Notes>System Message</Notes>
+      <Id>23</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

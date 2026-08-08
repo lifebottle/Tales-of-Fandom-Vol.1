@@ -1,0 +1,147 @@
+<SceneText>
+  <FriendlyName>08_6010</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Pink Haried girl</JapaneseText>
+      <EnglishText>Pink Haried girl</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>6200</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Leon Magnus</JapaneseText>
+      <EnglishText>Leon Magnus</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>2400</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>316</PointerOffset>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText>　</EnglishText>
+      <Notes>Single JP space line</Notes>
+      <Id>0</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>628</PointerOffset>
+      <JapaneseText>いちご味アイスクリーム
+お待ちのお客様〜？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6200</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>972</PointerOffset>
+      <JapaneseText>いらっしゃいませんかー？
+美味しいアイスクリームが溶けますよ〜。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6200</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1364</PointerOffset>
+      <JapaneseText>わかってる！　何度も呼ぶな！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2400</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1660</PointerOffset>
+      <JapaneseText>持ち帰り用で頼む。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2400</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1924</PointerOffset>
+      <JapaneseText>……すぐ食べるほうが
+美味しいですよ。ホラ、最近暑いし。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6200</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2188</PointerOffset>
+      <JapaneseText>僕が食べるわけじゃない。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2400</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2452</PointerOffset>
+      <JapaneseText>……そんな恥ずかしがらずとも。
+甘いモノ好きな男の子、最近フツーですよ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6200</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2796</PointerOffset>
+      <JapaneseText>僕が食べるんじゃないって言ってるだろう！
+……おまえ、この場で斬られたいのか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2400</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3436</PointerOffset>
+      <JapaneseText>い、いえ、めっそうもございません！
+ドライアイス、おまけしときますねー。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6200</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3748</PointerOffset>
+      <JapaneseText>ふん！　たくさん入れておけ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2400</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4012</PointerOffset>
+      <JapaneseText>ま、ま、毎度ありがとうございまーす！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6200</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4324</PointerOffset>
+      <JapaneseText>ふん！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2400</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

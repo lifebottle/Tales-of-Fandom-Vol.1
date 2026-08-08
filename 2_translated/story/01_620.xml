@@ -1,0 +1,582 @@
+<SceneText>
+  <FriendlyName>01_620</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Elisa Stein</JapaneseText>
+      <EnglishText>Elisa Stein</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>4700</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Cless Albane (Young)</JapaneseText>
+      <EnglishText>Cless Albane (Young)</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>3900</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Ami Burklight (Young-er)</JapaneseText>
+      <EnglishText>Ami Burklight (Young-er)</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>3800</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>204</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes>Empty Line</Notes>
+      <Id>0</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>804</PointerOffset>
+      <JapaneseText>教会裏の林</JapaneseText>
+      <EnglishText/>
+      <Notes>System Message</Notes>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1244</PointerOffset>
+      <JapaneseText>ふふ、いー感じ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4700</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1748</PointerOffset>
+      <JapaneseText>イライザ……？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3900</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2180</PointerOffset>
+      <JapaneseText>ほら、クレス……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4700</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2748</PointerOffset>
+      <JapaneseText>ん……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4700</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3372</PointerOffset>
+      <JapaneseText>だ、だめだよ、イライザ、こんなこと……。
+それも、こんなところで……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3900</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3748</PointerOffset>
+      <JapaneseText>教会の裏手っていう、背徳的な場所だから
+いいんじゃない。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4700</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4044</PointerOffset>
+      <JapaneseText>ほらあ……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4700</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4484</PointerOffset>
+      <JapaneseText>んー。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4700</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4900</PointerOffset>
+      <JapaneseText>や、やっぱり、まずいよ……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3900</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5292</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes>Empty Line</Notes>
+      <Id>11</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5836</PointerOffset>
+      <JapaneseText>なにさ、意気地なし。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4700</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6196</PointerOffset>
+      <JapaneseText>ご、ごめん。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3900</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6412</PointerOffset>
+      <JapaneseText>あーあ……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3900</SpeakerId>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7028</PointerOffset>
+      <JapaneseText>こーんなつまんない男だってわかってたら、
+告白なんかしなかったのにな。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4700</SpeakerId>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7492</PointerOffset>
+      <JapaneseText>……ごめん。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3900</SpeakerId>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7692</PointerOffset>
+      <JapaneseText>もう！	それ！
+いちいち謝るのやめてよね！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3900</SpeakerId>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8052</PointerOffset>
+      <JapaneseText>三ヶ月ぶりにあった恋人に、
+気の効いた台詞のひとつくらい言ったら？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4700</SpeakerId>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8396</PointerOffset>
+      <JapaneseText>……ごめん。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3900</SpeakerId>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8836</PointerOffset>
+      <JapaneseText>そ、そうだ！明日、湖に行こうよ！
+大きな魚がさ―― </JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3900</SpeakerId>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9196</PointerOffset>
+      <JapaneseText>また湖？　イ・ヤ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4700</SpeakerId>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9988</PointerOffset>
+      <JapaneseText>じ、じゃあ、森に行こうよ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3900</SpeakerId>
+      <Id>22</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10412</PointerOffset>
+      <JapaneseText>あの大きな木の広場で、お弁当を食べて、
+それから―― </JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3900</SpeakerId>
+      <Id>23</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10724</PointerOffset>
+      <JapaneseText>枯れ木なんか、見たくないわ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4700</SpeakerId>
+      <Id>24</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11164</PointerOffset>
+      <JapaneseText>そ、そう……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3900</SpeakerId>
+      <Id>25</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11668</PointerOffset>
+      <JapaneseText>……もう、いいわよ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4700</SpeakerId>
+      <Id>26</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11940</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes>Empty Line</Notes>
+      <Id>27</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12460</PointerOffset>
+      <JapaneseText>あ、待って……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3900</SpeakerId>
+      <Id>28</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12804</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes>Empty Line</Notes>
+      <Id>29</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14508</PointerOffset>
+      <JapaneseText>あっ……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3800</SpeakerId>
+      <Id>30</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14804</PointerOffset>
+      <JapaneseText>あら、あんた―― </JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4700</SpeakerId>
+      <Id>31</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14972</PointerOffset>
+      <JapaneseText>イライザ、待ってよ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3900</SpeakerId>
+      <Id>32</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15188</PointerOffset>
+      <JapaneseText>ふん……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4700</SpeakerId>
+      <Id>33</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15620</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes>Empty Line</Notes>
+      <Id>34</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15948</PointerOffset>
+      <JapaneseText>あ、アミィちゃん……。
+は…、はは……、まいったな……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3900</SpeakerId>
+      <Id>35</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16556</PointerOffset>
+      <JapaneseText>あ、あの……こんにちは……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3800</SpeakerId>
+      <Id>36</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16724</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes>Empty Line</Notes>
+      <Id>37</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16780</PointerOffset>
+      <JapaneseText>イライザとのことを話す&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>38</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16788</PointerOffset>
+      <JapaneseText>話さない&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>39</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17260</PointerOffset>
+      <JapaneseText>ごらんの通りさ。情けないよね？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3900</SpeakerId>
+      <Id>40</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17716</PointerOffset>
+      <JapaneseText>アミィちゃんは聞いたことあるかな？
+ユークリッドの「アニマーゴ商会」って店。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3900</SpeakerId>
+      <Id>41</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18316</PointerOffset>
+      <JapaneseText>彼女はそこの子でさ、
+ときどき、この村に父親と商売に来てて、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3900</SpeakerId>
+      <Id>42</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18756</PointerOffset>
+      <JapaneseText>それで知り合ったんだ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3900</SpeakerId>
+      <Id>43</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19108</PointerOffset>
+      <JapaneseText>でも、やっぱり都会の子だよね。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3900</SpeakerId>
+      <Id>44</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19492</PointerOffset>
+      <JapaneseText>僕みたいな田舎の子は、
+つまんないんだろうな。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3900</SpeakerId>
+      <Id>45</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19956</PointerOffset>
+      <JapaneseText>都会の子ってのはさ、やっぱり―― </JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3900</SpeakerId>
+      <Id>46</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20468</PointerOffset>
+      <JapaneseText>ユークリッドに住んでたからじゃないです！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3800</SpeakerId>
+      <Id>47</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20844</PointerOffset>
+      <JapaneseText>え？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3900</SpeakerId>
+      <Id>48</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21164</PointerOffset>
+      <JapaneseText>……どこに住んでたかなんて、
+関係ないです。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3800</SpeakerId>
+      <Id>49</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21692</PointerOffset>
+      <JapaneseText>はは……そ、そうだよね。
+僕が、情けないのが悪いんだもんな。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3900</SpeakerId>
+      <Id>50</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22428</PointerOffset>
+      <JapaneseText>えっ？　そ、そうじゃなくて―― </JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3800</SpeakerId>
+      <Id>51</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22956</PointerOffset>
+      <JapaneseText>ごめんね、アミィちゃん。それじゃ……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3900</SpeakerId>
+      <Id>52</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23100</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes>Empty Line</Notes>
+      <Id>53</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23596</PointerOffset>
+      <JapaneseText>クレスさん！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3800</SpeakerId>
+      <Id>54</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23740</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes>Empty Line</Notes>
+      <Id>55</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24052</PointerOffset>
+      <JapaneseText>ぼ、僕、用事があるから！
+それじゃ、またね、アミィちゃん。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3900</SpeakerId>
+      <Id>56</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24492</PointerOffset>
+      <JapaneseText>あっ……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3800</SpeakerId>
+      <Id>57</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24844</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes>Empty Line</Notes>
+      <Id>58</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25036</PointerOffset>
+      <JapaneseText>なにやってんだろ、僕……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>59</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25132</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes>Empty Line</Notes>
+      <Id>60</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Strings>
+</SceneText>

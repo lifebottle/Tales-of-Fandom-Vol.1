@@ -1,0 +1,70 @@
+<SceneText>
+  <FriendlyName>03_200</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Hyura Vermillion</JapaneseText>
+      <EnglishText>Hyura Vermillion</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>1600</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>612</PointerOffset>
+      <JapaneseText>大学の地下</JapaneseText>
+      <EnglishText/>
+      <Notes>System Message</Notes>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1036</PointerOffset>
+      <JapaneseText>フフ……。どうした。
+早くもギブアップか、ダ・メー探偵くん？	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1600</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1188</PointerOffset>
+      <JapaneseText>ヒューラにヒントを聞く&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1196</PointerOffset>
+      <JapaneseText>この場所を立ち去る&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1524</PointerOffset>
+      <JapaneseText>足を使うことは探偵の基本だ。		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1600</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1596</PointerOffset>
+      <JapaneseText>この町をしっかりと隅から隅まで
+調べ尽くしてみるんだな。		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1600</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

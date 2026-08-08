@@ -1,0 +1,17 @@
+<SceneText>
+  <FriendlyName>09_062</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>220</PointerOffset>
+      <JapaneseText>その後……。</JapaneseText>
+      <EnglishText/>
+      <Notes>Title Card</Notes>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

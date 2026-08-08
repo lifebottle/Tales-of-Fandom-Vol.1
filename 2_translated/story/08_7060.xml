@@ -1,0 +1,89 @@
+<SceneText>
+  <FriendlyName>08_7060</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Claus F. Lester</JapaneseText>
+      <EnglishText>Claus F. Lester</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>3500</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Suzu Fujibayashi</JapaneseText>
+      <EnglishText>Suzu Fujibayashi</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>4100</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>316</PointerOffset>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText>　</EnglishText>
+      <Notes>Single JP space line</Notes>
+      <Id>0</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>660</PointerOffset>
+      <JapaneseText>すずちゃん、その本は？	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3500</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>948</PointerOffset>
+      <JapaneseText>おじいさまに、
+買ってくるように言われたのです。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4100</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1212</PointerOffset>
+      <JapaneseText>頼む、わたしにそれを譲ってくれ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3500</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1476</PointerOffset>
+      <JapaneseText>それはできかねます。
+いいつけにそむくことになりますから。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4100</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1740</PointerOffset>
+      <JapaneseText>わたしにはその本が必要なんだ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3500</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2004</PointerOffset>
+      <JapaneseText>なるほど。ならば勝負ですね。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4100</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

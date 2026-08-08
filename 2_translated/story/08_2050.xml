@@ -1,0 +1,89 @@
+<SceneText>
+  <FriendlyName>08_2050</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Leon Magnus</JapaneseText>
+      <EnglishText>Leon Magnus</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>2400</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Rutee Katrea</JapaneseText>
+      <EnglishText>Rutee Katrea</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>2300</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>316</PointerOffset>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText>　</EnglishText>
+      <Notes>Single JP space line</Notes>
+      <Id>0</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>580</PointerOffset>
+      <JapaneseText>ふう……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2400</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>892</PointerOffset>
+      <JapaneseText>うわ！　なに悩ましい声出して、
+マジカルルージュなんか見つめてんのよ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2300</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1156</PointerOffset>
+      <JapaneseText>あんた、女装癖でもあるわけ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2300</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1508</PointerOffset>
+      <JapaneseText>し、失敬なこと言うな！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2400</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2060</PointerOffset>
+      <JapaneseText>むきになってる。あやしーんだ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2300</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2324</PointerOffset>
+      <JapaneseText>もし無実だって証明したいのなら、
+そのルージュ、よこしなさ〜い！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2300</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

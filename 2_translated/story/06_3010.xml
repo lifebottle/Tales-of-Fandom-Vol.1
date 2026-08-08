@@ -1,0 +1,53 @@
+<SceneText>
+  <FriendlyName>06_3010</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Arche Klein</JapaneseText>
+      <EnglishText>Arche Klein</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>3400</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>228</PointerOffset>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText>　</EnglishText>
+      <Notes>Single JP space line</Notes>
+      <Id>0</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>516</PointerOffset>
+      <JapaneseText>はぁい！　みなさんお待たせいたしました！テイルズ杯争奪ウィス決定戦でえっす！	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3400</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>732</PointerOffset>
+      <JapaneseText>各組の様子はこのアーチェさんがしっかり
+中継しちゃうからお聞き逃しなく〜♪	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3400</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>948</PointerOffset>
+      <JapaneseText>えーと、まずはクレス・ルーティ組からね。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3400</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

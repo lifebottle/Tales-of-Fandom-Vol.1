@@ -1,0 +1,170 @@
+<SceneText>
+  <FriendlyName>04_6010</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Leon Magnus</JapaneseText>
+      <EnglishText>Leon Magnus</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>2400</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Stahn Aileron</JapaneseText>
+      <EnglishText>Stahn Aileron</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>2200</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Chelsea Torn</JapaneseText>
+      <EnglishText>Chelsea Torn</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>2700</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Philia Felice</JapaneseText>
+      <EnglishText>Philia Felice</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>2500</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>540</PointerOffset>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText>　</EnglishText>
+      <Notes>Single JP space line</Notes>
+      <Id>0</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>724</PointerOffset>
+      <JapaneseText>爪竜連牙斬！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2400</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1108</PointerOffset>
+      <JapaneseText>空牙昇竜脚！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2200</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1444</PointerOffset>
+      <JapaneseText>チェルシー！　とどめを頼む！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2200</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1708</PointerOffset>
+      <JapaneseText>もう矢がありませーん！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2700</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2020</PointerOffset>
+      <JapaneseText>ここは私が！
+フィリアボム！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2500</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2700</PointerOffset>
+      <JapaneseText>なぜとどめを刺さない？
+磨き込まれた矢が１本残ってるじゃないか！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2400</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3020</PointerOffset>
+      <JapaneseText>これは戦闘用の矢じゃないんですぅ。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2700</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3284</PointerOffset>
+      <JapaneseText>じゃあ、何の矢なんだい？		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2200</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3548</PointerOffset>
+      <JapaneseText>これはぁ、矢尻にベルベーヌの汁を
+かけて作ったおまじない用の矢ですよぉ。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2700</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3812</PointerOffset>
+      <JapaneseText>どんなおまじないなんですか？		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2500</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4116</PointerOffset>
+      <JapaneseText>えへ。内緒ですけど、この矢で好きな人を
+射つと想いが通じるんですぅ。		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2700</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4380</PointerOffset>
+      <JapaneseText>……ウッドロウさまぁ♪</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2700</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4700</PointerOffset>
+      <JapaneseText>死ぬぞ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2400</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

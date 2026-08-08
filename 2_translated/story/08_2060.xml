@@ -1,0 +1,90 @@
+<SceneText>
+  <FriendlyName>08_2060</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Marian Fustel</JapaneseText>
+      <EnglishText>Marian Fustel</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>2800</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Rutee Katrea</JapaneseText>
+      <EnglishText>Rutee Katrea</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>2300</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>308</PointerOffset>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText>　</EnglishText>
+      <Notes>Single JP space line</Notes>
+      <Id>0</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>652</PointerOffset>
+      <JapaneseText>ルーティさん……、
+リオンの贈り物を返してください。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2800</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>868</PointerOffset>
+      <JapaneseText>『なるほど。
+このルージュはマリアンへの……。』</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2300</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1084</PointerOffset>
+      <JapaneseText>やだ、って言ったら？		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2300</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1348</PointerOffset>
+      <JapaneseText>……だんな様秘蔵の
+デリスエンブレムをかけて戦います。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2800</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1612</PointerOffset>
+      <JapaneseText>貴重品じゃない！　</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2300</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1988</PointerOffset>
+      <JapaneseText>よーし、いくわよ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2300</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

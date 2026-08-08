@@ -1,0 +1,98 @@
+<SceneText>
+  <FriendlyName>08_2040</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Rutee Katrea</JapaneseText>
+      <EnglishText>Rutee Katrea</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>2300</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Chelsea Torn</JapaneseText>
+      <EnglishText>Chelsea Torn</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>2700</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>316</PointerOffset>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText>　</EnglishText>
+      <Notes>Single JP space line</Notes>
+      <Id>0</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>692</PointerOffset>
+      <JapaneseText>チェルシーが持ってるアイテムの中で
+一番値段が高いのって、なに？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2300</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>956</PointerOffset>
+      <JapaneseText>おまじない用のベルベーヌですねえ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2700</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1172</PointerOffset>
+      <JapaneseText>『売ったら３７５ガルドか。』</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2300</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1388</PointerOffset>
+      <JapaneseText>それ、あたしにちょうだい。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2300</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1652</PointerOffset>
+      <JapaneseText>え？　やですよぅ。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2700</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1916</PointerOffset>
+      <JapaneseText>いいじゃない。願なんてかけても
+無理なもんは無理よ。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2300</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2228</PointerOffset>
+      <JapaneseText>ひどいですぅ〜！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2700</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

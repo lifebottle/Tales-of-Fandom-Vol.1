@@ -1,0 +1,783 @@
+<SceneText>
+  <FriendlyName>03_590</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Male 4</JapaneseText>
+      <EnglishText>Male 4</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>6300</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Lunaria Burns</JapaneseText>
+      <EnglishText>Lunaria Burns</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>2000</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Primula Rosso</JapaneseText>
+      <EnglishText>Primula Rosso</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>1100</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>2964</PointerOffset>
+      <JapaneseText>まいったな、留守かな……？		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6300</SpeakerId>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3364</PointerOffset>
+      <JapaneseText>ルナリアの部屋</JapaneseText>
+      <EnglishText/>
+      <Notes>System Message</Notes>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3772</PointerOffset>
+      <JapaneseText>は、はい……？				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2000</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4036</PointerOffset>
+      <JapaneseText>新聞部のルナリアさんですよね？		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4284</PointerOffset>
+      <JapaneseText>…………。				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2000</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4548</PointerOffset>
+      <JapaneseText>突然ごめんなさい。			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4620</PointerOffset>
+      <JapaneseText>探偵部のプリムラですけど、
+ちょっとお話しをききたくって。		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4908</PointerOffset>
+      <JapaneseText>あ、あの……
+い、いまちょっと取り込み中だから。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2000</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5204</PointerOffset>
+      <JapaneseText>『？？？
+この子……』				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5356</PointerOffset>
+      <JapaneseText>ルナリアさんじゃないのでは？&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5364</PointerOffset>
+      <JapaneseText>どうして震えてるのかしら？&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5780</PointerOffset>
+      <JapaneseText>『ううん。				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5852</PointerOffset>
+      <JapaneseText>「姿なき晶霊術士」事件が解決したとき
+確かにこの子、自分でルナリアって言ってた</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5924</PointerOffset>
+      <JapaneseText>……どうしてこんなに震えてるの？』	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6276</PointerOffset>
+      <JapaneseText>『すごく顔色が悪いわ。
+どう考えてもヘン！』			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6588</PointerOffset>
+      <JapaneseText>こ、この前の爆弾事件は
+お手柄だったね！			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2000</SpeakerId>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6844</PointerOffset>
+      <JapaneseText>犯人がまさか双子だったなんて驚き！	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2000</SpeakerId>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7140</PointerOffset>
+      <JapaneseText>『……ん？				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7260</PointerOffset>
+      <JapaneseText>目で合図を送ってる……？	
+部屋の中に誰かいるの……？』		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7524</PointerOffset>
+      <JapaneseText>…………。				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2000</SpeakerId>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7612</PointerOffset>
+      <JapaneseText>は、犯人が双子なら
+アリバイ作るのは簡単だもんね！		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2000</SpeakerId>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7932</PointerOffset>
+      <JapaneseText>…………。
+そうね。				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8132</PointerOffset>
+      <JapaneseText>でも、晶霊爆弾がしゃがんでいれば
+火傷しないっていうのは			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>22</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8260</PointerOffset>
+      <JapaneseText>さすがに気がつかなかったわ。		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>23</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8524</PointerOffset>
+      <JapaneseText>しゃがんでいると……？			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2000</SpeakerId>
+      <Id>24</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8788</PointerOffset>
+      <JapaneseText>そう。
+……じゃあ、また明日にでも。		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>25</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9228</PointerOffset>
+      <JapaneseText>うん。				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2000</SpeakerId>
+      <Id>26</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9796</PointerOffset>
+      <JapaneseText>すぅー……。				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>27</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9868</PointerOffset>
+      <JapaneseText>偉大なる晶霊よ、
+私に力を――				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>28</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10004</PointerOffset>
+      <JapaneseText>ファイアーボールッ！			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>29</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11308</PointerOffset>
+      <JapaneseText>ルナリア！
+大丈夫！？				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>30</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11612</PointerOffset>
+      <JapaneseText>けほっ、けほっ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2000</SpeakerId>
+      <Id>31</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12116</PointerOffset>
+      <JapaneseText>上のほう狙ってくれたからなんとか、ね。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2000</SpeakerId>
+      <Id>32</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12380</PointerOffset>
+      <JapaneseText>うっ、ううっ！
+いきなりブッ放すとはなんてヤツだ！	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6300</SpeakerId>
+      <Id>33</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12540</PointerOffset>
+      <JapaneseText>畜生、お前もぶっ殺してやる！
+うおーーーっ！				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6300</SpeakerId>
+      <Id>34</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13180</PointerOffset>
+      <JapaneseText>プリムラ、危ないっ！		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2000</SpeakerId>
+      <Id>35</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13444</PointerOffset>
+      <JapaneseText>しぶといわね！			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>36</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13676</PointerOffset>
+      <JapaneseText>ファイアーボールを撃つ&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>37</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13684</PointerOffset>
+      <JapaneseText>ウィンドカッターを撃つ&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>38</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13692</PointerOffset>
+      <JapaneseText>身をかわす&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>39</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13876</PointerOffset>
+      <JapaneseText>ま、間に合わないっ！？			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>40</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13948</PointerOffset>
+      <JapaneseText>うりゃあーーーっ！			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>41</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14388</PointerOffset>
+      <JapaneseText>きゃーっ！			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>42</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14956</PointerOffset>
+      <JapaneseText>プ、プリムラーっ！？		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2000</SpeakerId>
+      <Id>43</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15340</PointerOffset>
+      <JapaneseText>けっけっけ。			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6300</SpeakerId>
+      <Id>44</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15412</PointerOffset>
+      <JapaneseText>騒ぎを聞きつけて人が集まる前に
+一気に終わらせてやるぜ〜〜〜。		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6300</SpeakerId>
+      <Id>45</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15676</PointerOffset>
+      <JapaneseText>う、ううう……。			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>46</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16948</PointerOffset>
+      <JapaneseText>せやっ！			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>47</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17500</PointerOffset>
+      <JapaneseText>くそっ！	
+だがいつまでも逃げ回れると思うなよ！	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6300</SpeakerId>
+      <Id>48</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18220</PointerOffset>
+      <JapaneseText>せやっ！			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>49</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18740</PointerOffset>
+      <JapaneseText>疲れてきたな？　次でおしまいだ！	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6300</SpeakerId>
+      <Id>50</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19684</PointerOffset>
+      <JapaneseText>うおりゃあああ〜〜！			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6300</SpeakerId>
+      <Id>51</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20108</PointerOffset>
+      <JapaneseText>せやっ！				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>52</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20428</PointerOffset>
+      <JapaneseText>はあ、はあ、はあ……。			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>53</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21140</PointerOffset>
+      <JapaneseText>本ばっか読んでるモヤシっ子が
+いつまでも俺様の攻撃をかわせるかよ。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6300</SpeakerId>
+      <Id>54</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21404</PointerOffset>
+      <JapaneseText>はあ、はあ。本をバカにすると、
+本にしかえしされるわよ……？		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>55</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21956</PointerOffset>
+      <JapaneseText>なにぃ？				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6300</SpeakerId>
+      <Id>56</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22276</PointerOffset>
+      <JapaneseText>あなたがいま立っている場所。
+横に本棚があるわよね？			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>57</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22348</PointerOffset>
+      <JapaneseText>その隣にも本棚。また隣に本棚。		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>58</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22732</PointerOffset>
+      <JapaneseText>私のところまで連なった本棚。
+で、私の隣のをこうやって……。		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>59</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22964</PointerOffset>
+      <JapaneseText>倒すと……！				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>60</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23036</PointerOffset>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText>　</EnglishText>
+      <Notes>Single JP space line</Notes>
+      <Id>61</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23316</PointerOffset>
+      <JapaneseText>う、うわ〜〜〜！			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>62</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23604</PointerOffset>
+      <JapaneseText>うぎゃ！				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>63</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23676</PointerOffset>
+      <JapaneseText>やったぁ！				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>64</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23748</PointerOffset>
+      <JapaneseText>見たか！
+これぞプリムラ式連鎖的本棚崩壊術！	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>65</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24356</PointerOffset>
+      <JapaneseText>ありがとう！
+いきなり部屋に踏み込まれちゃって……。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2000</SpeakerId>
+      <Id>66</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24428</PointerOffset>
+      <JapaneseText>危ないところにあなたが来てくれて
+本当に助かったわ。			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2000</SpeakerId>
+      <Id>67</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24604</PointerOffset>
+      <JapaneseText>一体何の騒ぎだ！？			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2000</SpeakerId>
+      <Id>68</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24772</PointerOffset>
+      <JapaneseText>誰かの悲鳴が聞こえたわよ！？		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2000</SpeakerId>
+      <Id>69</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25140</PointerOffset>
+      <JapaneseText>……ゴメン、時間が無いの。		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>70</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25212</PointerOffset>
+      <JapaneseText>あなたが調べていた不正入学の事、
+パパパッと聞かせてくれない？		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>71</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25620</PointerOffset>
+      <JapaneseText>う、うん。				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2000</SpeakerId>
+      <Id>72</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25852</PointerOffset>
+      <JapaneseText>私も調べ始めたばっかりなんだけど、	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2000</SpeakerId>
+      <Id>73</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25924</PointerOffset>
+      <JapaneseText>貴族やお金持ちの子供を中心に、
+結構な数の不正入学があるらしいの。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2000</SpeakerId>
+      <Id>74</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26188</PointerOffset>
+      <JapaneseText>その情報の出所は！？　証拠は！？		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>75</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26716</PointerOffset>
+      <JapaneseText>カフェで知り合った男の子が酔って、	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2000</SpeakerId>
+      <Id>76</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26788</PointerOffset>
+      <JapaneseText>「自分は不正入学した。罪深い男だ。」
+って言ってたのよ。			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2000</SpeakerId>
+      <Id>77</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>27052</PointerOffset>
+      <JapaneseText>名前を教えて！				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>78</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>27316</PointerOffset>
+      <JapaneseText>それが……私も酔っ払ってたから。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2000</SpeakerId>
+      <Id>79</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>27388</PointerOffset>
+      <JapaneseText>あれから毎日カフェに行って
+もう一回会えないかな〜、なんて。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2000</SpeakerId>
+      <Id>80</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>27460</PointerOffset>
+      <JapaneseText>結構カッコイイ子だったし……ウフフ。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2000</SpeakerId>
+      <Id>81</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

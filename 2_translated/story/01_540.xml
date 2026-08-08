@@ -1,0 +1,311 @@
+<SceneText>
+  <FriendlyName>01_540</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Miguel Albane</JapaneseText>
+      <EnglishText>Miguel Albane</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>4300</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Maria Albane</JapaneseText>
+      <EnglishText>Maria Albane</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>4500</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Cless Albane (Young)</JapaneseText>
+      <EnglishText>Cless Albane (Young)</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>3900</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>204</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes>Empty Line</Notes>
+      <Id>0</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>892</PointerOffset>
+      <JapaneseText>アルベイン家
+道場</JapaneseText>
+      <EnglishText/>
+      <Notes>System Message</Notes>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1308</PointerOffset>
+      <JapaneseText>母さん、クレスはどこにいる？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4300</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1604</PointerOffset>
+      <JapaneseText>クレスなら、みんなに混じって
+剣のお稽古ですよ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4500</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1900</PointerOffset>
+      <JapaneseText>そうか……クレス！　ちょっとおいで！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4300</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2852</PointerOffset>
+      <JapaneseText>なあに、父さん？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3900</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3148</PointerOffset>
+      <JapaneseText>ゴーリおじさんが、ユークリッドから
+戻ったぞ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4300</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3476</PointerOffset>
+      <JapaneseText>えっ！　じゃあ―― </JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3900</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3932</PointerOffset>
+      <JapaneseText>そうだ。お待ちかねの兄妹も一緒だ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4300</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4196</PointerOffset>
+      <JapaneseText>本当！？ やったあ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3900</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4612</PointerOffset>
+      <JapaneseText>さあ、早く支度しなさい。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4300</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4908</PointerOffset>
+      <JapaneseText>広場でゴーリおじさんが、
+みんなに紹介してくれるから。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4300</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5172</PointerOffset>
+      <JapaneseText>……このままじゃだめ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3900</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5548</PointerOffset>
+      <JapaneseText>汗臭いままじゃ、
+おともだちになれませんよ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4500</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5924</PointerOffset>
+      <JapaneseText>早く裏の井戸できれいにしてらっしゃい。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4500</SpeakerId>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6348</PointerOffset>
+      <JapaneseText>はーい。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3900</SpeakerId>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6676</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes>Empty Line</Notes>
+      <Id>16</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7028</PointerOffset>
+      <JapaneseText>……あなた、大丈夫なの？
+都会の子なのでしょう？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4500</SpeakerId>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7164</PointerOffset>
+      <JapaneseText>クレスに悪い影響はないかしら？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4500</SpeakerId>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7460</PointerOffset>
+      <JapaneseText>ゴーリが見込んで連れて来るんだ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4300</SpeakerId>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7532</PointerOffset>
+      <JapaneseText>バークライト夫妻も、悪い人ではなかった
+だろう？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4300</SpeakerId>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7988</PointerOffset>
+      <JapaneseText>それはそうだけど……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4500</SpeakerId>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8348</PointerOffset>
+      <JapaneseText>ユークリッドの役所に恩を売っておくのは
+村のためになる。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4300</SpeakerId>
+      <Id>22</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8692</PointerOffset>
+      <JapaneseText>連中は、王都から孤児を少しでも減らしたい
+と思っているからな。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4300</SpeakerId>
+      <Id>23</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9092</PointerOffset>
+      <JapaneseText>あなた！　子供を道具のように言わないで
+ください！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4500</SpeakerId>
+      <Id>24</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9516</PointerOffset>
+      <JapaneseText>悪かった。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4300</SpeakerId>
+      <Id>25</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9956</PointerOffset>
+      <JapaneseText>――クレス！　まだか！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4300</SpeakerId>
+      <Id>26</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10284</PointerOffset>
+      <JapaneseText>いま行くよ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4300</SpeakerId>
+      <Id>27</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10564</PointerOffset>
+      <JapaneseText>クレスの友達にふさわしいかどうかは、
+俺がちゃんと見極める。心配するな。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4300</SpeakerId>
+      <Id>28</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11020</PointerOffset>
+      <JapaneseText>……ええ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4500</SpeakerId>
+      <Id>29</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

@@ -1,0 +1,161 @@
+<SceneText>
+  <FriendlyName>06_4060</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Chelsea Torn</JapaneseText>
+      <EnglishText>Chelsea Torn</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>2700</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Leon Magnus</JapaneseText>
+      <EnglishText>Leon Magnus</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>2400</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>340</PointerOffset>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText>　</EnglishText>
+      <Notes>Single JP space line</Notes>
+      <Id>0</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>796</PointerOffset>
+      <JapaneseText>リオンさん、聞いてくださいよ！		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2700</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1012</PointerOffset>
+      <JapaneseText>女の子達はみんな強くって……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2700</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1316</PointerOffset>
+      <JapaneseText>ん？　何か隠してませんか？		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2700</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1660</PointerOffset>
+      <JapaneseText>べ、べつに。				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2400</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1948</PointerOffset>
+      <JapaneseText>……怪しいですぅ！			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2700</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2348</PointerOffset>
+      <JapaneseText>わっ！　貴様、何をする！	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2400</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2756</PointerOffset>
+      <JapaneseText>なんだコレ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2700</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2828</PointerOffset>
+      <JapaneseText>「１０日間であなたも見違えるほどイイ男」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2700</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3140</PointerOffset>
+      <JapaneseText>「男の魅力を最大限に引き出す
+ダンディセット」……ん？		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2700</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3412</PointerOffset>
+      <JapaneseText>リオンさんコレ返してきたんじゃ……？		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2700</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3796</PointerOffset>
+      <JapaneseText>たしかに返したぞ！　しかしだな
+身だしなみは男の礼儀として……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2400</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4060</PointerOffset>
+      <JapaneseText>また、買わされちゃったんですね？	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2700</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4476</PointerOffset>
+      <JapaneseText>……案外リオンさんってカワイイですぅ。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2700</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4740</PointerOffset>
+      <JapaneseText>うるさい！				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2400</SpeakerId>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

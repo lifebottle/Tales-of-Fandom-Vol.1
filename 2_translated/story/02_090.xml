@@ -1,0 +1,172 @@
+<SceneText>
+  <FriendlyName>02_090</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Male 5</JapaneseText>
+      <EnglishText>Male 5</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>6500</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Farah Oersted</JapaneseText>
+      <EnglishText>Farah Oersted</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>200</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Lilith Aileron</JapaneseText>
+      <EnglishText>Lilith Aileron</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>2600</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Swordian Dymlos (Broken)</JapaneseText>
+      <EnglishText>Swordian Dymlos (Broken)</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>3000</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>836</PointerOffset>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText>　</EnglishText>
+      <Notes>Single JP space line</Notes>
+      <Id>0</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>996</PointerOffset>
+      <JapaneseText>料理は剣よりも強し。
+料理を制するもの、世界を制す。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6500</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1140</PointerOffset>
+      <JapaneseText>紳士淑女の皆さま、こんにちは。
+ビストロシャンバールへようこそ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6500</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1348</PointerOffset>
+      <JapaneseText>今日も史上最強の料理対決！
+たっぷり堪能していただきます！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6500</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1724</PointerOffset>
+      <JapaneseText>わたしに、まかせなさーい！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>200</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2060</PointerOffset>
+      <JapaneseText>はあ……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2372</PointerOffset>
+      <JapaneseText>……なぜ、こうなる。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3000</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2684</PointerOffset>
+      <JapaneseText>仕方ないでしょ。
+あれだけ頼まれたら、断れないじゃない。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2852</PointerOffset>
+      <JapaneseText>まったく、お人好しにもほどがある。
+それがエルロン家の伝統か？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3000</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3252</PointerOffset>
+      <JapaneseText>オーダー入ります！
+「なつかしのペスカトーレ」！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6500</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3580</PointerOffset>
+      <JapaneseText>ペスカトーレ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3860</PointerOffset>
+      <JapaneseText>それでは両選手にはこれから、
+食材集めを開始してもらいます。レディー？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6500</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4188</PointerOffset>
+      <JapaneseText>ゴーッ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6500</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4564</PointerOffset>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText>　</EnglishText>
+      <Notes>Single JP space line</Notes>
+      <Id>13</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Strings>
+</SceneText>

@@ -1,0 +1,210 @@
+<SceneText>
+  <FriendlyName>04_1010</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Arche Klein</JapaneseText>
+      <EnglishText>Arche Klein</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>3400</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Chester Burklight</JapaneseText>
+      <EnglishText>Chester Burklight</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>3600</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Mint Adenade</JapaneseText>
+      <EnglishText>Mint Adenade</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>3300</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Claus F. Lester</JapaneseText>
+      <EnglishText>Claus F. Lester</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>3500</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>100</PointerOffset>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText>　</EnglishText>
+      <Notes>Single JP space line</Notes>
+      <Id>0</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>732</PointerOffset>
+      <JapaneseText>うぅぅぅぅぅー。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3400</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1764</PointerOffset>
+      <JapaneseText>おいおい……泣いてんのか？
+明日は嵐だな。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3600</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2140</PointerOffset>
+      <JapaneseText>だぁ！　うっさい、うっさい〜！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3400</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2484</PointerOffset>
+      <JapaneseText>チェスターだってこの本読んだら
+ぜーったい泣くもんね！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3400</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2692</PointerOffset>
+      <JapaneseText>あ！　「ユークリッドで泣き濡れて」！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3300</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2988</PointerOffset>
+      <JapaneseText>ミント、知ってんの？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3400</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3244</PointerOffset>
+      <JapaneseText>はい、もちろん！　恋愛小説の大家、
+ボロボワ・シャムダールの最新刊でしょう？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3300</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3452</PointerOffset>
+      <JapaneseText>彼女の「泣き濡れてシリーズ」は
+全巻持っています。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3300</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3564</PointerOffset>
+      <JapaneseText>今回はキャベツを選ぶ時のクセがきっかけで
+食材屋と恋に落ちるんですよね。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3300</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3724</PointerOffset>
+      <JapaneseText>それと、このヒロインは歴代の中で１番
+運動神経がよく、背も高いんですよ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3300</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4036</PointerOffset>
+      <JapaneseText>そ、そうなんだ……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3400</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4308</PointerOffset>
+      <JapaneseText>なかなかのマニアだな。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3500</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4556</PointerOffset>
+      <JapaneseText>いえ、私は山で暮らしていたので、楽しみ
+といえば行商人から買う恋愛小説くらいで。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3300</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4724</PointerOffset>
+      <JapaneseText>だからつまり、マニアだな。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3500</SpeakerId>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4996</PointerOffset>
+      <JapaneseText>ってことはミントってば意外と耳年増？
+実践もがんばんないとね〜。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3400</SpeakerId>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5212</PointerOffset>
+      <JapaneseText>アーチェさん！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3300</SpeakerId>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5380</PointerOffset>
+      <JapaneseText>うしゃしゃしゃしゃ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3400</SpeakerId>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

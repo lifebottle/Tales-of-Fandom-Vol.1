@@ -1,0 +1,101 @@
+<SceneText>
+  <FriendlyName>03_852</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Mildred O'Day</JapaneseText>
+      <EnglishText>Mildred O'Day</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>2100</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Cinq Lissajous</JapaneseText>
+      <EnglishText>Cinq Lissajous</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>1700</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>276</PointerOffset>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText>　</EnglishText>
+      <Notes>Single JP space line</Notes>
+      <Id>0</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>900</PointerOffset>
+      <JapaneseText>たいしたものだ……！
+まさか人間が空を飛べるとはな。		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2100</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1164</PointerOffset>
+      <JapaneseText>正確に言うと
+飛行ではなく滑空なんだけどね。		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1700</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1236</PointerOffset>
+      <JapaneseText>自力で飛んでいるわけではないから、
+強い風が吹いたりすると――		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1700</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1364</PointerOffset>
+      <JapaneseText>あ、あれ？
+あれれれれ？				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1700</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1436</PointerOffset>
+      <JapaneseText>うわーーーーーーーー！
+いやあああーーーーー！			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1700</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1868</PointerOffset>
+      <JapaneseText>……ああなるんだ。			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1700</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2132</PointerOffset>
+      <JapaneseText>……ままならんね。			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2100</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

@@ -1,0 +1,104 @@
+<SceneText>
+  <FriendlyName>08_5020</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Stahn Aileron</JapaneseText>
+      <EnglishText>Stahn Aileron</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>2200</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Rutee Katrea</JapaneseText>
+      <EnglishText>Rutee Katrea</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>2300</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Meredy</JapaneseText>
+      <EnglishText>Meredy</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>400</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Quickie</JapaneseText>
+      <EnglishText>Quickie</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>800</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>580</PointerOffset>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText>　</EnglishText>
+      <Notes>Single JP space line</Notes>
+      <Id>0</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>876</PointerOffset>
+      <JapaneseText>ごごご……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2200</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1092</PointerOffset>
+      <JapaneseText>それじゃ、いっくわよ〜。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2300</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1356</PointerOffset>
+      <JapaneseText>えいっ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2300</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1844</PointerOffset>
+      <JapaneseText>あ〜さだよ〜、おっきるがいいな〜！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>400</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2780</PointerOffset>
+      <JapaneseText>クィッキー
+ク、ク、ク、クィッキー！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>800</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3516</PointerOffset>
+      <JapaneseText>んが？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2200</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

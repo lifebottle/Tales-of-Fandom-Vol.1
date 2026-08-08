@@ -1,0 +1,233 @@
+<SceneText>
+  <FriendlyName>04_9010</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Chat</JapaneseText>
+      <EnglishText>Chat</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>600</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Reid Hershel</JapaneseText>
+      <EnglishText>Reid Hershel</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>100</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Keele Zeibel</JapaneseText>
+      <EnglishText>Keele Zeibel</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>300</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Ras</JapaneseText>
+      <EnglishText>Ras</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>500</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>76</PointerOffset>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText>　</EnglishText>
+      <Notes>Single JP space line</Notes>
+      <Id>0</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>940</PointerOffset>
+      <JapaneseText>チャット？
+なにを見てるんだい？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>600</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1236</PointerOffset>
+      <JapaneseText>なんだ……自分の肖像画か。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>100</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1436</PointerOffset>
+      <JapaneseText>こうやって見ると、
+まさに男の子だな。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1828</PointerOffset>
+      <JapaneseText>いきなり失礼な人達ですね！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>600</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1900</PointerOffset>
+      <JapaneseText>これは、ボクの母親の肖像画です！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>600</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2148</PointerOffset>
+      <JapaneseText>あ……すまない。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2364</PointerOffset>
+      <JapaneseText>でも……まったくよく似てる。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2612</PointerOffset>
+      <JapaneseText>あぁ、そっくりだ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>100</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2684</PointerOffset>
+      <JapaneseText>チャットの母さんは今もこんな感じなのか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>100</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2900</PointerOffset>
+      <JapaneseText>まさか！
+ちゃんと大人になってますよ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>600</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2972</PointerOffset>
+      <JapaneseText>これが今の肖像画です。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>600</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3708</PointerOffset>
+      <JapaneseText>どうかしました？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>600</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3956</PointerOffset>
+      <JapaneseText>これ……本当に
+そっちの成長した姿なのか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>100</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4204</PointerOffset>
+      <JapaneseText>そうですけど？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>600</SpeakerId>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4572</PointerOffset>
+      <JapaneseText>おい、チャットは葡萄酒のような子だぞ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>500</SpeakerId>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4644</PointerOffset>
+      <JapaneseText>ねかせておけば、すばらしいモノに……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>500</SpeakerId>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4892</PointerOffset>
+      <JapaneseText>育ててみるか。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>500</SpeakerId>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5284</PointerOffset>
+      <JapaneseText>……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>100</SpeakerId>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5404</PointerOffset>
+      <JapaneseText>レイスって時々怖いな。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>100</SpeakerId>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5604</PointerOffset>
+      <JapaneseText>あぁ、怖い。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

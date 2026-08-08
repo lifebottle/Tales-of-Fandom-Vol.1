@@ -1,0 +1,177 @@
+<SceneText>
+  <FriendlyName>08_7010</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Claus F. Lester</JapaneseText>
+      <EnglishText>Claus F. Lester</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>3500</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Mint Adenade</JapaneseText>
+      <EnglishText>Mint Adenade</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>3300</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>316</PointerOffset>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText>　</EnglishText>
+      <Notes>Single JP space line</Notes>
+      <Id>0</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>580</PointerOffset>
+      <JapaneseText>こっ、これは！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3500</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1084</PointerOffset>
+      <JapaneseText>どうなさったのですか？　クラースさん。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3300</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1348</PointerOffset>
+      <JapaneseText>ユークリッドの古本屋から、
+最新のカタログを取り寄せたんだが……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3500</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1612</PointerOffset>
+      <JapaneseText>なんと、あの『古代ドワーフ語研究序説』が
+売りに出されている！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3500</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1908</PointerOffset>
+      <JapaneseText>珍しい本なのですか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3300</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2196</PointerOffset>
+      <JapaneseText>幻中の幻といわれた、
+大変、貴重なものだよ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3500</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2492</PointerOffset>
+      <JapaneseText>はるか昔に出版されて、わたしの時代ですら
+世界に数冊しか残っていないとされていた。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3500</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2756</PointerOffset>
+      <JapaneseText>そうなんですか……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3300</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3020</PointerOffset>
+      <JapaneseText>以前、さんざん手を尽くして探したのだが、
+まったく見つけることができなくてな。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3500</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3316</PointerOffset>
+      <JapaneseText>それがまさか、
+こんな未来世界で現れるなんて。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3500</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3612</PointerOffset>
+      <JapaneseText>なあミント、物は相談だが……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3500</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3876</PointerOffset>
+      <JapaneseText>ユークリッドへ行かれるのですね。
+わかりました。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3300</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4140</PointerOffset>
+      <JapaneseText>みんなには、
+急用ができたといっておきます。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3300</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4404</PointerOffset>
+      <JapaneseText>すまない。なるべく早く戻るから。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3500</SpeakerId>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4668</PointerOffset>
+      <JapaneseText>いってらっしゃい。
+お気をつけて。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3300</SpeakerId>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

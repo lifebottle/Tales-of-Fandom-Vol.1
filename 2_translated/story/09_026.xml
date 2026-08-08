@@ -1,0 +1,20 @@
+<SceneText>
+  <FriendlyName>09_026</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>220</PointerOffset>
+      <JapaneseText>リッドの想像
+アーチェ風
+チェルシー風
+マリー風</JapaneseText>
+      <EnglishText/>
+      <Notes>Title Card</Notes>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

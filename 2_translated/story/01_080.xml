@@ -1,0 +1,142 @@
+<SceneText>
+  <FriendlyName>01_080</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Chester Burklight</JapaneseText>
+      <EnglishText>Chester Burklight</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>3600</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Ami Burklight</JapaneseText>
+      <EnglishText>Ami Burklight</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>3700</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>204</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes>Empty Line</Notes>
+      <Id>0</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>692</PointerOffset>
+      <JapaneseText>バークライト家
+現在</JapaneseText>
+      <EnglishText/>
+      <Notes>System Message</Notes>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1012</PointerOffset>
+      <JapaneseText>そういやあ、あったなあ……そんなこと。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3600</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1356</PointerOffset>
+      <JapaneseText>……うん。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3700</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1852</PointerOffset>
+      <JapaneseText>でもよ、クレスといやあ、あれだよな？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3600</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2404</PointerOffset>
+      <JapaneseText>え？　なに？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3700</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2676</PointerOffset>
+      <JapaneseText>おいおい、とぼけるなよ。ありゃあ、
+確か、キルト作りの帰りだったっけ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3700</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3580</PointerOffset>
+      <JapaneseText>……アミィは見た！　衝撃の現場！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3600</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4028</PointerOffset>
+      <JapaneseText>お兄ちゃんっ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3700</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4524</PointerOffset>
+      <JapaneseText>っと！	待った待った、
+枕、投げんのは禁止。な？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3600</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5052</PointerOffset>
+      <JapaneseText>知らないっ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3700</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5884</PointerOffset>
+      <JapaneseText>うぷっ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3700</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6156</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes>Empty Line</Notes>
+      <Id>12</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Strings>
+</SceneText>

@@ -1,0 +1,336 @@
+<SceneText>
+  <FriendlyName>02_050</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Lady 2</JapaneseText>
+      <EnglishText>Lady 2</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>5800</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Lilith Aileron</JapaneseText>
+      <EnglishText>Lilith Aileron</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>2600</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Male 1</JapaneseText>
+      <EnglishText>Male 1</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>5700</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Lady 1</JapaneseText>
+      <EnglishText>Lady 1</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>5600</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Male 2</JapaneseText>
+      <EnglishText>Male 2</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>6000</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Pink Haried girl</JapaneseText>
+      <EnglishText>Pink Haried girl</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>6200</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Male 3</JapaneseText>
+      <EnglishText>Male 3</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>6100</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Male 5</JapaneseText>
+      <EnglishText>Male 5</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>6500</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>1188</PointerOffset>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText>　</EnglishText>
+      <Notes>Single JP space line</Notes>
+      <Id>0</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1300</PointerOffset>
+      <JapaneseText>おはよう、リリスちゃん。
+どこ行くんだい？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5800</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1516</PointerOffset>
+      <JapaneseText>鍛冶屋さん。
+とぎに出してた包丁、取りに行くの。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1860</PointerOffset>
+      <JapaneseText>おう、リリスちゃん。
+いい魚が入ってるよ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5700</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2076</PointerOffset>
+      <JapaneseText>わあ、楽しみ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2196</PointerOffset>
+      <JapaneseText>後で寄らせてもらうわね。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2628</PointerOffset>
+      <JapaneseText>リリス、このリンゴ買っておくれよ。
+好きだったろう？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5800</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2844</PointerOffset>
+      <JapaneseText>うん、大好き！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3108</PointerOffset>
+      <JapaneseText>少しの間、取っておいてくれる？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3452</PointerOffset>
+      <JapaneseText>あーあー、リリスや。
+いい見合いの話があるんだがね。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5600</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3668</PointerOffset>
+      <JapaneseText>あはは……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3844</PointerOffset>
+      <JapaneseText>そういうことは、
+家族に相談してからでないと……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4372</PointerOffset>
+      <JapaneseText>いよう、リリスちゃん！
+今日もかわいいねっ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5700</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4692</PointerOffset>
+      <JapaneseText>えへへ、ありがとっ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5084</PointerOffset>
+      <JapaneseText>りりすおねえちゃーん。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6000</SpeakerId>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5252</PointerOffset>
+      <JapaneseText>はーい。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5492</PointerOffset>
+      <JapaneseText>あそぼー。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6000</SpeakerId>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5660</PointerOffset>
+      <JapaneseText>あとでねー。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6084</PointerOffset>
+      <JapaneseText>リリス〜。ちょっと手貸してくれない？
+あんただけが頼りなのよ〜。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6200</SpeakerId>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6380</PointerOffset>
+      <JapaneseText>しょうがないなー、もう。
+そこまでいわれちゃ、断れないじゃない。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6868</PointerOffset>
+      <JapaneseText>リ・リ・ス・ちゃーん！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6100</SpeakerId>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7580</PointerOffset>
+      <JapaneseText>はいはーい。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8100</PointerOffset>
+      <JapaneseText>リリスちゃん。今夜も君の魅惑のボディ。
+期待してるよ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6500</SpeakerId>
+      <Id>22</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8396</PointerOffset>
+      <JapaneseText>もう、まっかせといてよ！
+何から何まで、あますとこなくボーン……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>23</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8860</PointerOffset>
+      <JapaneseText>……って、何いわせんのよ！
+あなた、いつもうちのお風呂のぞいてる人！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>24</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9236</PointerOffset>
+      <JapaneseText>えへ。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6500</SpeakerId>
+      <Id>25</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9620</PointerOffset>
+      <JapaneseText>待ちなさーい！
+今日という今日は、許さないんだからっ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>26</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10156</PointerOffset>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText>　</EnglishText>
+      <Notes>Single JP space line</Notes>
+      <Id>27</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Strings>
+</SceneText>

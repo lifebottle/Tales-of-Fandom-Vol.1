@@ -1,0 +1,115 @@
+<SceneText>
+  <FriendlyName>02_060</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Lilith Aileron</JapaneseText>
+      <EnglishText>Lilith Aileron</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>2600</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Swordian Dymlos (Broken)</JapaneseText>
+      <EnglishText>Swordian Dymlos (Broken)</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>3000</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>1580</PointerOffset>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText>　</EnglishText>
+      <Notes>Single JP space line</Notes>
+      <Id>0</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1740</PointerOffset>
+      <JapaneseText>はあ、はあ……。
+どこ行ったのかしら？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2524</PointerOffset>
+      <JapaneseText>……あら？　なにかしら？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3108</PointerOffset>
+      <JapaneseText>『スタン……』</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3000</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3444</PointerOffset>
+      <JapaneseText>『スタン……聞こえるか、わたしの声が』</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3000</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3796</PointerOffset>
+      <JapaneseText>あれは……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4188</PointerOffset>
+      <JapaneseText>『うらあ〜〜っ！　いつまでわたしを、
+こんなところで野ざらしにする気だ！』</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3000</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4308</PointerOffset>
+      <JapaneseText>これだけ呼んでいるのに聞こえないなんて</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3000</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4484</PointerOffset>
+      <JapaneseText>お前の耳はただの飾りか！　スタン！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3000</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5092</PointerOffset>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText>　</EnglishText>
+      <Notes>Single JP space line</Notes>
+      <Id>9</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Strings>
+</SceneText>

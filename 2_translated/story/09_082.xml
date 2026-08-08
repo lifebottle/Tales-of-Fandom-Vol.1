@@ -1,0 +1,19 @@
+<SceneText>
+  <FriendlyName>09_082</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>220</PointerOffset>
+      <JapaneseText>この二人のやりとりを
+木に隠れて見てたメルディは、
+何か勘違いをしているようです。</JapaneseText>
+      <EnglishText/>
+      <Notes>Title Card</Notes>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

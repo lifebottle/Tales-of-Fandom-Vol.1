@@ -1,0 +1,88 @@
+<SceneText>
+  <FriendlyName>02_082</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Gori Stein</JapaneseText>
+      <EnglishText>Gori Stein</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>4400</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Maid?</JapaneseText>
+      <EnglishText>Maid?</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>3100</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>588</PointerOffset>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText>　</EnglishText>
+      <Notes>Single JP space line</Notes>
+      <Id>0</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>820</PointerOffset>
+      <JapaneseText>たっ、大変だ！
+味マスター２号が敗れた！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4400</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1572</PointerOffset>
+      <JapaneseText>なんですって？　相手は？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3100</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1748</PointerOffset>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText>　</EnglishText>
+      <Notes>Single JP space line</Notes>
+      <Id>3</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1868</PointerOffset>
+      <JapaneseText>君のときと同じだ。
+ラシュアンからやってきた、あの……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4400</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2124</PointerOffset>
+      <JapaneseText>なんてこと！　またあの娘？
+緑の悪魔が、またしても勝ったというの？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3100</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2540</PointerOffset>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText>　</EnglishText>
+      <Notes>Single JP space line</Notes>
+      <Id>6</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Strings>
+</SceneText>

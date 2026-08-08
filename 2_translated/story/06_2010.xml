@@ -1,0 +1,71 @@
+<SceneText>
+  <FriendlyName>06_2010</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Chat</JapaneseText>
+      <EnglishText>Chat</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>600</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>396</PointerOffset>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText>　</EnglishText>
+      <Notes>Single JP space line</Notes>
+      <Id>0</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>796</PointerOffset>
+      <JapaneseText>すずさん
+もう眠ってしまったのですか？		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>600</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>916</PointerOffset>
+      <JapaneseText>すぅすぅ……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>600</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1132</PointerOffset>
+      <JapaneseText>……まったく。子供は困りますね。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>600</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1204</PointerOffset>
+      <JapaneseText>夜はこれからだというのに。		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>600</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1276</PointerOffset>
+      <JapaneseText>……他の部屋はどうなってるんでしょう？		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>600</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

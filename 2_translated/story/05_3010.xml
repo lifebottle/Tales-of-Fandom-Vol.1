@@ -1,0 +1,188 @@
+<SceneText>
+  <FriendlyName>05_3010</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Farah Oersted</JapaneseText>
+      <EnglishText>Farah Oersted</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>200</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Reid Hershel</JapaneseText>
+      <EnglishText>Reid Hershel</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>100</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Max</JapaneseText>
+      <EnglishText>Max</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>700</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Chat</JapaneseText>
+      <EnglishText>Chat</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>600</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>612</PointerOffset>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText>　</EnglishText>
+      <Notes>Single JP space line</Notes>
+      <Id>0</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>796</PointerOffset>
+      <JapaneseText>せいっ、はっ、飛燕連天脚！		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>200</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2004</PointerOffset>
+      <JapaneseText>ファラのヤツ、まーた修行してるぜ。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>100</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2300</PointerOffset>
+      <JapaneseText>おぅ、ソレ邪魔じゃねぇのか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>700</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2420</PointerOffset>
+      <JapaneseText>ソレだよ。
+そのあのばっさばっさしてる……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>700</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2716</PointerOffset>
+      <JapaneseText>スカートですね？			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>600</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2980</PointerOffset>
+      <JapaneseText>そう、ソレ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>700</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3100</PointerOffset>
+      <JapaneseText>俺さまが短くしてやるぞぅ。		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>700</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3364</PointerOffset>
+      <JapaneseText>ちょっと勝手なこと言わないで！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>200</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3484</PointerOffset>
+      <JapaneseText>脚出すなんて、恥ずかしいよ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>200</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3748</PointerOffset>
+      <JapaneseText>んじゃ、ズボンにすりゃいいんじゃねぇか？
+オレのおさがりやろっか？		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>100</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4012</PointerOffset>
+      <JapaneseText>やだぁ！　ズボンなんか履いちゃったら
+恥じらいなくしそう……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>200</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4332</PointerOffset>
+      <JapaneseText>あっ、ファラ！
+左斜め後ろからキラービーが！		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>100</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4596</PointerOffset>
+      <JapaneseText>さぁ、来い！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>200</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4716</PointerOffset>
+      <JapaneseText>散華猛襲脚ーーーー！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>200</SpeakerId>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5268</PointerOffset>
+      <JapaneseText>……恥じらいがあったらアレは出来ないと思いますがね。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>600</SpeakerId>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

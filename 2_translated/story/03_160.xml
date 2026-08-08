@@ -1,0 +1,45 @@
+<SceneText>
+  <FriendlyName>03_160</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>William Warbeck</JapaneseText>
+      <EnglishText>William Warbeck</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>1200</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>532</PointerOffset>
+      <JapaneseText>繁華街</JapaneseText>
+      <EnglishText/>
+      <Notes>System Message</Notes>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1012</PointerOffset>
+      <JapaneseText>「評議会」？
+教授会の間違いじゃないのか？		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1200</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1460</PointerOffset>
+      <JapaneseText>「評議会」？
+食事会の間違いじゃないのか？		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1200</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

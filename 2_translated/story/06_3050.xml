@@ -1,0 +1,311 @@
+<SceneText>
+  <FriendlyName>06_3050</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Arche Klein</JapaneseText>
+      <EnglishText>Arche Klein</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>3400</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Max</JapaneseText>
+      <EnglishText>Max</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>700</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Suzu Fujibayashi</JapaneseText>
+      <EnglishText>Suzu Fujibayashi</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>4100</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>788</PointerOffset>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText>　</EnglishText>
+      <Notes>Single JP space line</Notes>
+      <Id>0</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1260</PointerOffset>
+      <JapaneseText>一方こちらは……っと、
+うしゃしゃしゃ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3400</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1380</PointerOffset>
+      <JapaneseText>でっかいのとちっこいのが並んでますね。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3400</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1644</PointerOffset>
+      <JapaneseText>おーぅ？　さっぱりわからねぇなぁ！
+なんでこのカードはダメなんだ？		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>700</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1932</PointerOffset>
+      <JapaneseText>ですから……こちらが水属性。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4100</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2004</PointerOffset>
+      <JapaneseText>あそこに出ているのは火属性。		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4100</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2076</PointerOffset>
+      <JapaneseText>属性の違うカードは出せないんです。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4100</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2340</PointerOffset>
+      <JapaneseText>おぅ！　水と火か！！
+そりゃたしかにアレだ！			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>700</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2660</PointerOffset>
+      <JapaneseText>はい！　ちがいますよね？		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4100</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2924</PointerOffset>
+      <JapaneseText>おぅ！					</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>700</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2996</PointerOffset>
+      <JapaneseText>……で、どっちのカードが火だ？		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>700</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3308</PointerOffset>
+      <JapaneseText>…………。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4100</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3652</PointerOffset>
+      <JapaneseText>あはははは！
+すずちゃん、大ピーンチ！		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3400</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3812</PointerOffset>
+      <JapaneseText>まさに忍ぶ者と書いて忍者！
+忍耐力を試されてまぁっす！！	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3400</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4076</PointerOffset>
+      <JapaneseText>おぅ、ま、いっか。
+俺さまがテキトーに出しとくぜぃ！	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>700</SpeakerId>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4516</PointerOffset>
+      <JapaneseText>でっかいのがおもむろに出した
+カードは……おおおおおっ！？		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3400</SpeakerId>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4588</PointerOffset>
+      <JapaneseText>ダブルのカードです！			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3400</SpeakerId>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4980</PointerOffset>
+      <JapaneseText>惜しげなく出したのには何か作戦が
+あるのでしょうか？　あるはずなーい！	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3400</SpeakerId>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5244</PointerOffset>
+      <JapaneseText>あ、じゃあコレを。			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4100</SpeakerId>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5508</PointerOffset>
+      <JapaneseText>おぅよ！				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>700</SpeakerId>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5868</PointerOffset>
+      <JapaneseText>すかさず攻撃カード！　いい感じぃ。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3400</SpeakerId>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5940</PointerOffset>
+      <JapaneseText>……攻撃がまわってぇ……あ！		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3400</SpeakerId>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6060</PointerOffset>
+      <JapaneseText>クラース・キール組、大打撃！！	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3400</SpeakerId>
+      <Id>22</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6324</PointerOffset>
+      <JapaneseText>またわたし達の番が来ましたよ。		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4100</SpeakerId>
+      <Id>23</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6588</PointerOffset>
+      <JapaneseText>お、そうか？　ほいよ。			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>700</SpeakerId>
+      <Id>24</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6996</PointerOffset>
+      <JapaneseText>チェンジです！　チェンジで
+流れを変えました！！			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3400</SpeakerId>
+      <Id>25</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7260</PointerOffset>
+      <JapaneseText>……あ。				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4100</SpeakerId>
+      <Id>26</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7524</PointerOffset>
+      <JapaneseText>おぅ、ピンチか？				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>700</SpeakerId>
+      <Id>27</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7788</PointerOffset>
+      <JapaneseText>いえ……ウィスです！！			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4100</SpeakerId>
+      <Id>28</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8108</PointerOffset>
+      <JapaneseText>フォッグ・すず組、王手でぇっす！！	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3400</SpeakerId>
+      <Id>29</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

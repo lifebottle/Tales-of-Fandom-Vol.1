@@ -1,0 +1,1233 @@
+<SceneText>
+  <FriendlyName>03_570</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Alther Littleton</JapaneseText>
+      <EnglishText>Alther Littleton</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>1900</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Primula Rosso</JapaneseText>
+      <EnglishText>Primula Rosso</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>1100</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Rutee Katrea</JapaneseText>
+      <EnglishText>Rutee Katrea</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>2300</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>668</PointerOffset>
+      <JapaneseText>アルサーの部屋</JapaneseText>
+      <EnglishText/>
+      <Notes>System Message</Notes>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1068</PointerOffset>
+      <JapaneseText>な、なにか用ですか？			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1332</PointerOffset>
+      <JapaneseText>あの〜……。				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1596</PointerOffset>
+      <JapaneseText>もしかしてあなた、
+ジャッコさんの使いの方ですか？		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1932</PointerOffset>
+      <JapaneseText>……え？				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2716</PointerOffset>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText>　</EnglishText>
+      <Notes>Single JP space line</Notes>
+      <Id>5</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2788</PointerOffset>
+      <JapaneseText>そうだとウソをつく&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2796</PointerOffset>
+      <JapaneseText>違うという&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3124</PointerOffset>
+      <JapaneseText>そう、ジャッコの使いだよ。
+何で来たかは言わなくてもわかるな？	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3420</PointerOffset>
+      <JapaneseText>ご、ごめんなさい！			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3492</PointerOffset>
+      <JapaneseText>お金は必ず今月末に払いますから、
+どうか父上には言わないでください！	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3780</PointerOffset>
+      <JapaneseText>『脈あり脈あり！
+もうちょっと脅かしてやろうかな』	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4124</PointerOffset>
+      <JapaneseText>今月末……いや、できれば来月に
+してもらえると……。			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4388</PointerOffset>
+      <JapaneseText>ふざけるな！				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4516</PointerOffset>
+      <JapaneseText>「評議会」をなめるとどうなるか
+身体で思い知りたいらしいなー！		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4588</PointerOffset>
+      <JapaneseText>石版抱いて海に沈んでもらうぞー！	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5212</PointerOffset>
+      <JapaneseText>ひ、ひい〜っ！				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5396</PointerOffset>
+      <JapaneseText>ぼ、僕に手を出したら父上が黙っちゃ
+いないぞっ！				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5660</PointerOffset>
+      <JapaneseText>父上〜？				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5924</PointerOffset>
+      <JapaneseText>商工ギルドを敵に回すってことだぞ！	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5996</PointerOffset>
+      <JapaneseText>お、お前たち「評議会」だって
+無傷じゃいられないんだからなっ！	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6412</PointerOffset>
+      <JapaneseText>…………。			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6684</PointerOffset>
+      <JapaneseText>はあ、はあ、はあ。			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>22</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7372</PointerOffset>
+      <JapaneseText>頼むよ。送ってもらった金をギャンブルで
+スッたのがバレたら勘当されちまう。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>23</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7444</PointerOffset>
+      <JapaneseText>いつもどおりジャッコには多めに払うから。
+な？　もうちょっと待ってくれよ、頼むよ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>24</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7668</PointerOffset>
+      <JapaneseText>…………。
+まあ、そこまで言うなら。		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>25</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7932</PointerOffset>
+      <JapaneseText>た、助かったぁ……。			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>26</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8372</PointerOffset>
+      <JapaneseText>ところで！				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>27</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8484</PointerOffset>
+      <JapaneseText>おまえさん、まだ私とジャッコに
+言い忘れてることあるんじゃないのかい？	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>28</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8780</PointerOffset>
+      <JapaneseText>えっ？　言い忘れてること？		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>29</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8956</PointerOffset>
+      <JapaneseText>…………。			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>30</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9260</PointerOffset>
+      <JapaneseText>な、なんのことだい？			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>31</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9604</PointerOffset>
+      <JapaneseText>言い忘れてることっていったら
+言い忘れてることだよー！		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>32</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10396</PointerOffset>
+      <JapaneseText>スッとぼけてると石版抱いて海に――	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>33</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11028</PointerOffset>
+      <JapaneseText>アッ！　あ〜、あのことだろ！？&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>34</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11284</PointerOffset>
+      <JapaneseText>覚えてるよ覚えてるよ、ウン、覚えてる！	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>35</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11356</PointerOffset>
+      <JapaneseText>ええと……その……え〜……あ〜……。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>36</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11564</PointerOffset>
+      <JapaneseText>ジャッコのこと&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>37</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11572</PointerOffset>
+      <JapaneseText>特級学士認定試験のこと&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>38</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11580</PointerOffset>
+      <JapaneseText>父親のこと&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>39</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11956</PointerOffset>
+      <JapaneseText>ジャッコのことだろ！			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>40</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12332</PointerOffset>
+      <JapaneseText>あ、ああ、ああ、ジャッコね！&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>41</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12588</PointerOffset>
+      <JapaneseText>ジャッコには世話になってるよ、ウン！	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>42</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12660</PointerOffset>
+      <JapaneseText>僕みたいなのが大学に入学できたのも	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>43</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12732</PointerOffset>
+      <JapaneseText>進級できてるのも、みんなきみたち
+「評議会」のおかげだもんな！		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>44</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12804</PointerOffset>
+      <JapaneseText>改めて礼を言えって事だろ、な？		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>45</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13068</PointerOffset>
+      <JapaneseText>『どうやら「評議会」は裏口入学まで
+やってるらしいわね……。』		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>46</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13572</PointerOffset>
+      <JapaneseText>特級学士認定試験のこと、
+言い忘れてるんじゃないのかー！？		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>47</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13868</PointerOffset>
+      <JapaneseText>特級学士認定試験って……
+光晶霊学士が捕まったってアレかい？	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>48</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14156</PointerOffset>
+      <JapaneseText>わかりきったこと聞くんじゃねー！	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>49</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14228</PointerOffset>
+      <JapaneseText>グズグズしてっと石版抱いて海に――	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>50</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14740</PointerOffset>
+      <JapaneseText>うわー！　ごめんなさいごめんなさい！	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>51</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15076</PointerOffset>
+      <JapaneseText>え、え〜と……なんのことですか？&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>52</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15436</PointerOffset>
+      <JapaneseText>あっ、怒らないでっ！			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>53</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15908</PointerOffset>
+      <JapaneseText>『今回の事とは無関係みたいね』		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>54</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16412</PointerOffset>
+      <JapaneseText>親父さんのこと、
+言い忘れてるんじゃねーか！？		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>55</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16860</PointerOffset>
+      <JapaneseText>あっ、ああ、そのことか！	
+忘れてないよ、もちろん、ウン！		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>56</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17076</PointerOffset>
+      <JapaneseText>でもそれはレイゼン卿に直接父上から
+支払う事になってたんじゃなかったっけ？	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>57</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17340</PointerOffset>
+      <JapaneseText>てめー！				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>58</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17524</PointerOffset>
+      <JapaneseText>私が物忘れが激しい年寄りだとでも
+言いたいのか！　ぶつぞ！		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>59</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17836</PointerOffset>
+      <JapaneseText>な、殴らないでっ！			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>60</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18204</PointerOffset>
+      <JapaneseText>とにかくレイゼン卿に５０万ガルド、
+忘れないように父上に言っておくから！	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>61</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18556</PointerOffset>
+      <JapaneseText>『５０万ガルド……！
+信じられない大金が動いているのね』	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>62</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19228</PointerOffset>
+      <JapaneseText>ジャッコ？
+いいえ、違いますけど。			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>63</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19476</PointerOffset>
+      <JapaneseText>…………。				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>64</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20276</PointerOffset>
+      <JapaneseText>あ、ちょっと待って！			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>65</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20612</PointerOffset>
+      <JapaneseText>…………。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>66</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20868</PointerOffset>
+      <JapaneseText>う〜ん、攻め方を失敗したかなぁ？	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>67</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21140</PointerOffset>
+      <JapaneseText>でも！
+探偵をなめてもらっちゃ困るってもんよ。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>68</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21780</PointerOffset>
+      <JapaneseText>じゃじゃーん！				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2300</SpeakerId>
+      <Id>69</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21852</PointerOffset>
+      <JapaneseText>これだけ悪そうな顔に変装すれば、
+絶対ジャッコの子分で通じるわ！		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2300</SpeakerId>
+      <Id>70</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22660</PointerOffset>
+      <JapaneseText>な、なにか用ですか？			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>71</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22924</PointerOffset>
+      <JapaneseText>おう！　あたりめえよぅ！		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2300</SpeakerId>
+      <Id>72</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23220</PointerOffset>
+      <JapaneseText>もしかしてあなた、
+ジャッコさんの使いの方ですか？		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>73</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23588</PointerOffset>
+      <JapaneseText>そう、ジャッコの使いだよ。
+何で来たかは言わなくてもわかるな？	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2300</SpeakerId>
+      <Id>74</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23884</PointerOffset>
+      <JapaneseText>ご、ごめんなさい！			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>75</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23956</PointerOffset>
+      <JapaneseText>お金は必ず今月末に払いますから、
+どうか父上には言わないでください！	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>76</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24244</PointerOffset>
+      <JapaneseText>『脈あり脈あり！
+もうちょっと脅かしてやろうかな』	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2300</SpeakerId>
+      <Id>77</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24588</PointerOffset>
+      <JapaneseText>今月末……いや、できれば来月に
+してもらえると……。			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>78</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24852</PointerOffset>
+      <JapaneseText>ふざけるな！				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2300</SpeakerId>
+      <Id>79</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24980</PointerOffset>
+      <JapaneseText>「評議会」をなめるとどうなるか
+身体で思い知りたいらしいなー！		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2300</SpeakerId>
+      <Id>80</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25052</PointerOffset>
+      <JapaneseText>石版抱いて海に沈んでもらうぞー！	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2300</SpeakerId>
+      <Id>81</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25676</PointerOffset>
+      <JapaneseText>ひ、ひい〜っ！				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>82</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25860</PointerOffset>
+      <JapaneseText>ぼ、僕に手を出したら父上が黙っちゃ
+いないぞっ！				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>83</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26124</PointerOffset>
+      <JapaneseText>父上〜？				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2300</SpeakerId>
+      <Id>84</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26388</PointerOffset>
+      <JapaneseText>商工ギルドを敵に回すってことだぞ！	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>85</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26460</PointerOffset>
+      <JapaneseText>お、お前たち「評議会」だって
+無傷じゃいられないんだからなっ！	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>86</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26876</PointerOffset>
+      <JapaneseText>…………。			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2300</SpeakerId>
+      <Id>87</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>27148</PointerOffset>
+      <JapaneseText>はあ、はあ、はあ。			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>88</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>27836</PointerOffset>
+      <JapaneseText>頼むよ。送ってもらった金をギャンブルで
+スッたのがバレたら勘当されちまう。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>89</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>27908</PointerOffset>
+      <JapaneseText>いつもどおりジャッコには多めに払うから。
+な？　もうちょっと待ってくれよ、頼むよ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>90</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28132</PointerOffset>
+      <JapaneseText>…………。
+まあ、そこまで言うなら。		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2300</SpeakerId>
+      <Id>91</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28396</PointerOffset>
+      <JapaneseText>た、助かったぁ……。			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>92</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28836</PointerOffset>
+      <JapaneseText>ところで！				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2300</SpeakerId>
+      <Id>93</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28948</PointerOffset>
+      <JapaneseText>おまえさん、まだ私とジャッコに
+言い忘れてることあるんじゃないのかい？	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2300</SpeakerId>
+      <Id>94</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>29244</PointerOffset>
+      <JapaneseText>えっ？　言い忘れてること？		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>95</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>29420</PointerOffset>
+      <JapaneseText>…………。			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>96</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>29724</PointerOffset>
+      <JapaneseText>な、なんのことだい？			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>97</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>30068</PointerOffset>
+      <JapaneseText>言い忘れてることっていったら
+言い忘れてることだよー！		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2300</SpeakerId>
+      <Id>98</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>30860</PointerOffset>
+      <JapaneseText>スッとぼけてると石版抱いて海に――	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2300</SpeakerId>
+      <Id>99</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>31452</PointerOffset>
+      <JapaneseText>アッ！　あ〜、あのことだろ！？&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>100</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>31708</PointerOffset>
+      <JapaneseText>覚えてるよ覚えてるよ、ウン、覚えてる！	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>101</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>31780</PointerOffset>
+      <JapaneseText>ええと……その……え〜……あ〜……。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>102</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>31988</PointerOffset>
+      <JapaneseText>ジャッコのこと&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>103</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>31996</PointerOffset>
+      <JapaneseText>特級学士認定試験のこと&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>104</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>32004</PointerOffset>
+      <JapaneseText>父親のこと&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>105</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>32380</PointerOffset>
+      <JapaneseText>ジャッコのことだろ！			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2300</SpeakerId>
+      <Id>106</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>32756</PointerOffset>
+      <JapaneseText>あ、ああ、ああ、ジャッコね！&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>107</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>33012</PointerOffset>
+      <JapaneseText>ジャッコには世話になってるよ、ウン！	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>108</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>33084</PointerOffset>
+      <JapaneseText>僕みたいなのが大学に入学できたのも	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>109</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>33156</PointerOffset>
+      <JapaneseText>進級できてるのも、みんなきみたち
+「評議会」のおかげだもんな！		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>110</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>33228</PointerOffset>
+      <JapaneseText>改めて礼を言えって事だろ、な？		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>111</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>33492</PointerOffset>
+      <JapaneseText>『どうやら「評議会」は裏口入学まで
+やってるらしいわね……。』		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2300</SpeakerId>
+      <Id>112</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>33996</PointerOffset>
+      <JapaneseText>特級学士認定試験のこと、
+言い忘れてるんじゃないのかー！？		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2300</SpeakerId>
+      <Id>113</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>34292</PointerOffset>
+      <JapaneseText>特級学士認定試験って……
+光晶霊学士が捕まったってアレかい？	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>114</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>34580</PointerOffset>
+      <JapaneseText>わかりきったこと聞くんじゃねー！	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2300</SpeakerId>
+      <Id>115</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>34652</PointerOffset>
+      <JapaneseText>グズグズしてっと石版抱いて海に――	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2300</SpeakerId>
+      <Id>116</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>35164</PointerOffset>
+      <JapaneseText>うわー！　ごめんなさいごめんなさい！	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>117</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>35500</PointerOffset>
+      <JapaneseText>え、え〜と……なんのことですか？&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>118</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>35860</PointerOffset>
+      <JapaneseText>あっ、怒らないでっ！			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>119</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>36332</PointerOffset>
+      <JapaneseText>『今回の事とは無関係みたいね』		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2300</SpeakerId>
+      <Id>120</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>36836</PointerOffset>
+      <JapaneseText>親父さんのこと、
+言い忘れてるんじゃねーか！？		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2300</SpeakerId>
+      <Id>121</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37284</PointerOffset>
+      <JapaneseText>あっ、ああ、そのことか！	
+忘れてないよ、もちろん、ウン！		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>122</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37500</PointerOffset>
+      <JapaneseText>でもそれはレイゼン卿に直接父上から
+支払う事になってたんじゃなかったっけ？	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>123</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37764</PointerOffset>
+      <JapaneseText>てめー！				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2300</SpeakerId>
+      <Id>124</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37948</PointerOffset>
+      <JapaneseText>私が物忘れが激しい年寄りだとでも
+言いたいのか！　ぶつぞ！		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2300</SpeakerId>
+      <Id>125</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38260</PointerOffset>
+      <JapaneseText>な、殴らないでっ！			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1900</SpeakerId>
+      <Id>126</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38628</PointerOffset>
+      <JapaneseText>とにかくレイゼン卿に５０万ガルド、
+忘れないように父上に言っておくから！	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2300</SpeakerId>
+      <Id>127</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38980</PointerOffset>
+      <JapaneseText>『５０万ガルド……！
+信じられない大金が動いているのね』	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2300</SpeakerId>
+      <Id>128</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

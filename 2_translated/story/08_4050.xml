@@ -1,0 +1,88 @@
+<SceneText>
+  <FriendlyName>08_4050</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Milard Rune</JapaneseText>
+      <EnglishText>Milard Rune</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>4200</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Cless Albane</JapaneseText>
+      <EnglishText>Cless Albane</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>3200</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>412</PointerOffset>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText>　</EnglishText>
+      <Notes>Single JP space line</Notes>
+      <Id>0</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>724</PointerOffset>
+      <JapaneseText>クラース！　しっかりして！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4200</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2492</PointerOffset>
+      <JapaneseText>あの……僕……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3200</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2884</PointerOffset>
+      <JapaneseText>覚悟はいい？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4200</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3148</PointerOffset>
+      <JapaneseText>勘弁してくださいよ。元はといえば……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3200</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3412</PointerOffset>
+      <JapaneseText>問答無用！
+クラースの敵討ち！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4200</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3676</PointerOffset>
+      <JapaneseText>なんでそうなるんですか！？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3200</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

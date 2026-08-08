@@ -1,0 +1,155 @@
+<SceneText>
+  <FriendlyName>03_170</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Anne Hideaway</JapaneseText>
+      <EnglishText>Anne Hideaway</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>1300</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Primula Rosso</JapaneseText>
+      <EnglishText>Primula Rosso</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>1100</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>580</PointerOffset>
+      <JapaneseText>カフェテリア</JapaneseText>
+      <EnglishText/>
+      <Notes>System Message</Notes>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>980</PointerOffset>
+      <JapaneseText>「評議会」……。
+なんか聞いたことあるような気が。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1300</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1268</PointerOffset>
+      <JapaneseText>う〜ん……。
+思い出せないなあ、ゴメン！		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1300</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2164</PointerOffset>
+      <JapaneseText>カフェテリア</JapaneseText>
+      <EnglishText/>
+      <Notes>System Message</Notes>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2604</PointerOffset>
+      <JapaneseText>思い出したわ！				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1300</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2812</PointerOffset>
+      <JapaneseText>そういえばこの前、町の中で
+喧嘩があったとき、柄の悪いほうが</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1300</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2884</PointerOffset>
+      <JapaneseText>俺とやるってことは「評議会」とやるって
+事だ。覚悟はできてるんだろうな！って。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1300</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3244</PointerOffset>
+      <JapaneseText>その男、名前はわからない！？		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3580</PointerOffset>
+      <JapaneseText>風晶霊学科の生徒よ。
+え〜と……。				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1300</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3652</PointerOffset>
+      <JapaneseText>たしかジャッジだかジャッドだか
+そんな名前だったような気がする。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1300</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3916</PointerOffset>
+      <JapaneseText>ありがとう！				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4356</PointerOffset>
+      <JapaneseText>カフェテリア</JapaneseText>
+      <EnglishText/>
+      <Notes>System Message</Notes>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4844</PointerOffset>
+      <JapaneseText>う〜ん、う〜ん。
+誰かがその名前、言ってたような。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1300</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5068</PointerOffset>
+      <JapaneseText>もうちょっとあとで来てくれる？		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1300</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

@@ -1,0 +1,261 @@
+<SceneText>
+  <FriendlyName>02_040</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Stahn Aileron</JapaneseText>
+      <EnglishText>Stahn Aileron</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>2200</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Thomas Aileron</JapaneseText>
+      <EnglishText>Thomas Aileron</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>5500</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Lilith Aileron</JapaneseText>
+      <EnglishText>Lilith Aileron</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>2600</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>932</PointerOffset>
+      <JapaneseText>……昨日、またディムロスの夢を見たよ。
+ここ一週間というもの、毎日だ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2200</SpeakerId>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1052</PointerOffset>
+      <JapaneseText>おれの名を、何度も呼ぶんだよな。
+スタン……聞こえるか、スタン……ってさ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2200</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1316</PointerOffset>
+      <JapaneseText>リリスや、サラダもう少しくれんか。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5500</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1628</PointerOffset>
+      <JapaneseText>はい、ちょっと待ってね。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2116</PointerOffset>
+      <JapaneseText>ふたりとも、おれの話聞いてる？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2200</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2284</PointerOffset>
+      <JapaneseText>すまん、聞いとらんかった。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5500</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2500</PointerOffset>
+      <JapaneseText>あのね。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2200</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2860</PointerOffset>
+      <JapaneseText>お兄ちゃん、のんびりしてる時間ないわよ。
+今日は遠くまで、羊を連れて行くんでしょ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3260</PointerOffset>
+      <JapaneseText>……とほほ。もういいよ、いいですよ。
+どうせ誰もおれの話なんて。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2200</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3468</PointerOffset>
+      <JapaneseText>そうそう、思い出した。
+ボブのやつが、トマトを取りに来いだと。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5500</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3716</PointerOffset>
+      <JapaneseText>あ、うれしいなー。
+ボブおじさんの作るトマト、絶品だもんね。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4372</PointerOffset>
+      <JapaneseText>…………。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2200</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4684</PointerOffset>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText>　</EnglishText>
+      <Notes>Single JP space line</Notes>
+      <Id>12</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5300</PointerOffset>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText>　</EnglishText>
+      <Notes>Single JP space line</Notes>
+      <Id>13</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5364</PointerOffset>
+      <JapaneseText>行ってきまーす。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5660</PointerOffset>
+      <JapaneseText>行ってらっしゃーい。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5908</PointerOffset>
+      <JapaneseText>さて、それじゃわたしもそろそろ、と。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5500</SpeakerId>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6180</PointerOffset>
+      <JapaneseText>おう、そういえば、もうすぐアレの日だの。
+すっかり忘れていた。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5500</SpeakerId>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6468</PointerOffset>
+      <JapaneseText>そうなのよ。どうしようかと思って。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6716</PointerOffset>
+      <JapaneseText>何といっても今年は、特別じゃない？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6836</PointerOffset>
+      <JapaneseText>だから、お兄ちゃんが本当に喜ぶものを、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6908</PointerOffset>
+      <JapaneseText>あげたいんだけど……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2600</SpeakerId>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7156</PointerOffset>
+      <JapaneseText>あいつが本当に喜ぶもの、か。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5500</SpeakerId>
+      <Id>22</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7276</PointerOffset>
+      <JapaneseText>はて、何かのう。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5500</SpeakerId>
+      <Id>23</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7588</PointerOffset>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText>　</EnglishText>
+      <Notes>Single JP space line</Notes>
+      <Id>24</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Strings>
+</SceneText>

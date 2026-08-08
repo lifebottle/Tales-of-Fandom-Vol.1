@@ -1,0 +1,276 @@
+<SceneText>
+  <FriendlyName>06_4010</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Male 5</JapaneseText>
+      <EnglishText>Male 5</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>6500</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Stahn Aileron</JapaneseText>
+      <EnglishText>Stahn Aileron</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>2200</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Reid Hershel</JapaneseText>
+      <EnglishText>Reid Hershel</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>100</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Cless Albane</JapaneseText>
+      <EnglishText>Cless Albane</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>3200</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>604</PointerOffset>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText>　</EnglishText>
+      <Notes>Single JP space line</Notes>
+      <Id>0</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1052</PointerOffset>
+      <JapaneseText>ちょっといいっすかぁ？			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6500</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1588</PointerOffset>
+      <JapaneseText>はいはい？				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2200</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2172</PointerOffset>
+      <JapaneseText>あ〜あ〜、
+ずいぶんお肌荒れちゃってますねぇ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6500</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2548</PointerOffset>
+      <JapaneseText>そ、そうか？				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2200</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2812</PointerOffset>
+      <JapaneseText>若いから、男だからって安心してちゃダメですよ〜。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6500</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2884</PointerOffset>
+      <JapaneseText>このままいくと１０年後には……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6500</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3340</PointerOffset>
+      <JapaneseText>何つかまってんだよ！			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>100</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3652</PointerOffset>
+      <JapaneseText>あぁ、リッド！　どうしよ！？
+俺の肌、１０年後にはボロボロだって！	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2200</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3916</PointerOffset>
+      <JapaneseText>真に受けるなよ！
+これはキャッチセールスといってだな……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>100</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4228</PointerOffset>
+      <JapaneseText>さぁ！
+あなたもダンディな男に変身しませんか？	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6500</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4300</PointerOffset>
+      <JapaneseText>今ならこのベアの干し肉３ヶ月分がもれなく……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6500</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4644</PointerOffset>
+      <JapaneseText>肉がついてくんのか？
+あっそ。へぇ！　３ヶ月分……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>100</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5076</PointerOffset>
+      <JapaneseText>おい、だいじょうぶかい？		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3200</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5340</PointerOffset>
+      <JapaneseText>これ買っておこうぜ、「ダンディセット」！
+身だしなみは大事だろ？			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2200</SpeakerId>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5604</PointerOffset>
+      <JapaneseText>今なら肉がついてくんだってよ！　肉が！	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>100</SpeakerId>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5868</PointerOffset>
+      <JapaneseText>落ち着けって、２人とも。		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3200</SpeakerId>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5988</PointerOffset>
+      <JapaneseText>いいかい？　冒険中、こんな道具を
+使っている余裕はないだろう？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3200</SpeakerId>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6252</PointerOffset>
+      <JapaneseText>そ、そりゃまぁ……たしかに。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2200</SpeakerId>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6516</PointerOffset>
+      <JapaneseText>それに、これを買うお金があったら
+上等な肉が山ほど買えるよ？		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3200</SpeakerId>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6780</PointerOffset>
+      <JapaneseText>そっか……あぶねぇあぶねぇ。
+つい勢いで……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>100</SpeakerId>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7188</PointerOffset>
+      <JapaneseText>というわけなんで、悪いけど僕達は……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3200</SpeakerId>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7628</PointerOffset>
+      <JapaneseText>だんなぁ〜！！！
+俺にはもうじき２歳になる娘が……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6500</SpeakerId>
+      <Id>22</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7700</PointerOffset>
+      <JapaneseText>これを売らないことにはアイツの
+おまんまが買えねぇんだよぅ！		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6500</SpeakerId>
+      <Id>23</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7964</PointerOffset>
+      <JapaneseText>娘さんが……いるの？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3200</SpeakerId>
+      <Id>24</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

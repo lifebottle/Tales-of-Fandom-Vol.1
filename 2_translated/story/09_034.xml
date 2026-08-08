@@ -1,0 +1,26 @@
+<SceneText>
+  <FriendlyName>09_034</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>220</PointerOffset>
+      <JapaneseText>このふたりの関係だけは、
+変わらなさそうです……（笑）</JapaneseText>
+      <EnglishText/>
+      <Notes>Title Card</Notes>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>308</PointerOffset>
+      <JapaneseText>おしまい</JapaneseText>
+      <EnglishText/>
+      <Notes>Title Card</Notes>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

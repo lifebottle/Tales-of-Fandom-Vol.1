@@ -1,0 +1,53 @@
+<SceneText>
+  <FriendlyName>09_033</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Efreet</JapaneseText>
+      <EnglishText>Efreet</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>5100</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Celsius</JapaneseText>
+      <EnglishText>Celsius</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>5300</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>180</PointerOffset>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText>　</EnglishText>
+      <Notes>Single JP space line</Notes>
+      <Id>0</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>508</PointerOffset>
+      <JapaneseText>クィッキーッ！
+クククィッキー！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5100</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1076</PointerOffset>
+      <JapaneseText>わぁぁぁぁぁぁぁんっ！！
+動物ヤです〜〜〜〜〜っ！！！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5300</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

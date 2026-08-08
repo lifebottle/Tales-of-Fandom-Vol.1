@@ -1,0 +1,127 @@
+<SceneText>
+  <FriendlyName>03_600</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Mildred O'Day</JapaneseText>
+      <EnglishText>Mildred O'Day</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>2100</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Anne Hideaway</JapaneseText>
+      <EnglishText>Anne Hideaway</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>1300</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Lunaria Burns</JapaneseText>
+      <EnglishText>Lunaria Burns</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>2000</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>William Warbeck</JapaneseText>
+      <EnglishText>William Warbeck</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>1200</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>1156</PointerOffset>
+      <JapaneseText>ああ、なんと罪深きかな我が身！		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2100</SpeakerId>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1228</PointerOffset>
+      <JapaneseText>君たちの愛に溺れて、
+俺は世界から消えてしまいたいっ！	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2100</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1636</PointerOffset>
+      <JapaneseText>きゃー！			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1300</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2140</PointerOffset>
+      <JapaneseText>セイファートは我々に、
+この退屈極まる人生を呪いとして与えた。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2100</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2212</PointerOffset>
+      <JapaneseText>ならば我々は、酒と愛で人生を汚すことで、
+セイファートに復讐を果たそうではないか！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2100</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2476</PointerOffset>
+      <JapaneseText>きゃー、カッコいい〜！		
+シルフの君〜〜！			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1300</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2820</PointerOffset>
+      <JapaneseText>シルフの君？				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2000</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3108</PointerOffset>
+      <JapaneseText>そう。あのお方は
+風の宮殿に住む美しき人……。		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1200</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3180</PointerOffset>
+      <JapaneseText>私たちの手の届かない存在なの。		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1200</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

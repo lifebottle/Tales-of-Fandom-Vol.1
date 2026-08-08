@@ -1,0 +1,148 @@
+<SceneText>
+  <FriendlyName>03_830</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Keele Zeibel</JapaneseText>
+      <EnglishText>Keele Zeibel</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>300</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Argento</JapaneseText>
+      <EnglishText>Argento</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>1400</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>924</PointerOffset>
+      <JapaneseText>くっ……！
+プリムラにいったいなにが……？		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1372</PointerOffset>
+      <JapaneseText>キール・ツァイベル。			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1400</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1444</PointerOffset>
+      <JapaneseText>君が行った試験問題窃盗に関して、
+教授会が下した審査を伝えよう。		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1400</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1692</PointerOffset>
+      <JapaneseText>……フッフッフ。顔が真っ青だぞ？
+結論は言うまでもないかな？		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1400</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1980</PointerOffset>
+      <JapaneseText>卑怯者め。証拠を握りつぶしたな？	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2244</PointerOffset>
+      <JapaneseText>さぁて、なんの事かな？			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1400</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2316</PointerOffset>
+      <JapaneseText>さて、君の処遇だ。			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1400</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2388</PointerOffset>
+      <JapaneseText>今晩、王都からやってくる役人に、	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1400</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2460</PointerOffset>
+      <JapaneseText>爆弾魔と一緒に身柄を
+引き渡すことになった。			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1400</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2676</PointerOffset>
+      <JapaneseText>ひとつ助言しておくぞ、キール。		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1400</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2748</PointerOffset>
+      <JapaneseText>連中の取り調べは過酷だ。
+死ぬ前にさっさと罪を認めたほうがいい。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1400</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3012</PointerOffset>
+      <JapaneseText>くそっ！				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3364</PointerOffset>
+      <JapaneseText>ふふふふ。
+うわーっはっはっはっは！		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1400</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

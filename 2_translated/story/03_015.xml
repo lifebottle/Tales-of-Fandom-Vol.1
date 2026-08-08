@@ -1,0 +1,779 @@
+<SceneText>
+  <FriendlyName>03_015</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Primula Rosso</JapaneseText>
+      <EnglishText>Primula Rosso</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>1100</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Keele Zeibel</JapaneseText>
+      <EnglishText>Keele Zeibel</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>300</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Hyura Vermillion</JapaneseText>
+      <EnglishText>Hyura Vermillion</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>1600</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Captain</JapaneseText>
+      <EnglishText>Captain</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>5900</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Lunaria Burns</JapaneseText>
+      <EnglishText>Lunaria Burns</EnglishText>
+      <Notes>Reference only</Notes>
+      <Id>2000</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset>396</PointerOffset>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText>　</EnglishText>
+      <Notes>Single JP space line</Notes>
+      <Id>0</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>980</PointerOffset>
+      <JapaneseText>犯人は私たちに「ゲーム」を挑んだ。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1228</PointerOffset>
+      <JapaneseText>つまり、「ルール」とも呼ぶべき法則が
+必ずどこかに隠されているはず！		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1492</PointerOffset>
+      <JapaneseText>たとえば……あの壁のカレンダー！	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2500</PointerOffset>
+      <JapaneseText>カレンダーが可憐だー、
+なんちゃってー……。			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2820</PointerOffset>
+      <JapaneseText>……もっとセンスのいい
+ダジャレが聞きたいね。			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3316</PointerOffset>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText>　</EnglishText>
+      <Notes>Single JP space line</Notes>
+      <Id>6</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4316</PointerOffset>
+      <JapaneseText>このライン、赤いわね……。		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4580</PointerOffset>
+      <JapaneseText>赤いな。				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4844</PointerOffset>
+      <JapaneseText>そしてこのラインは青い……。		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5108</PointerOffset>
+      <JapaneseText>青いな。				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5732</PointerOffset>
+      <JapaneseText>言ってみただけ。			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5996</PointerOffset>
+      <JapaneseText>……うむ。
+早くしないと爆発するぞ？		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6948</PointerOffset>
+      <JapaneseText>あたりを見回してヒントを探す&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6956</PointerOffset>
+      <JapaneseText>爆弾を調べてヒントがないか探す&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6964</PointerOffset>
+      <JapaneseText>赤いラインを切る&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6972</PointerOffset>
+      <JapaneseText>青いラインを切る&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7108</PointerOffset>
+      <JapaneseText>爆弾を調べてヒントがないか探す&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7116</PointerOffset>
+      <JapaneseText>赤いラインを切る&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7124</PointerOffset>
+      <JapaneseText>青いラインを切る&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7260</PointerOffset>
+      <JapaneseText>赤いラインを切る&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7268</PointerOffset>
+      <JapaneseText>青いラインを切る&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7412</PointerOffset>
+      <JapaneseText>あたりを見回してヒントを探す&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>22</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7420</PointerOffset>
+      <JapaneseText>赤いラインを切る&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>23</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7428</PointerOffset>
+      <JapaneseText>青いラインを切る&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>24</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7564</PointerOffset>
+      <JapaneseText>赤いラインを切る&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>25</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7572</PointerOffset>
+      <JapaneseText>青いラインを切る&lt;nl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice text</Notes>
+      <Id>26</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8036</PointerOffset>
+      <JapaneseText>決めた。こっちを切るわ！		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>27</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8692</PointerOffset>
+      <JapaneseText>おい、こ、根拠をいいたまえ！		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1600</SpeakerId>
+      <Id>28</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9012</PointerOffset>
+      <JapaneseText>根拠は……いろいろよ。		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>29</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9308</PointerOffset>
+      <JapaneseText>い、いろいろとはなんだッ！？	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1600</SpeakerId>
+      <Id>30</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9596</PointerOffset>
+      <JapaneseText>いろいろはいろいろよ！
+ゴチャゴチャうるさいなあ、		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>31</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9780</PointerOffset>
+      <JapaneseText>切ればわかるんだから少し黙ってて！	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>32</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10044</PointerOffset>
+      <JapaneseText>キール！				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1600</SpeakerId>
+      <Id>33</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10308</PointerOffset>
+      <JapaneseText>運に頼るしかないんだから
+しかたがないだろう。覚悟を決めろ。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>34</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10652</PointerOffset>
+      <JapaneseText>ううっ……。			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1600</SpeakerId>
+      <Id>35</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10916</PointerOffset>
+      <JapaneseText>いくわよ……！			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>36</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11188</PointerOffset>
+      <JapaneseText>…………。				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>37</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11460</PointerOffset>
+      <JapaneseText>…………。				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>38</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11732</PointerOffset>
+      <JapaneseText>…………。				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1600</SpeakerId>
+      <Id>39</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12076</PointerOffset>
+      <JapaneseText>このラインを……切るっ！		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>40</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12596</PointerOffset>
+      <JapaneseText>――やめろ！				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1600</SpeakerId>
+      <Id>41</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12940</PointerOffset>
+      <JapaneseText>も〜っ！
+どきなさいよ、邪魔しないでっ！		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>42</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13460</PointerOffset>
+      <JapaneseText>よせっ！				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1600</SpeakerId>
+      <Id>43</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13724</PointerOffset>
+      <JapaneseText>家具セットを当てた私の強運を
+信じなさいってば！			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>44</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13988</PointerOffset>
+      <JapaneseText>やめろーっ！				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1600</SpeakerId>
+      <Id>45</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14308</PointerOffset>
+      <JapaneseText>うるさいっ！				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>46</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14756</PointerOffset>
+      <JapaneseText>切るな！
+そ、それを切ったら爆発するッ！		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1600</SpeakerId>
+      <Id>47</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15556</PointerOffset>
+      <JapaneseText>……はい？				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>48</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16020</PointerOffset>
+      <JapaneseText>――正解は赤でも青でもなく、
+いま僕が切ったこの……黒いラインだ。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>49</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16092</PointerOffset>
+      <JapaneseText>最初からわかっていたことだがな。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>50</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16420</PointerOffset>
+      <JapaneseText>キール？
+それって……どういう……？		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>51</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16764</PointerOffset>
+      <JapaneseText>犯人――「姿なき晶霊術士」が
+ゲームを挑んでいたのはこの僕だ。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>52</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16900</PointerOffset>
+      <JapaneseText>ところが今回、僕は推理を途中で放棄し、
+判断を他人に預けてしまった。		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>53</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17116</PointerOffset>
+      <JapaneseText>ゲームのプレイヤーが変わるという
+予想外の展開に、犯人はボロを出した。	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>54</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17332</PointerOffset>
+      <JapaneseText>……そうだな、ヒューラ？		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>55</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17628</PointerOffset>
+      <JapaneseText>くっ……！　</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1600</SpeakerId>
+      <Id>56</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17924</PointerOffset>
+      <JapaneseText>ま、まさか！？			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>57</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18284</PointerOffset>
+      <JapaneseText>ヒューラ・ヴェルミリオン。
+「姿なき晶霊術士」は……君だッ！	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>58</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18668</PointerOffset>
+      <JapaneseText>動くな！				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5900</SpeakerId>
+      <Id>59</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18908</PointerOffset>
+      <JapaneseText>ヒューラ・ヴェルミリオン、
+時計塔爆破の容疑で逮捕する！		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5900</SpeakerId>
+      <Id>60</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19892</PointerOffset>
+      <JapaneseText>……ふっ。どうやら私の負けらしいな、
+キール・ツァイベル。			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1600</SpeakerId>
+      <Id>61</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20540</PointerOffset>
+      <JapaneseText>ど、どうして……。			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>62</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20964</PointerOffset>
+      <JapaneseText>ミンツいちの名探偵のあなたが……？	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>63</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21404</PointerOffset>
+      <JapaneseText>若き名探偵の噂を聞いてね。		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1600</SpeakerId>
+      <Id>64</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21476</PointerOffset>
+      <JapaneseText>試してみたくなった。私か、お前か。
+どちらの頭脳が上なのかを、な。		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1600</SpeakerId>
+      <Id>65</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21996</PointerOffset>
+      <JapaneseText>なんてヤツなの！			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>66</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22484</PointerOffset>
+      <JapaneseText>人生はゲームだ。それに勝利する事が
+私の生きる意味なのだよ！		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1600</SpeakerId>
+      <Id>67</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23148</PointerOffset>
+      <JapaneseText>ふふふ。キール。
+これで終わりと思うな。			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1600</SpeakerId>
+      <Id>68</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23604</PointerOffset>
+      <JapaneseText>いつか、おまえより私が優れている事を
+証明してみせる。ふっふっふ……		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1600</SpeakerId>
+      <Id>69</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24380</PointerOffset>
+      <JapaneseText>はーっはっはっは！			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1600</SpeakerId>
+      <Id>70</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25236</PointerOffset>
+      <JapaneseText>どもーっ！
+新聞部のルナリアです！			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2000</SpeakerId>
+      <Id>71</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25308</PointerOffset>
+      <JapaneseText>例の「姿なき晶霊術士」事件、
+いま解決したんですよね！？		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2000</SpeakerId>
+      <Id>72</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25380</PointerOffset>
+      <JapaneseText>詳しいおはなしを聞かせてください！	</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2000</SpeakerId>
+      <Id>73</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25644</PointerOffset>
+      <JapaneseText>ああ……。
+探偵は僕じゃない。そっちだ。		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>300</SpeakerId>
+      <Id>74</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26124</PointerOffset>
+      <JapaneseText>またまたお手柄ですね、
+プリムラさん！				</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2000</SpeakerId>
+      <Id>75</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26420</PointerOffset>
+      <JapaneseText>あー……。　</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>76</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26636</PointerOffset>
+      <JapaneseText>ま、まあ、余裕ですよ、今回も！		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>77</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26732</PointerOffset>
+      <JapaneseText>要するにアレです。その……。
+真実は常にひとつ？			</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>78</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26804</PointerOffset>
+      <JapaneseText>あは、あははははははは！		</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1100</SpeakerId>
+      <Id>79</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

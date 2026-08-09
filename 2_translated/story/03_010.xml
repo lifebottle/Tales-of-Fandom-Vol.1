@@ -1,5 +1,4 @@
 <SceneText>
-  <FriendlyName>03_010</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
@@ -12,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Hyura Vermillion</JapaneseText>
+      <JapaneseText>ヒューラ・ヴェルミリオン</JapaneseText>
       <EnglishText>Hyura Vermillion</EnglishText>
       <Notes>Reference only</Notes>
       <Id>1600</Id>
@@ -20,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Keele Zeibel</JapaneseText>
+      <JapaneseText>キール・ツァイベル</JapaneseText>
       <EnglishText>Keele Zeibel</EnglishText>
       <Notes>Reference only</Notes>
       <Id>300</Id>
@@ -28,7 +27,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Primula Rosso</JapaneseText>
+      <JapaneseText>プリムラ・ロッソ</JapaneseText>
       <EnglishText>Primula Rosso</EnglishText>
       <Notes>Reference only</Notes>
       <Id>1100</Id>

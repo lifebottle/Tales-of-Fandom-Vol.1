@@ -1,10 +1,9 @@
 <SceneText>
-  <FriendlyName>05_7010</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Arche Klein</JapaneseText>
+      <JapaneseText>アーチェ・クライン</JapaneseText>
       <EnglishText>Arche Klein</EnglishText>
       <Notes>Reference only</Notes>
       <Id>3400</Id>
@@ -12,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Philia Felice</JapaneseText>
+      <JapaneseText>フィリア・フィリス</JapaneseText>
       <EnglishText>Philia Felice</EnglishText>
       <Notes>Reference only</Notes>
       <Id>2500</Id>
@@ -20,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Meredy</JapaneseText>
+      <JapaneseText>メルディ</JapaneseText>
       <EnglishText>Meredy</EnglishText>
       <Notes>Reference only</Notes>
       <Id>400</Id>
@@ -28,7 +27,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Lilith Aileron</JapaneseText>
+      <JapaneseText>リリス・エルロン</JapaneseText>
       <EnglishText>Lilith Aileron</EnglishText>
       <Notes>Reference only</Notes>
       <Id>2600</Id>

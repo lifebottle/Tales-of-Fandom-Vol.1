@@ -1,10 +1,9 @@
 <SceneText>
-  <FriendlyName>08_4020</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Arche Klein</JapaneseText>
+      <JapaneseText>アーチェ・クライン</JapaneseText>
       <EnglishText>Arche Klein</EnglishText>
       <Notes>Reference only</Notes>
       <Id>3400</Id>
@@ -12,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Cless Albane</JapaneseText>
+      <JapaneseText>クレス・アルベイン</JapaneseText>
       <EnglishText>Cless Albane</EnglishText>
       <Notes>Reference only</Notes>
       <Id>3200</Id>

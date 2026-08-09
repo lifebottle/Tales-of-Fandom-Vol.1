@@ -1,18 +1,17 @@
 <SceneText>
-  <FriendlyName>02_130</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Male 5</JapaneseText>
-      <EnglishText>Male 5</EnglishText>
+      <JapaneseText>ビストロジャンバール司会者</JapaneseText>
+      <EnglishText>Bistro Chambard presenter</EnglishText>
       <Notes>Reference only</Notes>
       <Id>6500</Id>
       <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Lilith Aileron</JapaneseText>
+      <JapaneseText>リリス・エルロン</JapaneseText>
       <EnglishText>Lilith Aileron</EnglishText>
       <Notes>Reference only</Notes>
       <Id>2600</Id>
@@ -20,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Reid Hershel</JapaneseText>
+      <JapaneseText>リッド・ハーシェル</JapaneseText>
       <EnglishText>Reid Hershel</EnglishText>
       <Notes>Reference only</Notes>
       <Id>100</Id>
@@ -28,7 +27,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Keele Zeibel</JapaneseText>
+      <JapaneseText>キール・ツァイベル</JapaneseText>
       <EnglishText>Keele Zeibel</EnglishText>
       <Notes>Reference only</Notes>
       <Id>300</Id>
@@ -36,7 +35,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Swordian Dymlos (Broken)</JapaneseText>
+      <JapaneseText>ソーディアン ディムロス（破損）</JapaneseText>
       <EnglishText>Swordian Dymlos (Broken)</EnglishText>
       <Notes>Reference only</Notes>
       <Id>3000</Id>
@@ -44,7 +43,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Farah Oersted</JapaneseText>
+      <JapaneseText>ファラ・エルステッド</JapaneseText>
       <EnglishText>Farah Oersted</EnglishText>
       <Notes>Reference only</Notes>
       <Id>200</Id>

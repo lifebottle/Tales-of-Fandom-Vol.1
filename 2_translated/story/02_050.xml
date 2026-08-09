@@ -1,5 +1,4 @@
 <SceneText>
-  <FriendlyName>02_050</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
@@ -12,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Lilith Aileron</JapaneseText>
+      <JapaneseText>リリス・エルロン</JapaneseText>
       <EnglishText>Lilith Aileron</EnglishText>
       <Notes>Reference only</Notes>
       <Id>2600</Id>
@@ -44,8 +43,8 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Pink Haried girl</JapaneseText>
-      <EnglishText>Pink Haried girl</EnglishText>
+      <JapaneseText>Pink Haired girl</JapaneseText>
+      <EnglishText>Pink Haired girl</EnglishText>
       <Notes>Reference only</Notes>
       <Id>6200</Id>
       <Status>Done</Status>
@@ -60,8 +59,8 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Male 5</JapaneseText>
-      <EnglishText>Male 5</EnglishText>
+      <JapaneseText>ビストロジャンバール司会者</JapaneseText>
+      <EnglishText>Bistro Chambard presenter</EnglishText>
       <Notes>Reference only</Notes>
       <Id>6500</Id>
       <Status>Done</Status>

@@ -1,10 +1,9 @@
 <SceneText>
-  <FriendlyName>08_8015</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Reid Hershel</JapaneseText>
+      <JapaneseText>リッド・ハーシェル</JapaneseText>
       <EnglishText>Reid Hershel</EnglishText>
       <Notes>Reference only</Notes>
       <Id>100</Id>

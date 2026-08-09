@@ -1,10 +1,9 @@
 <SceneText>
-  <FriendlyName>03_550</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Anne Hideaway</JapaneseText>
+      <JapaneseText>アン・ハ イダ ウェ イ</JapaneseText>
       <EnglishText>Anne Hideaway</EnglishText>
       <Notes>Reference only</Notes>
       <Id>1300</Id>
@@ -12,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Primula Rosso</JapaneseText>
+      <JapaneseText>プリムラ・ロッソ</JapaneseText>
       <EnglishText>Primula Rosso</EnglishText>
       <Notes>Reference only</Notes>
       <Id>1100</Id>

@@ -1,10 +1,9 @@
 <SceneText>
-  <FriendlyName>08_3010</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Farah Oersted</JapaneseText>
+      <JapaneseText>ファラ・エルステッド</JapaneseText>
       <EnglishText>Farah Oersted</EnglishText>
       <Notes>Reference only</Notes>
       <Id>200</Id>
@@ -12,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Philia Felice</JapaneseText>
+      <JapaneseText>フィリア・フィリス</JapaneseText>
       <EnglishText>Philia Felice</EnglishText>
       <Notes>Reference only</Notes>
       <Id>2500</Id>

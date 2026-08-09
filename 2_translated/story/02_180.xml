@@ -1,10 +1,9 @@
 <SceneText>
-  <FriendlyName>02_180</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Claus F. Lester</JapaneseText>
+      <JapaneseText>クラース・Ｆ・レスター</JapaneseText>
       <EnglishText>Claus F. Lester</EnglishText>
       <Notes>Reference only</Notes>
       <Id>3500</Id>

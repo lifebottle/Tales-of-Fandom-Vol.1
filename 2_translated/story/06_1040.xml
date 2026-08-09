@@ -1,10 +1,9 @@
 <SceneText>
-  <FriendlyName>06_1040</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Reid Hershel</JapaneseText>
+      <JapaneseText>リッド・ハーシェル</JapaneseText>
       <EnglishText>Reid Hershel</EnglishText>
       <Notes>Reference only</Notes>
       <Id>100</Id>
@@ -12,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Chester Burklight</JapaneseText>
+      <JapaneseText>チェスター・バークライト</JapaneseText>
       <EnglishText>Chester Burklight</EnglishText>
       <Notes>Reference only</Notes>
       <Id>3600</Id>
@@ -20,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Philia Felice</JapaneseText>
+      <JapaneseText>フィリア・フィリス</JapaneseText>
       <EnglishText>Philia Felice</EnglishText>
       <Notes>Reference only</Notes>
       <Id>2500</Id>
@@ -28,7 +27,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Farah Oersted</JapaneseText>
+      <JapaneseText>ファラ・エルステッド</JapaneseText>
       <EnglishText>Farah Oersted</EnglishText>
       <Notes>Reference only</Notes>
       <Id>200</Id>

@@ -1,10 +1,9 @@
 <SceneText>
-  <FriendlyName>08_4030</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Cless Albane</JapaneseText>
+      <JapaneseText>クレス・アルベイン</JapaneseText>
       <EnglishText>Cless Albane</EnglishText>
       <Notes>Reference only</Notes>
       <Id>3200</Id>
@@ -12,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Suzu Fujibayashi</JapaneseText>
+      <JapaneseText>藤林 すず</JapaneseText>
       <EnglishText>Suzu Fujibayashi</EnglishText>
       <Notes>Reference only</Notes>
       <Id>4100</Id>

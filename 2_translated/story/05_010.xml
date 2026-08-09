@@ -1,10 +1,9 @@
 <SceneText>
-  <FriendlyName>05_010</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Max</JapaneseText>
+      <JapaneseText>フォッグ</JapaneseText>
       <EnglishText>Max</EnglishText>
       <Notes>Reference only</Notes>
       <Id>700</Id>
@@ -12,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Ayla</JapaneseText>
+      <JapaneseText>アイラ</JapaneseText>
       <EnglishText>Ayla</EnglishText>
       <Notes>Reference only</Notes>
       <Id>900</Id>
@@ -20,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Reid Hershel</JapaneseText>
+      <JapaneseText>リッド・ハーシェル</JapaneseText>
       <EnglishText>Reid Hershel</EnglishText>
       <Notes>Reference only</Notes>
       <Id>100</Id>
@@ -28,8 +27,8 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Ras</JapaneseText>
-      <EnglishText>Ras</EnglishText>
+      <JapaneseText>レイシス・フォーマルハウト</JapaneseText>
+      <EnglishText>Rassius Luine</EnglishText>
       <Notes>Reference only</Notes>
       <Id>500</Id>
       <Status>Done</Status>

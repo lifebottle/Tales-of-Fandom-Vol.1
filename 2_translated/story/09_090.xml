@@ -1,10 +1,9 @@
 <SceneText>
-  <FriendlyName>09_090</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Meredy</JapaneseText>
+      <JapaneseText>メルディ</JapaneseText>
       <EnglishText>Meredy</EnglishText>
       <Notes>Reference only</Notes>
       <Id>400</Id>
@@ -12,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Keele Zeibel</JapaneseText>
+      <JapaneseText>キール・ツァイベル</JapaneseText>
       <EnglishText>Keele Zeibel</EnglishText>
       <Notes>Reference only</Notes>
       <Id>300</Id>
@@ -20,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Farah Oersted</JapaneseText>
+      <JapaneseText>ファラ・エルステッド</JapaneseText>
       <EnglishText>Farah Oersted</EnglishText>
       <Notes>Reference only</Notes>
       <Id>200</Id>
@@ -28,7 +27,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Reid Hershel</JapaneseText>
+      <JapaneseText>リッド・ハーシェル</JapaneseText>
       <EnglishText>Reid Hershel</EnglishText>
       <Notes>Reference only</Notes>
       <Id>100</Id>

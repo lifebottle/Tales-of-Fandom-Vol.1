@@ -1,19 +1,18 @@
 <SceneText>
-  <FriendlyName>03_853</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Cinq Lissajous</JapaneseText>
-      <EnglishText>Cinq Lissajous</EnglishText>
+      <JapaneseText>サンク・リザジュー</JapaneseText>
+      <EnglishText>Zank Lissajous</EnglishText>
       <Notes>Reference only</Notes>
       <Id>1700</Id>
       <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Mildred O'Day</JapaneseText>
-      <EnglishText>Mildred O'Day</EnglishText>
+      <JapaneseText>キーファ・パッカード</JapaneseText>
+      <EnglishText>Kiefer Packard</EnglishText>
       <Notes>Reference only</Notes>
       <Id>2100</Id>
       <Status>Done</Status>

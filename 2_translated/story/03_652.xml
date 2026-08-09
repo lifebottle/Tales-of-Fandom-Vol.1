@@ -1,10 +1,9 @@
 <SceneText>
-  <FriendlyName>03_652</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>William Warbeck</JapaneseText>
+      <JapaneseText>ウィリアム・ウォーベック</JapaneseText>
       <EnglishText>William Warbeck</EnglishText>
       <Notes>Reference only</Notes>
       <Id>1200</Id>
@@ -12,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Primula Rosso</JapaneseText>
+      <JapaneseText>プリムラ・ロッソ</JapaneseText>
       <EnglishText>Primula Rosso</EnglishText>
       <Notes>Reference only</Notes>
       <Id>1100</Id>

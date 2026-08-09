@@ -1,10 +1,9 @@
 <SceneText>
-  <FriendlyName>03_840</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Primula Rosso</JapaneseText>
+      <JapaneseText>プリムラ・ロッソ</JapaneseText>
       <EnglishText>Primula Rosso</EnglishText>
       <Notes>Reference only</Notes>
       <Id>1100</Id>
@@ -12,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Janko Ribera</JapaneseText>
+      <JapaneseText>ジャッコ・リベラ</JapaneseText>
       <EnglishText>Janko Ribera</EnglishText>
       <Notes>Reference only</Notes>
       <Id>1800</Id>
@@ -20,8 +19,8 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Mildred O'Day</JapaneseText>
-      <EnglishText>Mildred O'Day</EnglishText>
+      <JapaneseText>キーファ・パッカード</JapaneseText>
+      <EnglishText>Kiefer Packard</EnglishText>
       <Notes>Reference only</Notes>
       <Id>2100</Id>
       <Status>Done</Status>

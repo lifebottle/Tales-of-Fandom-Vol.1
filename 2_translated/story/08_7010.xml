@@ -1,10 +1,9 @@
 <SceneText>
-  <FriendlyName>08_7010</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Claus F. Lester</JapaneseText>
+      <JapaneseText>クラース・Ｆ・レスター</JapaneseText>
       <EnglishText>Claus F. Lester</EnglishText>
       <Notes>Reference only</Notes>
       <Id>3500</Id>
@@ -12,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Mint Adenade</JapaneseText>
+      <JapaneseText>ミント・アドネード</JapaneseText>
       <EnglishText>Mint Adenade</EnglishText>
       <Notes>Reference only</Notes>
       <Id>3300</Id>

@@ -1,10 +1,9 @@
 <SceneText>
-  <FriendlyName>06_2010</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Chat</JapaneseText>
+      <JapaneseText>チャット</JapaneseText>
       <EnglishText>Chat</EnglishText>
       <Notes>Reference only</Notes>
       <Id>600</Id>

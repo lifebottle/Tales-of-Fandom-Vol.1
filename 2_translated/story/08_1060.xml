@@ -1,10 +1,9 @@
 <SceneText>
-  <FriendlyName>08_1060</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Mint Adenade</JapaneseText>
+      <JapaneseText>ミント・アドネード</JapaneseText>
       <EnglishText>Mint Adenade</EnglishText>
       <Notes>Reference only</Notes>
       <Id>3300</Id>
@@ -12,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Chester Burklight</JapaneseText>
+      <JapaneseText>チェスター・バークライト</JapaneseText>
       <EnglishText>Chester Burklight</EnglishText>
       <Notes>Reference only</Notes>
       <Id>3600</Id>
@@ -20,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Suzu Fujibayashi</JapaneseText>
+      <JapaneseText>藤林 すず</JapaneseText>
       <EnglishText>Suzu Fujibayashi</EnglishText>
       <Notes>Reference only</Notes>
       <Id>4100</Id>

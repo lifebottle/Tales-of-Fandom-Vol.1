@@ -1,18 +1,17 @@
 <SceneText>
-  <FriendlyName>06_4040</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Male 5</JapaneseText>
-      <EnglishText>Male 5</EnglishText>
+      <JapaneseText>ビストロジャンバール司会者</JapaneseText>
+      <EnglishText>Bistro Chambard presenter</EnglishText>
       <Notes>Reference only</Notes>
       <Id>6500</Id>
       <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Philia Felice</JapaneseText>
+      <JapaneseText>フィリア・フィリス</JapaneseText>
       <EnglishText>Philia Felice</EnglishText>
       <Notes>Reference only</Notes>
       <Id>2500</Id>
@@ -20,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Chelsea Torn</JapaneseText>
+      <JapaneseText>チェルシー・トーン</JapaneseText>
       <EnglishText>Chelsea Torn</EnglishText>
       <Notes>Reference only</Notes>
       <Id>2700</Id>
@@ -28,7 +27,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Farah Oersted</JapaneseText>
+      <JapaneseText>ファラ・エルステッド</JapaneseText>
       <EnglishText>Farah Oersted</EnglishText>
       <Notes>Reference only</Notes>
       <Id>200</Id>

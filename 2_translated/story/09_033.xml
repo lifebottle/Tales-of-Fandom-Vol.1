@@ -1,10 +1,9 @@
 <SceneText>
-  <FriendlyName>09_033</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Efreet</JapaneseText>
+      <JapaneseText>イフリート</JapaneseText>
       <EnglishText>Efreet</EnglishText>
       <Notes>Reference only</Notes>
       <Id>5100</Id>
@@ -12,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Celsius</JapaneseText>
+      <JapaneseText>セルシウス</JapaneseText>
       <EnglishText>Celsius</EnglishText>
       <Notes>Reference only</Notes>
       <Id>5300</Id>

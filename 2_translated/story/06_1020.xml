@@ -1,10 +1,9 @@
 <SceneText>
-  <FriendlyName>06_1020</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Max</JapaneseText>
+      <JapaneseText>フォッグ</JapaneseText>
       <EnglishText>Max</EnglishText>
       <Notes>Reference only</Notes>
       <Id>700</Id>
@@ -12,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Claus F. Lester</JapaneseText>
+      <JapaneseText>クラース・Ｆ・レスター</JapaneseText>
       <EnglishText>Claus F. Lester</EnglishText>
       <Notes>Reference only</Notes>
       <Id>3500</Id>
@@ -20,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Farah Oersted</JapaneseText>
+      <JapaneseText>ファラ・エルステッド</JapaneseText>
       <EnglishText>Farah Oersted</EnglishText>
       <Notes>Reference only</Notes>
       <Id>200</Id>
@@ -28,7 +27,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Philia Felice</JapaneseText>
+      <JapaneseText>フィリア・フィリス</JapaneseText>
       <EnglishText>Philia Felice</EnglishText>
       <Notes>Reference only</Notes>
       <Id>2500</Id>

@@ -1,10 +1,9 @@
 <SceneText>
-  <FriendlyName>05_9010</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Stahn Aileron</JapaneseText>
+      <JapaneseText>スタン・エルロン</JapaneseText>
       <EnglishText>Stahn Aileron</EnglishText>
       <Notes>Reference only</Notes>
       <Id>2200</Id>
@@ -12,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Cless Albane</JapaneseText>
+      <JapaneseText>クレス・アルベイン</JapaneseText>
       <EnglishText>Cless Albane</EnglishText>
       <Notes>Reference only</Notes>
       <Id>3200</Id>
@@ -20,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Reid Hershel</JapaneseText>
+      <JapaneseText>リッド・ハーシェル</JapaneseText>
       <EnglishText>Reid Hershel</EnglishText>
       <Notes>Reference only</Notes>
       <Id>100</Id>

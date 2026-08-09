@@ -1,10 +1,9 @@
 <SceneText>
-  <FriendlyName>08_1020</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Milard Rune</JapaneseText>
+      <JapaneseText>ミラルド・ルーン</JapaneseText>
       <EnglishText>Milard Rune</EnglishText>
       <Notes>Reference only</Notes>
       <Id>4200</Id>
@@ -12,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Mint Adenade</JapaneseText>
+      <JapaneseText>ミント・アドネード</JapaneseText>
       <EnglishText>Mint Adenade</EnglishText>
       <Notes>Reference only</Notes>
       <Id>3300</Id>

@@ -1,10 +1,9 @@
 <SceneText>
-  <FriendlyName>05_6010</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Keele Zeibel</JapaneseText>
+      <JapaneseText>キール・ツァイベル</JapaneseText>
       <EnglishText>Keele Zeibel</EnglishText>
       <Notes>Reference only</Notes>
       <Id>300</Id>
@@ -12,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Claus F. Lester</JapaneseText>
+      <JapaneseText>クラース・Ｆ・レスター</JapaneseText>
       <EnglishText>Claus F. Lester</EnglishText>
       <Notes>Reference only</Notes>
       <Id>3500</Id>
@@ -20,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Chester Burklight</JapaneseText>
+      <JapaneseText>チェスター・バークライト</JapaneseText>
       <EnglishText>Chester Burklight</EnglishText>
       <Notes>Reference only</Notes>
       <Id>3600</Id>
@@ -28,7 +27,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Leon Magnus</JapaneseText>
+      <JapaneseText>リオン・マグナス</JapaneseText>
       <EnglishText>Leon Magnus</EnglishText>
       <Notes>Reference only</Notes>
       <Id>2400</Id>

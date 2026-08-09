@@ -1,5 +1,4 @@
 <SceneText>
-  <FriendlyName>02_010</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
@@ -12,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Swordian Dymlos</JapaneseText>
+      <JapaneseText>ソーディアン ディムロス</JapaneseText>
       <EnglishText>Swordian Dymlos</EnglishText>
       <Notes>Reference only</Notes>
       <Id>2900</Id>

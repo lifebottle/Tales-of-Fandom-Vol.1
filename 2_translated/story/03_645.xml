@@ -1,10 +1,9 @@
 <SceneText>
-  <FriendlyName>03_645</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Roen Lamoa</JapaneseText>
+      <JapaneseText>ロエン・ラーモア</JapaneseText>
       <EnglishText>Roen Lamoa</EnglishText>
       <Notes>Reference only</Notes>
       <Id>1500</Id>

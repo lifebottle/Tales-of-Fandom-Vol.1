@@ -1,10 +1,9 @@
 <SceneText>
-  <FriendlyName>06_3050</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Arche Klein</JapaneseText>
+      <JapaneseText>アーチェ・クライン</JapaneseText>
       <EnglishText>Arche Klein</EnglishText>
       <Notes>Reference only</Notes>
       <Id>3400</Id>
@@ -12,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Max</JapaneseText>
+      <JapaneseText>フォッグ</JapaneseText>
       <EnglishText>Max</EnglishText>
       <Notes>Reference only</Notes>
       <Id>700</Id>
@@ -20,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Suzu Fujibayashi</JapaneseText>
+      <JapaneseText>藤林 すず</JapaneseText>
       <EnglishText>Suzu Fujibayashi</EnglishText>
       <Notes>Reference only</Notes>
       <Id>4100</Id>

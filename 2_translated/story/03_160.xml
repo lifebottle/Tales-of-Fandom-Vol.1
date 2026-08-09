@@ -1,10 +1,9 @@
 <SceneText>
-  <FriendlyName>03_160</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>William Warbeck</JapaneseText>
+      <JapaneseText>ウィリアム・ウォーベック</JapaneseText>
       <EnglishText>William Warbeck</EnglishText>
       <Notes>Reference only</Notes>
       <Id>1200</Id>

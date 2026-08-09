@@ -1,10 +1,9 @@
 <SceneText>
-  <FriendlyName>04_4010</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Rutee Katrea</JapaneseText>
+      <JapaneseText>ルーティ・カトレット</JapaneseText>
       <EnglishText>Rutee Katrea</EnglishText>
       <Notes>Reference only</Notes>
       <Id>2300</Id>
@@ -12,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Philia Felice</JapaneseText>
+      <JapaneseText>フィリア・フィリス</JapaneseText>
       <EnglishText>Philia Felice</EnglishText>
       <Notes>Reference only</Notes>
       <Id>2500</Id>
@@ -20,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Leon Magnus</JapaneseText>
+      <JapaneseText>リオン・マグナス</JapaneseText>
       <EnglishText>Leon Magnus</EnglishText>
       <Notes>Reference only</Notes>
       <Id>2400</Id>

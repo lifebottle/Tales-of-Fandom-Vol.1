@@ -1,11 +1,10 @@
 <SceneText>
-  <FriendlyName>03_850</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Mildred O'Day</JapaneseText>
-      <EnglishText>Mildred O'Day</EnglishText>
+      <JapaneseText>キーファ・パッカード</JapaneseText>
+      <EnglishText>Kiefer Packard</EnglishText>
       <Notes>Reference only</Notes>
       <Id>2100</Id>
       <Status>Done</Status>

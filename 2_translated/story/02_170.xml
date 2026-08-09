@@ -1,10 +1,9 @@
 <SceneText>
-  <FriendlyName>02_170</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Cless Albane</JapaneseText>
+      <JapaneseText>クレス・アルベイン</JapaneseText>
       <EnglishText>Cless Albane</EnglishText>
       <Notes>Reference only</Notes>
       <Id>3200</Id>
@@ -12,15 +11,15 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Arena Monster</JapaneseText>
-      <EnglishText>Arena Monster</EnglishText>
+      <JapaneseText>ドラ ゴン</JapaneseText>
+      <EnglishText>Dragon</EnglishText>
       <Notes>Reference only</Notes>
       <Id>5400</Id>
       <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Lilith Aileron</JapaneseText>
+      <JapaneseText>リリス・エルロン</JapaneseText>
       <EnglishText>Lilith Aileron</EnglishText>
       <Notes>Reference only</Notes>
       <Id>2600</Id>
@@ -28,7 +27,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Swordian Dymlos (Broken)</JapaneseText>
+      <JapaneseText>ソーディアン ディムロス（破損）</JapaneseText>
       <EnglishText>Swordian Dymlos (Broken)</EnglishText>
       <Notes>Reference only</Notes>
       <Id>3000</Id>

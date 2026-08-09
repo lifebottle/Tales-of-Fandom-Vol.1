@@ -1,18 +1,17 @@
 <SceneText>
-  <FriendlyName>01_090</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Pink Haried girl</JapaneseText>
-      <EnglishText>Pink Haried girl</EnglishText>
+      <JapaneseText>Pink Haired girl</JapaneseText>
+      <EnglishText>Pink Haired girl</EnglishText>
       <Notes>Reference only</Notes>
       <Id>6200</Id>
       <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Ami Burklight (Young-er)</JapaneseText>
+      <JapaneseText>アミィ・バークライト（幼少）</JapaneseText>
       <EnglishText>Ami Burklight (Young-er)</EnglishText>
       <Notes>Reference only</Notes>
       <Id>3800</Id>

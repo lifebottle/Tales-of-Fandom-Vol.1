@@ -1,10 +1,9 @@
 <SceneText>
-  <FriendlyName>08_2060</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Marian Fustel</JapaneseText>
+      <JapaneseText>マリアン・フュステル</JapaneseText>
       <EnglishText>Marian Fustel</EnglishText>
       <Notes>Reference only</Notes>
       <Id>2800</Id>
@@ -12,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Rutee Katrea</JapaneseText>
+      <JapaneseText>ルーティ・カトレット</JapaneseText>
       <EnglishText>Rutee Katrea</EnglishText>
       <Notes>Reference only</Notes>
       <Id>2300</Id>

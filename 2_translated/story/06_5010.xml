@@ -1,10 +1,9 @@
 <SceneText>
-  <FriendlyName>06_5010</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Reid Hershel</JapaneseText>
+      <JapaneseText>リッド・ハーシェル</JapaneseText>
       <EnglishText>Reid Hershel</EnglishText>
       <Notes>Reference only</Notes>
       <Id>100</Id>
@@ -12,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Chat</JapaneseText>
+      <JapaneseText>チャット</JapaneseText>
       <EnglishText>Chat</EnglishText>
       <Notes>Reference only</Notes>
       <Id>600</Id>
@@ -20,15 +19,15 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Ras</JapaneseText>
-      <EnglishText>Ras</EnglishText>
+      <JapaneseText>レイシス・フォーマルハウト</JapaneseText>
+      <EnglishText>Rassius Luine</EnglishText>
       <Notes>Reference only</Notes>
       <Id>500</Id>
       <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Rutee Katrea</JapaneseText>
+      <JapaneseText>ルーティ・カトレット</JapaneseText>
       <EnglishText>Rutee Katrea</EnglishText>
       <Notes>Reference only</Notes>
       <Id>2300</Id>
@@ -44,7 +43,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Arche Klein</JapaneseText>
+      <JapaneseText>アーチェ・クライン</JapaneseText>
       <EnglishText>Arche Klein</EnglishText>
       <Notes>Reference only</Notes>
       <Id>3400</Id>
@@ -52,7 +51,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Max</JapaneseText>
+      <JapaneseText>フォッグ</JapaneseText>
       <EnglishText>Max</EnglishText>
       <Notes>Reference only</Notes>
       <Id>700</Id>
@@ -60,7 +59,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Meredy</JapaneseText>
+      <JapaneseText>メルディ</JapaneseText>
       <EnglishText>Meredy</EnglishText>
       <Notes>Reference only</Notes>
       <Id>400</Id>
@@ -68,7 +67,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Philia Felice</JapaneseText>
+      <JapaneseText>フィリア・フィリス</JapaneseText>
       <EnglishText>Philia Felice</EnglishText>
       <Notes>Reference only</Notes>
       <Id>2500</Id>

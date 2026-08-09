@@ -1,10 +1,9 @@
 <SceneText>
-  <FriendlyName>08_7040</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Claus F. Lester</JapaneseText>
+      <JapaneseText>クラース・Ｆ・レスター</JapaneseText>
       <EnglishText>Claus F. Lester</EnglishText>
       <Notes>Reference only</Notes>
       <Id>3500</Id>
@@ -12,8 +11,8 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Arena Monster</JapaneseText>
-      <EnglishText>Arena Monster</EnglishText>
+      <JapaneseText>ドラ ゴン</JapaneseText>
+      <EnglishText>Dragon</EnglishText>
       <Notes>Reference only</Notes>
       <Id>5400</Id>
       <Status>Done</Status>

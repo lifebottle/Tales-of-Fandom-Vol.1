@@ -1,10 +1,9 @@
 <SceneText>
-  <FriendlyName>01_190</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Ami Burklight (Young-er)</JapaneseText>
+      <JapaneseText>アミィ・バークライト（幼少）</JapaneseText>
       <EnglishText>Ami Burklight (Young-er)</EnglishText>
       <Notes>Reference only</Notes>
       <Id>3800</Id>

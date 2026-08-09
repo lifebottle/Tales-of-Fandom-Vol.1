@@ -1,10 +1,9 @@
 <SceneText>
-  <FriendlyName>02_110</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Lilith Aileron</JapaneseText>
+      <JapaneseText>リリス・エルロン</JapaneseText>
       <EnglishText>Lilith Aileron</EnglishText>
       <Notes>Reference only</Notes>
       <Id>2600</Id>
@@ -12,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Swordian Dymlos (Broken)</JapaneseText>
+      <JapaneseText>ソーディアン ディムロス（破損）</JapaneseText>
       <EnglishText>Swordian Dymlos (Broken)</EnglishText>
       <Notes>Reference only</Notes>
       <Id>3000</Id>
@@ -20,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Farah Oersted</JapaneseText>
+      <JapaneseText>ファラ・エルステッド</JapaneseText>
       <EnglishText>Farah Oersted</EnglishText>
       <Notes>Reference only</Notes>
       <Id>200</Id>
@@ -28,7 +27,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Celsius</JapaneseText>
+      <JapaneseText>セルシウス</JapaneseText>
       <EnglishText>Celsius</EnglishText>
       <Notes>Reference only</Notes>
       <Id>5300</Id>
@@ -36,7 +35,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Reid Hershel</JapaneseText>
+      <JapaneseText>リッド・ハーシェル</JapaneseText>
       <EnglishText>Reid Hershel</EnglishText>
       <Notes>Reference only</Notes>
       <Id>100</Id>

@@ -1,10 +1,9 @@
 <SceneText>
-  <FriendlyName>02_190</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Swordian Dymlos</JapaneseText>
+      <JapaneseText>ソーディアン ディムロス</JapaneseText>
       <EnglishText>Swordian Dymlos</EnglishText>
       <Notes>Reference only</Notes>
       <Id>2900</Id>
@@ -12,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Lilith Aileron</JapaneseText>
+      <JapaneseText>リリス・エルロン</JapaneseText>
       <EnglishText>Lilith Aileron</EnglishText>
       <Notes>Reference only</Notes>
       <Id>2600</Id>
@@ -20,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Claus F. Lester</JapaneseText>
+      <JapaneseText>クラース・Ｆ・レスター</JapaneseText>
       <EnglishText>Claus F. Lester</EnglishText>
       <Notes>Reference only</Notes>
       <Id>3500</Id>
@@ -28,7 +27,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Cless Albane</JapaneseText>
+      <JapaneseText>クレス・アルベイン</JapaneseText>
       <EnglishText>Cless Albane</EnglishText>
       <Notes>Reference only</Notes>
       <Id>3200</Id>

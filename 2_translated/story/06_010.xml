@@ -1,10 +1,9 @@
 <SceneText>
-  <FriendlyName>06_010</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Farah Oersted</JapaneseText>
+      <JapaneseText>ファラ・エルステッド</JapaneseText>
       <EnglishText>Farah Oersted</EnglishText>
       <Notes>Reference only</Notes>
       <Id>200</Id>
@@ -12,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Rutee Katrea</JapaneseText>
+      <JapaneseText>ルーティ・カトレット</JapaneseText>
       <EnglishText>Rutee Katrea</EnglishText>
       <Notes>Reference only</Notes>
       <Id>2300</Id>
@@ -20,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Mint Adenade</JapaneseText>
+      <JapaneseText>ミント・アドネード</JapaneseText>
       <EnglishText>Mint Adenade</EnglishText>
       <Notes>Reference only</Notes>
       <Id>3300</Id>

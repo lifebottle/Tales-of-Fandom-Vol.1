@@ -1,18 +1,17 @@
 <SceneText>
-  <FriendlyName>02_080</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Maid?</JapaneseText>
-      <EnglishText>Maid?</EnglishText>
+      <JapaneseText>味 マ スタ ー1号</JapaneseText>
+      <EnglishText>Taste Master No. 1</EnglishText>
       <Notes>Reference only</Notes>
       <Id>3100</Id>
       <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Lilith Aileron</JapaneseText>
+      <JapaneseText>リリス・エルロン</JapaneseText>
       <EnglishText>Lilith Aileron</EnglishText>
       <Notes>Reference only</Notes>
       <Id>2600</Id>
@@ -20,15 +19,15 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Wonder Chef?</JapaneseText>
-      <EnglishText>Wonder Chef?</EnglishText>
+      <JapaneseText>ワンダーシェフ</JapaneseText>
+      <EnglishText>Wonder Chef</EnglishText>
       <Notes>Reference only</Notes>
       <Id>1000</Id>
       <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Swordian Dymlos (Broken)</JapaneseText>
+      <JapaneseText>ソーディアン ディムロス（破損）</JapaneseText>
       <EnglishText>Swordian Dymlos (Broken)</EnglishText>
       <Notes>Reference only</Notes>
       <Id>3000</Id>

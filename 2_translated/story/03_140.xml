@@ -1,10 +1,9 @@
 <SceneText>
-  <FriendlyName>03_140</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Hyura Vermillion</JapaneseText>
+      <JapaneseText>ヒューラ・ヴェルミリオン</JapaneseText>
       <EnglishText>Hyura Vermillion</EnglishText>
       <Notes>Reference only</Notes>
       <Id>1600</Id>
@@ -12,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Primula Rosso</JapaneseText>
+      <JapaneseText>プリムラ・ロッソ</JapaneseText>
       <EnglishText>Primula Rosso</EnglishText>
       <Notes>Reference only</Notes>
       <Id>1100</Id>

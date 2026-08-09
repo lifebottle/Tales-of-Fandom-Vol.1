@@ -1,10 +1,9 @@
 <SceneText>
-  <FriendlyName>03_830</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Keele Zeibel</JapaneseText>
+      <JapaneseText>キール・ツァイベル</JapaneseText>
       <EnglishText>Keele Zeibel</EnglishText>
       <Notes>Reference only</Notes>
       <Id>300</Id>
@@ -12,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Argento</JapaneseText>
+      <JapaneseText>アルジェント</JapaneseText>
       <EnglishText>Argento</EnglishText>
       <Notes>Reference only</Notes>
       <Id>1400</Id>

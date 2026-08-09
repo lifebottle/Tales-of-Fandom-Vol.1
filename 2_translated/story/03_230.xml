@@ -1,18 +1,17 @@
 <SceneText>
-  <FriendlyName>03_230</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Cinq Lissajous</JapaneseText>
-      <EnglishText>Cinq Lissajous</EnglishText>
+      <JapaneseText>サンク・リザジュー</JapaneseText>
+      <EnglishText>Zank Lissajous</EnglishText>
       <Notes>Reference only</Notes>
       <Id>1700</Id>
       <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Primula Rosso</JapaneseText>
+      <JapaneseText>プリムラ・ロッソ</JapaneseText>
       <EnglishText>Primula Rosso</EnglishText>
       <Notes>Reference only</Notes>
       <Id>1100</Id>
@@ -20,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Keele Zeibel</JapaneseText>
+      <JapaneseText>キール・ツァイベル</JapaneseText>
       <EnglishText>Keele Zeibel</EnglishText>
       <Notes>Reference only</Notes>
       <Id>300</Id>

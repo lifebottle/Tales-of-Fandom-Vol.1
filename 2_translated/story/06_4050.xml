@@ -1,18 +1,17 @@
 <SceneText>
-  <FriendlyName>06_4050</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Male 5</JapaneseText>
-      <EnglishText>Male 5</EnglishText>
+      <JapaneseText>ビストロジャンバール司会者</JapaneseText>
+      <EnglishText>Bistro Chambard presenter</EnglishText>
       <Notes>Reference only</Notes>
       <Id>6500</Id>
       <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Meredy</JapaneseText>
+      <JapaneseText>メルディ</JapaneseText>
       <EnglishText>Meredy</EnglishText>
       <Notes>Reference only</Notes>
       <Id>400</Id>
@@ -20,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Chelsea Torn</JapaneseText>
+      <JapaneseText>チェルシー・トーン</JapaneseText>
       <EnglishText>Chelsea Torn</EnglishText>
       <Notes>Reference only</Notes>
       <Id>2700</Id>
@@ -28,7 +27,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Rutee Katrea</JapaneseText>
+      <JapaneseText>ルーティ・カトレット</JapaneseText>
       <EnglishText>Rutee Katrea</EnglishText>
       <Notes>Reference only</Notes>
       <Id>2300</Id>
@@ -36,7 +35,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Arche Klein</JapaneseText>
+      <JapaneseText>アーチェ・クライン</JapaneseText>
       <EnglishText>Arche Klein</EnglishText>
       <Notes>Reference only</Notes>
       <Id>3400</Id>

@@ -1,10 +1,9 @@
 <SceneText>
-  <FriendlyName>01_640</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Miguel Albane</JapaneseText>
+      <JapaneseText>ミゲール・アルベイン</JapaneseText>
       <EnglishText>Miguel Albane</EnglishText>
       <Notes>Reference only</Notes>
       <Id>4300</Id>
@@ -28,7 +27,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Cless Albane (Young)</JapaneseText>
+      <JapaneseText>クレス・アルベイン（幼少）</JapaneseText>
       <EnglishText>Cless Albane (Young)</EnglishText>
       <Notes>Reference only</Notes>
       <Id>3900</Id>

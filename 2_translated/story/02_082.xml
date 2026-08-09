@@ -1,19 +1,18 @@
 <SceneText>
-  <FriendlyName>02_082</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Gori Stein</JapaneseText>
-      <EnglishText>Gori Stein</EnglishText>
+      <JapaneseText>ゴーリ・シュタイン</JapaneseText>
+      <EnglishText>Goalie Stein</EnglishText>
       <Notes>Reference only</Notes>
       <Id>4400</Id>
       <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Maid?</JapaneseText>
-      <EnglishText>Maid?</EnglishText>
+      <JapaneseText>味 マ スタ ー1号</JapaneseText>
+      <EnglishText>Taste Master No. 1</EnglishText>
       <Notes>Reference only</Notes>
       <Id>3100</Id>
       <Status>Done</Status>

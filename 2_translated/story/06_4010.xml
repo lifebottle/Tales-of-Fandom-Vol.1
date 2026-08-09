@@ -1,18 +1,17 @@
 <SceneText>
-  <FriendlyName>06_4010</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Male 5</JapaneseText>
-      <EnglishText>Male 5</EnglishText>
+      <JapaneseText>ビストロジャンバール司会者</JapaneseText>
+      <EnglishText>Bistro Chambard presenter</EnglishText>
       <Notes>Reference only</Notes>
       <Id>6500</Id>
       <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Stahn Aileron</JapaneseText>
+      <JapaneseText>スタン・エルロン</JapaneseText>
       <EnglishText>Stahn Aileron</EnglishText>
       <Notes>Reference only</Notes>
       <Id>2200</Id>
@@ -20,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Reid Hershel</JapaneseText>
+      <JapaneseText>リッド・ハーシェル</JapaneseText>
       <EnglishText>Reid Hershel</EnglishText>
       <Notes>Reference only</Notes>
       <Id>100</Id>
@@ -28,7 +27,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Cless Albane</JapaneseText>
+      <JapaneseText>クレス・アルベイン</JapaneseText>
       <EnglishText>Cless Albane</EnglishText>
       <Notes>Reference only</Notes>
       <Id>3200</Id>

@@ -1,10 +1,9 @@
 <SceneText>
-  <FriendlyName>06_2040</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Rutee Katrea</JapaneseText>
+      <JapaneseText>ルーティ・カトレット</JapaneseText>
       <EnglishText>Rutee Katrea</EnglishText>
       <Notes>Reference only</Notes>
       <Id>2300</Id>
@@ -12,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Chat</JapaneseText>
+      <JapaneseText>チャット</JapaneseText>
       <EnglishText>Chat</EnglishText>
       <Notes>Reference only</Notes>
       <Id>600</Id>

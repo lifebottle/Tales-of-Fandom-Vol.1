@@ -1,10 +1,9 @@
 <SceneText>
-  <FriendlyName>01_690</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Cless Albane (Young)</JapaneseText>
+      <JapaneseText>クレス・アルベイン（幼少）</JapaneseText>
       <EnglishText>Cless Albane (Young)</EnglishText>
       <Notes>Reference only</Notes>
       <Id>3900</Id>
@@ -12,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Clayton</JapaneseText>
+      <JapaneseText>クレイトン</JapaneseText>
       <EnglishText>Clayton</EnglishText>
       <Notes>Reference only</Notes>
       <Id>4600</Id>
@@ -28,7 +27,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Chester Burklight (Young)</JapaneseText>
+      <JapaneseText>チェスター・バークライト（幼少）</JapaneseText>
       <EnglishText>Chester Burklight (Young)</EnglishText>
       <Notes>Reference only</Notes>
       <Id>4000</Id>

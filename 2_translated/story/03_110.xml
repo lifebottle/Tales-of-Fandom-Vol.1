@@ -1,10 +1,9 @@
 <SceneText>
-  <FriendlyName>03_110</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Keele Zeibel</JapaneseText>
+      <JapaneseText>キール・ツァイベル</JapaneseText>
       <EnglishText>Keele Zeibel</EnglishText>
       <Notes>Reference only</Notes>
       <Id>300</Id>
@@ -12,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Primula Rosso</JapaneseText>
+      <JapaneseText>プリムラ・ロッソ</JapaneseText>
       <EnglishText>Primula Rosso</EnglishText>
       <Notes>Reference only</Notes>
       <Id>1100</Id>
@@ -20,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Chelsea Torn</JapaneseText>
+      <JapaneseText>チェルシー・トーン</JapaneseText>
       <EnglishText>Chelsea Torn</EnglishText>
       <Notes>Reference only</Notes>
       <Id>2700</Id>
@@ -28,7 +27,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Meredy</JapaneseText>
+      <JapaneseText>メルディ</JapaneseText>
       <EnglishText>Meredy</EnglishText>
       <Notes>Reference only</Notes>
       <Id>400</Id>

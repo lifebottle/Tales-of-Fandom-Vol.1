@@ -1,10 +1,9 @@
 <SceneText>
-  <FriendlyName>02_120</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Lilith Aileron</JapaneseText>
+      <JapaneseText>リリス・エルロン</JapaneseText>
       <EnglishText>Lilith Aileron</EnglishText>
       <Notes>Reference only</Notes>
       <Id>2600</Id>
@@ -20,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Swordian Dymlos (Broken)</JapaneseText>
+      <JapaneseText>ソーディアン ディムロス（破損）</JapaneseText>
       <EnglishText>Swordian Dymlos (Broken)</EnglishText>
       <Notes>Reference only</Notes>
       <Id>3000</Id>

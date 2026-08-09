@@ -1,10 +1,9 @@
 <SceneText>
-  <FriendlyName>02_040</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Stahn Aileron</JapaneseText>
+      <JapaneseText>スタン・エルロン</JapaneseText>
       <EnglishText>Stahn Aileron</EnglishText>
       <Notes>Reference only</Notes>
       <Id>2200</Id>
@@ -12,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Thomas Aileron</JapaneseText>
+      <JapaneseText>トーマス・エルロン</JapaneseText>
       <EnglishText>Thomas Aileron</EnglishText>
       <Notes>Reference only</Notes>
       <Id>5500</Id>
@@ -20,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>Lilith Aileron</JapaneseText>
+      <JapaneseText>リリス・エルロン</JapaneseText>
       <EnglishText>Lilith Aileron</EnglishText>
       <Notes>Reference only</Notes>
       <Id>2600</Id>

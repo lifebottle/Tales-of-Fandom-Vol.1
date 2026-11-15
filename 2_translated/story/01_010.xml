@@ -32,37 +32,37 @@
       <PointerOffset>660</PointerOffset>
       <JapaneseText>バークライト家
 現在</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Burklight Household (Present Time)</EnglishText>
       <Notes>System Message</Notes>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1668</PointerOffset>
       <JapaneseText>……アミィ、起きてたのか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You're still awake, Ami?</EnglishText>
       <Notes/>
       <SpeakerId>3600</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1996</PointerOffset>
       <JapaneseText>あ、お兄ちゃん。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ah, big brother.</EnglishText>
       <Notes/>
       <SpeakerId>3700</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2292</PointerOffset>
       <JapaneseText>うん……もう寝るよ。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah... I was about to go to bed.</EnglishText>
       <Notes/>
       <SpeakerId>3700</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2764</PointerOffset>

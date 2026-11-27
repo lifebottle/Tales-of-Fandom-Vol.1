@@ -69,11 +69,11 @@
       <JapaneseText>まだ作ってたのか？</JapaneseText>
       <EnglishText>Were you still in the middle of prepping?
 
-Note: bit iffy on this one</EnglishText>
-      <Notes/>
+</EnglishText>
+      <Notes>bit iffy on this one</Notes>
       <SpeakerId>3600</SpeakerId>
       <Id>5</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>3124</PointerOffset>
